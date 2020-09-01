@@ -8402,7 +8402,7 @@
         <string>/Quest/Back_To_Herelsor/Impetus_Dial1/46e86f08-c5e8-4321-94ea-abce754f8e58</string>
       </key>
       <value>
-        <string>Я не могу этого сделать, джентельмен, они мне нужны для ходьбы! А еще для...</string>
+        <string>Я не могу этого сделать, джентльмен, они мне нужны для ходьбы! А еще для...</string>
       </value>
     </item>
     <item>
@@ -9386,7 +9386,7 @@
         <string>/Quest/Back_To_Herelsor/Impetus_Dial13/52d6b1d7-7528-4515-80e2-2c9dcc9eb4b3</string>
       </key>
       <value>
-        <string>Джентельмен, я не согласен.</string>
+        <string>Джентльмен, я не согласен.</string>
       </value>
     </item>
     <item>
@@ -34762,7 +34762,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_NekarooSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/msg</string>
       </key>
       <value>
-        <string>Do you want to buy Were-Nekaroo skin for 150 Magic Pumpkins ?</string>
+        <string>Хотите купить скин на Нэкаро за 150 магических тыкв?</string>
       </value>
     </item>
     <item>
@@ -34770,7 +34770,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_NekarooSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -34778,7 +34778,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_NekarooSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -34786,7 +34786,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_DaryonSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/msg</string>
       </key>
       <value>
-        <string>Do you want to buy Halloween Daryon Spooky Gentleman Skin for 50 Magic Pumpkins ?</string>
+        <string>Хотите купить скин Жуткого Джентльмена для Дариона за 50 магических тыкв?</string>
       </value>
     </item>
     <item>
@@ -34794,7 +34794,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_DaryonSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -34802,7 +34802,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_DaryonSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -34810,7 +34810,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_DaryonBatSword/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/msg</string>
       </key>
       <value>
-        <string>Do you want to buy Daryon Bat Sword Skin for 50 Magic Pumpkins ?</string>
+        <string>Хотите купить меч - летучую мышь для Дариона за 50 магических тыкв?</string>
       </value>
     </item>
     <item>
@@ -34818,7 +34818,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_DaryonBatSword/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -34826,7 +34826,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_DaryonBatSword/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -34834,7 +34834,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_SeleneSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/msg</string>
       </key>
       <value>
-        <string>Do you want to buy Selene Halloween Demonic Priestess Skin for 50 Magic Pumpkins ?</string>
+        <string>Хотите купить скин Демонической Жрицы для Селены за 50 магических тыкв?</string>
       </value>
     </item>
     <item>
@@ -34842,7 +34842,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_SeleneSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -34850,7 +34850,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_SeleneSkin/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -34858,7 +34858,7 @@
         <string>/Seasonal/Halloween/Vendors/HalloweenVendor_SeleneStaff/a3bbeaea-3e54-4fd8-93c3-3e24fa2ac0e4/msg</string>
       </key>
       <value>
-        <string>Do you want to buy Selene Halloween Staff Skin for 50 Magic Pumpkins ?</string>
+        <string>Хотите купить Хэллоуинский Посох для Селены за 50 магических тыкв?</string>
       </value>
     </item>
     <item>
@@ -36183,7 +36183,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/e51b9818-e82e-4d68-948d-bc3de83d7641</string>
       </key>
       <value>
-        <string>Okay, I get it.
+        <string>Хорошо, я поняла.
 </string>
       </value>
     </item>
@@ -36192,7 +36192,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/85f0fcaf-fee1-40e9-bcf5-e5a64623aa05</string>
       </key>
       <value>
-        <string>… while I was running from a ghost…
+        <string>… пока я убегал от призрака…
 </string>
       </value>
     </item>
@@ -36210,7 +36210,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/3befa499-2307-460a-9f41-127f3b647b3a</string>
       </key>
       <value>
-        <string>… by tripping on a pumpkin.
+        <string>… споткнувшись о тыкву.
 </string>
       </value>
     </item>
@@ -36228,7 +36228,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/6f5b7c16-491e-4b43-ad14-1b21d75cb213</string>
       </key>
       <value>
-        <string>Because um… I sprained my ankle…
+        <string>Потому что ... я растянул лодыжку…
 </string>
       </value>
     </item>
@@ -36237,7 +36237,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/d66f43ad-7f3c-4c82-8687-4b508e7087d6</string>
       </key>
       <value>
-        <string>So… at the risk of hearing one of the lousiest excuses ever, tell me why you're not doing it yourself?
+        <string>Итак ... рискуя услышать одно из самых отвратительных оправданий, скажи мне, почему ты не делаешь этого сам?
 </string>
       </value>
     </item>
@@ -36246,7 +36246,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/b9eda0aa-5287-4a67-95ea-e475554e816a</string>
       </key>
       <value>
-        <string>You've got a nice Sanctorium staff there, and - I suppose - the magic powers that go with it?
+        <string>У тебя есть хороший посох Санкториума, и - я полагаю - магические силы, которые к нему прилагаются?
 </string>
       </value>
     </item>
@@ -36255,7 +36255,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/40c50af4-b739-4cff-b488-b7601d9885e0</string>
       </key>
       <value>
-        <string>So, please! Find those lost souls and release them from their torment!
+        <string>Так что, пожалуйста! Найдите эти потерянные души и освободите их от мучений!
 </string>
       </value>
     </item>
@@ -36264,7 +36264,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/e73cfaef-3fe6-4d45-95dd-7dbcfae8e0d9</string>
       </key>
       <value>
-        <string>What I’m trying to say is that the souls of the dead have leaked out of the crystal and are now they're haunting the countryside!
+        <string>Я пытаюсь сказать, что души умерших выскользнули из кристалла и теперь бродят по окрестностям!
 </string>
       </value>
     </item>
@@ -36273,7 +36273,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/e83f4b03-5529-477e-a0df-0b7b0019491b</string>
       </key>
       <value>
-        <string>What’s gotten into them!? Don't they *know* that carving scary faces on pumpkins draws the ire of the Gods!?
+        <string>Что на них нашло!? Разве они не знают, что вырезание страшных лиц на тыквах вызывает гнев богов!?
 </string>
       </value>
     </item>
@@ -36282,7 +36282,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/bde02dcc-204a-4019-a6e0-6a14e073a4e7</string>
       </key>
       <value>
-        <string>...&lt;b&gt;awaken the dead!&lt;/b&gt;
+        <string>...&lt;b&gt;жизнь в мертвых!&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -36291,7 +36291,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/33041785-2bd7-4a14-9a07-ad6ed901513c</string>
       </key>
       <value>
-        <string>&lt;inhales&gt;
+        <string>&lt;вдыхать&gt;
 </string>
       </value>
     </item>
@@ -36300,7 +36300,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/b8677ba4-1f2d-4946-91e0-cd6360bdc7de</string>
       </key>
       <value>
-        <string>But what they didn't know is that by carving those scary faces on pumpkins, they would be accomplishing a centuries-old forbidden ritual which would…
+        <string>Но они не знали, что, вырезая эти страшные лица на тыквах, они совершат многовековой запретный ритуал, который будет…
 </string>
       </value>
     </item>
@@ -36309,7 +36309,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/6cf2c205-5057-4ba8-a7b1-a149fb4b6d6b</string>
       </key>
       <value>
-        <string>Apparently, they read something about it in some kind of a book the local gentry loves and has been passing around.
+        <string>По-видимому, они что-то читали об этом в какой-то книге, которую местные дворяне любят и которая распространена повсюду.
 </string>
       </value>
     </item>
@@ -36318,7 +36318,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/2ca27d68-7029-4316-be34-d2aace71d560</string>
       </key>
       <value>
-        <string>It's… well, those Herelsians. Apparently, their latest fad is to celebrate a weird event called "Halloween."
+        <string>Это... ну, эти Херельсорианцы. По-видимому, их последняя прихоть - праздновать странное событие под названием "Хэллоуин."
 </string>
       </value>
     </item>
@@ -36327,7 +36327,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/5007f80c-a5b0-4c86-82c6-99b9e7d67ab6</string>
       </key>
       <value>
-        <string>I don't understand, brother. Take your time, fill those lungs, exhale, then try again.
+        <string>Я не понимаю. Не торопись, наполни легкие воздухом, выдохни и попробуй снова.
 </string>
       </value>
     </item>
@@ -36336,7 +36336,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/a5e04640-4cb6-4ef9-8e56-20cab348bcea</string>
       </key>
       <value>
-        <string>They're &lt;b&gt;Ghosts!&lt;/b&gt;
+        <string>Это &lt;b&gt;Призраки!&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -36345,7 +36345,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/67e5684c-c039-4b05-b374-e774d894f560</string>
       </key>
       <value>
-        <string>Except they're not skeletons.
+        <string>Только это не скелеты.
 </string>
       </value>
     </item>
@@ -36354,7 +36354,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/110a2481-9cb6-424b-acc0-178d69c25936</string>
       </key>
       <value>
-        <string>&lt;b&gt;Skeletons!&lt;/b&gt;
+        <string>&lt;b&gt;Скелеты!&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -36363,7 +36363,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/7b7c442c-67f3-4e36-bf1d-9fd3823842b7</string>
       </key>
       <value>
-        <string>Brother Augustus, how are you? What is the news?
+        <string>Брат Августус, как ты? Какие новости?
 </string>
       </value>
     </item>
@@ -36372,7 +36372,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/965000a3-bb70-4655-baed-86abe560effb</string>
       </key>
       <value>
-        <string>Sisssssster Selene! I'm so glad you're here!
+        <string>Сессссстра Селена! Я так рад что ты здесь!
 </string>
       </value>
     </item>
@@ -36381,7 +36381,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/47ac1695-b8a9-4a24-a12d-dc0e7293ebd2</string>
       </key>
       <value>
-        <string>Huuuuuuuh.
+        <string>Хааааах.
 </string>
       </value>
     </item>
@@ -36390,7 +36390,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ba5fcca5-8bc7-4430-843d-ae53ea5ca326</string>
       </key>
       <value>
-        <string>Is that a candy cane in your pocket?
+        <string>Это леденец у тебя в кармане?
 </string>
       </value>
     </item>
@@ -36399,7 +36399,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ac7e6e5b-616f-415f-93da-57bab457b356</string>
       </key>
       <value>
-        <string>Well, I checked the Codex and saw no Sacred Law against it.
+        <string>Ну, я проверила кодекс и не нашла никакого Священного Закона против него.
 </string>
       </value>
     </item>
@@ -36408,7 +36408,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/62e425ea-de8d-4e34-a658-87865ba2956c</string>
       </key>
       <value>
-        <string>I thought this was a pagan ceremony we had to prevent from happening…
+        <string>Я думал, что это была языческая церемония, которую мы должны были предотвратить.…
 </string>
       </value>
     </item>
@@ -36417,7 +36417,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/52ba2768-b81d-477e-816b-885bf7b8fa10</string>
       </key>
       <value>
-        <string>"Celebrate Halloween?"
+        <string>"Отпразднуем Хэллоуин?"
 </string>
       </value>
     </item>
@@ -36426,7 +36426,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/878c509f-6186-4f23-9a49-6e7afb5b2408</string>
       </key>
       <value>
-        <string>Let us celebrate Halloween!
+        <string>Давайте отпразднуем Хэллоуин!
 </string>
       </value>
     </item>
@@ -36435,7 +36435,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/c84f55b2-d7bc-4bc9-8576-668671f26101</string>
       </key>
       <value>
-        <string>I know you did it!
+        <string>Я знаю, что это сделал ты!
 </string>
       </value>
     </item>
@@ -36444,7 +36444,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/462e9252-d160-4b90-96b4-924c6a1a343e</string>
       </key>
       <value>
-        <string>You did it!
+        <string>Ты сделал это!
 </string>
       </value>
     </item>
@@ -36453,7 +36453,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/8d6adaf6-9a78-43d1-9817-0cd6028f20aa</string>
       </key>
       <value>
-        <string>I've decided to &lt;b&gt;party&lt;/b&gt;!</string>
+        <string>Я решил &lt;b&gt;повеселиться&lt;/b&gt;!</string>
       </value>
     </item>
     <item>
@@ -36461,7 +36461,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/9773a2d0-145c-4431-bb91-c3a5c55cc32b</string>
       </key>
       <value>
-        <string>Ghosts are roaming the countryside. Some are nice, others mean. All of them are spooky.</string>
+        <string>Призраки бродят по окрестностям. Одни милые, другие злые. Все они жуткие.</string>
       </value>
     </item>
     <item>
@@ -36469,7 +36469,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost1/6be854b0-7ddb-4610-b796-36037307056f</string>
       </key>
       <value>
-        <string>&lt;b&gt;What&lt;/b&gt;!?
+        <string>&lt;b&gt;ЧТО&lt;/b&gt;!?
 </string>
       </value>
     </item>
@@ -36478,7 +36478,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost1/cb93684f-51db-4635-8fa0-853e4ddc50f2</string>
       </key>
       <value>
-        <string>W…
+        <string>Ч…
 </string>
       </value>
     </item>
@@ -36487,7 +36487,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost1/4b87f797-b723-4ac3-8db7-b7a1b6d7a004</string>
       </key>
       <value>
-        <string>That's not a disguise, actually. It's true.
+        <string>На самом деле это не костюм. Ты правда призрак.
 </string>
       </value>
     </item>
@@ -36496,7 +36496,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost1/d41d2b1c-2ce6-4656-96f4-1526d61a395b</string>
       </key>
       <value>
-        <string>Hey guys! Look at my disguise! Can you guess what I am? A ghost!!! I'm a scary, scary ghost! WhoooooooooOOOOOOO.
+        <string>Эй, ребята! Посмотрите на мой костюм! Догадываетесь, кто я? Призрак!!! Я страшный, страшный призрак! Ву-у-у-у-у-у-у-у-у-у-у!
 </string>
       </value>
     </item>
@@ -36523,7 +36523,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/a41bead9-e44e-4c3d-bc35-8096a1d8235d</string>
       </key>
       <value>
-        <string>On the other side?
+        <string>На другой стороне?
 </string>
       </value>
     </item>
@@ -36532,7 +36532,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/e3d7f54f-fb8a-4a32-a4ae-82ae820e5c89</string>
       </key>
       <value>
-        <string>Say, um… What it is like on the…
+        <string>Скажи... каково это на самом деле?…
 </string>
       </value>
     </item>
@@ -36541,7 +36541,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/43135fd2-3a1f-40e7-a44c-f73e25e6f3e1</string>
       </key>
       <value>
-        <string>Had enough time to reflect on the fact my hands were vaporous and shimmering, yes.
+        <string>У меня было достаточно времени, чтобы подумать о том, что мои руки туманные и мерцающие, да.
 </string>
       </value>
     </item>
@@ -36550,7 +36550,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/06073e92-ba8a-47b8-840e-c436fb007e05</string>
       </key>
       <value>
-        <string>You know you're dead?
+        <string>Ты знаешь, что ты мертв?
 </string>
       </value>
     </item>
@@ -36559,7 +36559,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/c42582f6-126a-4707-a63c-30dd5422da3d</string>
       </key>
       <value>
-        <string>Nice of you to pass by, Priestess. I was waiting for someone to put me "back in."
+        <string>Как хорошо, что ты проходила мимо, Жрица. Я ждал, что кто-нибудь вернет меня "обратно."
 </string>
       </value>
     </item>
@@ -36568,7 +36568,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost3/be6592f3-1248-49c4-9a3a-e571b3fe45f2</string>
       </key>
       <value>
-        <string>Life's a drag. Death is where the real fun begins!
+        <string>Жизнь - сплошное бремя. Смерть - вот где начинается настоящее веселье!
 </string>
       </value>
     </item>
@@ -36577,7 +36577,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/2cd7efda-5e3c-41b5-aff9-f2773abddbe1</string>
       </key>
       <value>
-        <string>Thank you. Thank you, Priestess!
+        <string>Спасибо! Спасибо тебе, Жрица!
 </string>
       </value>
     </item>
@@ -36586,7 +36586,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/3a56f022-8a4a-4cc9-bc32-206be3bbb6f5</string>
       </key>
       <value>
-        <string>You will!?
+        <string>Вы это действительно сделаете!?
 </string>
       </value>
     </item>
@@ -36595,7 +36595,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/de0a94b1-1ac1-4ea9-86af-25ea8553817c</string>
       </key>
       <value>
-        <string>We’ll get you home.
+        <string>Мы отвезем тебя домой.
 </string>
       </value>
     </item>
@@ -36604,7 +36604,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/47a876af-da87-4557-a8d8-b5863300afda</string>
       </key>
       <value>
-        <string>It’s okay, sir.
+        <string>Все в порядке, сэр.
 </string>
       </value>
     </item>
@@ -36613,7 +36613,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/8226768e-001a-41a1-9c55-61dd130552c0</string>
       </key>
       <value>
-        <string>I don’t want them to stay out in the cold. I don’t know where I am! Where am I!?
+        <string>Я не хочу, чтобы они оставались на холоде. Я не знаю, где нахожусь! Где я!?
 </string>
       </value>
     </item>
@@ -36622,7 +36622,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/f751f16c-0865-4672-82e4-398a2450970a</string>
       </key>
       <value>
-        <string>Wait for me!
+        <string>Подождите меня!
 </string>
       </value>
     </item>
@@ -36631,7 +36631,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/d770372d-f877-49b3-bacc-d68f3b92322b</string>
       </key>
       <value>
-        <string>I should go back! It doesn’t matter if the house has burned down. I must go back!
+        <string>Я должен вернуться! Не имеет значения, сгорел ли дом. Я должен вернуться!
 </string>
       </value>
     </item>
@@ -36640,7 +36640,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost4/3a4521a8-893c-417f-8e7b-7b372592a613</string>
       </key>
       <value>
-        <string>I’ve lost the key to the front door! My family’s waiting. They’re waiting for me!
+        <string>Я потерял ключ от входной двери! Моя семья ждет. Они ждут меня!
 </string>
       </value>
     </item>
@@ -36649,7 +36649,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost5/ec8b43a9-86ed-4585-b254-4a7354ef4bdb</string>
       </key>
       <value>
-        <string>Goddarnit.
+        <string>Черт возьми.
 </string>
       </value>
     </item>
@@ -36658,7 +36658,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost5/71424e68-6c09-42eb-a664-fc648262e6bd</string>
       </key>
       <value>
-        <string>Nuh-ah. No frightening ex-boyfriends.
+        <string>Не-а. Никаких пуганий бывших бойфрендов.
 </string>
       </value>
     </item>
@@ -36667,7 +36667,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost5/ea346fff-8a5f-4add-b560-0141a63b646f</string>
       </key>
       <value>
-        <string>Oh, so I’m dead? Can I just go to Jagholm and frighten some people there? I had a boyfriend there and…
+        <string>О, так я мертва? Могу я просто поехать в Ягхольм и напугать там кое-кого? У меня там был парень и…
 </string>
       </value>
     </item>
@@ -36676,7 +36676,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost6/267c481c-f286-4035-bc0a-60a51bfb78c9</string>
       </key>
       <value>
-        <string>You don't look frightened. Maybe I should step up my game.
+        <string>Ты не выглядишь испуганным. Может, мне стоит получше стараться.
 </string>
       </value>
     </item>
@@ -36685,7 +36685,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost7/ecf21c33-a9cf-46a5-ae50-577fba79db82</string>
       </key>
       <value>
-        <string>Being dead is great! You can sneeze but you don't need tissues anymore!
+        <string>Быть мертвым - это здорово! Вы можете чихать, но вам больше не нужны салфетки!
 </string>
       </value>
     </item>
@@ -36694,7 +36694,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost8/753867af-1adb-4105-bae5-63961a130812</string>
       </key>
       <value>
-        <string>I feel cold. Is it winter? Give me some warmth! &lt;b&gt;I need your warmth!&lt;/b&gt;
+        <string>Я чувствую холод. Это зима? Дай мне немного тепла! &lt;b&gt;Мне нужно твое тепло!&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -36703,7 +36703,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost9/72764956-58cd-424d-a3e1-51a3798ceca4</string>
       </key>
       <value>
-        <string>Now, let's get on with this.
+        <string>А теперь давай продолжим.
 </string>
       </value>
     </item>
@@ -36712,7 +36712,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost9/291ebd0e-4d95-4390-ba43-9b9fce178e1a</string>
       </key>
       <value>
-        <string>You're welcome.
+        <string>Не за что.
 </string>
       </value>
     </item>
@@ -36721,7 +36721,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost9/4b3ba5c8-7927-45a7-85ca-e06404a2f602</string>
       </key>
       <value>
-        <string>Oh, thank you! That's so kind!
+        <string>О, благодарю тебя! Это так мило!
 </string>
       </value>
     </item>

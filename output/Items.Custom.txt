@@ -143,7 +143,7 @@
         <string>WereNekaroo</string>
       </key>
       <value>
-        <string>(Halloween) Were-Nekaroo</string>
+        <string>(Хэллоуин) Переодетый Нэкаро</string>
       </value>
     </item>
     <item>
@@ -151,7 +151,7 @@
         <string>DaryonBatSword</string>
       </key>
       <value>
-        <string>(Halloween) Bat-Sword</string>
+        <string>(Хэллоуин) Меч - Летучая мышь</string>
       </value>
     </item>
     <item>
@@ -159,7 +159,7 @@
         <string>SeleneRepulsar</string>
       </key>
       <value>
-        <string>(Halloween) Repulsar</string>
+        <string>(Хэллоуин) Repulsar</string>
       </value>
     </item>
     <item>
@@ -175,7 +175,7 @@
         <string>DaryonHalloween</string>
       </key>
       <value>
-        <string>(Halloween) Spooky Gentleman</string>
+        <string>(Repulsar) Жуткий Джентльмен</string>
       </value>
     </item>
     <item>
@@ -183,7 +183,7 @@
         <string>SeleneHalloween</string>
       </key>
       <value>
-        <string>(Halloween) Demonic Priestess</string>
+        <string>(Хэллоуин) Демоническая Жрица</string>
       </value>
     </item>
     <item>

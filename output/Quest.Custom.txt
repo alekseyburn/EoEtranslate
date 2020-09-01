@@ -1431,9 +1431,9 @@
         <string>HalloweenGhost_Desc</string>
       </key>
       <value>
-        <string>An ancient pagan ritual from a centuries-old book seem to have thrown Herelsor in quite the commotion. &lt;b&gt;Ghosts&lt;/b&gt; are haunting the whereabouts of Herelsor.
+        <string>Древний языческий ритуал из многовековой книги, кажется посеял в Херельсоре настоящую суматоху. &lt;b&gt;Привидения&lt;/b&gt; бродят по землям Херельсора.
 
-We must find them and banish them… and I fear this won't be an easy task.</string>
+Мы должны найти их и изгнать... и я боюсь, что это будет нелегкая задача.</string>
       </value>
     </item>
     <item>
@@ -1441,7 +1441,7 @@ We must find them and banish them… and I fear this won't be an easy task.</str
         <string>HalloweenGhost_Objective1</string>
       </key>
       <value>
-        <string>Free the ghosts that are haunting the countryside</string>
+        <string>Избавьтесь от призраков, бродящих по сельской местности</string>
       </value>
     </item>
     <item>
@@ -1449,7 +1449,7 @@ We must find them and banish them… and I fear this won't be an easy task.</str
         <string>HalloweenGhost_Objective2</string>
       </key>
       <value>
-        <string>Talk to Augustus</string>
+        <string>Поговорите с Августусом</string>
       </value>
     </item>
     <item>
@@ -1457,7 +1457,7 @@ We must find them and banish them… and I fear this won't be an easy task.</str
         <string>Halloween_DynEventTitle</string>
       </key>
       <value>
-        <string>Haunted Cemetary</string>
+        <string>Кладбище с привидениями</string>
       </value>
     </item>
     <item>

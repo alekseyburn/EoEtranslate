@@ -18530,7 +18530,7 @@
         <string>CutDlg277dae66-4d32-4afd-a5d4-e9dc17050bd7</string>
       </key>
       <value>
-        <string>Браво. Очень хорошо, джентельмены.</string>
+        <string>Браво. Очень хорошо, джентльмены.</string>
       </value>
     </item>
     <item>
