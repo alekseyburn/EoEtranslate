@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>UIWardrobe</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>Wardrobe</string>
+      </key>
+      <value>
+        <string>Wardrobe</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>Wardrobe</string>
+      </key>
+      <value>
+        <dateTime>2019-01-21T11:43:32.2813295+01:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

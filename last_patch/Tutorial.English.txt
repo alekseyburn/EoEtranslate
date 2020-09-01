@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>Tutorial</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>CombatIntroduction</string>
+      </key>
+      <value>
+        <string>Welcome to the battle system of Edge Of Eternity. When you come into contact with monsters on the field, you'll enter this battle phase.
+[]
+In a battle, your goal is to defeat your opponents by reducing their HP to 0.
+[]
+The status of your own characters comprises three gauges, HP (green), MP (blue) and ATB (white and red). If all your characters are reduced to 0 HP you'll lose the battle.
+[]
+During a battle, the ATB bar loads; when one of your characters, or one of your enemies, reaches 100% in the ATB bar, it is their turn.
+[]
+During each turn, the ATB bar stops loading until the end of the turn.
+[]
+When it's your turn, you can choose an action.
+[]
+When you damage an enemy, the damage is displayed on the screen.
+[]
+The status of your enemy is displayed above, and comprises two gauges, HP (green) and ATB (white and red). When the enemy has 0 HP they are defeated.
+[]
+Your enemy’s ATB is now full, it is their turn to choose an action.
+[]
+The enemy damaged you.
+[]
+Now, defeat your enemy using the attack action.
+[]
+You won your first battle. After winning a battle, the victory reward interface appears.
+[]
+After winning a battle, your character gains experience. When the XP bar (white) is full, your character levels up, becoming stronger.
+[]
+Your weapons also gain experience and level up, independently from characters.
+[]
+Your rewards are affected by your battle rating. You can earn a rating of 1 to 5 stars when you complete a battle’s optional objectives and defeat enemies quickly without any casualties.
+[]
+You earn Heyrs from battles: Heyrs are the currency of Heryon that are used to buy equipment and items. You can also see your battle time here: the battle time is the number of seconds (the time is counted only during ATB loading) that the battle lasts.
+[]
+You can loot up to two different items in a battle. Your rewards are affected by your battle rating and by completing optional battle objectives.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CombatIntro_KBM</string>
+      </key>
+      <value>
+        <string>Use [key:lmb] on the attack button or press [key:combat_attack] to start an attack action.
+[]
+Now, select a target using the mouse or [key:switch_target_left] [key:switch_target_right] and use [key:lmb] or press [key:combat_validation] to confirm your target.
+[]
+You can move the camera by holding down [key:lmb] and moving the mouse.
+[]
+You can rotate the camera by holding down [key:rmb] and moving the mouse.
+[]
+You can change the camera zoom level by scrolling [key:mmb].
+[]
+Press [key:lmb] or [key:validation] to continue.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CombatIntro_Controller</string>
+      </key>
+      <value>
+        <string>Press [key:right_trigger] to open the main actions menu.
+[]
+Press [key:combat_attack] to select an attack action.
+[]
+Now, select a target using [key:switch_target_left] [key:switch_target_right] or [key:left_stick] and use [key:combat_validation] to confirm your target.
+[]
+You can move the camera by moving the left stick [key:left_stick]
+[]
+You can rotate the camera by moving the right stick [key:right_stick]
+[]
+You can change the camera zoom level by using the right [key:r3]
+[]
+Press [key:validation] to continue.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>WorldTuto</string>
+      </key>
+      <value>
+        <string>You can sprint by holding [key:sprint]
+[]
+Sprinting consumes the sprint bar. When the sprint bar is empty, sprinting slowly consumes team energy. If you stop sprinting the sprint bar refills automatically.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoEquip</string>
+      </key>
+      <value>
+        <string>Open the chest by pressing [key:action] while standing in front of it.
+
+Chest Opened 0/1
+[]
+Open the status menu by pressing [key:menu].
+[]
+Select equipment in the left panel and press [key:action].
+[]
+Select the hands slot and press [key:action].
+[]
+Equip yourself with the new gloves by pressing [key:action].
+[]
+Close the status menu by pressing [key:menu].</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoCrystal</string>
+      </key>
+      <value>
+        <string>Select a crystal in the left panel and press [key:action].
+[]
+Press [key:action] on the switch character button.
+[]
+Use [key:lb] or [key:rb] to switch to Selene.
+[]
+Select the big crystal slot on the center and press [key:action].
+[]
+Insert the new crystal in the slot by pressing [key:action].
+[]
+You are now equipped with a new crystal that can perform the spell, Firerift. Now it’s time to equip Selene with the spell
+[]
+Press [key:action] on the Selene button to select her.
+[]
+Select the first spell slot and press [key:action].
+[]
+Select the Firerift spell by pressing [key:action].
+[]
+Press [key:back] to return to the selection menu.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoStalker</string>
+      </key>
+      <value>
+        <string>Select the Move action.
+[]
+Select the case in front of the character and press [key:action] to move there directly or hold [key:action] to select the final orientation of the character.
+[]
+Select the Firerift action.
+[]
+Launch the Firerift action towards an enemy.
+[]
+While characters are casting spells, the ATB bar turns red. When the red ATB bar is full, the character will launch their spell.
+[]
+Press [key:left_trigger] to open the spell menu.
+[]
+Normal attacks and interrupt skills can damage your power of concentration when casting a spell. When the concentration bar is empty, any action under way is cancelled and the character loses their turn.
+[]
+One of your characters is wounded, use the potion to heal them.
+[]
+Select the Defense/Skip Turn action.
+[]
+When the red ATB bar does not contain a padlock it means that the spell is interruptible: you can use a normal attack or an interrupt skill to damage the enemy’s power of concentration. Now use a normal attack to interrupt the boss.
+[]
+Select the Potion action.
+[]
+The boss’s action has been interrupted.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoWeakness</string>
+      </key>
+      <value>
+        <string>The weather affects resistance and weakness in battle and can create additional effects. Highlighted elements are boosted; those with a red background are diminished.
+[]
+You discovered an enemy’s elemental weakness: hitting an enemy with that element does twice as much damage.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoBonusObjective</string>
+      </key>
+      <value>
+        <string>During battle you'll receive additional bonus objectives. Completing those objectives will grant you better rewards. In the case of bosses, there are special challenges that grant you exceptional rewards when you succeed.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoFatigue</string>
+      </key>
+      <value>
+        <string>Your party has an energy bar. Each action, spell, and special attack in combat and when sprinting reduces this energy. Visiting an inn or a campfire will restore your energy. 
+[]
+Your party can also have a food bonus (obtain this bonus by visiting an inn).
+The lower your energy, the lower your food bonus. If your energy falls below 25%, all your statistics (food, equipment, and characters) are reduced.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoInn1</string>
+      </key>
+      <value>
+        <string>When your energy bar is low, or if you want to change your food bonus or see character scenes, you can rest at an inn or by a campfire. Only inns can provide a food bonus, but campfires are a way to restore your energy during exploration.
+[]
+Campfire used
+
+0/1
+[]
+Select "Sleep Only" because this is a campfire and campfires don't provide food bonuses.
+[]
+Select your wake up time and confirm.
+[]
+You can watch character scenes here, but since none are available yet, skip to the next day.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoQuest</string>
+      </key>
+      <value>
+        <string>You can track quests on the screen’s right panel. On the quest interface, you can select quests you'd like to track.
+[]
+The current quest objective is indicated on the compass. If there is a visible objective point, it will be shown in the world. But not all quests have visible objective points.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoSprint</string>
+      </key>
+      <value>
+        <string>You can hold [key:sprint] to sprint. Sprinting consumes energy in the stamina bar. The bar refills when you are not sprinting. If you continue sprinting when the stamina bar is empty it will consume team energy.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoDoppel1</string>
+      </key>
+      <value>
+        <string>Characters in that zone will receive damage.
+[]
+Use the move action to move away.
+[]
+The opponent is turning their back on you
+[]
+Use a physical attack to perform a back stab
+[]
+Red damage means you dealt extra damage with the back stab.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoDoppel2</string>
+      </key>
+      <value>
+        <string>The battlefield may contain interactable elements like this ballista. Try to use it.
+[]
+Click on the interaction button.
+[]
+Press [key:back] to interact.
+[]
+Target that zone to cause a rockslide.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoAttackExplo</string>
+      </key>
+      <value>
+        <string>You can attack an enemy while exploring by pressing [key:attack_explo]. If you manage to hit an enemy with the attack you have an advantage in battle. You can also use an exploration attack to open chests and harvest resources.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoBattleItems</string>
+      </key>
+      <value>
+        <string>In the status menu, you can change the items your characters carry into battle. In the battle item slots, you can select consumables or weapons, change your stats or switch spells.
+[]
+Select items in the left panel and press [key:action].
+[]
+Press [key:action] to select the first battle item slot.
+[]
+Select Resurrex for the slot.
+[]
+You can only carry a limited number of consumables into battle. For example, you can carry one Resurrex per battle item slot.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoTactics</string>
+      </key>
+      <value>
+        <string>You can change the initial position of characters in battle using the Tactics menu.
+[]
+Select Tactics in the left panel and press [key:action].
+[]
+Select Selene.
+[]
+Put Selene behind Daryon so he can cover her while she casts.
+[]
+If the position chosen for a character is blocked in battle, the character will go to the default position instead.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoYsoris</string>
+      </key>
+      <value>
+        <string>Ysoris has just joined your party! He is able to endure a lot of punishment and his normal attack - though a bit weak - targets all enemies on the same Nexus.
+[]
+Ysoris needs energy to power his prosthetics and use his skills
+.
+[]
+To acquire energy, you need to receive damage while defending.
+[]
+Ysoris also can receive more energy if allies standing on the same Nexus as him withstand damage.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoJamming</string>
+      </key>
+      <value>
+        <string>With his Jam skill, Ysoris is capable of pirating machines in adjacent Nexuses.
+[]
+The exact effect of jamming depends on the enemy, but is always beneficial.
+[]
+If glitches effects appear on enemies during Ysoris's turn - it means you can jam them.
+[]
+If the glitch looks like this, it means you need to fulfill some requirements to conduct the jamming. It's up to you to find which one!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutorialCamera</string>
+      </key>
+      <value>
+        <string>If the camera is too close, press [key:ToggleTacticalCamera] to switch to tactical mode.
+[]
+Use the tactical mode to get a better view of the battlefield. Move [key:left_stick] to move the camera and [key:right_stick] to rotate the camera.
+[]
+Use the tactical mode to get a better view of the battlefield. Hold down [key:lmb] while moving the mouse to move the camera. Hold down [key:rmb] to rotate the camera. </string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoCraftingWeapon</string>
+      </key>
+      <value>
+        <string>Interact with the crafting table.
+[]
+Press [key:action] on the switch character button.
+[]
+Use [key:lb] or [key:rb] to switch to Selene.
+[]
+Hold [key:action] to craft the Shamanic Staff
+[]
+Close the crafting menu by pressing [key:menu].</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutorialBallistaReminder</string>
+      </key>
+      <value>
+        <string>Move to the Nexus containing the ballista in order to use it.</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>CombatIntroduction</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.6959+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CombatIntro_KBM</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7028959+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CombatIntro_Controller</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7028959+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>WorldTuto</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7028959+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoEquip</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7038955+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoCrystal</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7038955+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoStalker</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7038955+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoWeakness</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoBonusObjective</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoFatigue</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoInn1</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoQuest</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoSprint</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoDoppel1</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7048948+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoDoppel2</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7058943+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoAttackExplo</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7058943+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoBattleItems</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7058943+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoTactics</string>
+      </key>
+      <value>
+        <dateTime>2020-01-21T16:21:01.7068939+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoYsoris</string>
+      </key>
+      <value>
+        <dateTime>2020-08-11T18:51:13.8310238+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoJamming</string>
+      </key>
+      <value>
+        <dateTime>2020-06-03T11:45:07.9404675+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutorialCamera</string>
+      </key>
+      <value>
+        <dateTime>2020-07-08T10:15:51.7477377+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutoCraftingWeapon</string>
+      </key>
+      <value>
+        <dateTime>2020-07-15T11:49:36.2700294+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TutorialBallistaReminder</string>
+      </key>
+      <value>
+        <dateTime>2020-08-14T14:37:09.3157615+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

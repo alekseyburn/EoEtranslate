@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>AstryanNPCNames</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>Ragna</string>
+      </key>
+      <value>
+        <string>Алхимик Рагна</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>Ragna</string>
+      </key>
+      <value>
+        <dateTime>2019-02-20T10:15:45.5875885+01:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

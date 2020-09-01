@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>IntroGame</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>text1</string>
+      </key>
+      <value>
+        <string>Тридцать лет назад странные металлические корабли появились в наших небесах. 
+ 
+Мы не знали ни кто они, ни что они хотели.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text2</string>
+      </key>
+      <value>
+        <string>Сначала они преподнесли нам скромные дары, символ их невероятных технологий.
+Затем они предложили поделиться своими удивительными знаниями с нами.
+ 
+Все, что они хотели в обмен - еда.
+Мы были рады принять предложение.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text3</string>
+      </key>
+      <value>
+        <string>Затем они попросили разрешения возделывать наши земли. 
+Мы согласились.
+ 
+И наконец, они захотели забрать у нас кристаллы.
+Мы отказали.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text4</string>
+      </key>
+      <value>
+        <string>РЕЗНЯ.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text5</string>
+      </key>
+      <value>
+        <string>У нас, людей Гериона, не было достаточно времени чтобы среагировать. 
+ 
+Тогда Консорт взял всё в свои руки и организовал сопротивление. 
+Завербовал людей, объединил их, сформировал армию, способную противостоять такой огромной силе.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text6</string>
+      </key>
+      <value>
+        <string>В то время как они имели технологии, у нас были лишь мечи, кристаллы и магия чтобы противостоять им.
+ 
+… И самое главное - наша численность.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text7</string>
+      </key>
+      <value>
+        <string>Волна за волной, мы бросались на них, использовали магию пока наши ладони не обгорели, 
+ломали свои мечи об их ужасные боевые машины.
+ 
+Ценой ужасных потерь, мы в конце концов прорвали их оборону и сумели переломить ход боя.
+ 
+Мы начали выигрывать эту несчастную войну.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text8</string>
+      </key>
+      <value>
+        <string>Именно тогда она и ударила.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text9</string>
+      </key>
+      <value>
+        <string>У нас, людей Гериона, не было достаточно времени чтобы среагировать. 
+ 
+Тогда Консорт взял всё в свои руки и организовал сопротивление. 
+Завербовал людей, объединил их, сформировал армию, способную противостоять такой огромной силе.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text10</string>
+      </key>
+      <value>
+        <string>Даже когда большинство из нас пало.
+ 
+Мы не сдались. Еще не конец. 
+ 
+Еще не конец.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text11</string>
+      </key>
+      <value>
+        <string>Несмотря на жертвы, мы все еще надеялись, что наступит тот день, когда мы обрушим их корабли с нашего неба, и заберем обратно нашу свободу.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text12</string>
+      </key>
+      <value>
+        <string>Потом… Я получил письмо от моей сестры.
+ 
+Она написала, что наша мать подхватила Коррозию.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text13</string>
+      </key>
+      <value>
+        <string>Я попросил внеочередной отпуск. В нем было отказано, конечно.
+ 
+Что бы вы сделали на моем месте?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text14</string>
+      </key>
+      <value>
+        <string>…</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text15</string>
+      </key>
+      <value>
+        <string>Да, я тоже так думаю.
+ 
+У всех есть собственные приоритеты, не так ли?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text16</string>
+      </key>
+      <value>
+        <string>Во время одного из самых свирепых нападений Арчелайтса, я подсунул свой жетон чьему-то трупу.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text17</string>
+      </key>
+      <value>
+        <string>И я сбежал.
+ 
+Вот как я стал дезертиром.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text18</string>
+      </key>
+      <value>
+        <string>Мама была не слишком счастлива меня видеть. Она все еще была зла на меня за то, что я покинул ферму и пошел добровольцем на войну.
+Теперь она была еще больше взбешена. Она знала, что бывает с дезертирами.
+ 
+"Это второй раз, когда ты отвернулся от своей жизни!" сказала она.
+Хех. Возможно, в этом есть доля правды.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text19</string>
+      </key>
+      <value>
+        <string>Но несмотря на это, моя сестра и я были полны решимости.
+Полны решимости положить конец этой ужасной болезни.
+ 
+Мы бы не оставили нашу мать умирать такой ужасной смертью.
+Это - главное для нас.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text20</string>
+      </key>
+      <value>
+        <string>Но за все приходится платить.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text3bis</string>
+      </key>
+      <value>
+        <string>Они ответили огнем.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text8bis</string>
+      </key>
+      <value>
+        <string>Коррозия.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text11bis</string>
+      </key>
+      <value>
+        <string>Несмотря на усталость, болезнь, голод.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text2_retake</string>
+      </key>
+      <value>
+        <string>Сначала они преподнесли нам свои скромные дары, символ их невероятных технологий.
+
+Все, что они хотели взамен - еда.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text3_retake</string>
+      </key>
+      <value>
+        <string>Затем они попросили разрешения возделывать наши земли.
+
+
+И наконец, они захотели забрать у нас кристаллы.
+Мы отказали.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text5_retake</string>
+      </key>
+      <value>
+        <string>Консорт взял все в свои руки и организовал сопротивление.
+Завербовал людей, объединил их, сформировал армию, способную противостоять такой огромной силе.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text7_retake</string>
+      </key>
+      <value>
+        <string>Ценой ужасных потерь, мы в конце концов прорвали их оборону и сумели переломить ситуацию.
+ 
+Мы начали выигрывать эту несчастную войну.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text9_retake</string>
+      </key>
+      <value>
+        <string>Она быстро просочилась в наши ряды, отравила наши тела, скрутила наши конечности, деформировала нас в каких-то ужасных карикатур – полу-людей, полу-машин.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text10_retake</string>
+      </key>
+      <value>
+        <string>Но мы не сдались.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text13_retake</string>
+      </key>
+      <value>
+        <string>Что бы вы сделали на моем месте?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text15_retake</string>
+      </key>
+      <value>
+        <string>Да, я тоже так думаю.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text16_retake</string>
+      </key>
+      <value>
+        <string>Во время одного из самых свирепых нападений Арчелайтса, я подсунул свой жетон чьему-то трупу.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text19_retake</string>
+      </key>
+      <value>
+        <string>Моя сестра и я были полны решимости. 
+
+Мы бы не оставили нашу мать умирать такой ужасной смертью.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>endOfChapter1</string>
+      </key>
+      <value>
+        <string>Конец 1й главы.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>endOfChapter2</string>
+      </key>
+      <value>
+        <string>Конец 2й главы.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>endOfChapter3</string>
+      </key>
+      <value>
+        <string>Конец 3й главы.</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>text1</string>
+      </key>
+      <value>
+        <dateTime>2018-12-05T01:06:29.6909035+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text2</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5873283+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text3</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5873283+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text4</string>
+      </key>
+      <value>
+        <dateTime>2016-12-28T13:43:50.003+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text5</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5873283+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text6</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5873283+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text7</string>
+      </key>
+      <value>
+        <dateTime>2018-12-06T14:56:19.1235166+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text8</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5873283+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text9</string>
+      </key>
+      <value>
+        <dateTime>2018-12-05T01:06:29.7018807+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text10</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5873283+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text11</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5883257+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text12</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5883257+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text13</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5883257+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text14</string>
+      </key>
+      <value>
+        <dateTime>2016-12-28T13:43:50.003+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text15</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5893232+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text16</string>
+      </key>
+      <value>
+        <dateTime>2018-12-05T13:38:29.3283087+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text17</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5893232+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text18</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5893232+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text19</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5893232+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text20</string>
+      </key>
+      <value>
+        <dateTime>2018-12-05T13:38:29.3283087+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text3bis</string>
+      </key>
+      <value>
+        <dateTime>2016-12-28T13:43:50.003+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text8bis</string>
+      </key>
+      <value>
+        <dateTime>2018-11-15T15:12:35.8686056+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text11bis</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5893232+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text2_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.1799204+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text3_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.187915+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text5_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-05T01:06:29.7018807+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text7_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-06T14:56:19.1245174+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text9_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-05T01:06:29.7018807+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text10_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-11-15T15:20:18.0491688+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text13_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-11-15T14:57:20.730068+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text15_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-11-15T14:57:51.1494217+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text16_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-06T14:56:19.1245174+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>text19_retake</string>
+      </key>
+      <value>
+        <dateTime>2018-12-06T14:56:19.1245174+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>endOfChapter1</string>
+      </key>
+      <value>
+        <dateTime>2018-12-06T15:01:32.1077802+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>endOfChapter2</string>
+      </key>
+      <value>
+        <dateTime>2019-03-01T15:41:14.6864983+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>endOfChapter3</string>
+      </key>
+      <value>
+        <dateTime>2019-07-10T14:54:02.219435+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

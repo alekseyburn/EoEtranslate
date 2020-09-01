@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>DecorInteract</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>Catalyst</string>
+      </key>
+      <value>
+        <string>Катализатор</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Shell</string>
+      </key>
+      <value>
+        <string>Оболочка</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Puffglobe</string>
+      </key>
+      <value>
+        <string>Puffglobe</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>EMP_Beacon</string>
+      </key>
+      <value>
+        <string>ЭМП Маяк</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Defense Tower</string>
+      </key>
+      <value>
+        <string>Защитная Башня</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Archelite Turret</string>
+      </key>
+      <value>
+        <string>Турель Арчелайтов</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TurretActivation</string>
+      </key>
+      <value>
+        <string>Активированная башня</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>Catalyst</string>
+      </key>
+      <value>
+        <dateTime>2018-08-06T17:12:30.8219239+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Shell</string>
+      </key>
+      <value>
+        <dateTime>2019-03-25T13:45:19.8203816+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Puffglobe</string>
+      </key>
+      <value>
+        <dateTime>2019-03-26T13:51:31.5984677+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>EMP_Beacon</string>
+      </key>
+      <value>
+        <dateTime>2019-06-04T10:22:49.638581+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Defense Tower</string>
+      </key>
+      <value>
+        <dateTime>2019-06-25T15:23:14.1171621+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Archelite Turret</string>
+      </key>
+      <value>
+        <dateTime>2019-06-25T15:26:05.5589242+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TurretActivation</string>
+      </key>
+      <value>
+        <dateTime>2019-07-05T11:31:49.4570422+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>Expeditions</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>Test Expedition</string>
+      </key>
+      <value>
+        <string>Тестовая Экспедиция</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TestDescription</string>
+      </key>
+      <value>
+        <string>Это самая первая экспедиция Нэкаро, которая служит только для цели тестирования.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Level</string>
+      </key>
+      <value>
+        <string>Уровень</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>Test Expedition</string>
+      </key>
+      <value>
+        <dateTime>2020-08-05T20:37:06.7656086+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TestDescription</string>
+      </key>
+      <value>
+        <dateTime>2020-08-05T20:37:36.4942398+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Level</string>
+      </key>
+      <value>
+        <dateTime>2020-08-05T21:21:42.8586638+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

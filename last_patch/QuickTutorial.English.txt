@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>QuickTutorial</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>PlayerInterrupted</string>
+      </key>
+      <value>
+        <string>You have been interrupted or you have interrupted an enemy.
+
+When a character or an enemy uses a physical attack against an entity that is currently casting a spell (red gauge in progress and cast state), the entity is interrupted and has to choose a new action.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamageBehind</string>
+      </key>
+      <value>
+        <string>You have received critical damage from behind or inflicted it on an enemy.
+
+Physical attacks dealt from behind an entity will do double the damage. When moving in battles, entities will face the direction in which they moved and their backs will then be exposed to critical damage.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerInterrupted2</string>
+      </key>
+      <value>
+        <string>Getting away from an enemy is often a good idea to avoid interruptions since physical attacks usually have an attack range of one Nexus.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerMove</string>
+      </key>
+      <value>
+        <string>You or an enemy moved on the Nexus Grid.
+
+During battles, you can move to an unoccupied Nexus using the Move action in the action bar. Each Nexus can contain up to four entities.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastSpell</string>
+      </key>
+      <value>
+        <string>You or an enemy casted a spell.
+
+Spells are powerful skills that require a long cast time, during which you can easily be interrupted by a physical attack.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamage</string>
+      </key>
+      <value>
+        <string>You or an enemy received damage.
+
+Skills and actions often deal damage to entities. When the entity's HP reaches zero, the entity will be KO'ed until the end of the battle or until they are resurrected with a specific item or spell.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDefense</string>
+      </key>
+      <value>
+        <string>You skipped a turn.
+
+When skipping a turn, your character will miss their turn to perform an action. The character will remain in a defensive stance, reducing the damage they receive, until their next action.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerTurn</string>
+      </key>
+      <value>
+        <string>It is now your turn to play.
+
+Select an action on the action bar and target an enemy to inflict damage.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastATB</string>
+      </key>
+      <value>
+        <string>You are now casting a spell.
+
+While casting, your character's action bar will turn red. When the red bar is full, your character will cast the spell. The character can also be interrupted by physical attacks during this phase.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuBattleItems</string>
+      </key>
+      <value>
+        <string>You can select which item you carry with you in battle in the Battle Items menu.
+
+You can also set weapons instead of items, allowing you to change your weapon and your skills during battle.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCrystals</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuInventory</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCraft</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuSpecial</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuEquip</string>
+      </key>
+      <value>
+        <string>You can equip your characters with armor in the Equipment menu.
+
+You can also equip weapons. The equipped weapons contain your crystals and your action bar set.
+
+You can use a different crystal build and a different action bar for each weapon.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerItems</string>
+      </key>
+      <value>
+        <string>You used an item.
+
+Items are very powerful but you can only carry a limited number of them in battle.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalHeal</string>
+      </key>
+      <value>
+        <string>You or an enemy is occupying a Nexus with an healing crystal.
+
+Decorative elements can affect battles in Edge of Eternity. Here, a green crystal periodically heals the entities occupying the same Nexus.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalFire</string>
+      </key>
+      <value>
+        <string>You or an enemy is on a Nexus with an enhancement crystal.
+
+Decorative elements can affect battles in Edge of Eternity. Here, a red crystal is enhancing the attributes of the entities occupying the same Nexus.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerSiegeWeapon</string>
+      </key>
+      <value>
+        <string>You used a siege weapon.
+
+Decorative elements can affect battles in Edge of Eternity. Here you used a siege weapon to inflict additional damage to an enemy. The siege weapon will take some time until it can be used again.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoElement</string>
+      </key>
+      <value>
+        <string>In Edge of Eternity, the time of day and the weather can influence battles by modifying elemental resistances.
+
+You can see the actual element balance on the element influence bar in the top right of the screen.
+
+When an element is highlighted, it means that this element's damage is multiplied by two; when an element is red, it means that this element's damage is divided by two.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoFatigue</string>
+      </key>
+      <value>
+        <string>Your party is exhausted.
+
+Fighting battle after battle, your characters will be increasingly exhausted.
+When the energy bar in the bottom right of the screen is at zero, your characters will be less effective in battles.
+
+You can restore your party at an inn, and depending on the food you buy there, you'll get a temporary bonus as long as your energy bar is high.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoTime</string>
+      </key>
+      <value>
+        <string>In Edge of Eternity time flows as you progress. The clock at the top of the compass shows you the current time.
+
+Time affects NPCs, the presence of monsters, and the quests available: some are only available at night, some only during the day.
+
+Time also affects elemental resistances in battle.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelup</string>
+      </key>
+      <value>
+        <string>One of your characters leveled up. As you win battles or complete quests, your characters will gain experience and level up.
+
+By leveling up, your characters get stronger and acquire better stats.
+
+Only characters in the active party will gain experience.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDeath</string>
+      </key>
+      <value>
+        <string>One of your characters have been knocked out. When a character is knocked out, your energy decreases significantly.
+
+The character that has been knocked out can be brought back into combat by using a specific spell or item, or by waiting until the end of the battle.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelWeapon</string>
+      </key>
+      <value>
+        <string>One of your weapons leveled up. As you win battles or complete quests, your weapons will gain experience and level up.
+
+When leveling up, a weapon acquires better stats and can unlock new branches and new slots on their crystal pattern.
+
+Only currently equipped weapons can obtain experience.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoQuest</string>
+      </key>
+      <value>
+        <string>You received a side quest.
+
+To change the actively tracked quest, you can open the quest log in the player menu and enable tracking on the quest you want to track.
+
+You can also do this from the map interface.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoOpenMenu</string>
+      </key>
+      <value>
+        <string>Press (Y) on the controller or [TAB] on the keyboard to open the character menu.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDynamicEvents</string>
+      </key>
+      <value>
+        <string>A dynamic event has been triggered close to your location.
+
+These events are dynamic quests that are available for a short time and appear as you travel the world.
+Some of them affect your personal story, altering future dynamic events and can affect the world.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerMagicTurret</string>
+      </key>
+      <value>
+        <string>You activated a magical turret.
+
+A magical turret will target nearby enemies and inflict damage every turn. Once activated it will fight on its own. Be careful: a magical weapon is unable to move and can also receive damage.</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>PlayerInterrupted</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2378867+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamageBehind</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerInterrupted2</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerMove</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastSpell</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamage</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDefense</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerTurn</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastATB</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuBattleItems</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCrystals</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:08.998786+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuInventory</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:13.2403396+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCraft</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:17.9876364+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuSpecial</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:25.1515201+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuEquip</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerItems</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalHeal</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalFire</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerSiegeWeapon</string>
+      </key>
+      <value>
+        <dateTime>2019-06-25T10:05:59.6359774+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoElement</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoFatigue</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoTime</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelup</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDeath</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelWeapon</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoQuest</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoOpenMenu</string>
+      </key>
+      <value>
+        <dateTime>2018-11-19T14:43:15.3832464+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDynamicEvents</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerMagicTurret</string>
+      </key>
+      <value>
+        <dateTime>2019-07-15T09:44:08.8267378+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

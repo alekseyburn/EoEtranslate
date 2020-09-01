@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>QuickTutorial</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>PlayerInterrupted</string>
+      </key>
+      <value>
+        <string>Вас прервали или вы прервали противника.
+
+Когда персонаж использует физическую атаку против оппонента, который в данный момент произносит заклинание (красный индикатор в процессе и состоянии заклинания), оппонент прерывается и должен выбрать новое действие.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamageBehind</string>
+      </key>
+      <value>
+        <string>Вы получили критический урон со спины или нанесли его врагу.
+
+Физические атаки, нанесенные со спины, наносят двойной урон. При передвижении в битве, персонаж будет смотреть в направлении движения, он будет подвергаться критическому урону со спины.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerInterrupted2</string>
+      </key>
+      <value>
+        <string>Отойти от врага часто является хорошей идеей, чтобы избежать прерываний, поскольку физические атаки обычно имеют диапазон атаки в радиусе одного Нексуса.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerMove</string>
+      </key>
+      <value>
+        <string>Вы или противник двигаетесь по сетке Нексуса.
+
+Во время битвы вы можете занять свободный Нексус, используя действие перемещения на панели действий. Каждый Нексус может вместить до четырех персонажей.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastSpell</string>
+      </key>
+      <value>
+        <string>Вы или враг используете заклинание.
+
+Заклинания - это мощное умение, которое требует длительного времени выполнения, в течение которого вы легко можете быть прерваны физической атакой.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamage</string>
+      </key>
+      <value>
+        <string>Вы или противник получили урон.
+
+Умения и различные действия часто наносят урон персонажам. Когда уровень HP персонажа опускается до нуля, он будет выведен из строя до конца битвы или пока его не воскресят специальным предметом или заклинанием.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDefense</string>
+      </key>
+      <value>
+        <string>Вы пропускаете ход.
+
+Пропуская ход, ваш персонаж упускает возможность выполнить какие-либо действия. Персонаж встает в защитную позицию, уменьшая получаемый урон, до следующего действия.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerTurn</string>
+      </key>
+      <value>
+        <string>Ваш ход.
+
+Выберите Атака на панели действий и цель, чтобы нанести урон.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastATB</string>
+      </key>
+      <value>
+        <string>Произношение заклинания.
+
+Во время каста панель действий вашего персонажа становится красной. Когда красная полоса заполнится, ваш персонаж произнесет заклинание. Также персонаж может быть прерван физическими атаками во время этой фазы.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuBattleItems</string>
+      </key>
+      <value>
+        <string>Вы можете выбрать, какой предмет будет отображаться во время битвы в меню предметов.
+
+Также вы можете установить оружие вместо предметов, что позволит вам изменить свое оружие и ваши навыки во время битвы.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCrystals</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuInventory</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCraft</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuSpecial</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuEquip</string>
+      </key>
+      <value>
+        <string>Вы можете экипировать своих персонажей броней в меню экипировки.
+
+Также вы можете экипировать оружие. Экипированное оружие содержит ваши кристаллы и свою панель действий.
+
+Вы можете использовать другие сборки кристаллов и различные панели действий для каждого оружия.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerItems</string>
+      </key>
+      <value>
+        <string>Вы использовали предмет.
+
+Предметы - очень мощные вещи, но вы можете использовать ограниченное количество предметов в битве.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalHeal</string>
+      </key>
+      <value>
+        <string>Вы или враг заняли Нексус с исцеляющим кристаллом.
+
+Декорации могут влиять на сражения в Edge of Eternity. Здесь, зеленый кристалл периодически исцеляет персонажей, которые занимают данный Нексус.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalFire</string>
+      </key>
+      <value>
+        <string>Вы или враг находятся на Нексусе с кристаллом усиления.
+
+Декорации могут влиять на сражения в Edge of Eternity. Здесь, красный кристалл усиливает характеристики персонажа, который занимает данный Нексус.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerSiegeWeapon</string>
+      </key>
+      <value>
+        <string>Вы использовали осадное оружие.
+
+Декорации могут влиять на сражения на сражения в Edge of Eternity. Здесь вы используете осадное оружие, чтобы нанести дополнительный урон врагу. Осадное оружие должно перезарядиться перед его повторным использованием.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoElement</string>
+      </key>
+      <value>
+        <string>В Edge of Eternity время суток и погода могут повлиять на сражение, изменяя стихийные сопротивления.
+
+Вы можете увидеть актуальный баланс элементов на панели элементов в правом верхнем углу экрана.
+
+Когда элемент подсвечен, это означает, что урон этого элемента удвоен; когда элемент красный, это означает, что урон элемента уменьшен вдвое.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoFatigue</string>
+      </key>
+      <value>
+        <string>Ваша группа истощена.
+
+Сражаясь от битвы к битве, ваши персонажи все больше и больше истощаются.
+Когда полоса энергии в нижней правой части экрана на нуле, ваши персонажи менее эффективны в бою.
+
+Вы можете восстановить вашу группу в гостинице и, в зависимости от еды купленной там, вы получите временный бонус, пока ваш уровень энергии высокий.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoTime</string>
+      </key>
+      <value>
+        <string>В мире Edge of Eternity течет время. Часы в верхней части компаса показывают текущее время.
+
+Время влияет на NPC, появление монстров, доступность квестов: некоторые доступны только ночью, некоторые только днем.
+
+Время также влияет на стихийное сопротивление в битве.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelup</string>
+      </key>
+      <value>
+        <string>Один из ваших персонажей повысил уровень. По мере того, как вы выигрываете сражения или выполняете квесты, ваши персонажи получают опыт и повышают уровень.
+
+Повышая уровень, ваши персонажи становятся сильнее и улучшают свои характеристики.
+
+Только персонажи в активной группе получают опыт.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDeath</string>
+      </key>
+      <value>
+        <string>Один из ваших персонажей выведен из строя. Когда персонаж выведен из строя, ваша энергия значительно уменьшается.
+
+Выведенный из строя персонаж может быть возвращен в битву с помощью специального заклинания или предмета, или необходимо дождаться конца битвы.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelWeapon</string>
+      </key>
+      <value>
+        <string>Одно из ваших оружий повысило уровень. По мере того, как вы выигрываете сражения или выполняете квесты, ваше оружие получает опыт и повышает уровень.
+
+Повышая уровень, ваше оружие получает лучшие характеристики и может разблокировать новые ветви и новые слоты на его панели кристаллов.
+
+Только экипированное оружие получает опыт.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoQuest</string>
+      </key>
+      <value>
+        <string>Вы получили сторонний квест.
+
+Чтобы изменить отслеживаемый квест, откройте квестовый журнал и меню игрока и включите отслеживание на квесте, который вы хотите отслеживать.
+
+Также вы можете сделать это через интерфейс карты.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoOpenMenu</string>
+      </key>
+      <value>
+        <string>Нажмите (Y) на контроллере или [TAB] на клавиатуре чтобы открыть меню игрока.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDynamicEvents</string>
+      </key>
+      <value>
+        <string>Временное событие появилось рядом с вами.
+
+Данные события - это временные квесты, которые доступны в течение ограниченного времени и появляются пока вы путешествуете по миру.
+Некоторые из них влияют на вашу историю, изменяя будущие временные события и могут повлиять на мир.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerMagicTurret</string>
+      </key>
+      <value>
+        <string>Вы активировали магическую турель.
+
+Магическая турель будет нацелена на ближайших врагов и будет наносить урон каждый ход. После активации автономна. Будьте осторожны: магическое оружие не может передвигаться и получает урон.</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>PlayerInterrupted</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2378867+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamageBehind</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerInterrupted2</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerMove</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastSpell</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDamage</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerDefense</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerTurn</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCastATB</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2448824+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuBattleItems</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCrystals</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:08.998786+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuInventory</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:13.2403396+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuCraft</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:17.9876364+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuSpecial</string>
+      </key>
+      <value>
+        <dateTime>2018-11-16T14:13:25.1515201+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>MenuEquip</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerItems</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalHeal</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerCrystalFire</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PlayerSiegeWeapon</string>
+      </key>
+      <value>
+        <dateTime>2019-06-25T10:05:59.6359774+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoElement</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoFatigue</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoTime</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelup</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDeath</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoLevelWeapon</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoQuest</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoOpenMenu</string>
+      </key>
+      <value>
+        <dateTime>2018-11-19T14:43:15.3832464+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerTutoDynamicEvents</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.2458815+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>playerMagicTurret</string>
+      </key>
+      <value>
+        <dateTime>2019-07-15T09:44:08.8267378+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>Food</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>RudimentaryFood</string>
+      </key>
+      <value>
+        <string>Rudimentary Food</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>RudimentaryFoodDesc</string>
+      </key>
+      <value>
+        <string>This rudimentary food is not very good and not very nutritious, but it will help you to get through the day.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>FreshVegetables</string>
+      </key>
+      <value>
+        <string>Fresh Vegetables</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>FreshVegetablesDesc</string>
+      </key>
+      <value>
+        <string>Fresh vegetables, harvested from the garden!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NoFood</string>
+      </key>
+      <value>
+        <string>Sleep Only</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>RudimentaryFood</string>
+      </key>
+      <value>
+        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>RudimentaryFoodDesc</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5544168+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>FreshVegetables</string>
+      </key>
+      <value>
+        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>FreshVegetablesDesc</string>
+      </key>
+      <value>
+        <dateTime>2018-11-20T23:06:33.5544168+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NoFood</string>
+      </key>
+      <value>
+        <dateTime>2019-07-15T09:44:08.42395+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

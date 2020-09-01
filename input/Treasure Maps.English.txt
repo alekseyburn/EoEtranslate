@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageCategoryEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContainerFile>Treasure Maps</ContainerFile>
+  <Entries>
+    <item>
+      <key>
+        <string>Krelk Woods Map</string>
+      </key>
+      <value>
+        <string>Crelk Forest Treasure Map</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>Krelk Woods Map</string>
+      </key>
+      <value>
+        <dateTime>2018-12-04T15:07:27.286858+01:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>
