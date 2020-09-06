@@ -36147,7 +36147,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/9e1837fd-5a24-4118-b344-00d35a296977</string>
       </key>
       <value>
-        <string>We get it, we'll do it!
+        <string>Мы поняли, мы сделаем это!
 </string>
       </value>
     </item>
@@ -36156,7 +36156,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/b9f9f72e-a4d4-44b2-bf88-f70b6bb1141f</string>
       </key>
       <value>
-        <string>And they cause tooth decay.
+        <string>И они вызывают кариес.
 </string>
       </value>
     </item>
@@ -36165,7 +36165,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/27ac62bf-19e8-4968-aff2-d9a4bc3e079d</string>
       </key>
       <value>
-        <string>Okay, we'll…
+        <string>Ладно, мы…
 </string>
       </value>
     </item>
@@ -36174,7 +36174,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/10ccae6d-d013-4130-8fb5-2bd3de65da0b</string>
       </key>
       <value>
-        <string>… who was handing me a candy cane.
+        <string>… который протягивал мне леденец.
 </string>
       </value>
     </item>
@@ -37788,7 +37788,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0200_daryon_stepped_in/1cbe28ad-7dc1-4230-9f37-6c7a917597e6</string>
       </key>
       <value>
-        <string>Come now, we have a Clockwork Field to cross.
+        <string>Ну же, нам нужно пересечь Часовое Поле.
 </string>
       </value>
     </item>
@@ -37797,7 +37797,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0200_daryon_stepped_in/23291b6c-2c75-49cf-87c2-b8ef9002648d</string>
       </key>
       <value>
-        <string>I know.
+        <string>Я знаю.
 </string>
       </value>
     </item>
@@ -37806,7 +37806,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0200_daryon_stepped_in/657897d8-1328-4b5f-8c87-2d1d1749cad5</string>
       </key>
       <value>
-        <string>I could go on and on about how reckless you are, Selene.
+        <string>Я мог бы продолжать раз за разом говорить о том, как ты безрассудна, Селена.
 </string>
       </value>
     </item>
@@ -37815,7 +37815,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/6b5c9206-f399-4434-9fed-03eaf14d1c89</string>
       </key>
       <value>
-        <string>I know it will be all right.
+        <string>Я знаю, что все будет хорошо.
 </string>
       </value>
     </item>
@@ -37824,7 +37824,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/08bd08eb-cb95-4a0e-903c-a61b6416d14a</string>
       </key>
       <value>
-        <string>No, never mind, it's working fine!
+        <string>Нет, ничего страшного, он прекрасно работает!
 </string>
       </value>
     </item>
@@ -37833,7 +37833,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/39e6fe34-bb6b-4f70-b51c-58ebce91352a</string>
       </key>
       <value>
-        <string>It's… huuuuh…
+        <string>Он… ааааа…
 </string>
       </value>
     </item>
@@ -37842,7 +37842,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/b5bcaeae-9236-4e6e-94ce-e25fecdd5d10</string>
       </key>
       <value>
-        <string>The rep-mag is perfectly functional. The needle-o-meter is…
+        <string>Реп-маг прекрасно функционирует. Иглометр…
 </string>
       </value>
     </item>
@@ -37851,7 +37851,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/1799228d-b086-4f36-8838-c143bc91d45b</string>
       </key>
       <value>
-        <string>Damnit.
+        <string>Черт возьми.
 </string>
       </value>
     </item>
@@ -37860,7 +37860,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/318388a9-a35b-441f-bc6e-408f080803e3</string>
       </key>
       <value>
-        <string>And you're not eager to discover them?
+        <string>И вы не горите желанием их обнаружить?
 </string>
       </value>
     </item>
@@ -37869,7 +37869,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/a6b34987-d861-4174-8bb1-18d480ef150f</string>
       </key>
       <value>
-        <string>There are so many ways this could go wrong.
+        <string>Есть так много способов, как все может пойти не так.
 </string>
       </value>
     </item>
@@ -37878,7 +37878,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/4d67c91b-26b1-40a9-abb8-ae5f4a1ccbc3</string>
       </key>
       <value>
-        <string>It will be all right.
+        <string>Все будет в порядке.
 </string>
       </value>
     </item>
@@ -37887,7 +37887,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/3aca9536-dba7-4f1a-b081-dd456a1ecee4</string>
       </key>
       <value>
-        <string>Come oooon, I'm thirsty and I'd really, really, really like to reach Herelsor today!
+        <string>Пойдем, я хочу пить и очень, очень, очень хочу сегодня же добраться до Херельсора!
 </string>
       </value>
     </item>
@@ -37896,7 +37896,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/fd5a8042-55b3-4253-88f5-0873d35a6d40</string>
       </key>
       <value>
-        <string>You two are crazy.
+        <string>Вы двое сошли с ума.
 </string>
       </value>
     </item>
@@ -37905,7 +37905,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0100_crew_awaits/ece5f945-1213-4da7-b210-ef720ab4fdbe</string>
       </key>
       <value>
-        <string>Come.
+        <string>Идем.
 </string>
       </value>
     </item>
@@ -37914,7 +37914,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0300_candy_01/8ab72b33-4ba1-4218-ad3d-b0e4defe24f2</string>
       </key>
       <value>
-        <string>*crunching noises*
+        <string>*хрустящие звуки*
 </string>
       </value>
     </item>
@@ -37923,7 +37923,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0300_candy_01/37b9fe15-7eea-4ba8-9d77-14f8113e024a</string>
       </key>
       <value>
-        <string>What?
+        <string>Что?
 </string>
       </value>
     </item>
@@ -37932,7 +37932,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0300_candy_01/4d68a91d-ff55-4f20-a285-6bad70b42218</string>
       </key>
       <value>
-        <string>No, but it features a small compartment with candy inside.
+        <string>Нет, но в нем есть небольшое отделение с конфетами внутри.
 </string>
       </value>
     </item>
@@ -37941,7 +37941,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0300_candy_01/b1561502-f81d-4222-8c74-2a67e1db9057</string>
       </key>
       <value>
-        <string>Does your machine also repel the Corroded, Ysoris?
+        <string>твоя машина тоже отталкивает Коррозию, Юсорис?
 </string>
       </value>
     </item>
@@ -37950,7 +37950,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0400_candy_02/02c3918b-2e04-4cff-8981-577f358ac174</string>
       </key>
       <value>
-        <string>I had my doubts, but now I'm sure. I'm the sanest person here.
+        <string>У меня были сомнения, но теперь я уверен. Я здесь самый здравомыслящий человек.
 </string>
       </value>
     </item>
@@ -37959,7 +37959,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0400_candy_02/5ec9dcec-64a4-4c2a-9a6a-95da739b9e30</string>
       </key>
       <value>
-        <string>Of course! Where are my manners!
+        <string>Ну конечно же! Где мои манеры?
 </string>
       </value>
     </item>
@@ -37968,7 +37968,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0400_candy_02/e55565b8-292b-4d67-9352-e7704445d6d7</string>
       </key>
       <value>
-        <string>May I have one?
+        <string>Можно мне одну?
 </string>
       </value>
     </item>
@@ -37977,7 +37977,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0500_her_arms_01/374db2d5-7e85-4c73-a084-4d6589c14bc1</string>
       </key>
       <value>
-        <string>But they're gigantic!
+        <string>Но они же гигантские!
 </string>
       </value>
     </item>
@@ -37986,7 +37986,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0500_her_arms_01/46a24f47-9c27-4a05-8adc-cba90572af5f</string>
       </key>
       <value>
-        <string>Those would be limbs.
+        <string>Это должно быть конечности.
 </string>
       </value>
     </item>
@@ -37995,7 +37995,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0500_her_arms_01/ef18b32b-bfcb-4cb4-9300-5be9ad303c1b</string>
       </key>
       <value>
-        <string>What are these… things... emerging from the ground?
+        <string>Что это за… вещи... появляющиеся из земли??
 </string>
       </value>
     </item>
@@ -38004,7 +38004,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0550_her_arms_02/0068918d-0c70-40f0-b771-5345b2697378</string>
       </key>
       <value>
-        <string>Just like these.
+        <string>Прямо как эти.
 </string>
       </value>
     </item>
@@ -38013,7 +38013,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0550_her_arms_02/27285b48-8ee1-4390-b355-35dac45666e8</string>
       </key>
       <value>
-        <string>Given sufficient time, the Corroded slowly dissolve and fuse together. Doing so, they form all different kinds of amalgamations.
+        <string>Учитывая достаточное время, Зараженные медленно растворяются и сливаются вместе. Делая это, они образуют всевозможные амальгамы.
 </string>
       </value>
     </item>
@@ -38022,7 +38022,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0550_her_arms_02/fb955645-3822-4408-bf61-12bf35bff5b9</string>
       </key>
       <value>
-        <string>I don't understand...
+        <string>Я не понимаю...
 </string>
       </value>
     </item>
@@ -38031,7 +38031,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0600_her_arms_03/a0aa5911-35dc-4bb8-884a-41c34bf5a0bc</string>
       </key>
       <value>
-        <string>HUNDREDS!?
+        <string>СОТНИ!?
 </string>
       </value>
     </item>
@@ -38040,7 +38040,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0600_her_arms_03/3c4c0069-148c-46d3-a6f9-26a42eefc16f</string>
       </key>
       <value>
-        <string>Reassured?
+        <string>Успокоил?
 </string>
       </value>
     </item>
@@ -38049,7 +38049,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0600_her_arms_03/ff542aaa-59b9-4e83-9523-3161d1f1b052</string>
       </key>
       <value>
-        <string>Oh, I've seen hundreds of these creatures... but I've only seen them move slightly once or twice.
+        <string>О, я видел сотни таких существ... но я видел, как они слегка шевелились всего раз или два.
 </string>
       </value>
     </item>
@@ -38058,7 +38058,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0600_her_arms_03/73d8dcb7-1460-4a64-80b7-7e51b485c1b6</string>
       </key>
       <value>
-        <string>Are these... things... alive?
+        <string>Эти... штуки... живые?
 </string>
       </value>
     </item>
@@ -38067,7 +38067,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0700_go_there/24149ec4-5f72-4187-9564-14088803cd26</string>
       </key>
       <value>
-        <string>Is this… What I think it is… ?
+        <string>Это... то, что я думаю? ..
 </string>
       </value>
     </item>
@@ -38076,7 +38076,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0700_go_there/7a505e64-f86e-4259-a254-a4dad9ca83af</string>
       </key>
       <value>
-        <string>Well, that's no rock, but you'll see for yourselves when we get there.
+        <string>Ну, это не скала, но вы сами увидите, когда мы туда доберемся.
 </string>
       </value>
     </item>
@@ -38085,7 +38085,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0700_go_there/9f87c3d0-cd91-4d81-95f7-b939b1d49143</string>
       </key>
       <value>
-        <string>See that strange rock over there?
+        <string>Видишь вон ту странную скалу?
 </string>
       </value>
     </item>
@@ -38094,7 +38094,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0800_let_not_stay/83f2486f-365f-4b9f-a0c4-4726a42afc29</string>
       </key>
       <value>
-        <string>*crunching noise* Yeah, let’s not.
+        <string>*хрустящий звук* да, давайте не будем.
 </string>
       </value>
     </item>
@@ -38103,7 +38103,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0800_let_not_stay/514488e6-cca4-43b7-86e5-a23c9c7eb958</string>
       </key>
       <value>
-        <string>Let’s not stay here.
+        <string>Давайте не будем здесь задерживаться.
 </string>
       </value>
     </item>
@@ -38112,7 +38112,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0900_free_pass/eb7b94b9-7519-415a-adb9-1b2e06d60bcb</string>
       </key>
       <value>
-        <string>I caught the Corrosion. Maybe they think I'm family. By extension, you get a free pass.
+        <string>Я болел Коррозией. Может быть, они думают, что я член их семейства. Кроме того, вы получаете бесплатный пропуск.
 </string>
       </value>
     </item>
@@ -38121,7 +38121,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_0900_free_pass/45912146-10c5-45eb-9a00-16f7fe01aaa0</string>
       </key>
       <value>
-        <string>The Corroded aren't as aggressive as they were in Olphara.
+        <string>Зараженные уже не так агрессивны, как в Ольфаре.
 </string>
       </value>
     </item>
@@ -38130,7 +38130,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1000_still_questions/5decad73-8898-44cb-a93f-12f2afd9c31c</string>
       </key>
       <value>
-        <string>That was our deal.
+        <string>Таков был наш уговор.
 </string>
       </value>
     </item>
@@ -38139,7 +38139,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1000_still_questions/e2dcf706-b19d-435f-9cf3-262b95b30e99</string>
       </key>
       <value>
-        <string>No longer than that.
+        <string>Не более того.
 </string>
       </value>
     </item>
@@ -38148,7 +38148,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1000_still_questions/38e32a25-ce79-4c7f-83b8-c3b109d53ba9</string>
       </key>
       <value>
-        <string>Will you be able to keep them to yourself until we reach Herelsor?
+        <string>Ты сможешь держать их при себе, пока мы не доберемся до Херельсора?
 </string>
       </value>
     </item>
@@ -38157,7 +38157,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1000_still_questions/91569f22-2998-4a63-9697-b58ba0b22162</string>
       </key>
       <value>
-        <string>I still have a lot of questions.
+        <string>У меня еще много вопросов.
 </string>
       </value>
     </item>
@@ -38166,7 +38166,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1100_herelsor_doorstep/bcfb3206-b733-468d-9fe2-41addaf522db</string>
       </key>
       <value>
-        <string>We have to stay alert. The area is more dangerous than ever now.
+        <string>Мы должны быть начеку. Этот район сейчас опаснее, чем когда-либо.
 </string>
       </value>
     </item>
@@ -38175,7 +38175,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1100_herelsor_doorstep/20fa5978-86b7-43ac-90ce-151036034d35</string>
       </key>
       <value>
-        <string>Yes. I figured the Archelites would try and disrupt the Herelsor trade routes soon.
+        <string>Да. Я полагал, что Арчелайты скоро попытаются разрушить торговые пути Херельсора.
 </string>
       </value>
     </item>
@@ -38184,7 +38184,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1100_herelsor_doorstep/cfd482c0-5239-4028-84f6-075828f75a12</string>
       </key>
       <value>
-        <string>Daryon... Aren't those Archelite weapons?
+        <string>Дарион... Разве это не оружие Арчелайтов?
 </string>
       </value>
     </item>
@@ -38193,7 +38193,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1200_back_to_jagholm/5abb763e-e6d3-4005-bd33-48f10f733dd5</string>
       </key>
       <value>
-        <string>That's even more remote!
+        <string>Это еще дальше!
 </string>
       </value>
     </item>
@@ -38202,7 +38202,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1200_back_to_jagholm/247b35ea-1f0f-4808-b2d3-4dc02cd1b02c</string>
       </key>
       <value>
-        <string>No actually, we... come from Elon.
+        <string>Вообще-то нет, мы... пришли из Элона.
 </string>
       </value>
     </item>
@@ -38211,7 +38211,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1200_back_to_jagholm/ca78def6-e5c5-4d48-bdcb-7939a82543c0</string>
       </key>
       <value>
-        <string>Jagholm!? So I was right! You really do come from a backwater village!
+        <string>Ягхольм!? Значит, я был прав! Вы действительно родом из захолустной деревушки!
 </string>
       </value>
     </item>
@@ -38220,7 +38220,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1200_back_to_jagholm/1119d58a-36f8-4675-94e6-50326ab99241</string>
       </key>
       <value>
-        <string>I hope the people in Jagholm are safe since we left.
+        <string>Я надеюсь, что люди в Ягхольме в безопасности с тех пор, как мы уехали.
 </string>
       </value>
     </item>
@@ -38229,7 +38229,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1400_find_caravan/ce425af8-ef63-471f-ad56-3f1cd6e37511</string>
       </key>
       <value>
-        <string>Let's talk to the merchants and see if we can travel with them to Avaris.
+        <string>Давай поговорим с торговцами и посмотрим, сможем ли мы проехать с ними в Аварис.
 </string>
       </value>
     </item>
@@ -38238,7 +38238,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/fd5d7b28-4ccd-48e3-bd66-1dd9eadafafd</string>
       </key>
       <value>
-        <string>Or find a cure before the situation gets worse.
+        <string>Или найти лекарство, пока ситуация не ухудшилась.
 </string>
       </value>
     </item>
@@ -38247,7 +38247,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/69fafb16-1525-4946-885c-9a733bcc720b</string>
       </key>
       <value>
-        <string>But I've got to do something. I have to find a way to warn them.
+        <string>Но я должен что-то сделать. Я должен найти способ предупредить их.
 </string>
       </value>
     </item>
@@ -38265,7 +38265,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/63ec9fcf-eccc-451c-88d4-19ba5530074c</string>
       </key>
       <value>
-        <string>You're right.
+        <string>Ты права.
 </string>
       </value>
     </item>
@@ -38274,7 +38274,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/3986b7db-9e5b-4e90-be54-2ab075814019</string>
       </key>
       <value>
-        <string>Daryon… I don't want to rub it in, but if it wasn't for me, you would've been executed already.
+        <string>Дарион... я не хочу вдаваться в подробности, но если бы не я, тебя бы уже казнили.
 </string>
       </value>
     </item>
@@ -38283,7 +38283,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/ed94f12b-2b0b-4b41-9bc6-4a10c065d6ec</string>
       </key>
       <value>
-        <string>And will they believe you?
+        <string>И поверят ли они вам?
 </string>
       </value>
     </item>
@@ -38292,7 +38292,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/a89bb7d3-5514-4257-bb2b-5bf1f5eee020</string>
       </key>
       <value>
-        <string>They deserve to know what's coming at least.
+        <string>Они заслуживают хотя бы знать, что будет дальше.
 </string>
       </value>
     </item>
@@ -38301,7 +38301,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/52b57914-8627-403c-86e0-5e5697defe67</string>
       </key>
       <value>
-        <string>But they're still soldiers, men and women ready to sacrifice their lives to protect Heryon.
+        <string>Но они все еще солдаты, мужчины и женщины, готовые пожертвовать своей жизнью, чтобы защитить Герион.
 </string>
       </value>
     </item>
@@ -38310,7 +38310,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/8d87bd4a-23bb-4c7f-be0f-b153456cbbba</string>
       </key>
       <value>
-        <string>Listen, I know better than anyone that the Consort are ruthless.
+        <string>Послушай, я лучше, чем кто-либо другой, знаю, что Консорт безжалостен.
 </string>
       </value>
     </item>
@@ -38319,7 +38319,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/f6fe2291-148b-463d-8cac-e730827a2d87</string>
       </key>
       <value>
-        <string>And burn half the land? What about the Corroded? For all we know, these people could still be saved.
+        <string>И сжечь половину земель? А как насчет зараженных? Насколько нам известно, этих людей еще можно спасти.
 </string>
       </value>
     </item>
@@ -38328,7 +38328,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/9c82c8a6-a0d8-4d27-b25f-8cfe551f21cb</string>
       </key>
       <value>
-        <string>I don't know, purify as many Clockwork Fields as they can before the situation gets desperate.
+        <string>Я не знаю, очистить столько часовых полей, сколько они могут, прежде чем ситуация станет отчаянной.
 </string>
       </value>
     </item>
@@ -38337,7 +38337,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/88296250-b4db-46f5-b576-688b3f69f0b7</string>
       </key>
       <value>
-        <string>And what could the Consort do about it?
+        <string>И что может с этим поделать Консорт?
 </string>
       </value>
     </item>
@@ -38346,7 +38346,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/7842c0a4-997d-4a7f-a393-4449a8e0ad99</string>
       </key>
       <value>
-        <string>I must warn the Consort. They need to know another war is brewing.
+        <string>Я должен предупредить Консорт. Они должны знать, что назревает новая война.
 </string>
       </value>
     </item>
@@ -38355,7 +38355,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/381a852a-dc75-4626-920c-ae390ad16d3e</string>
       </key>
       <value>
-        <string>It's up to me, then.
+        <string>Значит, все зависит от меня.
 </string>
       </value>
     </item>
@@ -38364,7 +38364,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/4aa9fbf3-55ce-4f4c-b642-8638f21ffbe8</string>
       </key>
       <value>
-        <string>I was the drunkard in the scrapyard, remember? Nobody believed me.
+        <string>Я был пьяницей на свалке, помнишь? Никто мне не поверил.
 </string>
       </value>
     </item>
@@ -38373,7 +38373,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/4421c4ad-92dc-49c9-9997-bd0dc7fea6f4</string>
       </key>
       <value>
-        <string>Why didn't I tell everyone? I did tell everyone.
+        <string>Почему я никому не сказал? Я действительно всем рассказал.
 </string>
       </value>
     </item>
@@ -38382,7 +38382,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/6d89db6e-d339-4127-a9bf-38ca57989995</string>
       </key>
       <value>
-        <string>Why didn't you…
+        <string>Почему ты не…
 </string>
       </value>
     </item>
@@ -38391,7 +38391,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/0086330c-851f-4df5-9393-49cff56568e2</string>
       </key>
       <value>
-        <string>One that could be even more devastating than the one we're fighting now.
+        <string>Та, которая может быть еще более разрушительной, чем та, с которой мы сражаемся сейчас.
 </string>
       </value>
     </item>
@@ -38400,7 +38400,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/9ff78dfe-79fd-4211-9c9b-8adb26eb31a7</string>
       </key>
       <value>
-        <string>And the day they decide to take on Heryon, we'll have another war on our hands.
+        <string>И в тот день, когда они решат напасть на Херьон, у нас на руках будет еще одна война.
 </string>
       </value>
     </item>
@@ -38409,7 +38409,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/c9f4eb49-3f39-4fcd-a3e7-657d8a19ba60</string>
       </key>
       <value>
-        <string>The Corroded are slowly building up their forces.
+        <string>Зараженные медленно наращивают свои силы.
 </string>
       </value>
     </item>
@@ -38427,7 +38427,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/b1c7564b-8724-4092-8443-3ef4ccb9b687</string>
       </key>
       <value>
-        <string>True.
+        <string>Правда.
 </string>
       </value>
     </item>
@@ -38436,7 +38436,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/8670e9da-4f39-4127-adfb-ea709e48d2a6</string>
       </key>
       <value>
-        <string>Let me get this straight... You told me you saw at least one of the giant statues move, right?
+        <string>Позволь мне все прояснить... Ты сказал мне, что видел, как двигалась по крайней мере одна из гигантских статуй, верно?
 </string>
       </value>
     </item>
@@ -38445,7 +38445,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/bb2daa27-de26-46aa-ac41-bb9266e413f8</string>
       </key>
       <value>
-        <string>Now beat it.
+        <string>А теперь проваливай.
 </string>
       </value>
     </item>
@@ -38454,7 +38454,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/a8585c6b-16b6-409a-bd74-413cd675f3e1</string>
       </key>
       <value>
-        <string>Yeah, right.
+        <string>Ну да, конечно.
 </string>
       </value>
     </item>
@@ -38463,7 +38463,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/451b3488-ef36-491a-bdc3-a0083f4e9a05</string>
       </key>
       <value>
-        <string>This is important.
+        <string>Это важно.
 </string>
       </value>
     </item>
@@ -38472,7 +38472,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/f6ae865c-77fc-4f2a-8acf-081068b916c0</string>
       </key>
       <value>
-        <string>From beyond the… What the hell are you talking about?
+        <string>Откуда... О чем ты, черт возьми, говоришь?
 </string>
       </value>
     </item>
@@ -38481,7 +38481,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/665fbcae-ed36-4d90-833d-9e509a91dd21</string>
       </key>
       <value>
-        <string>Then tell him this letter comes from “Beyond the Black Ridge".
+        <string>Тогда скажите ему, что это письмо пришло из-за Черного Хребта.
 </string>
       </value>
     </item>
@@ -38490,7 +38490,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/f9e51170-d274-44ac-97a5-b1a054b4cb5b</string>
       </key>
       <value>
-        <string>Yeah.
+        <string>Да.
 </string>
       </value>
     </item>
@@ -38499,7 +38499,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/0a71fc29-db44-4bec-898c-41097b82c72d</string>
       </key>
       <value>
-        <string>*The* Commander Kora?
+        <string>Командиру Коре?
 </string>
       </value>
     </item>
@@ -38508,7 +38508,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/e98565ed-1076-4090-80b0-d44911f62f56</string>
       </key>
       <value>
-        <string>… Kora?
+        <string>… Коре?
 </string>
       </value>
     </item>
@@ -38517,7 +38517,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/722029fa-f212-402d-9c83-96d622ce969e</string>
       </key>
       <value>
-        <string>Hey merc, I’m not a courier. If you need to deliver a letter to Commander Kora, you should do it yourself.
+        <string>Эй, простите, но я не курьер. Если вам нужно доставить письмо командующему Коре, вы должны сделать это сами.
 </string>
       </value>
     </item>
@@ -38526,7 +38526,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/4c0ce3d5-604b-45d7-bc27-cef6a2936e05</string>
       </key>
       <value>
-        <string>I need you to deliver this letter to your commanding officer.
+        <string>Мне нужно, чтобы вы передали это письмо вашему командиру.
 </string>
       </value>
     </item>
@@ -38535,7 +38535,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/5d62cc52-50d2-449b-bbea-77614fdd7593</string>
       </key>
       <value>
-        <string>Wait, do you need something?
+        <string>Стойте, вам что-нибудь нужно?
 </string>
       </value>
     </item>
@@ -38544,7 +38544,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/70ac8fd0-ade2-4a7d-a664-107e3a40c031</string>
       </key>
       <value>
-        <string>The Priestess and her aide are good to go and…
+        <string>Жрица и ее помощница готовы идти и…
 </string>
       </value>
     </item>
@@ -38553,7 +38553,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/f0bc0d23-5501-4a5d-8f4a-2acaf55169a2</string>
       </key>
       <value>
-        <string>Don’t do anything rash.
+        <string>Не делай ничего опрометчивого.
 </string>
       </value>
     </item>
@@ -38562,7 +38562,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/52322f8d-1598-416f-b26b-b572b05879a0</string>
       </key>
       <value>
-        <string>You guys go straight into the city. I’ll distract them so they don’t notice Ysoris’ arm.
+        <string>Вы, ребята, идите прямиком в город. Я отвлеку их, чтобы они не заметили руку Юсориса.
 </string>
       </value>
     </item>
@@ -38571,7 +38571,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/58d7cad9-3988-496a-96fd-2bc3e983dd81</string>
       </key>
       <value>
-        <string>Right you are.
+        <string>Ты прав.
 </string>
       </value>
     </item>
@@ -38580,7 +38580,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/cd18b389-e354-4bc9-b272-cd1ba629777d</string>
       </key>
       <value>
-        <string>By the way, you should probably hide your prosthetics, Ysoris. They might get the wrong idea about the technology you’re carrying.
+        <string>Кстати, тебе, наверное, стоит спрятать свои протезы, Юсорис. Они могут неправильно понять технологии, которые ты носишь.
 </string>
       </value>
     </item>
@@ -38589,7 +38589,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/6c7a5245-7290-44dc-bb8f-ad4c62b8fcc2</string>
       </key>
       <value>
-        <string>We really must find this cure. For their sakes, too.
+        <string>Мы действительно должны найти это лекарство. И ради них тоже.
 </string>
       </value>
     </item>
@@ -38598,7 +38598,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/d972d986-f3ab-40c5-93ba-345a8b4bcc35</string>
       </key>
       <value>
-        <string>I had hoped it wouldn't come to that…
+        <string>Я надеялся, что до этого не дойдет.…
 </string>
       </value>
     </item>
@@ -38607,7 +38607,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/a5666990-8ee2-4387-943f-3c8067b427f0</string>
       </key>
       <value>
-        <string>There are Consort soldiers at the gate. They’re probably here to relocate the refugees.
+        <string>У ворот стоят солдаты Консорта. Они, вероятно, здесь, чтобы переселить беженцев.
 </string>
       </value>
     </item>
@@ -38616,7 +38616,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0400_call_day/a407f80b-dfb7-42de-9ccd-8eea646eec2c</string>
       </key>
       <value>
-        <string>Yes, of course, of course!
+        <string>Да, конечно, конечно!
 </string>
       </value>
     </item>
@@ -38625,7 +38625,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0400_call_day/e17799ec-2edf-4b4b-b3b7-7a5a9b9ced26</string>
       </key>
       <value>
-        <string>And answer our questions?
+        <string>И отвечать на наши вопросы?
 </string>
       </value>
     </item>
@@ -38634,7 +38634,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0400_call_day/b09555ec-a3f8-45ab-a69c-27a94174f477</string>
       </key>
       <value>
-        <string>Well, nothing we can do right now, apart from drink.
+        <string>Ну, сейчас мы ничего не можем сделать, кроме как выпить.
 </string>
       </value>
     </item>
@@ -38643,7 +38643,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0400_call_day/00e2e556-959e-43d9-9b80-f7b386ebf2d5</string>
       </key>
       <value>
-        <string>Come back tomorrow. It's not as if we'll be leaving overnight anyway.
+        <string>Вернемся завтра. Мы ведь все равно не уедем ночью.
 </string>
       </value>
     </item>
@@ -38652,7 +38652,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0400_call_day/7f5accd2-0f33-4525-8875-a1bbe7df62b7</string>
       </key>
       <value>
-        <string>Chief isn't there. Spoke with a few colleagues: he darted off somewhere.
+        <string>Шефа там нет. Поговорил с несколькими коллегами: он куда-то умчался.
 </string>
       </value>
     </item>
@@ -38661,7 +38661,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/73ea20a4-dc03-4961-8d52-17a3999582c0</string>
       </key>
       <value>
-        <string>Let's get to Anselm's Kiss. It's past Solna's, to the north.
+        <string>Давайте доберемся до "Поцелуя Ансельма". Это мимо Солна, на север.
 </string>
       </value>
     </item>
@@ -38670,7 +38670,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/ba4ce89f-05d9-452e-a39c-d3739afae615</string>
       </key>
       <value>
-        <string>That's why you're keeping me around after all.
+        <string>Вот почему ты все-таки держишь меня при себе.
 </string>
       </value>
     </item>
@@ -38679,7 +38679,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/72aeca0d-c6ef-4c93-8f54-fc366f035061</string>
       </key>
       <value>
-        <string>Well, aren't you resourceful?
+        <string>Ну, разве ты не находчив?
 </string>
       </value>
     </item>
@@ -38688,7 +38688,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/ed865ea5-16cd-4be7-b68f-6b8d424af970</string>
       </key>
       <value>
-        <string>I don't think so. I know a way.
+        <string>Я так не думаю. Я знаю способ.
 </string>
       </value>
     </item>
@@ -38697,7 +38697,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/fbff6746-d249-4ccc-9972-003c1244a29d</string>
       </key>
       <value>
-        <string>Then we're stuck here?
+        <string>Значит, мы застряли здесь?
 </string>
       </value>
     </item>
@@ -38706,7 +38706,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/7feefdac-7077-4377-98e9-13b97969975d</string>
       </key>
       <value>
-        <string>I'm pretty sure the currents and the reefs would make short work of us, if the Archelites don't blow us up first.
+        <string>Я почти уверен, что течения и рифы быстро справятся с нами, если Арчелайты не взорвут нас первыми.
 </string>
       </value>
     </item>
@@ -38715,7 +38715,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/4f6526a0-8266-47fe-972d-b914afc422eb</string>
       </key>
       <value>
-        <string>No caravan. Should we try to cross by boat, then?
+        <string>Каравана нет. Может, попробуем переправиться на лодке?
 </string>
       </value>
     </item>
@@ -38724,7 +38724,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/67061afc-1610-4e00-bc23-9245244c7937</string>
       </key>
       <value>
-        <string>An airship, huh?
+        <string>Воздушный корабль, а?
 </string>
       </value>
     </item>
@@ -38733,7 +38733,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/390940a0-7f1c-4d7f-8ace-bf5166f97e3c</string>
       </key>
       <value>
-        <string>...Or someone with an airship fast enough to lose the Archelites.
+        <string>...Или кто-то с воздушным кораблем, достаточно быстрым, чтобы уйти от Арчелайтов.
 </string>
       </value>
     </item>
@@ -38742,7 +38742,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/56928243-be9f-44cf-a4d1-90803f849d5f</string>
       </key>
       <value>
-        <string>Go there despite the dangers? What you're looking for is someone with a death wish.
+        <string>Идти туда, несмотря на опасности? То, что вы ищете, - это кто-то с желанием умереть.
 </string>
       </value>
     </item>
@@ -38751,7 +38751,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/8c75c478-1f83-4bde-9234-0463edfd7771</string>
       </key>
       <value>
-        <string>Know the saying: "there's nothing a few Heyrs can't buy"?
+        <string>Знаете поговорку: "Нет ничего, что нельзя купить за деньги"?
 </string>
       </value>
     </item>
@@ -38760,7 +38760,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/2d0a0b4a-c30f-4919-99b1-e3ee0a820d32</string>
       </key>
       <value>
-        <string>You guys must be schmammered. No one goes there anymore! The Archelites are bombing the coast! And besides, all the trade routes have been nailed shut by the Consort.
+        <string>Вы, ребята, должно быть, заикнулись. Никто туда больше не ходит! Арчелайты бомбят побережье! И кроме того, все торговые пути были наглухо закрыты Консортом.
 </string>
       </value>
     </item>
@@ -38769,7 +38769,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/733b160c-134c-41e6-9656-2da9a6684821</string>
       </key>
       <value>
-        <string>Say what? Travel to Avaris?
+        <string>Что, простите? Отправиться в Аварис?
 </string>
       </value>
     </item>
@@ -38778,7 +38778,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/302e673d-4d68-4178-9753-13f0bab33eff</string>
       </key>
       <value>
-        <string>There's a Clockwork Field there. More fearsome than any other.
+        <string>Там есть Часовое Поле. Страшнее любого другого.
 </string>
       </value>
     </item>
@@ -38787,7 +38787,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/398abb6f-1c2d-4022-b5f3-a29b5f7a4e72</string>
       </key>
       <value>
-        <string>She's on Avaris, I can tell you that much. Somewhere near Twisted Peak, actually.
+        <string>Она на Аварисе, это я тебе точно могу сказать. Вообще-то, где-то рядом с Крученым Пиком.
 </string>
       </value>
     </item>
@@ -38796,7 +38796,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/3d6ddd9d-8a9a-4f50-a631-ce1b86b8ab65</string>
       </key>
       <value>
-        <string>The Silver-Haired Goddess?
+        <string>Седовласая Богиня?
 </string>
       </value>
     </item>
@@ -38805,7 +38805,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/a07a6c26-0a7f-407e-86bf-b3c5a8581d3b</string>
       </key>
       <value>
-        <string>Tell us more about the one you call, the Silver-Haired Goddess.
+        <string>Расскажи нам больше о той, которую ты называешь Седовласой Богиней.
 </string>
       </value>
     </item>
@@ -38814,7 +38814,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/ec76e529-e2d6-4383-9a9a-1c05da64b89b</string>
       </key>
       <value>
-        <string>I lost what *was* my life. That's close enough.
+        <string>Я потерял то, что было моей жизнью. Это весьма похоже.
 </string>
       </value>
     </item>
@@ -38823,7 +38823,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/4a865c3d-ca84-4500-b079-32ffd79808d3</string>
       </key>
       <value>
-        <string>You haven't lost your life.
+        <string>Ты не потерял свою жизнь.
 </string>
       </value>
     </item>
@@ -38832,7 +38832,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/4be0c2ba-b60a-4d9f-9660-9215335a5439</string>
       </key>
       <value>
-        <string>See? I am an expert on loss.
+        <string>Видите? Я эксперт по потерям.
 </string>
       </value>
     </item>
@@ -38841,7 +38841,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/cb708436-4818-4e52-9bac-2ff0423c6076</string>
       </key>
       <value>
-        <string>Check, check aaand check.
+        <string>Есть, есть иииии есть.
 </string>
       </value>
     </item>
@@ -38850,7 +38850,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/31d5b842-7ce5-4905-ba42-dbf1bbdf0c52</string>
       </key>
       <value>
-        <string>This pendant here? I lost it once. My pants, my mind, my lunch.
+        <string>Этот кулон здесь? Однажды я его потерял. Мои штаны, мой разум, мой обед.
 </string>
       </value>
     </item>
@@ -38859,7 +38859,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/ff2ba466-7e99-4912-bdea-894eafbe5d25</string>
       </key>
       <value>
-        <string>Lost my keys!? Once! Check.
+        <string>Потерял ключи!? Однажды! Есть.
 </string>
       </value>
     </item>
@@ -38868,7 +38868,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/838f34c4-1128-4b59-8ae2-bb49de05ee85</string>
       </key>
       <value>
-        <string>Magic? How…
+        <string>Магию? Как…
 </string>
       </value>
     </item>
@@ -38877,7 +38877,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/0ac81c5a-a741-4dd1-9075-4bdf1989694c</string>
       </key>
       <value>
-        <string>Lost an arm? Check. Legs? Check. A loved one? Check. My status and power. Check. The ability to cast magic? Check.
+        <string>Потерял руку? Есть. Ноги? Есть. Любимый человек? Есть. Мой статус и власть. Есть. Способность творить магию? Есть.
 </string>
       </value>
     </item>
@@ -38886,7 +38886,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/b5138785-4da5-4f62-9b3e-7c6f365eb1bb</string>
       </key>
       <value>
-        <string>I have lost everything that can be lost by a man.
+        <string>Я потерял все, что может потерять человек.
 </string>
       </value>
     </item>
@@ -38895,7 +38895,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/5661dc09-1a06-4a5c-b625-77f6a187b0a1</string>
       </key>
       <value>
-        <string>Losing things?
+        <string>Терять вещи?
 </string>
       </value>
     </item>
@@ -38904,7 +38904,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/c3d74e81-b3e6-4a8f-a51f-648b9039fc49</string>
       </key>
       <value>
-        <string>Apart from being the world's most knowledgeable man on the Corrosion, my other specialty is "Losing" things.
+        <string>Помимо того, что я самый знающий человек в мире по коррозии, моя другая специализация-это "терять" вещи.
 </string>
       </value>
     </item>
@@ -38913,7 +38913,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/2c461daf-87b1-43b2-afc7-2a0792c9eeac</string>
       </key>
       <value>
-        <string>Is that all?
+        <string>Это все?
 </string>
       </value>
     </item>
@@ -38922,7 +38922,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/977813a9-74be-447c-b922-068b0f3c27b0</string>
       </key>
       <value>
-        <string>And the only person on Heryon capable of finding the Silver-Haired Goddess.
+        <string>И единственный человек в Герионе, способный найти Седовласую Богиню.
 </string>
       </value>
     </item>
@@ -38931,7 +38931,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/c9267e7d-74b1-47e2-8b5a-9b3f696ed1a2</string>
       </key>
       <value>
-        <string>Wandering outcast, apprentice Cipher and the only known survivor of the Corrosion.
+        <string>Бродячий изгой, ученик сайфера и единственный известный выживший после коррозии.
 </string>
       </value>
     </item>
@@ -38940,7 +38940,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/ecf8e4b3-d688-47fc-bfd0-50820314d68c</string>
       </key>
       <value>
-        <string>Ysoris Amauricius Firebrandt, fourth of the Fallon. Former heir to the House of Firebrandt, Laureate Emeritus of the Imperial School of Wizardry.
+        <string>Юсорис Амаурициус Файрбрандт, четвертый своего имени. Бывший наследник дома Файрбрандтов, Почетный лауреат Императорской школы волшебников.
 </string>
       </value>
     </item>
@@ -38949,7 +38949,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/7ef1f382-b6aa-4397-910e-ee0d7208b1f4</string>
       </key>
       <value>
-        <string>Let's proceed methodically, starting from the beginning. Who are you... exactly?
+        <string>Давай начнем с самого начала. Кто ты такой на самом деле?
 </string>
       </value>
     </item>
@@ -38958,7 +38958,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/6b9d8b1c-a37b-495f-a48a-835679549b36</string>
       </key>
       <value>
-        <string>So, here we are. Ask away.
+        <string>Итак, мы здесь. Спрашивай.
 </string>
       </value>
     </item>
@@ -38967,7 +38967,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/ea2f4403-9f2d-4589-9806-80c8b5844c96</string>
       </key>
       <value>
-        <string>Let's get to Anselm's Kiss. It's past Solna's, to the north.
+        <string>Давайте доберемся до "Поцелуя Ансельма". Это мимо Солна, на север.
 </string>
       </value>
     </item>
@@ -38976,7 +38976,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/3f19ef12-04f2-4900-a255-2ec33ca94c78</string>
       </key>
       <value>
-        <string>That's why you're keeping me around after all.
+        <string>Вот почему ты все-таки держишь меня при себе.
 </string>
       </value>
     </item>
@@ -38985,7 +38985,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/7961f168-e960-47d3-9584-2dee5b41a131</string>
       </key>
       <value>
-        <string>Well, aren't you resourceful?
+        <string>Ну, разве ты не находчив?
 </string>
       </value>
     </item>
@@ -38994,7 +38994,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/b6aad3b2-61b7-41ea-9b3b-a2f1c92449d8</string>
       </key>
       <value>
-        <string>I don't think so. I know a way.
+        <string>Я так не думаю. Я знаю способ.
 </string>
       </value>
     </item>
@@ -39003,7 +39003,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/4a235c30-899a-4643-9b84-2c10e771432d</string>
       </key>
       <value>
-        <string>Then we're stuck here?
+        <string>Значит, мы застряли здесь?
 </string>
       </value>
     </item>
@@ -39012,7 +39012,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/945fb43e-7f4c-4f96-9665-d250d6f03766</string>
       </key>
       <value>
-        <string>I'm pretty sure the currents and the reefs would make short work of us, if the Archelites don't blow us up first.
+        <string>Я почти уверен, что течения и рифы быстро справятся с нами, если Арчелайты не взорвут нас первыми.
 </string>
       </value>
     </item>
@@ -39021,7 +39021,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/7e2d50dc-13e2-453e-b27b-a14ee11f49e6</string>
       </key>
       <value>
-        <string>No caravan. Should we try to cross by boat, then?
+        <string>Каравана нет. Может, попробуем переправиться на лодке?
 </string>
       </value>
     </item>
@@ -39030,7 +39030,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/cf91ce35-ca33-44ef-ae23-5aad34ab3dbf</string>
       </key>
       <value>
-        <string>An airship, huh?
+        <string>Воздушный корабль, а?
 </string>
       </value>
     </item>
@@ -39039,7 +39039,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/0031e46e-636b-4aba-ad64-60138b95db48</string>
       </key>
       <value>
-        <string>...Or someone with an airship fast enough to lose the Archelites.
+        <string>...Или кто-то с воздушным кораблем, достаточно быстрым, чтобы уйти от Арчелайтов.
 </string>
       </value>
     </item>
@@ -39048,7 +39048,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/b5d57430-1841-45ab-9653-2b540bc3735c</string>
       </key>
       <value>
-        <string>Go there despite the dangers? What you're looking for is someone with a death wish.
+        <string>Идти туда, несмотря на опасности? То, что вы ищете, - это кто-то с желанием умереть.
 </string>
       </value>
     </item>
@@ -39057,7 +39057,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/918a7ae1-124e-4bd9-bf88-043726cb59ac</string>
       </key>
       <value>
-        <string>Know the saying: "there's nothing a few Heyrs can't buy"?
+        <string>Знаете поговорку: "Нет ничего, что нельзя купить за деньги"?
 </string>
       </value>
     </item>
@@ -39066,7 +39066,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/92e689e0-e619-40fd-9663-68cf6ba45230</string>
       </key>
       <value>
-        <string>You guys must be schmammered. No one goes there anymore! The Archelites are bombing the coast! And besides, all the trade routes have been nailed shut by the Consort.
+        <string>Вы, ребята, должно быть, заикнулись. Никто туда больше не ходит! Арчелайты бомбят побережье! И кроме того, все торговые пути были наглухо закрыты Консортом.
 </string>
       </value>
     </item>
@@ -39075,7 +39075,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/c43f7af5-8c55-4c4d-afd4-2add2b4ac2bf</string>
       </key>
       <value>
-        <string>Say what? Travel to Avaris?
+        <string>Что, простите? Отправиться в Аварис?
 </string>
       </value>
     </item>
@@ -39084,7 +39084,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/0ec93baa-733c-4bf8-b5fd-6eba10166d9e</string>
       </key>
       <value>
-        <string>The transmitter should be in that area over there. I'll mark it for you on your map.
+        <string>Передатчик должен быть вон в том месте. Я отмечу его для тебя на карте.
 </string>
       </value>
     </item>
@@ -39093,7 +39093,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/8eae5f09-e8a8-4e29-aaee-f6d07d29a184</string>
       </key>
       <value>
-        <string>&lt;Did I miss something?&gt;
+        <string>&lt;Я что-то пропустил?&gt;
 </string>
       </value>
     </item>
@@ -39102,7 +39102,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/e8214fa9-d26b-47a4-b11d-6517fc1fd951</string>
       </key>
       <value>
-        <string>&lt;Should I laugh…or should I let it go?&gt;
+        <string>&lt;Я должен посмеяться... или отпустить это?&gt;
 </string>
       </value>
     </item>
@@ -39111,7 +39111,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/549bd190-3a84-477d-adff-4f12890ae37d</string>
       </key>
       <value>
-        <string>Heh-heh-heh.
+        <string>Хех-хех-хех.
 </string>
       </value>
     </item>
@@ -39120,7 +39120,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/f2ef1f9a-92e3-49ed-9585-34bb054f60e2</string>
       </key>
       <value>
-        <string>Yes, and it will cost you an arm and leg.
+        <string>Да, и это будет стоить вам руки и ноги.
 </string>
       </value>
     </item>
@@ -39129,7 +39129,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/39416b4b-a0ad-49bf-9d72-704586151fa8</string>
       </key>
       <value>
-        <string>Does that mean we'll have to pay to get to Avaris?
+        <string>Значит ли это, что нам придется заплатить, чтобы добраться до Авариса?
 </string>
       </value>
     </item>
@@ -39138,7 +39138,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/f5585ac9-c783-421f-a4a0-4eb4e06ef1f6</string>
       </key>
       <value>
-        <string>Provided we pay her handsomely, of course.
+        <string>При условии, конечно, что мы ей щедро заплатим.
 </string>
       </value>
     </item>
@@ -39147,7 +39147,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/6bec3a08-e953-49c5-8203-0b3f7ec73161</string>
       </key>
       <value>
-        <string>When we Ciphers need some rare and freshly stolen Archelite tech, she's our go-to person.
+        <string>Когда нам, шифровальщикам, нужны редкие и только что украденные технологии Арчелайтов, она - наш первый человек, к которому мы обращаемся.
 </string>
       </value>
     </item>
@@ -39156,7 +39156,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/b579e603-22f9-4b62-adbe-08b583366360</string>
       </key>
       <value>
-        <string>A self-declared skypirate. Whatever that is, your guess is as good as mine.
+        <string>Самопровозглашенный воздушный пират. Как бы то ни было, твоя догадка ничуть не хуже моей.
 </string>
       </value>
     </item>
@@ -39165,7 +39165,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/295269ad-3ab3-4776-b1ef-cb4406b6441b</string>
       </key>
       <value>
-        <string>Fallon.
+        <string>Фэллон.
 </string>
       </value>
     </item>
@@ -39174,7 +39174,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/7e735095-4c17-4f2c-bbab-6f7106388250</string>
       </key>
       <value>
-        <string>The captain of an airship that can take us to Avaris.
+        <string>С капитаном воздушного корабля, который доставит нас на Аварис.
 </string>
       </value>
     </item>
@@ -39183,7 +39183,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/f5d3d299-d8af-4b84-be13-c2f73ae7b743</string>
       </key>
       <value>
-        <string>Who are we trying to contact?
+        <string>С кем мы пытаемся связаться?
 </string>
       </value>
     </item>
@@ -39192,7 +39192,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/9e2cf9ce-f366-48b7-99b9-bdea9353bd1d</string>
       </key>
       <value>
-        <string>Ah, right, you were a soldier.
+        <string>Ах да, ты же был солдатом.
 </string>
       </value>
     </item>
@@ -39201,7 +39201,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/32105b02-3c9f-44ad-ba81-e14d6f479d35</string>
       </key>
       <value>
-        <string>"Know your enemies" as they say.
+        <string>"Знай своих врагов", как говорится.
 </string>
       </value>
     </item>
@@ -39210,7 +39210,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/c83b2285-6fc8-4239-912a-02d89b77cf91</string>
       </key>
       <value>
-        <string>I didn't know you were so well-versed on Archelite technology.
+        <string>Я и не знал, что ты так хорошо разбираешься в в их технологиях.
 </string>
       </value>
     </item>
@@ -39219,7 +39219,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/25273a38-a5d7-48e8-aa6f-b08767b7aa81</string>
       </key>
       <value>
-        <string>It's a device used by the Archelites to communicate with each other over long distances.
+        <string>Это устройство, используемое Арчелайтами для связи друг с другом на больших расстояниях.
 </string>
       </value>
     </item>
@@ -39228,7 +39228,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/78951461-763e-431b-b6ff-9296a38ce613</string>
       </key>
       <value>
-        <string>Perhaps... you want me to explain what a transmitter is?
+        <string>Возможно... вы хотите, чтобы я объяснил, что такое передатчик?
 </string>
       </value>
     </item>
@@ -39237,7 +39237,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/f1ec2733-8309-43c5-a45b-1a6cb596d332</string>
       </key>
       <value>
-        <string>Find the transmitter, of course. Why do you think I brought you here?
+        <string>Найти передатчик, конечно. Как ты думаешь, зачем я привел тебя сюда?
 </string>
       </value>
     </item>
@@ -39246,7 +39246,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/12239e75-c359-4f93-9df5-6347d6da0e59</string>
       </key>
       <value>
-        <string>So, here we are. What do we do now?
+        <string>Итак, вот мы и пришли. Что нам теперь делать?
 </string>
       </value>
     </item>
@@ -39255,7 +39255,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0150_infected_crystal/299ac212-c02c-43f9-ac6c-92183ef4e287</string>
       </key>
       <value>
-        <string>Exactly.
+        <string>Именно так.
 </string>
       </value>
     </item>
@@ -39264,7 +39264,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0150_infected_crystal/779fbfe0-782d-4158-9171-7134eb6b91e4</string>
       </key>
       <value>
-        <string>So, the Corroded worship their own goddess, and try to create the equivalent of crystals on their own…
+        <string>Итак, Зараженные поклоняются своей собственной богине и пытаются создать эквивалент кристаллов самостоятельно…
 </string>
       </value>
     </item>
@@ -39273,7 +39273,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0150_infected_crystal/6df13db8-125b-4d0d-9131-aa23e5596a12</string>
       </key>
       <value>
-        <string>The closest thing that Corroded metal can do to emulate crystals.
+        <string>Ближайшее, что может сделать Корродированный металл, чтобы эмулировать кристаллы.
 </string>
       </value>
     </item>
@@ -39282,7 +39282,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0150_infected_crystal/01ebd505-3e19-4672-88be-3a7bec82505c</string>
       </key>
       <value>
-        <string>I hope this thing is worth the trouble. What is it?
+        <string>Я надеюсь, что эта штука стоит того. Что это?
 </string>
       </value>
     </item>
@@ -39291,7 +39291,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1600_sentinels_death_cries/620e05c4-315e-40e9-86a8-0cae09c03f54</string>
       </key>
       <value>
-        <string>I'M NOT!
+        <string>НЕТ ЖЕ!
 </string>
       </value>
     </item>
@@ -39300,7 +39300,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1600_sentinels_death_cries/8239532b-92a5-40cc-b10e-61091ce991b6</string>
       </key>
       <value>
-        <string>You really sound like you're craving attention.
+        <string>Ты действительно говоришь так, будто жаждешь внимания.
 </string>
       </value>
     </item>
@@ -39309,7 +39309,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1600_sentinels_death_cries/f00c1937-fc5d-47b4-b9b1-1081b25c016d</string>
       </key>
       <value>
-        <string>Wait, don't go there. At least fifty people have died in this room.
+        <string>Подожди, не ходи туда. В этой комнате погибло по меньшей мере пятьдесят человек.
 </string>
       </value>
     </item>
@@ -39318,7 +39318,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1600_sentinels_death_cries/7b9c5942-a11c-45b2-abac-9898017f7279</string>
       </key>
       <value>
-        <string>Sentinels_and_Death_Cries
+        <string>Долгие_и_Смертные_Крики
 </string>
       </value>
     </item>
@@ -39327,7 +39327,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1700_barbacane/66624e18-e053-40e1-be19-3890b333d01c</string>
       </key>
       <value>
-        <string>I present to you now, the Gauntlet of Despair. Death count: 33.
+        <string>Теперь я представляю тебе перчатку отчаяния. Количество смертей: 33.
 </string>
       </value>
     </item>
@@ -39336,7 +39336,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1800_soul_crusher/75cb474e-a07d-494c-abb4-c5c4f6c278b9</string>
       </key>
       <value>
-        <string>Ah, the famed "Soul Crusher" room. Death count: 42.
+        <string>А, знаменитая комната "Сокрушителя душ". Количество смертей: 42.
 </string>
       </value>
     </item>
@@ -39345,7 +39345,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2000_gotten_quite_good/cc1146a2-ce8a-4960-af77-d4478f348108</string>
       </key>
       <value>
-        <string>I really wish I could enjoy killing people, because I've become so good at it. It is a terrible waste not to enjoy it.
+        <string>Я действительно хотел бы получать удовольствие от убийства людей, потому что я стал настолько хорош в этом. Это ужасная потеря - не наслаждаться ею.
 </string>
       </value>
     </item>
@@ -39354,7 +39354,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2200_singled_out/6c450f48-b4fc-4a14-bf17-6a1f14008892</string>
       </key>
       <value>
-        <string>You can't hide your true feelings from me.
+        <string>Ты не можешь скрыть от меня свои истинные чувства.
 </string>
       </value>
     </item>
@@ -39363,7 +39363,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2200_singled_out/b26b354c-c2d6-4535-9a97-eeab6583ee23</string>
       </key>
       <value>
-        <string>I know it because I can analyze and process your vital signs from here. Your breath, your heartbeat.
+        <string>Я знаю это, потому что могу анализировать и обрабатывать ваши жизненные показатели отсюда. Твое дыхание, твое сердцебиение.
 </string>
       </value>
     </item>
@@ -39372,7 +39372,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2200_singled_out/8b978d0c-88fe-49b1-9dad-e10c6652f4e9</string>
       </key>
       <value>
-        <string>You seemed like the most vulnerable of the bunch.
+        <string>Ты казался самым уязвимым из всей компании.
 </string>
       </value>
     </item>
@@ -39381,7 +39381,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2200_singled_out/2dfcc5a0-7955-4878-b5b4-bf1a0eae95d4</string>
       </key>
       <value>
-        <string>I was waiting for a time when I could separate you from the others. Divide and conquer, after all.
+        <string>Я ждал момента, когда смогу отделить тебя от остальных. Разделяй и властвуй, в конце концов.
 </string>
       </value>
     </item>
@@ -39390,7 +39390,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2300_weakest_link/d164e040-aa7e-4397-8b9b-f9fab371de50</string>
       </key>
       <value>
-        <string>Sometimes, you just want everything to stop. Don't you?
+        <string>Иногда ты просто хочешь, чтобы все прекратилось. Не так ли?
 </string>
       </value>
     </item>
@@ -39399,7 +39399,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2300_weakest_link/b3b74397-53d5-42e0-9920-169a8e054a1f</string>
       </key>
       <value>
-        <string>I suggest that maybe you should avoid needless suffering and take your own life.
+        <string>Полагаю, вам следует избегать ненужных страданий и покончить с собой.
 </string>
       </value>
     </item>
@@ -39408,7 +39408,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2300_weakest_link/cfc3e2f8-fd0f-467a-b594-29d6326558b6</string>
       </key>
       <value>
-        <string>Listen, I don't want to kill you. And the trials before you will be too painful for you to endure.
+        <string>Слушайте, я не хочу вас убивать. И испытания, которые вам предстоит пережить, будут слишком болезненны для вас.
 </string>
       </value>
     </item>
@@ -39417,7 +39417,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2400_ok_give_up/e87dccd8-a7be-47b5-b744-0f605afd6c04</string>
       </key>
       <value>
-        <string>It's okay. You will never see them again, and it's okay. Give up.
+        <string>Все нормально. Ты никогда их больше не увидишь, и это нормально. Сдавайтесь.
 </string>
       </value>
     </item>
@@ -39426,7 +39426,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2500_pity_still_alive/8f6481ba-59b7-4b8c-9d6d-161c577445df</string>
       </key>
       <value>
-        <string>Wait until I get my hands on you!
+        <string>Подожди, пока мои руки доберутся до тебя!
 </string>
       </value>
     </item>
@@ -39435,7 +39435,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2500_pity_still_alive/380e12aa-60f2-478f-893f-412fa7b99237</string>
       </key>
       <value>
-        <string>I tried to tell the lady you were from the Consort, coming to kill her.
+        <string>Я пытался сказать леди, что ты от Консорта и пришел убить ее.
 </string>
       </value>
     </item>
@@ -39444,7 +39444,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2500_pity_still_alive/2938fec6-233a-4ada-a502-f48008720a37</string>
       </key>
       <value>
-        <string>Well, you two didn't kill each other. Too bad.
+        <string>Ну, вы двое не убили друг друга. Очень жаль.
 </string>
       </value>
     </item>
@@ -39453,7 +39453,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2600_carnage_mode/4e891244-bebc-4b73-b9f3-20424ca33de2</string>
       </key>
       <value>
-        <string>Okay, forget it. It *will* be personal.
+        <string>Ладно, забудь об этом. Это*будет* личным.
 </string>
       </value>
     </item>
@@ -39462,7 +39462,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2600_carnage_mode/59cd5279-24e2-4084-bc32-f158ed86c74d</string>
       </key>
       <value>
-        <string>I still don't understand: what's a program?
+        <string>Я все еще не понимаю: что такое программа?
 </string>
       </value>
     </item>
@@ -39471,7 +39471,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2600_carnage_mode/fe9b0004-09ef-46ee-8102-030e6387285c</string>
       </key>
       <value>
-        <string>You're beginning to get really close, you know that? Soon I won't be able to chat, and I'll go into "massacre mode" (TM). Nothing personal, just the program.
+        <string>Вы начинаете подходить очень близко, вы знаете это? Скоро я не смогу общаться, и я перейду в" режим резни " (TM). Ничего личного, только программа.
 </string>
       </value>
     </item>
@@ -39480,7 +39480,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/d923bea6-4e4b-4a55-b028-7ad18151f33f</string>
       </key>
       <value>
-        <string>*Exasperated sigh*
+        <string>*Раздраженный вздох*
 </string>
       </value>
     </item>
@@ -39489,7 +39489,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/510c116c-2c89-45fb-bd04-a9366070b2ca</string>
       </key>
       <value>
-        <string>Does that mean we can come in?
+        <string>Значит ли это, что мы можем войти?
 </string>
       </value>
     </item>
@@ -39498,7 +39498,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/9d4799f0-12e0-4a1b-9e07-358863b0267e</string>
       </key>
       <value>
-        <string>Oh boy, I'm going to have a hard time.
+        <string>О боже, мне будет нелегко.
 </string>
       </value>
     </item>
@@ -39507,7 +39507,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/646cc6f8-9bf6-4681-b4cc-805df015aaa2</string>
       </key>
       <value>
-        <string>But you just said you had no *body* - how could you be a threat to us?
+        <string>Но ты только что сказал, что у тебя нет тела - как ты можешь быть угрозой для нас?
 </string>
       </value>
     </item>
@@ -39516,7 +39516,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/64ca9a65-e7de-4f38-9768-798bc5ed87ca</string>
       </key>
       <value>
-        <string>Well, you ask me! I'm trying to explain why I'm forced to kill you!
+        <string>Ну, вы меня спрашиваете! Я пытаюсь объяснить, почему я вынужден убить вас!Значит, вы бездумно крушите вещи?
 </string>
       </value>
     </item>
@@ -39525,7 +39525,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/1c47e239-1189-4ad6-b179-eedcf54b6134</string>
       </key>
       <value>
-        <string>Is it really that important?
+        <string>Неужели это так важно?
 </string>
       </value>
     </item>
@@ -39534,7 +39534,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/c74bc1ee-1d8d-4b3d-a54d-ec781a83b0f5</string>
       </key>
       <value>
-        <string>Well, it's not very easy to explain what I am to uneducated savages, okay? Just… Just try to focus!
+        <string>Ну, не так-то просто объяснить необразованным дикарям, что я такое, понятно? Просто ... просто попытайтесь сосредоточиться!
 </string>
       </value>
     </item>
@@ -39543,7 +39543,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/b53a0530-ef75-4f6f-a48c-0df97661a40a</string>
       </key>
       <value>
-        <string>We don't understand a word you're saying.
+        <string>Мы не понимаем ни слова из того, что ты говоришь.
 </string>
       </value>
     </item>
@@ -39552,7 +39552,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/8024ddd8-2aaf-48de-b599-83659cffe343</string>
       </key>
       <value>
-        <string>No, no... The, let's say a golem with a little bit of sentience sprinkled on top, but without the body.
+        <string>Нет-нет... Ну, скажем, Голем с капелькой разума, посыпанной сверху, но без тела.
 </string>
       </value>
     </item>
@@ -39561,7 +39561,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/3191deb3-bfbd-4a6b-a9db-790935f831ef</string>
       </key>
       <value>
-        <string>So, you mindlessly smash things?
+        <string>Значит, ты бездумно крушишь вещи?
 </string>
       </value>
     </item>
@@ -39570,7 +39570,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/be5ef2be-1b6b-4611-bf58-05d1f31c0ffb</string>
       </key>
       <value>
-        <string>Ghost? No, not really. I was made by those you call, Archelites. I'm more of a golem-thing. I believe that is what you call an automaton in these parts.
+        <string>Призрак? Нет, не совсем так. Меня создали те, кого вы называете Арчелайтами. Я больше похож на голема. По-моему, в здешних краях это называется автоматизацией.
 </string>
       </value>
     </item>
@@ -39579,7 +39579,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/e66ba472-7fda-4f0e-a445-c59b1ed358d5</string>
       </key>
       <value>
-        <string>Are you some kind of ghost haunting the place?
+        <string>Ты что, какой-то призрак, бродящий здесь?
 </string>
       </value>
     </item>
@@ -39588,7 +39588,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/d29aceb6-1fce-4113-986b-3f2a24ff209c</string>
       </key>
       <value>
-        <string>*Sigh* Well, I'm some kind of Artificial Intelligence, I control this place. The machines, the doors, the computers. The whole shebang.
+        <string>*Вздох*. Ну, я какой-то искусственный интеллект, я контролирую это место. Машины, двери, компьютеры. Всю эта хрень.
 </string>
       </value>
     </item>
@@ -39597,7 +39597,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/5391685b-3600-4be1-8856-85f866483568</string>
       </key>
       <value>
-        <string>Who are you?
+        <string>Кто ты?
 </string>
       </value>
     </item>
@@ -39606,7 +39606,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/c3513af9-e4ba-4281-9943-62f0d87c9eff</string>
       </key>
       <value>
-        <string>So, let's keep things civilized. I'll give you a chance to get out of here alive. You know the way out.
+        <string>Так что давайте вести себя цивилизованно. Я дам вам шанс выбраться отсюда живым. Вы знаете, как отсюда выбраться.
 </string>
       </value>
     </item>
@@ -39615,7 +39615,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/507dd0c1-4007-4958-af43-e06a0e4a90be</string>
       </key>
       <value>
-        <string>Lucky for you, I'm not that fond of killing.
+        <string>К счастью для вас, я не настолько люблю убивать.
 </string>
       </value>
     </item>
@@ -39624,7 +39624,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/94bd2d54-dcac-4b6a-bf27-d4f9c9111510</string>
       </key>
       <value>
-        <string>That makes us mortal enemies.
+        <string>Это делает нас заклятыми врагами.
 </string>
       </value>
     </item>
@@ -39633,7 +39633,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/b127cc7f-d98e-4019-b6f5-43e7b2ebbb02</string>
       </key>
       <value>
-        <string>This is an Archelite ship, and you are natives of this planet.
+        <string>Это корабль Арчелайтов, а вы - уроженцы этой планеты.
 </string>
       </value>
     </item>
@@ -39642,7 +39642,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/889c3a29-3c66-439d-8ead-9a1d0e73a4ff</string>
       </key>
       <value>
-        <string>But I'll be frank, you're not welcome here.
+        <string>Но я буду откровенен, вам здесь не рады.
 </string>
       </value>
     </item>
@@ -39651,7 +39651,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/a1c8eb2f-23d0-4fc8-865d-a914f990d870</string>
       </key>
       <value>
-        <string>Oh, hello you three! I'd like to say I'm glad to see you.
+        <string>О, привет вам троим! Я хотел бы сказать, что рад вас видеть.
 </string>
       </value>
     </item>
@@ -39660,7 +39660,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/a7263ce9-3f81-461d-9b16-cab53e0768e0</string>
       </key>
       <value>
-        <string>Ah, and death count: 37.
+        <string>А, и счетчик смертей: 37.
 </string>
       </value>
     </item>
@@ -39669,7 +39669,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/b444b79a-2a88-4656-a0a0-28e66deb3bb8</string>
       </key>
       <value>
-        <string>I hope you don't mind if I activate the robots while you search for it.
+        <string>Надеюсь, вы не будете возражать, если я активирую роботов, пока вы будете это искать.
 </string>
       </value>
     </item>
@@ -39678,7 +39678,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/18b94030-0d42-4deb-9e4b-b4860fea73dd</string>
       </key>
       <value>
-        <string>Yeah, there's probably something that could trigger the ventilation system... or not. What do I know, I'm only the ship's AI system.
+        <string>Да, вероятно, есть что-то, что может привести в действие вентиляционную систему... или нет. Что я могу знать, я всего лишь корабельная система искусственного интеллекта.
 </string>
       </value>
     </item>
@@ -39687,7 +39687,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/3e890bba-be41-4648-93a5-109d4f59242e</string>
       </key>
       <value>
-        <string>There's gotta be a way out of this! We have to find it! Now!
+        <string>Должен же быть какой-то выход! Мы должны его найти! Сейчас же!
 </string>
       </value>
     </item>
@@ -39696,7 +39696,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/1d8360a0-b30d-4235-b176-8133306aab07</string>
       </key>
       <value>
-        <string>Selene, Ysoris!
+        <string>Селена, Юсорис!
 </string>
       </value>
     </item>
@@ -39705,7 +39705,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/e6894d93-6022-4466-b103-aabbeafb2a64</string>
       </key>
       <value>
-        <string>And what do you know, she was right.
+        <string>И знаешь, она была права.
 </string>
       </value>
     </item>
@@ -39714,7 +39714,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/7e099ff8-7028-43df-b71f-333fae959d53</string>
       </key>
       <value>
-        <string>My aunt always predicted that my fondness for poultry would be the death of me.
+        <string>Моя тетя всегда предсказывала, что моя любовь к птице приведет меня к смерти.
 </string>
       </value>
     </item>
@@ -39723,7 +39723,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/549c6a0d-2770-4943-9956-3293c3407d7f</string>
       </key>
       <value>
-        <string>Yes, I admit. Making poison smell so delicious is devious, but you gotta hand it to me, it is also pure genius.
+        <string>Да, признаю. Заставить яд так вкусно пахнуть-это хитро, но ты должна отдать мне должное, это тоже гениально.
 </string>
       </value>
     </item>
@@ -39732,7 +39732,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/940d79a4-a5a2-49ec-8a5d-b923c75a1e00</string>
       </key>
       <value>
-        <string>What!?
+        <string>Что!?
 </string>
       </value>
     </item>
@@ -39741,7 +39741,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/01f0ef5e-2b73-4644-beb5-69ed5908e4df</string>
       </key>
       <value>
-        <string>I think it's safe for me to tell you now, that you've been inhaling poison.
+        <string>Думаю, теперь я могу сказать вам, что вы вдыхали яд.
 </string>
       </value>
     </item>
@@ -39750,7 +39750,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/ee7543a0-9bb7-4092-b09a-f6666786647a</string>
       </key>
       <value>
-        <string>But there's no rush, take another whiff. Fill your nostrils with the delicious aroma. Now picture some sweet potatoes with that.
+        <string>Но нет никакой спешки, сделайте еще один вдох. Наполните свои ноздри восхитительным ароматом. А теперь представьте себе немного сладкого картофеля с этим.
 </string>
       </value>
     </item>
@@ -39768,7 +39768,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/cfd0d427-8770-4a16-af0e-7588ee399fc9</string>
       </key>
       <value>
-        <string>Your demise.
+        <string>Твою кончину.
 </string>
       </value>
     </item>
@@ -39777,7 +39777,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/5bc59a12-66de-485c-9117-af4c014a9404</string>
       </key>
       <value>
-        <string>I've cooked something up all right.
+        <string>Я действительно кое-что приготовила.
 </string>
       </value>
     </item>
@@ -39786,7 +39786,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/4eea0ce5-b655-49d4-a432-d4dbf8cb8dc0</string>
       </key>
       <value>
-        <string>What is that smell? Did you cook us dinner between the two murder attempts?
+        <string>Что это за запах? Ты приготовила нам ужин между двумя покушениями на убийство?
 </string>
       </value>
     </item>
@@ -39795,7 +39795,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/dce9aa33-b142-40ed-b7f1-da395cafdaa9</string>
       </key>
       <value>
-        <string>Do you like it? It took a lot of tweaking to get that recipe right.
+        <string>Тебе это нравится? Потребовалось много усилий, чтобы сделать этот рецепт правильно.
 </string>
       </value>
     </item>
@@ -39804,7 +39804,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/6ee2e1cb-78e4-49f1-beb3-816bf9fa9098</string>
       </key>
       <value>
-        <string>Like roasted pilitch!
+        <string>Как жареный пилитч!
 </string>
       </value>
     </item>
@@ -39813,7 +39813,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/b4f90455-7087-4b9b-ab2c-7b5dd6fccf10</string>
       </key>
       <value>
-        <string>It smells like…
+        <string>Это пахнет как…
 </string>
       </value>
     </item>
@@ -39822,7 +39822,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/133d5efa-f537-4c57-88d3-0c195efbf767</string>
       </key>
       <value>
-        <string>*Sniff sniff*
+        <string>*Нюх нюх*
 </string>
       </value>
     </item>
@@ -39831,7 +39831,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2100_hangover/7b3b33ec-2b02-44bd-93ca-d6b0f3b65302</string>
       </key>
       <value>
-        <string>We should be okay; the poison didn't have enough time to take effect.
+        <string>Мы должны быть в порядке, яд не успел подействовать.
 </string>
       </value>
     </item>
@@ -39840,7 +39840,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2100_hangover/7224dea3-80a2-4f42-aaa4-8a77e30d41c9</string>
       </key>
       <value>
-        <string>Err, I don't feel so good… Oh wait, it's not the poison, just the hangover from last night.
+        <string>Э-э, я не очень хорошо себя чувствую ... ой, погодите, это не яд, просто похмелье с прошлой ночи.
 </string>
       </value>
     </item>
@@ -39849,7 +39849,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2100_hangover/5e7a9ab3-1be0-4a8a-a4ec-5f3230f94fd1</string>
       </key>
       <value>
-        <string>We did it. *koff*
+        <string>Мы сделали это. *Кхе*
 </string>
       </value>
     </item>
@@ -39858,7 +39858,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2100_hangover/97b97cbb-b4d8-4f92-98b3-829c9f328e42</string>
       </key>
       <value>
-        <string>We should be okay; the poison didn't have enough time to take effect.
+        <string>Мы должны быть в порядке, яд не успел подействовать.
 </string>
       </value>
     </item>
@@ -39867,7 +39867,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2100_hangover/f26cc87d-f3b1-46e3-a165-b14e6190abda</string>
       </key>
       <value>
-        <string>Err, I don't feel so good… Oh wait, it's not the poison, just the hangover from last night.
+        <string>Э-э, я не очень хорошо себя чувствую ... ой, погодите, это не яд, просто похмелье с прошлой ночи.
 </string>
       </value>
     </item>
@@ -39876,7 +39876,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2100_hangover/b0e9fd18-a245-483f-91b4-0f575b8b9512</string>
       </key>
       <value>
-        <string>We did it. *koff*
+        <string>Мы сделали это. *Кхе*
 </string>
       </value>
     </item>
@@ -39885,7 +39885,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0900_restplace/3a83b1c2-d186-456f-ac9d-82cb0d2dc357</string>
       </key>
       <value>
-        <string>Yeah. There's actually someone who choked to death on his own sandwich, here.
+        <string>Да. Здесь действительно кто-то подавился своим собственным сэндвичем.
 </string>
       </value>
     </item>
@@ -39894,7 +39894,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0900_restplace/8ad99def-4e41-4667-8e94-df7fdb0f4a35</string>
       </key>
       <value>
-        <string>Death count: 1
+        <string>Количество смертей: 1
 </string>
       </value>
     </item>
@@ -39903,7 +39903,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0900_restplace/f5ba723e-e1db-4103-9d3c-e32e82a6ae5f</string>
       </key>
       <value>
-        <string>This is the restroom. I felt it wouldn't be fair on our intruders not to have one. Everyone needs a little rest.
+        <string>Это уборная. Я чувствовала, что было бы нечестно по отношению к нашим незваным гостям не иметь ее. Всем нужен небольшой отдых.
 </string>
       </value>
     </item>
@@ -39912,7 +39912,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0900_restplace/da8af524-2bdd-4983-a6ac-ae199f0d0a40</string>
       </key>
       <value>
-        <string>Well, this is a nice change of pace.
+        <string>Ну, это хорошая смена курса.
 </string>
       </value>
     </item>
@@ -39921,7 +39921,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2800_discussing_price/4d099e81-b873-44fa-9574-14d57ff52cb4</string>
       </key>
       <value>
-        <string>Well that's your problem, not mine.
+        <string>Ну, это ваша проблема, а не моя.
 </string>
       </value>
     </item>
@@ -39930,7 +39930,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2800_discussing_price/1ba3391e-4eb0-421f-8324-8bc99bf741db</string>
       </key>
       <value>
-        <string>And we have people to save from the Corrosion!
+        <string>А у нас есть люди, которых надо спасать от Коррозии!
 </string>
       </value>
     </item>
@@ -39939,7 +39939,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2800_discussing_price/7513d1c6-c75e-4cf5-a659-346240e5c5a9</string>
       </key>
       <value>
-        <string>A very serious joke. I have expenses.
+        <string>Очень серьезная шутка. У меня есть расходы.
 </string>
       </value>
     </item>
@@ -39948,7 +39948,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2800_discussing_price/c2824c20-4b65-4184-b4ce-3fbef1c71f3a</string>
       </key>
       <value>
-        <string>Two million… Is this some kind of joke?
+        <string>Два миллиона... Это какая-то шутка?
 </string>
       </value>
     </item>
@@ -39957,7 +39957,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2800_discussing_price/edefe1d2-63a7-4b9d-bea9-b8b4acff2ec9</string>
       </key>
       <value>
-        <string>So, do you have two million Heyrs for the trip? I'll settle for no less.
+        <string>Итак, у вас есть два миллиона для поездки? Я не соглашусь на меньшее.
 </string>
       </value>
     </item>
@@ -39966,7 +39966,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/5356d6c3-b137-47e7-9c18-6fada0e0d3d9</string>
       </key>
       <value>
-        <string>URRRGH.
+        <string>ААААРГХ.
 </string>
       </value>
     </item>
@@ -39975,7 +39975,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/34b551ad-2714-465d-bcc7-1b68ea68de1f</string>
       </key>
       <value>
-        <string>"Programmed”? We don't understand.
+        <string>Запраграмирован? Мы не понимаем.
 </string>
       </value>
     </item>
@@ -39984,7 +39984,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/7c6e4200-0d72-4831-887d-73ab8ba6c7ed</string>
       </key>
       <value>
-        <string>Because I'm *programmed* like that.
+        <string>Потому что я так запрограммирован.
 </string>
       </value>
     </item>
@@ -39993,7 +39993,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/f7a02142-030c-40e2-b3ef-48301ff612b1</string>
       </key>
       <value>
-        <string>Yeah, why do you have to kill us?
+        <string>Да, почему ты должен нас прикончить?
 </string>
       </value>
     </item>
@@ -40002,7 +40002,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/fc905004-1879-4b45-b742-71e0df8e4a9b</string>
       </key>
       <value>
-        <string>Well, bad choice. Now, I'm obligated to kill you. Not that I enjoy the thought, mind you.
+        <string>Что ж, плохой выбор. Теперь я обязан убить тебя. Не то чтобы мне нравилась эта мысль, заметь.
 </string>
       </value>
     </item>
@@ -40011,7 +40011,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/23de1ddf-0c47-4fce-a2e9-5c578bd4c5f1</string>
       </key>
       <value>
-        <string>So you chose to stay?
+        <string>Так ты решила остаться?
 </string>
       </value>
     </item>
@@ -40020,7 +40020,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/d3ca212c-b635-490b-a3f1-88f9001d96d9</string>
       </key>
       <value>
-        <string>Don't bother.
+        <string>Не парься.
 </string>
       </value>
     </item>
@@ -40029,7 +40029,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/a2e63112-b78f-4aed-81a3-468927718b10</string>
       </key>
       <value>
-        <string>Sama-what?
+        <string>Сама-кого?
 </string>
       </value>
     </item>
@@ -40038,7 +40038,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/0f785c21-ebb2-44ec-8844-22824ff1261e</string>
       </key>
       <value>
-        <string>Oh? Some good Samaritans.
+        <string>А? Несколько добрых Самаритян.
 </string>
       </value>
     </item>
@@ -40047,7 +40047,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/2274c5f6-39b6-4561-a94c-6ce96157bd91</string>
       </key>
       <value>
-        <string>Besides, Daryon and Selene are the ones who got me the battery.
+        <string>Кроме того, Дарион и Селена - это те, кто достал мне аккумулятор.
 </string>
       </value>
     </item>
@@ -40056,7 +40056,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/afa7496d-d3b2-454c-9853-3f4f79af03b6</string>
       </key>
       <value>
-        <string>I did? Well, it's basically the same thing.
+        <string>Неужели? Ну, в общем, это одно и то же.
 </string>
       </value>
     </item>
@@ -40065,7 +40065,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/c05446f6-c263-4599-a870-70231cdaf0fa</string>
       </key>
       <value>
-        <string>You told me I'd probably rust in my hole until my death.
+        <string>Ты сказала мне, что я, вероятно, буду ржаветь в своей норе до самой смерти.
 </string>
       </value>
     </item>
@@ -40074,7 +40074,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/fa441841-c2b5-4b39-a565-49b628bfd86c</string>
       </key>
       <value>
-        <string>See? I told you you'd find one!
+        <string>Видишь? Я же говорила, что ты его найдешь!
 </string>
       </value>
     </item>
@@ -40083,7 +40083,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2700_atta_boy_ysoris/440ca216-8dfe-41cd-b255-7b55ad157cea</string>
       </key>
       <value>
-        <string>So you found a battery at last, Ysoris? Atta boy!
+        <string>Так ты наконец нашел аккумулятор, Юсорис? Молодец, парень!
 </string>
       </value>
     </item>
@@ -40092,7 +40092,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1900_seen_fallon/0a500605-0831-4682-8f5d-6594f4c6bce0</string>
       </key>
       <value>
-        <string>I knew I should've stuffed the previous intruders for showcasing.
+        <string>Я знал, что должен был отлупить предыдущих незваных гостей для демонстрации.
 </string>
       </value>
     </item>
@@ -40101,7 +40101,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1900_seen_fallon/e3b065ef-fe99-4f8a-be8a-4ec69d054409</string>
       </key>
       <value>
-        <string>Apparently, you're not very good at killing people.
+        <string>Видимо, ты не очень хорош в убийстве людей.
 </string>
       </value>
     </item>
@@ -40110,7 +40110,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1900_seen_fallon/cfdcc495-a49b-4808-848b-ff91e83893d1</string>
       </key>
       <value>
-        <string>She's here. She has thwarted all my attempts to kill her.
+        <string>Она здесь. Она сорвала все мои попытки убить ее.
 </string>
       </value>
     </item>
@@ -40119,7 +40119,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1900_seen_fallon/4c3c4be7-648e-44ef-8de2-b860db61eb77</string>
       </key>
       <value>
-        <string>Say, we're looking for a woman called, Fallon.
+        <string>Слушай, мы ищем женщину по имени Фэллон.
 </string>
       </value>
     </item>
