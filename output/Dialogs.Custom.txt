@@ -51209,7 +51209,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/fa31aa2c-596c-40a3-a49f-6df34556cff0</string>
       </key>
       <value>
-        <string>&lt;b&gt;Shush.&lt;/b&gt;
+        <string>&lt;b&gt;Замолчи.&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -51218,7 +51218,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/bc936c19-afc2-46ca-8c69-1147e084f6ec</string>
       </key>
       <value>
-        <string>Okay, but...
+        <string>Хорошо, но...
 </string>
       </value>
     </item>
@@ -51227,7 +51227,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/87eec379-6368-41df-aa23-895d79797220</string>
       </key>
       <value>
-        <string>Yesterday was yesterday. Today's today. That's all I have to say.
+        <string>Вчера было вчера. Сегодня - это сегодня. Это все, что я могу сказать.
 </string>
       </value>
     </item>
@@ -51252,7 +51252,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/41bd63d1-d7e0-4c70-8a39-203a3038d738</string>
       </key>
       <value>
-        <string>Hey, I just want to understand here. Weren't you hell-bent on kicking your ex-husband's butt?
+        <string>Эй, я просто хочу разобраться здесь. Разве ты не была одержима желанием надрать задницу своему бывшему мужу?
 </string>
       </value>
     </item>
@@ -51261,7 +51261,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/98e4b4f7-d4fd-48de-bedc-7717a803f50c</string>
       </key>
       <value>
-        <string>Daryon, I think you should just let go.
+        <string>Дарион, я думаю, ты должен просто отпустить это.
 </string>
       </value>
     </item>
@@ -51270,7 +51270,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/12191076-cb4f-4647-8a61-1fcd3e886061</string>
       </key>
       <value>
-        <string>But... I thought you were "done with Nekaroo farms."
+        <string>Но... Я думал, ты "покончила с фермами Нэкаро."
 </string>
       </value>
     </item>
@@ -51279,7 +51279,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/2c2b539b-9b4c-41ff-98de-3a0f052d4c85</string>
       </key>
       <value>
-        <string>Don't ask stupid questions, please.
+        <string>Не задавай глупых вопросов, пожалуйста.
 </string>
       </value>
     </item>
@@ -51288,7 +51288,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/69bbf264-1af9-4f21-9996-688a0d419e0d</string>
       </key>
       <value>
-        <string>So... what... will you be working with us from now on?
+        <string>Так... что... будете ли вы работать с нами с этого момента?
 </string>
       </value>
     </item>
@@ -51297,7 +51297,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/4aed307c-0213-4370-9dac-154635e29e01</string>
       </key>
       <value>
-        <string>Hey, you! It's about time you got back! We have work to do!
+        <string>Эй, вы! Самое время вам вернуться! У нас есть работа!
 </string>
       </value>
     </item>
@@ -51306,7 +51306,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/8b1e923d-c7e9-4527-8871-9bc01e8c1c3c</string>
       </key>
       <value>
-        <string>Craggers wants to speak with you. He's waiting for you in the den.
+        <string>Краггерс хочет поговорить с вами. Он ждет вас в кабинете.
 </string>
       </value>
     </item>
@@ -51315,7 +51315,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/4db2f1ea-dac5-4103-a066-1b0c534ff5f8</string>
       </key>
       <value>
-        <string>By the way!
+        <string>Кстати!
 </string>
       </value>
     </item>
@@ -51324,7 +51324,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/92ca1658-c412-429f-b4d8-5089080ca354</string>
       </key>
       <value>
-        <string>For now, you may use it as a place to rest.
+        <string>А пока вы можете использовать его как место для отдыха.
 </string>
       </value>
     </item>
@@ -51333,7 +51333,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/6b2c94da-58fa-4672-819c-66baea891aaa</string>
       </key>
       <value>
-        <string>So, here it is, place is now open for business. Solna was a crossroads of sorts, so maybe you can kick this place back into activity.
+        <string>Итак, вот оно, место теперь открыто для бизнеса. Солна была своего рода перепутьем, так что, возможно, вы сможете вернуть это место к активной деятельности.
 </string>
       </value>
     </item>
@@ -51342,7 +51342,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/16cadff5-8b24-4ac0-874a-3789a631acd5</string>
       </key>
       <value>
-        <string>Got it.
+        <string>Понял.
 </string>
       </value>
     </item>
@@ -51351,7 +51351,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/38cc1200-cf60-4047-a64c-55a54ee9de53</string>
       </key>
       <value>
-        <string>So, I'd need more manpower... and funds if you want me to dig deeper. I'll need Nekaroos too.
+        <string>Так что мне понадобится больше людей... и деньги, если вы хотите, чтобы я копала глубже. Мне также понадобится Нэкаро.
 </string>
       </value>
     </item>
@@ -51360,7 +51360,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/45df4924-c628-47ef-9de0-c2ea1fa365a3</string>
       </key>
       <value>
-        <string>We have a golden rule when it comes to excavations, though: don't tackle them unprepared.
+        <string>Однако у нас есть золотое правило, когда речь заходит о раскопках: не беритесь за них неподготовленными.
 </string>
       </value>
     </item>
@@ -51369,7 +51369,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/17aea59e-9312-4c55-8dc1-f60cd7d89756</string>
       </key>
       <value>
-        <string>It could be anything. An old cache for smugglers, a wine cellar, galleries dug by a giant burrower, but there's definitely stuff in it.
+        <string>Это может быть что угодно. Старый тайник для контрабандистов, винный погреб, галереи, вырытые гигантским землекопом, но там определенно есть что-то.
 </string>
       </value>
     </item>
@@ -51378,7 +51378,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/d70937fc-1ff5-4e79-84c5-b2970efb16e3</string>
       </key>
       <value>
-        <string>Complicated how?
+        <string>Насколько сложнее?
 </string>
       </value>
     </item>
@@ -51387,7 +51387,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/16519c3e-b027-4933-ac70-29f83dd5cbda</string>
       </key>
       <value>
-        <string>I started clearing out the rubbish in what I *thought* was a basement, but it appeared to be a bit more complicated than that.
+        <string>Я начала убирать мусор в том, что я* думала * было подвалом, но это оказалось немного сложнее, чем это.
 </string>
       </value>
     </item>
@@ -51396,7 +51396,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/a853c373-21d7-4db5-98e1-156865011e83</string>
       </key>
       <value>
-        <string>Now, that's interesting. Where did it come from?
+        <string>А вот это уже интересно. Откуда это взялось?
 </string>
       </value>
     </item>
@@ -51405,7 +51405,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/2441a960-dafa-4143-abbd-b8ffa9143cae</string>
       </key>
       <value>
-        <string>So, while clearing what appeared to be an inn, I dug up a little something - something that I figured would be of some use to you adventurous sorts.
+        <string>Итак, расчищая то, что казалось гостиницей, я откопала кое-что - кое-что, что, как я полагала, будет полезно для вас, любителей приключений.
 </string>
       </value>
     </item>
@@ -51414,7 +51414,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/fca4a105-2b8f-4104-b4a7-cb324d95659c</string>
       </key>
       <value>
-        <string>Good! Time to get to work!
+        <string>Хорошо! Пора приниматься за работу!
 </string>
       </value>
     </item>
@@ -51423,7 +51423,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/31d7317b-7a3b-42ae-a2c1-c279e6856b70</string>
       </key>
       <value>
-        <string>Yes, we do.
+        <string>Да.
 </string>
       </value>
     </item>
@@ -51432,7 +51432,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_04/72e2b4a6-3d98-464f-9747-65c502fff019</string>
       </key>
       <value>
-        <string>So, you got everything?
+        <string>Ну что, у вас все есть?
 </string>
       </value>
     </item>
@@ -51441,7 +51441,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/1323d5f7-f176-4a78-913f-00c27e38dbda</string>
       </key>
       <value>
-        <string>But If you don't feel like it, don't try. I'd rather avoid having the death of kind strangers on my conscience.
+        <string>Но если вам не хочется, не пытайтесь. Я бы предпочел избежать смерти добрых незнакомцев на своей совести.
 </string>
       </value>
     </item>
@@ -51450,7 +51450,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/043f2b84-9551-4df7-b0de-2de771f146cb</string>
       </key>
       <value>
-        <string>There are, not too far from here, I'll point it out on your map.
+        <string>Здесь, не очень далеко отсюда, я укажу это место на вашей карте.
 </string>
       </value>
     </item>
@@ -51459,7 +51459,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/100d7739-4d92-454c-9695-595c8a155c85</string>
       </key>
       <value>
-        <string>If we're lucky, there might be a few things left for me to share with you.
+        <string>Если нам повезет, может быть, у меня еще останется что-то, чем я могу поделиться с вами.
 </string>
       </value>
     </item>
@@ -51468,7 +51468,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/4c1fff07-7156-4c06-8da5-426b69b863a5</string>
       </key>
       <value>
-        <string>Hey, if you got a knack for a little risk &amp; reward, would you mind getting it back before the monsters finish their meal?
+        <string>Эй, если у вас есть талант к небольшому риску &amp; вознаграждению, не могли бы вы вернуть ее до того, как монстры закончат свою трапезу?
 </string>
       </value>
     </item>
@@ -51477,7 +51477,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/4d4eeda1-e864-4102-8aaa-d2933c6ae2c9</string>
       </key>
       <value>
-        <string>So I... Tossed them the satchel and ran for my life all the way here.
+        <string>Поэтому Я ... Бросил им сумку и бежал, спасая свою жизнь, всю дорогу до сюда.
 </string>
       </value>
     </item>
@@ -51486,7 +51486,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/09dd0e4d-ff52-43d3-9db5-95f782f0deb8</string>
       </key>
       <value>
-        <string>I failed to seal my Ambrosia pouch properly and some local monsters got attracted by the smell.
+        <string>Я не смог запечатать свой мешочек с амброзией должным образом, и некоторых местных монстров привлек запах.
 </string>
       </value>
     </item>
@@ -51495,7 +51495,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/2f025f0e-cf34-40d6-a915-e1c9836c3e1a</string>
       </key>
       <value>
-        <string>I have lost my satchel not too far from here. Well, lost is not the right term. "Dropped it" would be more likely.
+        <string>Я потерял свою сумку недалеко отсюда. Ну, потерял - это не совсем верный термин. "Бросил ее" было бы более правдоподобно.
 </string>
       </value>
     </item>
@@ -51504,7 +51504,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/b51932ad-d79f-4b10-b150-3a3c71605445</string>
       </key>
       <value>
-        <string>What's the problem?
+        <string>В чем проблема?
 </string>
       </value>
     </item>
@@ -51513,7 +51513,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/e6c2bfa0-79a5-433e-8b7d-14c1e7533a7c</string>
       </key>
       <value>
-        <string>I loathe to ask complete strangers for a favor, but I am at my wits' end.
+        <string>Я терпеть не могу просить совершенно незнакомых людей об одолжении, но я в полном отчаянии.
 </string>
       </value>
     </item>
@@ -51522,7 +51522,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/b6a8b498-024a-4cb3-a429-ff7979ee13e4</string>
       </key>
       <value>
-        <string>I've pointed out the place where I dropped my satchel on your map, if you wish to help me retrieve it.
+        <string>Я указал вам на карте место, где уронил сумку, если вы хотите помочь мне ее найти.
 </string>
       </value>
     </item>
@@ -51531,7 +51531,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/5d368468-64ac-4880-b041-f330b8a5aa16</string>
       </key>
       <value>
-        <string>Here, this is for you, you deserve it.</string>
+        <string>Вот, это для вас, вы это заслужили.</string>
       </value>
     </item>
     <item>
@@ -51539,7 +51539,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/cf1210f7-68e9-4884-855a-6b827610cb99</string>
       </key>
       <value>
-        <string>Here, this is for you, you deserve it.</string>
+        <string>Вот, это для вас, вы это заслужили.</string>
       </value>
     </item>
     <item>
@@ -51547,7 +51547,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/5697bc9a-b945-40c3-81bb-8059de56ee6d</string>
       </key>
       <value>
-        <string>Here, this is for you, you deserve it.
+        <string>Вот, это для вас, вы это заслужили.
 </string>
       </value>
     </item>
@@ -51556,7 +51556,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/aace067c-fad9-4a6c-a83c-607dc4453b39/msg</string>
       </key>
       <value>
-        <string>Before we part, we can split what's inside. There's a few good things left. What would you prefer?
+        <string>Прежде чем разойтись, мы можем поделить то, что внутри. Осталось еще несколько хороших вещей. Что бы вы предпочли?
 </string>
       </value>
     </item>
@@ -51565,7 +51565,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/aace067c-fad9-4a6c-a83c-607dc4453b39/choice1</string>
       </key>
       <value>
-        <string>A curative Item</string>
+        <string>Лечебный предмет</string>
       </value>
     </item>
     <item>
@@ -51573,7 +51573,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/aace067c-fad9-4a6c-a83c-607dc4453b39/choice2</string>
       </key>
       <value>
-        <string>A bundle of herbs</string>
+        <string>Пучок трав</string>
       </value>
     </item>
     <item>
@@ -51581,7 +51581,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/aace067c-fad9-4a6c-a83c-607dc4453b39/choice3</string>
       </key>
       <value>
-        <string>An Ambrosia Reed</string>
+        <string>Камыш Амброзия</string>
       </value>
     </item>
     <item>
@@ -51589,7 +51589,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/3769a462-41d9-4a19-90c5-9b1b0a07d977</string>
       </key>
       <value>
-        <string>You got it back! Thank you so much!
+        <string>Вы вернули ее обратно! Большое вам спасибо!
 </string>
       </value>
     </item>
@@ -51598,7 +51598,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/2a4cd7be-2c1e-4b90-9daa-2f70f687677f</string>
       </key>
       <value>
-        <string>We recovered the satchel.
+        <string>Мы забрали сумку.
 </string>
       </value>
     </item>
@@ -51607,7 +51607,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/ad4879d2-544a-418b-b28e-23d2d057619f</string>
       </key>
       <value>
-        <string>If they let us...
+        <string>Если они нам позволят...
 </string>
       </value>
     </item>
@@ -51616,7 +51616,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/851121e4-6e6c-4fe4-8daa-1c7244ea7ed8</string>
       </key>
       <value>
-        <string>Now all we gotta do is get back the apothecary's satchel.
+        <string>Теперь все, что нам нужно сделать, это вернуть аптекарскую сумку.
 </string>
       </value>
     </item>
@@ -51625,7 +51625,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_02/ec3876af-9402-4b4c-bef4-b09a3d11362c</string>
       </key>
       <value>
-        <string>Here they are!
+        <string>Вот они!
 </string>
       </value>
     </item>
@@ -51634,7 +51634,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/9db76cf3-6d7a-4ab1-9c70-a767278d5e02</string>
       </key>
       <value>
-        <string>Be careful, he's really &lt;b&gt;really&lt;/b&gt; angry!
+        <string>Будьте осторожны, он очень &lt;b&gt;очень&lt;/b&gt; злой!
 </string>
       </value>
     </item>
@@ -51643,7 +51643,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/f2012d89-b7ea-44f6-b2c9-7cc10a619ed6</string>
       </key>
       <value>
-        <string>Can you get rid of it, please? Please?
+        <string>Не могли бы вы избавиться от него, пожалуйста? Пожалуйста?
 </string>
       </value>
     </item>
@@ -51652,7 +51652,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/2d3513a5-cf43-4e04-bc22-9ed2612401aa</string>
       </key>
       <value>
-        <string>And I just can't feed it the Pilitch, it would bring me bad luck!
+        <string>И я просто не могу накормить его Пилитчем, это принесет мне неудачу!
 </string>
       </value>
     </item>
@@ -51661,7 +51661,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/e9427b12-f661-4183-b6d6-72fd73850a56</string>
       </key>
       <value>
-        <string>So, we ran all the way here, but the monster's still on our tracks. I bet it's out there, waiting for us!
+        <string>Итак, мы бежали всю дорогу сюда, но монстр все еще идет по нашим следам. Бьюсь об заклад, он где-то там, ждет нас!
 </string>
       </value>
     </item>
@@ -51670,7 +51670,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/7fe0aca7-a235-4312-ba22-7e4b9a26c05c</string>
       </key>
       <value>
-        <string>I was going to the market to sell this little demon here, but... somewhere along the way he has managed to peck some monster's butt without me noticing.
+        <string>Я собирался пойти на рынок, чтобы продать этого маленького демона, но..... где-то по пути он ухитрился незаметно для меня клюнуть в задницу какого-то монстра.
 </string>
       </value>
     </item>
@@ -51679,7 +51679,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/bf8bf783-443d-4896-844f-f540c112619a</string>
       </key>
       <value>
-        <string>Oh please, you gotta help me!
+        <string>О, пожалуйста, вы должны мне помочь!
 </string>
       </value>
     </item>
@@ -51688,7 +51688,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/1d10279e-9463-4bce-8c5b-87c58c3b9d14</string>
       </key>
       <value>
-        <string>Breeder Who taught you to peck monsters in the butt!? Huh? I never taught you that!
+        <string>Селекционер, который научил тебя клевать монстров в задницу!? А? Я никогда не учил тебя этому!
 </string>
       </value>
     </item>
@@ -51697,7 +51697,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/eb3d3fbd-cf3f-4817-89bf-3f5df5cdeedf</string>
       </key>
       <value>
-        <string>Bo-keeeek!
+        <string>Бу-кееек!
 </string>
       </value>
     </item>
@@ -51706,7 +51706,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_02/5bdf7654-7d15-4c4f-bd33-c4a791fc767b</string>
       </key>
       <value>
-        <string>Sorry, buddy, I know Pilitches are demons in feather skin, but you gotta let them alone.
+        <string>Извини, приятель, я знаю, что пилитчи - это демоны в перьевой шкуре, но ты должен оставить их в покое.
 </string>
       </value>
     </item>
@@ -51715,7 +51715,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/53e21b7d-97f1-417e-ac8d-cb730334eb04</string>
       </key>
       <value>
-        <string>Thank you for saving our lives.
+        <string>Спасибо, что спасли нам жизнь.
 </string>
       </value>
     </item>
@@ -51724,7 +51724,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/aca54016-3eea-4879-aad7-a15b7059ca99</string>
       </key>
       <value>
-        <string>I guess you guys... deserved it.
+        <string>Я думаю, что вы, ребята... заслужили это.
 </string>
       </value>
     </item>
@@ -51733,7 +51733,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/BreedingTroubles/Breeding_Troubles_01/6e4b8cbc-8ed7-4e09-be14-ca2d49e4ba31</string>
       </key>
       <value>
-        <string>We saw you do it. Lil' pecker over here just couldn't stop clucking during the whole fight... By the end of it, she had laid a big one.
+        <string>Мы видели, как вы это сделали. Маленький клювик просто не мог перестать щелкать во время всей драки... В конце концов, он отложил большую кучу.
 </string>
       </value>
     </item>
@@ -51742,7 +51742,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_01/15d940e6-cce4-4a9e-9b60-2a7e2b58449d</string>
       </key>
       <value>
-        <string>What is he suffering from?
+        <string>От чего он страдает?
 </string>
       </value>
     </item>
@@ -51751,7 +51751,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_01/04af5eb6-fa66-4a62-b959-989bead1c267</string>
       </key>
       <value>
-        <string>For the life of me I can't remember which remedy I must give in order to cure him!
+        <string>Клянусь жизнью, я не могу вспомнить, какое лекарство я должна дать, чтобы исцелить его!
 </string>
       </value>
     </item>
@@ -51760,7 +51760,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_01/9fc22043-da55-4f34-85b1-d6e4b270c4f5</string>
       </key>
       <value>
-        <string>Priestess, can you help me?
+        <string>Жрица, можешь мне помочь?
 </string>
       </value>
     </item>
@@ -51769,7 +51769,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_01/284ad570-5645-4e0a-a976-c58eb3d46788</string>
       </key>
       <value>
-        <string>This man is sick.
+        <string>Этот человек болен.
 </string>
       </value>
     </item>
@@ -51778,7 +51778,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/7d1853f1-6d29-4ffc-aaed-534bfe609cb4/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -51786,7 +51786,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/7d1853f1-6d29-4ffc-aaed-534bfe609cb4/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -51794,7 +51794,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/7d1853f1-6d29-4ffc-aaed-534bfe609cb4/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -51802,7 +51802,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/7d1853f1-6d29-4ffc-aaed-534bfe609cb4/msg</string>
       </key>
       <value>
-        <string>He's paralyzed - can't move his legs anymore. Some monster's roar got to his nerves, somehow.</string>
+        <string>Он парализован - не может больше двигать ногами. Рев какого-то монстра каким-то образом подействовал на его нервы.</string>
       </value>
     </item>
     <item>
@@ -51810,7 +51810,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/e86f10f2-07df-42e0-9bef-9079b36719af/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -51818,7 +51818,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/e86f10f2-07df-42e0-9bef-9079b36719af/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -51826,7 +51826,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/e86f10f2-07df-42e0-9bef-9079b36719af/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -51834,7 +51834,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/e86f10f2-07df-42e0-9bef-9079b36719af/msg</string>
       </key>
       <value>
-        <string>He has suffered a nasty gash. I tended to his wound, but he's still pale and weak.</string>
+        <string>Он получил ужасную рану. Я обработала ее, но он все еще бледен и слаб.</string>
       </value>
     </item>
     <item>
@@ -51842,7 +51842,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/50c9ad6e-73fe-482c-9c9f-e800d0c4fdc2</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -51850,7 +51850,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/d1638cc6-1bf0-4bf8-a1bb-56d07ffb4126</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -51859,7 +51859,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/20c66601-e9e2-484a-b127-af955e44d8d7</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -51868,7 +51868,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/7f997d9f-bd04-4889-8fb8-94fbfd3972ee</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -51876,7 +51876,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/11edd5e1-bfa9-496e-a8e8-4fb86e93d6a6</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -51885,7 +51885,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/2062c505-883b-4927-b6eb-cdf7787ad0f1</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -51894,7 +51894,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/0184f135-f0c2-4f31-a2d3-27a342aae570</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -51903,7 +51903,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/fa16d989-ccf3-4176-93fd-b64e0905d401</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -51912,7 +51912,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/8f5b3f2c-8f99-4461-b32e-88571c024457</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -51921,7 +51921,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/6b9113e2-7b57-4c03-bca3-1462c8e1505c</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -51929,7 +51929,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/f5f76ea1-af4e-49a3-9349-23c4ba93bdc5</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -51938,7 +51938,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/3856e887-0796-4acb-b4d5-02591637a949</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -51947,7 +51947,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/87162d27-9131-4507-b01e-7c680b099794</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -51956,7 +51956,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/c85c1d01-4c64-4f80-8302-9eada8c2d357</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -51965,7 +51965,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/670159c0-a53f-43bd-aecf-c34431b27caa</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -51974,7 +51974,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/3dca3b99-68bf-4ffd-9a9d-29af9450f27f</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -51982,7 +51982,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/452b1814-7bcd-4587-b69f-a5d2485bd3e6</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -51991,7 +51991,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/a3b23693-6a07-4c10-8f01-41e13d906979</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52000,7 +52000,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/acabd0b7-2f8d-4d85-8ce4-cc9a3d635591/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52008,7 +52008,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/acabd0b7-2f8d-4d85-8ce4-cc9a3d635591/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52016,7 +52016,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/acabd0b7-2f8d-4d85-8ce4-cc9a3d635591/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52024,7 +52024,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/acabd0b7-2f8d-4d85-8ce4-cc9a3d635591/msg</string>
       </key>
       <value>
-        <string>He kept saying nonesensical things - when I told him I couldn't make sense of what he said, he grew more and more restless. I gave him something to calm him down until I found out how to solve his problem.</string>
+        <string>Он продолжал говорить бессмысленные вещи - когда я сказал ему, что не могу понять, что он говорит, он становился все более и более беспокойным. Я дал ему кое-что, чтобы успокоить его, пока не выясню, как решить его проблему.</string>
       </value>
     </item>
     <item>
@@ -52032,7 +52032,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/5cee6c38-8ce1-4c85-bdc1-300b12a6ed15</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52040,7 +52040,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/1e536bf1-4add-4481-b5c0-638960d3dac8</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52049,7 +52049,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/f11ece1b-6362-4585-aa36-00f48c84be2a</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52058,7 +52058,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/f5bff672-4a7c-4a53-a174-0d6212232ce8</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52066,7 +52066,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/a744cdc8-8559-4bac-b058-fe92cea7c0b8</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52075,7 +52075,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/cf6d0918-a72f-4800-8003-c907932eca7e</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52084,7 +52084,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/023de175-f662-490a-b54f-3fee6d61c091</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52093,7 +52093,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/c258913d-9061-45aa-82f2-a7b3ccf240fa</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52102,7 +52102,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/f09c1f6c-6863-4303-b1a4-36c1fd005c59</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52111,7 +52111,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0876fc7e-ef73-45cf-b3c3-81e39532ff5a/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52119,7 +52119,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0876fc7e-ef73-45cf-b3c3-81e39532ff5a/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52127,7 +52127,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0876fc7e-ef73-45cf-b3c3-81e39532ff5a/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52135,7 +52135,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0876fc7e-ef73-45cf-b3c3-81e39532ff5a/msg</string>
       </key>
       <value>
-        <string>He has a really bad cough. Perhaps he inhaled too much miasma out there.</string>
+        <string>У него очень сильный кашель. Возможно, он надышался миазмами.</string>
       </value>
     </item>
     <item>
@@ -52143,7 +52143,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/571f09fe-6339-49c8-a4e7-e5ef05f0795b/msg</string>
       </key>
       <value>
-        <string>His face is blue - he can't breathe properly. A monster poisoned him and his lungs grow weaker by the second.</string>
+        <string>Его лицо посинело - он не может нормально дышать. Чудовище отравило его, и его легкие слабеют с каждой секундой.</string>
       </value>
     </item>
     <item>
@@ -52151,7 +52151,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/571f09fe-6339-49c8-a4e7-e5ef05f0795b/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52159,7 +52159,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/571f09fe-6339-49c8-a4e7-e5ef05f0795b/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52167,7 +52167,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/571f09fe-6339-49c8-a4e7-e5ef05f0795b/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52175,7 +52175,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/b43b9d3a-f730-4931-bfce-ccc30aad2eab/msg</string>
       </key>
       <value>
-        <string>Some specter has nested itself in his throat. He cannot speak anymore.</string>
+        <string>Какой-то дух поселился у него в горле. Он больше не может говорить.</string>
       </value>
     </item>
     <item>
@@ -52183,7 +52183,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/b43b9d3a-f730-4931-bfce-ccc30aad2eab/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52191,7 +52191,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/b43b9d3a-f730-4931-bfce-ccc30aad2eab/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52199,7 +52199,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/b43b9d3a-f730-4931-bfce-ccc30aad2eab/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52207,7 +52207,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/0d1e93e8-cf90-4699-b1c0-70dd0f4296bc/msg</string>
       </key>
       <value>
-        <string>I don't know exactly, he just... can't stop laughing. For the last three hours!</string>
+        <string>Я точно не знаю, он просто..... не могу перестать смеяться. За последние три часа!</string>
       </value>
     </item>
     <item>
@@ -52215,7 +52215,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/0d1e93e8-cf90-4699-b1c0-70dd0f4296bc/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52223,7 +52223,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/0d1e93e8-cf90-4699-b1c0-70dd0f4296bc/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52231,7 +52231,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/0d1e93e8-cf90-4699-b1c0-70dd0f4296bc/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52239,7 +52239,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/c2f7e0ed-d986-49a6-8994-26853b5a85af/msg</string>
       </key>
       <value>
-        <string>He's suffering from severe malnutrition. He's starved... and too weak to eat anything.</string>
+        <string>Он страдает от тяжелого недоедания. Он умирает с голоду... и слишком слаб, чтобы что-нибудь съесть.</string>
       </value>
     </item>
     <item>
@@ -52247,7 +52247,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/c2f7e0ed-d986-49a6-8994-26853b5a85af/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52255,7 +52255,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/c2f7e0ed-d986-49a6-8994-26853b5a85af/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52263,7 +52263,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/c2f7e0ed-d986-49a6-8994-26853b5a85af/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52271,7 +52271,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/f399c617-a6b5-46ac-b986-81dfd0564dfd/msg</string>
       </key>
       <value>
-        <string>This one is really a wimp. He claims he has a flu and that, since he can't breathe properly at night, he's too tired to move.</string>
+        <string>Этот действительно слабак. Он утверждает, что у него грипп и что, поскольку он не может нормально дышать по ночам, он слишком утомлен, чтобы двигаться.</string>
       </value>
     </item>
     <item>
@@ -52279,7 +52279,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/f399c617-a6b5-46ac-b986-81dfd0564dfd/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52287,7 +52287,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/f399c617-a6b5-46ac-b986-81dfd0564dfd/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52295,7 +52295,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/f399c617-a6b5-46ac-b986-81dfd0564dfd/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52303,7 +52303,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/90b03305-bf2f-433e-8ba2-b0691b390d15/msg</string>
       </key>
       <value>
-        <string>Monster poisoning. The fire inside is burning its organs.</string>
+        <string>Чудовищное отравление. Огонь внутри сжигает его органы.</string>
       </value>
     </item>
     <item>
@@ -52311,7 +52311,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/90b03305-bf2f-433e-8ba2-b0691b390d15/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52319,7 +52319,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/90b03305-bf2f-433e-8ba2-b0691b390d15/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52327,7 +52327,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/90b03305-bf2f-433e-8ba2-b0691b390d15/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52335,7 +52335,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/efb9ca67-0d9e-4b80-978b-c63c2e5b0b3a/msg</string>
       </key>
       <value>
-        <string>He was just running around, attacking everyone and everything in sight. We were lucky he tripped and knocked his head before he could do any real harm.</string>
+        <string>Он просто бегал вокруг, нападая на всех и вся в поле зрения. Нам повезло, что он споткнулся и ударился головой, прежде чем смог причинить какой-либо реальный вред.</string>
       </value>
     </item>
     <item>
@@ -52343,7 +52343,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/efb9ca67-0d9e-4b80-978b-c63c2e5b0b3a/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52351,7 +52351,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/efb9ca67-0d9e-4b80-978b-c63c2e5b0b3a/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52359,7 +52359,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/efb9ca67-0d9e-4b80-978b-c63c2e5b0b3a/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52367,7 +52367,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/04703654-6feb-4625-99c6-52347a066ae5/msg</string>
       </key>
       <value>
-        <string>He's in shock, he didn't suffer any life-threatening wound, but he just can't stop hyperventilating.</string>
+        <string>Он в шоке, у него нет никаких опасных для жизни ран, но он просто не может перестать задыхаться.</string>
       </value>
     </item>
     <item>
@@ -52375,7 +52375,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/04703654-6feb-4625-99c6-52347a066ae5/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52383,7 +52383,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/04703654-6feb-4625-99c6-52347a066ae5/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52391,7 +52391,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/04703654-6feb-4625-99c6-52347a066ae5/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52399,7 +52399,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/c485b4d7-4a61-4630-aa16-60b7eccf0aa8/msg</string>
       </key>
       <value>
-        <string>He's completely lethargic. I think a monster hypnotized him and ordered him to stand still while it devoured him. He probably managed to get away before the hypnosis took full effect, though.</string>
+        <string>Он совершенно апатичен. Я думаю, что чудовище загипнотизировало его и приказало стоять спокойно, пока оно собиралось пожирать его. Впрочем, ему, вероятно, удалось уйти до того, как гипноз полностью подействовал.</string>
       </value>
     </item>
     <item>
@@ -52407,7 +52407,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/c485b4d7-4a61-4630-aa16-60b7eccf0aa8/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52415,7 +52415,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/c485b4d7-4a61-4630-aa16-60b7eccf0aa8/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52423,7 +52423,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/c485b4d7-4a61-4630-aa16-60b7eccf0aa8/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52431,7 +52431,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/f399b275-0105-4787-9637-781877914846/msg</string>
       </key>
       <value>
-        <string>Food poisoning, I think he ate several venemous glowshrooms.</string>
+        <string>Пищевое отравление, я думаю, он съел несколько ядовитых светящихся грибов.</string>
       </value>
     </item>
     <item>
@@ -52439,7 +52439,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/f399b275-0105-4787-9637-781877914846/choice1</string>
       </key>
       <value>
-        <string>Fireleaf Bellows</string>
+        <string>Сильфон из Огненного Листа</string>
       </value>
     </item>
     <item>
@@ -52447,7 +52447,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/f399b275-0105-4787-9637-781877914846/choice2</string>
       </key>
       <value>
-        <string>Ether Blood</string>
+        <string>Эфирная Кровь</string>
       </value>
     </item>
     <item>
@@ -52455,7 +52455,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/f399b275-0105-4787-9637-781877914846/choice3</string>
       </key>
       <value>
-        <string>Crystal Needle</string>
+        <string>Кристальная Игла</string>
       </value>
     </item>
     <item>
@@ -52463,7 +52463,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/2baf0412-7ed8-44ca-9c77-c39a63003a54</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52472,7 +52472,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0ba68318-d53a-4f02-821f-f83726fe4eff</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52481,7 +52481,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/bd653722-d477-4482-ab7f-ed955eea8da2</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52490,7 +52490,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/206f6f9d-96d8-41f2-b0f0-f7a8c2814168</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon, I will get him to the nearest town where a master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -52499,7 +52499,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/43f9b3ba-1107-4829-938b-71f4e5c3bd9f</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52508,7 +52508,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0235bf66-c378-4bcf-bb69-9bc344f950f0</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52517,7 +52517,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/58b13c4f-8467-4b0c-8585-0d0112588842</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52525,7 +52525,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/b94ed945-b450-449e-91e2-30e8b6ea6f4e</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52534,7 +52534,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/3005c70c-fd02-4dd4-968d-e98238c9731a</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52543,7 +52543,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/36f59bbc-0cc9-44c2-8d0f-8ac549292b2b</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52552,7 +52552,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/f3fae99c-a1be-47e7-8ca9-a6b2ccf0d3da</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52561,7 +52561,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/a4d64cb3-5b29-4bd0-bb7f-826f38727db4</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52570,7 +52570,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/ec2763fd-a9de-4248-89e2-599e8585035a</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52579,7 +52579,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/4ab94e39-7c9a-4d37-ba26-bde306e2733f</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52588,7 +52588,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/83d3e694-84ac-4f17-a317-2cc1ef6265f6</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52597,7 +52597,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/c47588f4-e1e9-49bb-99d2-05d35a2bd18f</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52605,7 +52605,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/2dce3886-a357-497f-8a80-a320db15c1c5</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52614,7 +52614,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/f83f7059-f6e8-4590-ba4b-19f557cc6f33</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52623,7 +52623,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/eae86b1b-3837-43f3-a77f-0722c7d8d05b</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52632,7 +52632,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/8a4ef9ae-84c3-4e0b-b5f7-f792fcac7bd9</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52641,7 +52641,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/9dd37a4c-5ed9-49a5-ba1f-fa95ba3251aa</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52650,7 +52650,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/fe7a976f-91be-426d-a8ac-3b291dd00c6b</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon, I will get him to the nearest town where a master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -52659,7 +52659,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/a6ee38ab-861b-473f-811b-45be45f83a8f</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52668,7 +52668,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/ac55f8e9-8368-44fd-a1d8-db4a6f7ed687</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52677,7 +52677,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/bfced6b8-c4df-4b49-a505-c3d7cf8ae6fe</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52685,7 +52685,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/26b7ab31-0cda-4916-aad7-e8e8dac1db02</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52694,7 +52694,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/72e8fd2b-580b-4c62-b2f1-d27ccd1a3774</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52703,7 +52703,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/09b50104-44c3-4849-88f3-8025904e2278</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon, I will get him to the nearest town where a master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -52712,7 +52712,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/801b67e7-b264-4fa6-8858-2106601165d8</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52721,7 +52721,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/96c3db2a-a97e-4d97-b3b2-d701a42b464f</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52730,7 +52730,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/93dc09ea-e47b-468d-9ad7-d84dbc1fed02</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52738,7 +52738,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/422384e6-a5d4-4af4-bfe3-f7c0e8c95412</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52747,7 +52747,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/824812b0-c440-432e-9ece-e1eae7e7b610</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52756,7 +52756,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/8bc763fd-a863-4d9a-af23-2219e85338a3</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52765,7 +52765,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/ab5bb54e-cf0e-46d0-98f0-6f38eff88831</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52774,7 +52774,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/2ad03523-51c8-4203-99b1-66cf34ff1c57</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52783,7 +52783,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/be3c802d-77a6-430f-8551-3a45cfdf9f91</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52791,7 +52791,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/e3dd17c4-1130-4f86-a03c-e8d0cb52e861</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52800,7 +52800,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/a3eb780e-e1a8-4f98-bb23-3c16445f3690</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52809,7 +52809,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/dbb38b65-27d4-4ff9-b0d2-7e247d0f217e</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52818,7 +52818,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/bae60a33-93d9-43fa-a146-dde1728bf96e</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52827,7 +52827,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/4ef8d6f1-7760-4ad9-b801-ccba4902ef50</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52836,7 +52836,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/d099bd78-baee-4171-95be-680e6bdba789</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52844,7 +52844,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/f4f67445-a8fd-4eb6-ae12-17c77b724052</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52853,7 +52853,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/f8686261-d910-47be-954f-5f59bf5d6db1</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52862,7 +52862,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/3bbb5952-117e-4f72-8ad3-a53c1980dd0a</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52871,7 +52871,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/cf057ebd-d981-439a-bbe3-3b1608580fc5</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52880,7 +52880,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/6db914c1-af6e-4e6c-9599-0f0708b738c0</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52889,7 +52889,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/c2690df2-6e0d-4e0a-8430-433d300bc91b</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52897,7 +52897,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/29fe76ae-9c77-47d0-997d-ab9c0b4780e8</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52906,7 +52906,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/162f3abf-063a-4188-8ac3-744f6fb0bbbf</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52915,7 +52915,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/8c0cd7cf-9770-4c38-90e3-487a863485a9</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon, I will get him to the nearest town where a master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -52924,7 +52924,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/a9c4e302-a8f2-4122-a72d-f7a1c14f314c</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52933,7 +52933,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/fa07b3cc-f4b6-495e-bb4e-a954b78f9fd7</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52942,7 +52942,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/d7ad7a57-c645-4610-8113-0baa0abe5b36</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.</string>
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.</string>
       </value>
     </item>
     <item>
@@ -52950,7 +52950,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/86a107c5-2219-4138-a00d-101f1842f55c</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -52959,7 +52959,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/d2e586eb-0013-4960-88d7-6d9c1412db4e</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -52968,7 +52968,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/19edee9f-4db0-4535-88d0-fd479ac747a1</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -52977,7 +52977,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/4c1a7627-c482-4ea0-9c37-58ba5a2f60be</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -52986,7 +52986,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/00d6ec44-0f3e-4fe8-b178-06f21afad32b</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52995,7 +52995,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/94c23b68-6fff-4306-8691-30c74468f7b5</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53004,7 +53004,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/3d0b179b-3633-4688-ae6a-8f217a9a881f</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53013,7 +53013,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/1ce11f7f-7794-4650-b47b-ce5f0d9cef72</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53022,7 +53022,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/3813de86-e19e-42af-b341-9b39b81d8df9</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53031,7 +53031,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/c335d325-9568-41ac-85c4-01d24141801c</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53040,7 +53040,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/f846cfbc-634e-47c3-b7c6-e93570cbd4b3</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53049,7 +53049,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/3b2bd536-fa8b-403d-9243-ba992c2ef77d</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53058,7 +53058,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/72d4f3d7-dcd6-4355-b405-96d44ef60cde</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53067,7 +53067,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/8ef567cb-ce6a-406b-9a6e-944e45734849</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53076,7 +53076,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/71e80967-965f-4760-addf-8f6ea3b5a2c7</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -53085,7 +53085,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/afa0fc90-cea6-426c-bd94-78a53ff1fe39</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -53094,7 +53094,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/f31dd99c-8de1-4dbf-b8c5-a2fc8f6ebcbf</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53103,7 +53103,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/b6540926-1cf8-4bfa-afd8-971ace5bedb1</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -53112,7 +53112,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/633299eb-cf97-4ad8-aa77-587f8b922e80</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -53121,7 +53121,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/6fa0e94e-a2e0-4138-a20a-714b37371b48</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53130,7 +53130,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/63fa3989-22e2-4b87-a078-d6455668058a</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53139,7 +53139,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/1bb8eb13-0028-4514-8e65-35bda1b6d8ee</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53148,7 +53148,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/7e919881-6807-4173-bde9-6b3319a0fbcf</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53157,7 +53157,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/221ceebf-ba9f-4ae3-ae70-42584cb6ce9d</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53166,7 +53166,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/1412072e-6c50-4e64-8a3d-c0876a1f698f</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53175,7 +53175,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/9a6d0ff2-b440-41a4-9f93-99293fc9fee9</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53184,7 +53184,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/fa18cc8e-481d-46ae-8fc6-7608a61361aa</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53193,7 +53193,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/05636cf4-d64b-4c5a-87f8-6d993913c580</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53202,7 +53202,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/ed00e3bb-ffc2-41ad-a8dc-36ac516f8ec4</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53211,7 +53211,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/b773c706-8bb7-4016-925b-d9bf9a617604</string>
       </key>
       <value>
-        <string>Don't worry, a caravan will pass by soon. I will get him to the nearest town where a Master will be able to treat him.
+        <string>Не волнуйся, скоро пройдет караван. Я отвезу его в ближайший город, где мастер сможет его вылечить.
 </string>
       </value>
     </item>
@@ -53220,7 +53220,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/0c82f1c4-7a14-4b31-9b16-ba1397ad6b26</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53229,7 +53229,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/037a80bc-818b-43a6-9580-808a79662331</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53238,7 +53238,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/3f432972-ed2a-4039-b318-2d31d4f586aa</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -53247,7 +53247,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/015fa1a1-a351-406a-8f02-78d9ae222058</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -53256,7 +53256,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/484afb82-e762-469b-a296-49c2c29f336f</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53265,7 +53265,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/ae3d403f-944f-439b-9616-391aa95edf3c</string>
       </key>
       <value>
-        <string>Don't worry, I'll stay with him until a Master arrives.
+        <string>Не волнуйся, я останусь с ним, пока не прибудет учитель.
 </string>
       </value>
     </item>
@@ -53274,7 +53274,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/60188aec-c420-42de-b5de-9cb74a043fd6</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53283,7 +53283,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/90301aaa-3b66-436a-bb8d-750f893024ac</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53292,7 +53292,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/3f09ca4d-92a0-4521-9ba5-751315f8c584</string>
       </key>
       <value>
-        <string>I'm still a trainee. Nevertheless, you helped in a time of need. Take this, Priestess - I know you will use it for good.
+        <string>Я все еще ученик. Тем не менее, ты помогла мне в трудную минуту. Возьми это, Жрица - я знаю, что ты используешь это во благо.
 </string>
       </value>
     </item>
@@ -53301,7 +53301,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/23b6273b-4244-438a-b820-4b326df1dbe3</string>
       </key>
       <value>
-        <string>Couldn't have done it without your diagnosis.
+        <string>Я бы не смогла этого сделать без вашего диагноза.
 </string>
       </value>
     </item>
@@ -53310,7 +53310,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/50f1ca2c-c69b-4e62-b383-84d4a26ce67a</string>
       </key>
       <value>
-        <string>He looks better now. It seems you made the right call, Priestess.
+        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53319,7 +53319,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/72b52b17-6f05-462d-9774-19d63161ce13</string>
       </key>
       <value>
-        <string>Don't worry, I'll stay with him until a Master arrives.
+        <string>Не волнуйся, я останусь с ним, пока не прибудет учитель.
 </string>
       </value>
     </item>
@@ -53328,7 +53328,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/558b29dc-2258-46f4-8ce3-bcb80d4eb8df</string>
       </key>
       <value>
-        <string>We got it wrong, somehow.
+        <string>Каким-то образом мы ошиблись.
 </string>
       </value>
     </item>
@@ -53337,7 +53337,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/a253a9af-8dc6-4009-8de2-a30939a05ff0</string>
       </key>
       <value>
-        <string>He's not getting any better.
+        <string>Ему не становится лучше.
 </string>
       </value>
     </item>
@@ -53346,7 +53346,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/c3618fb1-e299-499a-b403-6601e48588b4</string>
       </key>
       <value>
-        <string>Maybe you guys can help me. This here crate fell off from some caravan.
+        <string>Может быть, вы, ребята, сможете мне помочь. Вот этот ящик упал с одного из караванов.
 </string>
       </value>
     </item>
@@ -53355,7 +53355,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/177ce886-a359-4b4f-b248-2c413143c226</string>
       </key>
       <value>
-        <string>I warned them that they had lost something, but they didn't even bother to stop. They shouted something back at me: "We won't miss it!" or something, couldn't hear it all.
+        <string>Я предупредил их, что они что-то потеряли, но они даже не потрудились остановиться. Они что-то кричали мне в ответ: "мы этого не теряли!" или что-то в этом роде, но я не все расслышал.
 </string>
       </value>
     </item>
@@ -53364,7 +53364,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/a7fba40a-f27c-4ea2-938d-90d78d8d1782</string>
       </key>
       <value>
-        <string>So, here I am, wondering if I should open it, or leave it be.
+        <string>И вот я здесь, раздумывая, открыть его или оставить в покое.
 </string>
       </value>
     </item>
@@ -53373,7 +53373,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Pilitch/c2e73cda-6646-4f07-ba9f-3b9fe1952e8d</string>
       </key>
       <value>
-        <string>You wanna take it? Careful with that, y'know. Taking something a mad Pilitch has laid is bad luck!
+        <string>Ты хочешь взять его? Осторожнее с этим, знаешь ли. Брать то, что спрятал безумный пилитч, - это плохая примета.
 </string>
       </value>
     </item>
@@ -53382,7 +53382,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/82d80318-711c-439a-9dd9-1e9d6cde87cf</string>
       </key>
       <value>
-        <string>Hey... But, who are you!?
+        <string>Эй... Но, кто ты?
 </string>
       </value>
     </item>
@@ -53391,7 +53391,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/fe413665-d959-4379-9092-1f4fcefa3482</string>
       </key>
       <value>
-        <string>We're just the guys who opened the crate... But what were you doing in there?
+        <string>Мы просто ребята, которые открыли ящик... Но что ты там делал?
 </string>
       </value>
     </item>
@@ -53400,7 +53400,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/7e69fc2f-ebb2-4905-b485-f1d8b540cdf5/choice2</string>
       </key>
       <value>
-        <string>Don't open it</string>
+        <string>Не открывать</string>
       </value>
     </item>
     <item>
@@ -53408,7 +53408,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/7e69fc2f-ebb2-4905-b485-f1d8b540cdf5/choice1</string>
       </key>
       <value>
-        <string>Open it</string>
+        <string>Открыть</string>
       </value>
     </item>
     <item>
@@ -53416,7 +53416,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/7e69fc2f-ebb2-4905-b485-f1d8b540cdf5/msg</string>
       </key>
       <value>
-        <string>So, what should we do?
+        <string>Итак, что же нам делать?
 </string>
       </value>
     </item>
@@ -53425,7 +53425,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/e9a4ecf3-3529-49a2-a61a-958c4c64d94e</string>
       </key>
       <value>
-        <string>You're right. It might be dangerous. I'll hide it somewhere and come back with some pals, later.</string>
+        <string>Ты прав. Это может быть опасно. Я спрячу его где-нибудь и вернусь с друзьями, позже.</string>
       </value>
     </item>
     <item>
@@ -53433,7 +53433,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Item/749a0bca-3426-49ea-a84e-c601c867720c</string>
       </key>
       <value>
-        <string>Where... huuuh. Oh, there! You have a good eye on ya, pal!
+        <string>Где... хааах. Ах, вот оно! У тебя зоркий глаз, приятель!
 </string>
       </value>
     </item>
@@ -53442,7 +53442,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/793acaf5-e64f-4f67-bef3-ac21b645335d</string>
       </key>
       <value>
-        <string>Where's the caravan!? Did they leave me behind *again*!? Oh, I swear they're gonna have it!!!
+        <string>А где же караван?? Неужели они снова бросили меня?!? О, клянусь, они заплатят за это!!!
 </string>
       </value>
     </item>
@@ -53451,7 +53451,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/9d073f41-836b-4c7b-a644-d466d232473f</string>
       </key>
       <value>
-        <string>Well, thanks to you guys, I may just have a chance to catch those sons of pilitches.
+        <string>Ну, благодаря вам, ребята, у меня, возможно, будет шанс поймать этих детей пилитчей.
 </string>
       </value>
     </item>
@@ -53460,7 +53460,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/ad4a3e55-5a90-43ad-9b80-1e59588a5a86</string>
       </key>
       <value>
-        <string>I was sleeping! What, never 'eard of a "sleeping crate"? That's what it was!
+        <string>Я спал! Что, никогда не слышал о "спальном ящике"? Вот что это было!
 </string>
       </value>
     </item>
@@ -53597,7 +53597,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/PriestessRoutine/PriestessRoutine_PNJ01_Story01/d832c3f1-2233-4465-b280-e1da4c6d9762/msg</string>
       </key>
       <value>
-        <string>Choix 1 juste</string>
+        <string>CВыберите 1 вариант</string>
       </value>
     </item>
     <item>
@@ -53605,7 +53605,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/PriestessRoutine/PriestessRoutine_PNJ01_Story01/d832c3f1-2233-4465-b280-e1da4c6d9762/choice1</string>
       </key>
       <value>
-        <string>Absolve</string>
+        <string>Освобождение</string>
       </value>
     </item>
     <item>
@@ -53613,7 +53613,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/PriestessRoutine/PriestessRoutine_PNJ01_Story01/d832c3f1-2233-4465-b280-e1da4c6d9762/choice2</string>
       </key>
       <value>
-        <string>Advice</string>
+        <string>Совет</string>
       </value>
     </item>
     <item>
@@ -53621,7 +53621,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/PriestessRoutine/PriestessRoutine_PNJ01_Story01/d832c3f1-2233-4465-b280-e1da4c6d9762/choice3</string>
       </key>
       <value>
-        <string>Approve</string>
+        <string>Одобрение</string>
       </value>
     </item>
     <item>
@@ -53629,7 +53629,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/cfadbb38-3326-484f-9991-ac48979bc41e</string>
       </key>
       <value>
-        <string>Nice! I hoped you'd say that! Let's do this!</string>
+        <string>Здорово! Я надеялся, что ты это скажешь! Давайте сделаем это!</string>
       </value>
     </item>
     <item>
@@ -53637,7 +53637,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Pilitch/76f37590-5d14-4062-85cb-c47e94deeb74</string>
       </key>
       <value>
-        <string>Looks like it has laid off something.
+        <string>Похоже, он что-то отложил.
 </string>
       </value>
     </item>
@@ -53646,7 +53646,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Pilitch/bbc0830c-0dd3-4833-875c-fdc3f9ef4586</string>
       </key>
       <value>
-        <string>Oh, boy, it doesn't look happy!
+        <string>О, Боже, это не выглядит счастливым!
 </string>
       </value>
     </item>
@@ -53664,7 +53664,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Pilitch/9e45da0b-9ce2-47cb-91ee-9243b7353885</string>
       </key>
       <value>
-        <string>It's a... a pilitch!
+        <string>Это... пилитч!
 </string>
       </value>
     </item>
@@ -53673,7 +53673,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Item/e3a83add-d73b-4163-9a79-7ef6e1111ecc</string>
       </key>
       <value>
-        <string>Wait, I see something. Right there.
+        <string>Подожди, я что-то вижу. Прямо там.
 </string>
       </value>
     </item>
@@ -53682,7 +53682,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Item/f3baa8b1-8eaf-4f84-93de-16eac06da057</string>
       </key>
       <value>
-        <string>Mostly trash...
+        <string>В основном мусор...
 </string>
       </value>
     </item>
@@ -53691,7 +53691,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Pilitch/aee83107-bf70-4b5a-a1b0-09dc779f5313</string>
       </key>
       <value>
-        <string>See ya!</string>
+        <string>Увидимся!</string>
       </value>
     </item>
     <item>
@@ -53699,7 +53699,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Pilitch/edce65cd-a349-4716-8918-c35a19ef0ae7</string>
       </key>
       <value>
-        <string>Well, thanks for your assistance, fellas! Always good to have someone nearby in case something goes wrong!</string>
+        <string>Ну что ж, спасибо за помощь, ребята! Всегда хорошо иметь кого-то рядом на случай, если что-то пойдет не так!</string>
       </value>
     </item>
     <item>
@@ -53716,7 +53716,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Item/b5dd294c-f918-42bb-8e39-a82000021c95</string>
       </key>
       <value>
-        <string>See ya!</string>
+        <string>Увидимся!</string>
       </value>
     </item>
     <item>
@@ -53724,7 +53724,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Item/115a14d2-53c9-41fe-bc2c-5c6c3363320c</string>
       </key>
       <value>
-        <string>Well, I guess that's it. Thanks for your assistance, fellas!</string>
+        <string>Ну, я думаю, что на этом все. Спасибо за вашу помощь, ребята!</string>
       </value>
     </item>
     <item>
@@ -53732,7 +53732,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/96fe5305-affc-4632-8275-d3b9e00a4de4</string>
       </key>
       <value>
-        <string>*Yawn* I told you not to wake me up before...
+        <string>*Зевок* Я же просил тебя не будить меня раньше...
 </string>
       </value>
     </item>
@@ -53741,7 +53741,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/9c76ff73-338a-4a42-94f9-c655a6b93db7</string>
       </key>
       <value>
-        <string>See ya!</string>
+        <string>Увидимся!</string>
       </value>
     </item>
     <item>
@@ -53749,7 +53749,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_ManSleep/68343591-d94a-4b4e-8479-f1926f983dd1</string>
       </key>
       <value>
-        <string>Well, I guess that's it. Thanks for your assistance, fellas!</string>
+        <string>Ну, я думаю, что на этом все. Спасибо за вашу помощь, ребята!</string>
       </value>
     </item>
     <item>
@@ -53757,7 +53757,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_01/bf04c1e7-ce44-4785-bf93-7529164ed58f</string>
       </key>
       <value>
-        <string>Got quite the conundrum here, fellas.
+        <string>Вот вам и загадка, ребята.
 </string>
       </value>
     </item>
@@ -53766,7 +53766,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Boosted_Monster/d482dbee-3859-4ca8-9107-92bb26ed6110</string>
       </key>
       <value>
-        <string>Why would they be transporting *that*!?</string>
+        <string>Зачем они перевозят *это*!?</string>
       </value>
     </item>
     <item>
@@ -53774,7 +53774,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/DynamicEvents/AstryanContinent/Generic/ErdingersCrate/Erdingers_Crate_Boosted_Monster/8fa6be55-8f33-4989-b407-ac1ec0d7de03</string>
       </key>
       <value>
-        <string>Danger.</string>
+        <string>Опасно.</string>
       </value>
     </item>
     <item>
