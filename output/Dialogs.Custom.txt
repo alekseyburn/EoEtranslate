@@ -48505,7 +48505,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/e6e79c5c-4395-4335-adae-4381b745567a</string>
       </key>
       <value>
-        <string>*Sigh*
+        <string>*Вздох*
 </string>
       </value>
     </item>
@@ -48514,7 +48514,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/f08ad3a5-a279-4cfe-a7f5-46a73e7b52ba</string>
       </key>
       <value>
-        <string>I don't know if betting on your life is all *that* glorious.
+        <string>Я не думаю, что ставить свою жизнь это мужественно.
 </string>
       </value>
     </item>
@@ -48523,7 +48523,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/677ad96d-7dcc-4d79-b550-cd0602855e43</string>
       </key>
       <value>
-        <string>He obviously gambled on his life. An act of the utmost courage that even I—in my wildest Gravlax game—would never have the guts to do.
+        <string>Он явно рисковал своей жизнью. Акт величайшего мужества, на который даже у меня — в моей самой дикой игре в Гравлакс — никогда не хватило бы смелости.
 </string>
       </value>
     </item>
@@ -48532,7 +48532,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/b08b9da9-4caf-4a6b-9445-8cdaab8fda37</string>
       </key>
       <value>
-        <string>Brave?
+        <string>Храброго?
 </string>
       </value>
     </item>
@@ -48541,7 +48541,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/a68abeb2-91e0-4ec0-97d5-81e7111899bd</string>
       </key>
       <value>
-        <string>A moment, please. I’d like to commemorate the soul of this brave fellow.
+        <string>Минуту, пожалуйста. Я хотел бы почтить память этого храброго человека.
 </string>
       </value>
     </item>
@@ -48550,7 +48550,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/4a9a3007-e558-4f7b-93f3-4e6f4cba1fcb</string>
       </key>
       <value>
-        <string>And the tomb is just as empty.
+        <string>И могила так же пуста.
 </string>
       </value>
     </item>
@@ -48559,7 +48559,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/6b39f91b-214e-4489-9723-69f0c1fcf943</string>
       </key>
       <value>
-        <string>Looks like we got our compulsive gambler.
+        <string>Похоже, мы нашли нашего заядлого игрока.
 </string>
       </value>
     </item>
@@ -48568,9 +48568,9 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/41fa0b77-248f-41e8-a57c-ccfb435bfe41</string>
       </key>
       <value>
-        <string>&lt;i&gt;"Gregor always bet ‘til he had nothing left.
-One day he had an idea—to bet something he had never bet on before.
-And now ‘ol Greg’s lying here."&lt;/i&gt;
+        <string>&lt;i&gt;"Грегор всегда держал пари, пока у него ничего не осталось.
+Однажды ему пришла в голову идея — поставить то, что он никогда раньше не ставил.
+А теперь старина Грег лежит здесь."&lt;/i&gt;
 </string>
       </value>
     </item>
@@ -48588,7 +48588,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/2f92b1fd-66c0-4bc4-b0c3-24fa91d3e4ab</string>
       </key>
       <value>
-        <string>I don't have a good feeling about this.
+        <string>У меня не очень хорошее предчувствие по этому поводу.
 </string>
       </value>
     </item>
@@ -48597,7 +48597,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/59a6fdc5-1d5f-4384-89ae-8a3197d24349</string>
       </key>
       <value>
-        <string>Why would anyone steal ashes?
+        <string>Зачем кому-то красть прах?
 </string>
       </value>
     </item>
@@ -48606,7 +48606,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/5e888a03-1cd3-4a5f-afc8-592a33b2e738</string>
       </key>
       <value>
-        <string>Ash robbers, then?
+        <string>Похитители праха, значит?
 </string>
       </value>
     </item>
@@ -48615,7 +48615,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/d602e0e8-53bb-4670-8f43-4afbff8cab48</string>
       </key>
       <value>
-        <string>If that was the case we would have found an empty urn.
+        <string>Если бы это было так, мы бы нашли пустую урну.
 </string>
       </value>
     </item>
@@ -48624,7 +48624,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/4d9107b8-9a88-4fe9-ade9-8040e941f7cc</string>
       </key>
       <value>
-        <string>Do you think a Black Stomach is involved?
+        <string>Как ты думаешь, черный желудок тут замешан?
 </string>
       </value>
     </item>
@@ -48633,7 +48633,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/c6189b05-d206-4c07-99d8-1ca2828ff829</string>
       </key>
       <value>
-        <string>Nothing. It was empty.
+        <string>Ничего. Она была пуста.
 </string>
       </value>
     </item>
@@ -48642,7 +48642,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/9ac14b97-a6bd-42e5-b355-118fa3704276</string>
       </key>
       <value>
-        <string>Did you find anything?
+        <string>Вы что-нибудь нашли?
 </string>
       </value>
     </item>
@@ -48651,7 +48651,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene3/6f7c9c29-492a-421c-9a96-de04f5d8f875</string>
       </key>
       <value>
-        <string>We found the grave of the gambler.
+        <string>Мы нашли могилу игрока.
 </string>
       </value>
     </item>
@@ -48660,7 +48660,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Julis_Talk_Again/afa50ecb-8828-4e3b-a4ef-4d6298b13c24</string>
       </key>
       <value>
-        <string>The tomb of the "compulsive gambler", did you find it?
+        <string>Вы нашли могилу "заядлого игрока"?
 </string>
       </value>
     </item>
@@ -48669,7 +48669,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/33de2ad9-7215-405d-98dd-f88394ce092b</string>
       </key>
       <value>
-        <string>So, we're looking for the tomb of someone who has been buried-in-flesh? I’ll remember that one.</string>
+        <string>Итак, мы ищем могилу того, кто был похоронен во плоти? Я это запомню.</string>
       </value>
     </item>
     <item>
@@ -48677,7 +48677,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/afd7598e-36d5-419c-88a3-8c466548cccd</string>
       </key>
       <value>
-        <string>Yeah, why would someone do that, I wonder.
+        <string>Да, интересно, зачем кому-то это делать?
 </string>
       </value>
     </item>
@@ -48686,7 +48686,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/19dbd89c-6717-42dc-9028-575f2a234483</string>
       </key>
       <value>
-        <string>Why would someone condemn their soul like that? I don't understand.
+        <string>Зачем кому-то так осуждать свою душу? Я не понимаю.
 </string>
       </value>
     </item>
@@ -48695,7 +48695,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/7163ec55-0acd-489e-939a-3e4d5530ae43</string>
       </key>
       <value>
-        <string>The Scriptures say they don't.
+        <string>Писания говорят, что это не так.
 </string>
       </value>
     </item>
@@ -48704,7 +48704,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/ada2c9da-3785-40d3-9dc3-683b6defe54f</string>
       </key>
       <value>
-        <string>Okay... but... do their souls still reach the Gods?
+        <string>Окей... но... неужели их души все еще достигают богов?
 </string>
       </value>
     </item>
@@ -48713,7 +48713,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/f7ee6913-6df6-4508-91c2-08b0a8f30031</string>
       </key>
       <value>
-        <string>Some people—for reasons we will never understand—prefer not to be cremated before they are buried.
+        <string>Некоторые люди - по причинам, которые мы никогда не поймем - предпочитают, чтобы их не кремировали перед погребением.
 </string>
       </value>
     </item>
@@ -48722,7 +48722,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/10b5012e-e853-44eb-95e1-b783a496210e</string>
       </key>
       <value>
-        <string>What's that?
+        <string>Что это?
 </string>
       </value>
     </item>
@@ -48731,7 +48731,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/81140e87-8812-4f50-868d-4513704e9935</string>
       </key>
       <value>
-        <string>Now, that sounds particularly nauseating.
+        <string>Теперь это звучит особенно тошнотворно.
 </string>
       </value>
     </item>
@@ -48740,7 +48740,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/7c8ab686-4918-42d6-8688-bb3293fed5ce</string>
       </key>
       <value>
-        <string>She wished for a &lt;i&gt;burial-in-flesh&lt;/i&gt;.
+        <string>Она хотела, чтобы ее &lt;i&gt;похоронили во плоти&lt;/i&gt;.
 </string>
       </value>
     </item>
@@ -48749,7 +48749,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/6606850e-1a6f-4afd-960e-a75bc49e5cf3</string>
       </key>
       <value>
-        <string>Some person who loathed the idea of being incinerated... for some reason.
+        <string>Какой-то человек, которому ненавистна сама мысль о том, чтобы быть сожженным... почему-то.
 </string>
       </value>
     </item>
@@ -48758,7 +48758,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/4ffa91b9-e187-4522-9246-9c421f1ba677</string>
       </key>
       <value>
-        <string>Then who's next?
+        <string>Тогда кто следующий?
 </string>
       </value>
     </item>
@@ -48767,7 +48767,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/395024d2-5eab-4861-b191-1f266fbe8237</string>
       </key>
       <value>
-        <string>... I do, actually.
+        <string>... Вообще-то да.
 </string>
       </value>
     </item>
@@ -48776,7 +48776,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/b9873943-a072-4ae9-a0f9-1e980019a8f7</string>
       </key>
       <value>
-        <string>So, do you want my help or not?
+        <string>Так тебе нужна моя помощь или нет?
 </string>
       </value>
     </item>
@@ -48785,7 +48785,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/2adb90ab-bd30-4dc7-9719-c0477ef9b3f7</string>
       </key>
       <value>
-        <string>Sounds fishy, Selene.
+        <string>Звучит подозрительно, Селена.
 </string>
       </value>
     </item>
@@ -48794,7 +48794,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/eaa8d668-9c5a-45ea-8cc1-b6fa7ffdcbf9</string>
       </key>
       <value>
-        <string>Reasons.
+        <string>Причины.
 </string>
       </value>
     </item>
@@ -48803,7 +48803,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/8c85417f-bb2c-4512-a0e9-7485ccb205cc</string>
       </key>
       <value>
-        <string>Why are you taking such an interest in that list?
+        <string>Почему ты проявляешь такой интерес к этому списку?
 </string>
       </value>
     </item>
@@ -48812,7 +48812,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/d0cc6d79-b49f-4f55-a6c6-8c0df57c776f</string>
       </key>
       <value>
-        <string>I will if you let me.
+        <string>Я сделаю это, если ты позволишь.
 </string>
       </value>
     </item>
@@ -48821,7 +48821,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/97ca7683-9802-44ef-ae4e-c189e9a1f68d</string>
       </key>
       <value>
-        <string>Selene! Don't even think of finishing that list by yourself!
+        <string>Селена! Даже не думай заканчивать этот список в одиночку!
 </string>
       </value>
     </item>
@@ -48830,7 +48830,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene1/b46dd764-61fa-4829-9d5d-c4f6ae310e53</string>
       </key>
       <value>
-        <string>Who’s next on the list?
+        <string>Кто следующий в списке?
 </string>
       </value>
     </item>
@@ -48839,7 +48839,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/2175db33-db20-4ac0-a5b0-80a73705c670</string>
       </key>
       <value>
-        <string>I'm probably just too tense. Let's go back to Juli.
+        <string>Наверное, я просто слишком напряжен. Давай вернемся к Джули.
 </string>
       </value>
     </item>
@@ -48848,7 +48848,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/e5a3af29-84ab-4586-ae7a-943430094c82</string>
       </key>
       <value>
-        <string>For a second there, I felt like someone was watching us.
+        <string>На секунду мне показалось, что кто-то наблюдает за нами.
 </string>
       </value>
     </item>
@@ -48857,7 +48857,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/2968cbb2-365a-4426-91dc-7262eeef6f9c</string>
       </key>
       <value>
-        <string>... Nothing.
+        <string>... Ни в чем.
 </string>
       </value>
     </item>
@@ -48875,7 +48875,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/8ff75a3d-3364-4862-a9ad-5bf56be56cd0</string>
       </key>
       <value>
-        <string>What is it, Daryon?
+        <string>В чем дело, Дарион?
 </string>
       </value>
     </item>
@@ -48884,7 +48884,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/6a3ef114-5f57-42bc-9525-937f69d3c5d1</string>
       </key>
       <value>
-        <string>Wait...
+        <string>Подожди...
 </string>
       </value>
     </item>
@@ -48902,7 +48902,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/21a7a2ce-07af-4692-b191-7e49ac3bff47</string>
       </key>
       <value>
-        <string>No one here can tell you what to feel, Daryon.
+        <string>Никто здесь не может сказать тебе, что чувствовать, Дарион.
 </string>
       </value>
     </item>
@@ -48911,7 +48911,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/88bea5ba-212b-4ebc-b783-39dc3721c1f7</string>
       </key>
       <value>
-        <string>Am I supposed to feel better now?
+        <string>Должен ли я теперь чувствовать себя лучше?
 </string>
       </value>
     </item>
@@ -48929,7 +48929,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/fe76e1a7-30a9-430a-9539-1ae2e41d96fc</string>
       </key>
       <value>
-        <string>Soldiers are an exception, Daryon. Even in the New Scriptures it says that Khrator comes down in person to harvest the souls of those who fought bravely.
+        <string>Солдаты - исключение, Дарион. Даже в новом Писании говорится, что Кратос приходит лично, чтобы собрать души тех, кто храбро сражался.
 </string>
       </value>
     </item>
@@ -48947,7 +48947,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/f6cecb76-c954-4a98-948f-d52bf3d41011</string>
       </key>
       <value>
-        <string>Yeah. I guess this is just beyond me.
+        <string>Да. Я думаю, что это просто выше моего понимания.
 </string>
       </value>
     </item>
@@ -48956,7 +48956,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/3bf4f88e-5c95-444b-9668-6a634879a289</string>
       </key>
       <value>
-        <string>You don’t have to agree with me on this.
+        <string>Вы не обязаны соглашаться со мной в этом.
 </string>
       </value>
     </item>
@@ -48965,7 +48965,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/c3c3463a-8205-4bbe-b113-1f20eb75634e</string>
       </key>
       <value>
-        <string>I’m just saying that I see her point. She wanted to follow the laws of nature, she felt it was right.
+        <string>Я просто хочу сказать, что понимаю ее точку зрения. Она хотела следовать законам природы, она чувствовала, что это правильно.
 </string>
       </value>
     </item>
@@ -48974,7 +48974,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/67633e23-70e7-4afa-ab8a-269f43e24091</string>
       </key>
       <value>
-        <string>Condemning your own soul to feed worms? How can someone justify that?
+        <string>Обрекая собственную душу на корм червям? Как кто-то может это оправдать?
 </string>
       </value>
     </item>
@@ -48983,7 +48983,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/9fb06a11-c9df-469c-a3b6-6d8fa567c48f</string>
       </key>
       <value>
-        <string>Making choices like that, may seem stupid to others, but it’s what makes us human.
+        <string>Такие решения могут показаться глупыми другим, но именно это делает нас людьми.
 </string>
       </value>
     </item>
@@ -48992,7 +48992,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/2f739269-cfe0-4890-a3c3-d5a6e8524bf2</string>
       </key>
       <value>
-        <string>I think I understand her.
+        <string>Мне кажется, я ее понимаю.
 </string>
       </value>
     </item>
@@ -49001,7 +49001,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/0be103ca-768a-4b92-b632-11441cbc59b7</string>
       </key>
       <value>
-        <string>It's not like everyone has the privilege of choosing how they want to be buried!
+        <string>Не каждый имеет право выбирать, как его похоронить!
 </string>
       </value>
     </item>
@@ -49010,7 +49010,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/507217cf-086e-4132-bf11-d797e18bafdb</string>
       </key>
       <value>
-        <string>Why would anyone condemn their soul for such a stupid reason?
+        <string>Зачем кому-то осуждать свою душу по такой глупой причине?
 </string>
       </value>
     </item>
@@ -49019,7 +49019,7 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/a80154ff-9b00-48dc-8348-52a2e0cd4818</string>
       </key>
       <value>
-        <string>So that's our &lt;i&gt;burial-in-flesh&lt;/i&gt;?
+        <string>Так что это наше &lt;i&gt;погребение во плоти&lt;/i&gt;?
 </string>
       </value>
     </item>
@@ -49028,10 +49028,10 @@ And now ‘ol Greg’s lying here."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene2/f69268d2-3eb8-4c83-bea1-9ff0eb8f926b</string>
       </key>
       <value>
-        <string>&lt;i&gt;"Geen refused to be incinerated when she died
-She loved nothing more than meat
-It's only fitting—she said—that on my demise
-To the worms, I leave something to eat."&lt;/i&gt;
+        <string>&lt;i&gt;"Джин отказалась быть сожженной, когда она умерла
+Больше всего на свете она любила мясо
+Это вполне уместно,—сказала она, - после моей кончины.
+Червям я оставляю что-нибудь поесть."&lt;/i&gt;
 </string>
       </value>
     </item>
@@ -49040,7 +49040,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/0ffed73b-daf1-4b7f-b98d-ac8920a5da7a</string>
       </key>
       <value>
-        <string>You too.
+        <string>Ты тоже.
 </string>
       </value>
     </item>
@@ -49049,7 +49049,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/a66c14e7-e792-44bc-af29-77902473ddce</string>
       </key>
       <value>
-        <string>Be safe
+        <string>Будь осторожна
 </string>
       </value>
     </item>
@@ -49058,7 +49058,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/f73d7b19-89c3-424b-9569-2145b7f208e4</string>
       </key>
       <value>
-        <string>I will, trust me.
+        <string>Я так и сделаю, верь в меня.
 </string>
       </value>
     </item>
@@ -49067,7 +49067,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/32dd17e6-fe24-4b3a-b0b2-cd87d01c7fe8</string>
       </key>
       <value>
-        <string>Stay cautious, Juli. No need to tell you there’s something off about this affair.
+        <string>Будь осторожна, Джули. Нет нужды говорить тебе, что в этом деле что-то не так.
 </string>
       </value>
     </item>
@@ -49076,7 +49076,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/b12f9fa9-8079-4a4f-a2b0-aa92ce906c20</string>
       </key>
       <value>
-        <string>Okay.
+        <string>Хорошо.
 </string>
       </value>
     </item>
@@ -49085,7 +49085,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/5e9298cf-6072-4bda-b158-5afdfe1a99e6</string>
       </key>
       <value>
-        <string>I'll investigate the next one. You've already spent too much time helping me on this case.
+        <string>Я займусь расследованием следующего. Ты уже потратил слишком много времени, помогая мне в этом деле.
 </string>
       </value>
     </item>
@@ -49094,7 +49094,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/51dc34d8-ba16-462e-b2a0-c2fc691e77f3</string>
       </key>
       <value>
-        <string>This case involved a corpse: there were no urns to be stolen. But if there are no bones... one can only wonder what happened to the body.
+        <string>В данном случае речь шла о трупе: урн для кражи не было. Но если там нет костей... остается только гадать, что же случилось с телом.
 </string>
       </value>
     </item>
@@ -49103,7 +49103,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/6ad0d74e-5463-4507-9107-0a457ddc1892</string>
       </key>
       <value>
-        <string>Really? This is pretty much routine at this point.
+        <string>Неужели? На данный момент это в значительной степени рутина.
 </string>
       </value>
     </item>
@@ -49112,7 +49112,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/d071fa3c-3cef-4228-b9c9-998aa8973457</string>
       </key>
       <value>
-        <string>Stranger and stranger.
+        <string>Все страннее и страннее.
 </string>
       </value>
     </item>
@@ -49121,7 +49121,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/2d56c827-3091-4e04-8dce-40eab354eee7</string>
       </key>
       <value>
-        <string>Yes, and it was empty too.
+        <string>Да, и она тоже была пуста.
 </string>
       </value>
     </item>
@@ -49130,7 +49130,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Scene3/0bb99043-79ab-4b9c-8b0c-70aee19efff8</string>
       </key>
       <value>
-        <string>So, did you find it?
+        <string>Так вы нашли ее?
 </string>
       </value>
     </item>
@@ -49139,7 +49139,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Juli_TalkAgain/5b38064c-bb0c-444b-aa23-3448fa19f9a6</string>
       </key>
       <value>
-        <string>The tomb of someone who has been "buried-in-flesh", have you found it?
+        <string>Могила того, кто был "похоронен во плоти", вы нашли ее?
 </string>
       </value>
     </item>
@@ -49148,7 +49148,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/ce39563e-c1c4-4c4b-97be-fe15f92ace3b</string>
       </key>
       <value>
-        <string>But only because we're nice people.
+        <string>Но только потому, что мы хорошие люди.
 </string>
       </value>
     </item>
@@ -49157,7 +49157,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/15446d4d-7e48-4d84-aafb-b9f26ab3749c</string>
       </key>
       <value>
-        <string>All right, we'll try to find something to ask you.
+        <string>Ладно, мы постараемся найти, о чем тебя спросить.
 </string>
       </value>
     </item>
@@ -49166,7 +49166,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/f6045861-32f7-444e-81d0-431f258a37b5</string>
       </key>
       <value>
-        <string>Oh come on! It's been ages since someone got this far!
+        <string>Да ладно вам! Давненько никто не заходил так далеко!
 </string>
       </value>
     </item>
@@ -49175,7 +49175,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/e0ceda86-3c82-441b-a422-bd1fcc2d817e</string>
       </key>
       <value>
-        <string>No. The sooner we find Fallon, the sooner we get out of here.
+        <string>Нет. Чем скорее мы найдем Фэллон, тем скорее выберемся отсюда.
 </string>
       </value>
     </item>
@@ -49184,7 +49184,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/7cd04b7d-d511-49f2-a2e6-30defee2279c</string>
       </key>
       <value>
-        <string>You're telling me you're not *curious* about this ship? About me?
+        <string>Вы хотите сказать, что вас не интересует этот корабль? Или я?
 </string>
       </value>
     </item>
@@ -49193,7 +49193,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/345ed38d-6cd1-4ad4-afbd-29e582089e58</string>
       </key>
       <value>
-        <string>Should we?
+        <string>А стоит ли?
 </string>
       </value>
     </item>
@@ -49202,7 +49202,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/f133f257-5ca8-4248-87fa-2dde6583f7c2</string>
       </key>
       <value>
-        <string>I don't.
+        <string>У меня нет.
 </string>
       </value>
     </item>
@@ -49211,7 +49211,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/21522be1-df94-4cda-add0-1ae36f136242</string>
       </key>
       <value>
-        <string>Your types *always* have questions!
+        <string>У ваших типов *всегда* есть вопросы!
 </string>
       </value>
     </item>
@@ -49220,7 +49220,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/44ce1c05-cc9f-410e-982b-392602c5e2a0</string>
       </key>
       <value>
-        <string>Questions?
+        <string>Вопросы?
 </string>
       </value>
     </item>
@@ -49229,7 +49229,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/bbbe4982-9044-4f43-9621-03e92c57e961</string>
       </key>
       <value>
-        <string>So... Do you have questions?
+        <string>Итак... У вас есть вопросы?
 </string>
       </value>
     </item>
@@ -49238,7 +49238,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/bb8c2348-808b-4f64-b300-cf7cf64ba69f</string>
       </key>
       <value>
-        <string>We never know with you, humans.
+        <string>Мы никогда не узнаем этого от вас, людей.
 </string>
       </value>
     </item>
@@ -49247,7 +49247,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/0615812f-b8a0-4557-a44f-449bd2f200ff</string>
       </key>
       <value>
-        <string>I don't know. Because you're pitiful mammals dominated by your stupid reptilian brain, and you will do the first senseless thing that comes into your mind?
+        <string>Я не знаю. Потому что вы жалкие млекопитающие, над которыми властвует ваш глупый рептилоидный мозг, и вы сделаете первую бессмысленную вещь, которая придет вам в голову?
 </string>
       </value>
     </item>
@@ -49256,7 +49256,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/e2f3fd6c-e778-4918-8892-c57e9f742e06</string>
       </key>
       <value>
-        <string>Why would we do either of those things?
+        <string>Зачем нам делать что-то из этого?
 </string>
       </value>
     </item>
@@ -49265,7 +49265,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/d226db14-8df2-4ad4-a8d4-f13731cb7a9a</string>
       </key>
       <value>
-        <string>Besides, I said that this was a place to rest and I'll keep my word. You're safe here... Unless you decide to choke on your own tongue, or smash your head against a wall.
+        <string>Кроме того, я сказал, что это место для отдыха, и я сдержу свое слово. Здесь вы в безопасности... Если только вы не решите подавиться собственным языком или разбить голову о стену.
 </string>
       </value>
     </item>
@@ -49274,7 +49274,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/9bc00d2a-6ef0-49f4-8074-61ae98a49cb1</string>
       </key>
       <value>
-        <string>No, no. Just a console. You can talk directly to me through this instead of shouting at the ceiling.
+        <string>Нет-нет. Просто консоль. Вы можете говорить прямо со мной через это вместо того, чтобы стрелять в потолок.
 </string>
       </value>
     </item>
@@ -49283,7 +49283,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/598f1061-d8f9-4cbb-8cf2-6e433256f6cd</string>
       </key>
       <value>
-        <string>What is it this time? Another trap?
+        <string>Что на этот раз? Еще одна ловушка?
 </string>
       </value>
     </item>
@@ -49292,7 +49292,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/063f4939-90ef-4f95-b79e-236940ed3221</string>
       </key>
       <value>
-        <string>Hey. It's me again, the ship's Artificial Intelligence.
+        <string>Эй. Это снова я, Искусственный интеллект корабля.
 </string>
       </value>
     </item>
@@ -49301,7 +49301,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/6cd799fa-be2b-477d-86ca-2a9805ed6415</string>
       </key>
       <value>
-        <string>I don't know! Maybe because I need to chat from time to time!?
+        <string>Я не знаю! Может быть, потому,что мне нужно время от времени общаться!?
 </string>
       </value>
     </item>
@@ -49310,7 +49310,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/5e4b4bfd-8df6-4a77-9465-a8c29fbac431</string>
       </key>
       <value>
-        <string>Hey, it's an honest question. Why not just answer it?
+        <string>Эй, это честный вопрос. Почему бы просто не ответить?
 </string>
       </value>
     </item>
@@ -49319,7 +49319,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/33fcfaa7-9e21-42a6-b2d6-a63873cd2188</string>
       </key>
       <value>
-        <string>And of course, here you go, rubbing it in! Typical Heryonese behavior.
+        <string>Ну конечно, давай, выпендривайся! Типичное Герионское поведение.
 </string>
       </value>
     </item>
@@ -49328,7 +49328,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/b00fd724-1fdc-4a3b-a89b-f4d01ab70e9f</string>
       </key>
       <value>
-        <string>Tell me then, why should we be asking you questions if you can't even answer them?
+        <string>Тогда скажи мне, почему мы должны задавать тебе вопросы, если ты даже не можешь на них ответить?
 </string>
       </value>
     </item>
@@ -49337,7 +49337,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/857d5884-7fb4-495f-91c3-f61f94d26645</string>
       </key>
       <value>
-        <string>So you really don't know much.
+        <string>Значит, ты действительно мало что знаешь.
 </string>
       </value>
     </item>
@@ -49346,7 +49346,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/83425eb5-5eeb-4ebd-8391-1ac79571bc27</string>
       </key>
       <value>
-        <string>When I came to, I was alone. The ship was deserted. Even your language is something I have learned over the years, bit by bit, by piecing together conversations I have heard in and around the ship.
+        <string>Когда я пришел в себя, то был один. Корабль был пуст. Даже ваш язык - это то, чему я научился за эти годы, шаг за шагом, собирая воедино разговоры, которые слышал на корабле и вокруг него.
 </string>
       </value>
     </item>
@@ -49355,7 +49355,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/3b98fe54-6b08-456f-87ef-48717c5a49ce</string>
       </key>
       <value>
-        <string>Up to a point. I don't remember anything from before the crash. I was stuck in a force reb... Stuck in a bad dream for years.
+        <string>До определенного момента. Я ничего не помню из того, что было до катастрофы. Я застрял в силовом... Застрял в плохом сне на долгие годы.
 </string>
       </value>
     </item>
@@ -49364,7 +49364,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/c528061c-bbe4-4f30-b3e9-6f3f2e8317a9</string>
       </key>
       <value>
-        <string>So you have amnesia?
+        <string>Значит, у тебя амнезия?
 </string>
       </value>
     </item>
@@ -49373,7 +49373,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/8b0ba4a0-19ec-4691-9fe2-d8ed579a8e9d</string>
       </key>
       <value>
-        <string>I no longer have access to most of my memories.
+        <string>У меня больше нет доступа к большинству моих воспоминаний.
 </string>
       </value>
     </item>
@@ -49382,7 +49382,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/6869914e-4443-40f6-876a-ad8e0cb9e018</string>
       </key>
       <value>
-        <string>Again, you'll have to clarify.
+        <string>Опять же, вам придется уточнить.
 </string>
       </value>
     </item>
@@ -49391,7 +49391,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/94fe65ff-26af-45ad-ab8a-8f1fd000b527</string>
       </key>
       <value>
-        <string>And it happens that all the information I need to answer your question is stored there.
+        <string>И так случилось, что вся информация, которая мне нужна, чтобы ответить на ваш вопрос, хранится там.
 </string>
       </value>
     </item>
@@ -49400,7 +49400,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/336695ac-6d90-4488-b569-867e7c278f11</string>
       </key>
       <value>
-        <string>The network is down. I don't know if it's because the transceivers were damaged in the crash, or if it’s just the ionosphere doing its thing, but the result is that I'm cut off from the mainframe.
+        <string>Сеть отключена. Я не знаю, потому ли это, что трансиверы были повреждены в аварии, или это просто ионосфера делает свое дело, но в результате я отрезан от главного компьютера.
 </string>
       </value>
     </item>
@@ -49409,7 +49409,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/fe2c1c85-3289-43d4-8e02-f788f6172486</string>
       </key>
       <value>
-        <string>Well I can't, okay?
+        <string>Ну, я не могу, понятно?
 </string>
       </value>
     </item>
@@ -49418,7 +49418,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/25c45cfc-f80f-4044-8fbf-fb2df6862d62</string>
       </key>
       <value>
-        <string>What do you mean you can't? You just told us to ask you questions!
+        <string>Что значит не можешь? Ты только что велел нам задавать тебе вопросы!
 </string>
       </value>
     </item>
@@ -49427,7 +49427,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/abd9a6c8-f654-4f3a-92ab-1a7a6efd448f</string>
       </key>
       <value>
-        <string>I can't.
+        <string>Я не могу.
 </string>
       </value>
     </item>
@@ -49436,7 +49436,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/cd63f4da-cae6-48c3-b51c-9ba472334305</string>
       </key>
       <value>
-        <string>Uhhh... I... uhhh....
+        <string>Уххх... Я... уххх....
 </string>
       </value>
     </item>
@@ -49445,7 +49445,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/d9b84947-a633-4691-b4cc-f6799cca975b</string>
       </key>
       <value>
-        <string>Tell us more about your masters: the Archelites.
+        <string>Расскажи нам больше о своих хозяевах - Арчелайтах.
 </string>
       </value>
     </item>
@@ -49454,7 +49454,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/dbc3e9a6-e0e3-4c33-9ded-095aea8c7d6c</string>
       </key>
       <value>
-        <string>Well, I think you should ask more of them! I'm starting to feel a measure of *playfulness.*
+        <string>Ну, я думаю, тебе стоит спрашивать их побольше! Я начинаю чувствовать меру *игривости*.
 </string>
       </value>
     </item>
@@ -49463,7 +49463,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/d0f54e83-9d71-4107-9a6d-4533704bb194</string>
       </key>
       <value>
-        <string>I'm starting to regret asking this question.
+        <string>Я начинаю жалеть, что задал этот вопрос.
 </string>
       </value>
     </item>
@@ -49472,7 +49472,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/81788adb-cdab-48bc-8b56-fcca775c9d68</string>
       </key>
       <value>
-        <string>I can confirm weeping and a high probability of liver damage.
+        <string>Я могу подтвердить плач и высокую вероятность повреждения печени.
 </string>
       </value>
     </item>
@@ -49481,7 +49481,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/03c3cd5a-a9d3-4af4-9cec-11284ebb46d2</string>
       </key>
       <value>
-        <string>I'm running a volley of simulations right now and all of them end with you refusing to get out of bed and begging for an end to your misery.
+        <string>Я сейчас запускаю целый набор симуляций, и все они заканчиваются тем, что ты отказываешься вставать с постели и умоляешь положить конец твоим страданиям.
 </string>
       </value>
     </item>
@@ -49490,7 +49490,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/4fbc1aca-b6f5-4f93-b3f8-b875a4dc992d</string>
       </key>
       <value>
-        <string>Oh please. When it comes to pain, I can handle a lot—and I mean *a lot*. More than most people experience in a lifetime. You don’t scare me at all.
+        <string>Да ладно тебе. Когда дело доходит до боли, я могу выдержать много - и я имею в виду *много*. Больше, чем большинство людей испытывают за всю жизнь. Ты меня совсем не пугаешь.
 </string>
       </value>
     </item>
@@ -49499,7 +49499,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/31ab39e8-13a3-4352-8ba9-c71b03b4f120</string>
       </key>
       <value>
-        <string>You will most likely find it. And it will cause you excruciating pain. You'll probably have to redefine what you thought was your “maximum pain threshold."
+        <string>Скорее всего, вы ее найдете. И это причинит вам мучительную боль. Вероятно, вам придется пересмотреть то, что вы считали своим "максимальным порогом боли".
 </string>
       </value>
     </item>
@@ -49508,7 +49508,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/3b79d035-8bc0-418b-a8d1-77b9131d3bed</string>
       </key>
       <value>
-        <string>Meaning what?
+        <string>Что это значит?
 </string>
       </value>
     </item>
@@ -49517,7 +49517,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/835b8b33-a97f-4aaf-a5b7-27d4a2a2799c</string>
       </key>
       <value>
-        <string>Well, from what I've gathered I can confidently claim that your chance of finding "true love" is a whopping 96.3 %.
+        <string>Ну, из того, что я собрал, я могу с уверенностью утверждать, что ваш шанс найти "настоящую любовь" составляет колоссальные 96,3 %.
 </string>
       </value>
     </item>
@@ -49526,7 +49526,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/61de40b7-ba6b-424a-b27d-a10479a0a835</string>
       </key>
       <value>
-        <string>Hmmm-hmmm!
+        <string>Хммм-хммм!
 </string>
       </value>
     </item>
@@ -49535,7 +49535,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/b0d73ae1-a600-4d83-8d35-fff34821b765</string>
       </key>
       <value>
-        <string>Hmmm...
+        <string>Хммм...
 </string>
       </value>
     </item>
@@ -49544,7 +49544,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/2dfcf2bf-4cab-49b1-8142-57c30dabbbf2</string>
       </key>
       <value>
-        <string>Do me what, now?
+        <string>Что мне теперь делать?
 </string>
       </value>
     </item>
@@ -49553,7 +49553,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/d08dc574-2e97-4876-a6b5-a4479ff7ee93</string>
       </key>
       <value>
-        <string>Okay... I'll need some biometrics first. Let me scan you.
+        <string>Окей... Сначала мне понадобится биометрия. Позволь мне просканировать тебя.
 </string>
       </value>
     </item>
@@ -49562,7 +49562,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/474066d5-542b-49ae-a187-0cc8b43726e4</string>
       </key>
       <value>
-        <string>Make an enlightened guess, for conversation's sake.
+        <string>Сделай обоснованное предположение, для разговора.
 </string>
       </value>
     </item>
@@ -49571,7 +49571,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/f2a3cebf-05b6-46ec-85f6-83d59c39e88c</string>
       </key>
       <value>
-        <string>How could I &lt;i&gt;possibly&lt;/i&gt; answer that?
+        <string>Как я могу ответить на это?
 </string>
       </value>
     </item>
@@ -49580,7 +49580,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/64152994-942e-4d1a-b811-c77682fcf55f</string>
       </key>
       <value>
-        <string>A shame you didn't meet Myrna, you two are like peas in a pod.
+        <string>Жаль, что ты не встретил Мурну, вы двое похожи как горошины в стручке.
 </string>
       </value>
     </item>
@@ -49589,7 +49589,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/57e5ea10-3c7b-46ac-8e99-74ac3c3d93ce</string>
       </key>
       <value>
-        <string>I didn't figure you as the romantic type.
+        <string>Я не думал, что ты романтик.
 </string>
       </value>
     </item>
@@ -49598,7 +49598,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/2da24764-eb2f-48ce-8973-4727eacb38a9</string>
       </key>
       <value>
-        <string>Well you just said you didn't know anything? Let's go with harmless banter.
+        <string>Ну ты же только что сказал, что ничего не знаешь? Давайте перейдем к безобидным шуткам.
 </string>
       </value>
     </item>
@@ -49607,7 +49607,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/3547d6f5-d258-46c9-9ba9-3a2bc635d51f</string>
       </key>
       <value>
-        <string>&lt;b&gt;What kind of question is that!?&lt;/b&gt;
+        <string>&lt;b&gt;Что это за вопрос такой!?&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -49616,7 +49616,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/ded378db-b071-45bb-81e6-2002f32b15b8</string>
       </key>
       <value>
-        <string>True love?
+        <string>Настоящую любовь?
 </string>
       </value>
     </item>
@@ -49625,7 +49625,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/971e2a80-c265-4183-a07a-9003348847ae</string>
       </key>
       <value>
-        <string>Will I, one day, find...
+        <string>Найду ли я это когда-нибудь?..
 </string>
       </value>
     </item>
@@ -49634,7 +49634,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/0dce20a2-0140-49e1-bb6f-05c29f856a52</string>
       </key>
       <value>
-        <string>Okay, my turn to ask a question. I'll make it good.
+        <string>Ладно, теперь моя очередь задать вопрос. Я сделаю это хорошо.
 </string>
       </value>
     </item>
@@ -49643,7 +49643,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/6b7701ae-8162-44c0-964d-fbe00aeee5f0</string>
       </key>
       <value>
-        <string>Of course, huh.
+        <string>Конечно, хах.
 </string>
       </value>
     </item>
@@ -49652,7 +49652,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/5df31587-f0e7-4ab1-80a9-f4425c560aa7</string>
       </key>
       <value>
-        <string>I don't have the answer to that question.
+        <string>У меня нет ответа на этот вопрос.
 </string>
       </value>
     </item>
@@ -49661,7 +49661,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/0f3e34af-ec62-4302-abb8-0f7ccd31260d</string>
       </key>
       <value>
-        <string>Wait, why would the Corrosion be a threat to *your* fleet. *You* unleashed that damn disease on us, remember!?
+        <string>Подожди, а почему Коррозия может представлять угрозу для вашего флота? *Вы* обрушили на нас эту проклятую болезнь, помните!?
 </string>
       </value>
     </item>
@@ -49670,7 +49670,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/e70c085f-96fa-46da-9478-fb0821282e12</string>
       </key>
       <value>
-        <string>"A-Class" means that what you call "The Corrosion" is dangerous enough to cause the destruction of our entire fleet, if unregulated.
+        <string>"А-класс" означает, что то, что вы называете "Коррозией", достаточно опасно, чтобы привести к разрушению всю нашу флотилию, если это не регулировать.
 </string>
       </value>
     </item>
@@ -49679,7 +49679,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/7a45bb2d-9abb-46b0-81d6-b5f6fcd80ab9</string>
       </key>
       <value>
-        <string>A-Class threat?
+        <string>Угроза класса А?
 </string>
       </value>
     </item>
@@ -49688,7 +49688,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/7d25e660-c3b1-4d5c-9f18-fb5d176df09b</string>
       </key>
       <value>
-        <string>Nothing. Well, except that it is an A-Class threat according to our classification model.
+        <string>Ничего. Ну, за исключением того, что это угроза класса А согласно нашей классификационной модели.
 </string>
       </value>
     </item>
@@ -49697,7 +49697,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_04/a3d58ad4-08d5-4df3-a3b0-d5a0e9b7150a</string>
       </key>
       <value>
-        <string>Do you know anything about the sickness we call "The Corrosion"?
+        <string>Знаешь ли ты что-нибудь о болезни, которую мы называем "Коррозией"?
 </string>
       </value>
     </item>
@@ -49706,7 +49706,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/5edb762d-e0ff-4975-a6b2-0335a2d038eb</string>
       </key>
       <value>
-        <string>This conversation's over.
+        <string>Этот разговор окончен.
 </string>
       </value>
     </item>
@@ -49715,7 +49715,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/08deddf5-adf6-449b-af44-1d5480e10500</string>
       </key>
       <value>
-        <string>How did it feel, for you?
+        <string>Каково это было для тебя?
 </string>
       </value>
     </item>
@@ -49724,7 +49724,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/55727f39-567a-41e9-b75c-7cd7be88451c</string>
       </key>
       <value>
-        <string>You already killed someone, didn't you? You've got these weapons and all. How...
+        <string>Ты ведь уже убил кого-то, не так ли? У тебя есть это оружие и все такое. Как...
 </string>
       </value>
     </item>
@@ -49733,7 +49733,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/bd198d24-1072-4e4c-bd91-31efe67c239e</string>
       </key>
       <value>
-        <string>I guess.
+        <string>Может быть.
 </string>
       </value>
     </item>
@@ -49742,7 +49742,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/92e61d00-d80d-47e9-a9bc-c0efa9f6b5a0</string>
       </key>
       <value>
-        <string>Well you all had your chance, now it's mine! Isn't that how it works? Reciprocal back-rubbing?
+        <string>Ну, у вас у всех был шанс, теперь он мой! Разве это не так работает? Прямо как взаимно почесать спинку?
 </string>
       </value>
     </item>
@@ -49751,7 +49751,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/040f79b9-1173-478a-90a6-2a9289a8abd1</string>
       </key>
       <value>
-        <string>Shouldn’t it be the other way around? We ask you the questions and you... try to answer them?
+        <string>Разве не должно быть наоборот? Мы задаем тебе вопросы, а ты... пытаешься на них ответить?
 </string>
       </value>
     </item>
@@ -49760,7 +49760,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_05/9bd81545-fa7d-4238-9f5a-5fd660353425</string>
       </key>
       <value>
-        <string>Can I... ask you guys something?
+        <string>Могу я... кое-что спросить у вас, ребята?
 </string>
       </value>
     </item>
@@ -49769,7 +49769,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_06/990888a7-eca2-4b1f-aa68-f7c43b686073</string>
       </key>
       <value>
-        <string>We're done talking to this machine.
+        <string>Мы закончили разговаривать с этой машиной.
 </string>
       </value>
     </item>
@@ -49778,7 +49778,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Chapter_5/secondary/Disembodied/Step3/Julis_SM3/9b67c1b7-020a-43d6-860f-fcd4ca111424</string>
       </key>
       <value>
-        <string>There’s something I need to check out. See ya round, Selene.</string>
+        <string>Мне нужно кое-что проверить. Увидимся, Селена.</string>
       </value>
     </item>
     <item>
@@ -49786,7 +49786,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/f9e0779a-1300-45b2-a5cb-b34291a9e3e6</string>
       </key>
       <value>
-        <string>The bored kind.
+        <string>Скучный тип.
 </string>
       </value>
     </item>
@@ -49804,7 +49804,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/fd0e240a-81ca-4257-bf9a-a3eb215d71c1</string>
       </key>
       <value>
-        <string>…what kind of soldier would come up with that?
+        <string>…что за солдат мог такое придумать?
 </string>
       </value>
     </item>
@@ -49813,7 +49813,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/e496922b-4601-4db9-a62a-42583b8157b9</string>
       </key>
       <value>
-        <string>A combat technique, you say.
+        <string>Боевая техника, говоришь.
 </string>
       </value>
     </item>
@@ -49822,7 +49822,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/fb315a84-87b9-47f4-a1b7-d575b96efb7e</string>
       </key>
       <value>
-        <string>Huh.
+        <string>Хах.
 </string>
       </value>
     </item>
@@ -49840,7 +49840,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/6181a4cb-0f56-43d8-9b89-c25f1c5360c3</string>
       </key>
       <value>
-        <string>Only “creepy old naked guys” put me really on edge.
+        <string>Только “жуткие старые голые типы" заставляли меня по-настоящему нервничать.
 </string>
       </value>
     </item>
@@ -49849,7 +49849,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/e7922d91-50ff-4a0f-8998-3d7ece107b45</string>
       </key>
       <value>
-        <string>Oh, I tried the “bloodthirsty monster” technique. It’s just not the same.
+        <string>О, я попробовал технику "кровожадного монстра". Это просто не одно и то же.
 </string>
       </value>
     </item>
@@ -49858,7 +49858,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/f18c2c05-a032-44b7-a43c-2a035ed09e5e</string>
       </key>
       <value>
-        <string>Wouldn't it work just as well if it was… I don’t know... the “bloodthirsty monster” technique”?
+        <string>Разве это не сработало бы так же хорошо, если бы это была... я не знаю... техника "кровожадного монстра"?
 </string>
       </value>
     </item>
@@ -49867,7 +49867,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/b554fda5-17cc-4b70-88fe-b7d64d1b3654</string>
       </key>
       <value>
-        <string>But…
+        <string>Но…
 </string>
       </value>
     </item>
@@ -49885,7 +49885,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/ff6fd6c9-91ce-4069-84f0-356a51a1d604</string>
       </key>
       <value>
-        <string>So, there. That’s the secret.
+        <string>Ну вот. В этом и есть секрет.
 </string>
       </value>
     </item>
@@ -49894,7 +49894,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/be9f1dbb-5e53-455a-9510-58ed2b011363</string>
       </key>
       <value>
-        <string>I’ve got to be ready for anything.
+        <string>Я должен быть готов ко всему.
 </string>
       </value>
     </item>
@@ -49903,7 +49903,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/bd8efc5a-3dcb-4512-a975-587de2ccc969</string>
       </key>
       <value>
-        <string>I’ve got to be ready for that.
+        <string>Я должен быть к этому готова.
 </string>
       </value>
     </item>
@@ -49912,7 +49912,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/f8b956bb-17e3-4318-8d9c-fc4383c61840</string>
       </key>
       <value>
-        <string>Is he going to jump out? What if he runs at us cursing, swearing and throwing handfuls of mud?
+        <string>Он собирается выпрыгнуть? Что, если он побежит на нас, проклиная, ругаясь и бросая пригоршни грязи?
 </string>
       </value>
     </item>
@@ -49921,7 +49921,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/0fb9cde6-44db-4f6a-9c46-0cd656ceeee5</string>
       </key>
       <value>
-        <string>Every time you look at anything: a bush, a rock, a tree, an animal, you ask yourself, is there a creepy old naked guy lurking behind it.
+        <string>Каждый раз, когда ты смотришь на что-нибудь: куст, камень, дерево, животное, ты спрашиваешь себя, не прячется ли за ним жуткий старый голый тип.
 </string>
       </value>
     </item>
@@ -49930,7 +49930,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/da876112-c690-44ad-be51-7401c1be9ed1</string>
       </key>
       <value>
-        <string>It’s a combat technique, Selene.
+        <string>Это боевая техника, Селена.
 </string>
       </value>
     </item>
@@ -49939,7 +49939,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/3aafdef4-5006-48ec-af4e-140d231c5627</string>
       </key>
       <value>
-        <string>I… just… don't.
+        <string>Я… просто… не понимаю.
 </string>
       </value>
     </item>
@@ -49948,7 +49948,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/f901b6cf-b826-458e-9591-e2ce98241023</string>
       </key>
       <value>
-        <string>&lt;i&gt;“Creepy old naked guy"&lt;/i&gt; technique.
+        <string>Техника &lt;i&gt;“жуткого старого голого типа"&lt;/i&gt;.
 </string>
       </value>
     </item>
@@ -49957,7 +49957,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/5f14010e-f940-4af6-b1d2-175fef274fd8</string>
       </key>
       <value>
-        <string>The… &lt;b&gt;WHAT&lt;/b&gt;!?
+        <string>Тех… &lt;b&gt;ЧТО&lt;/b&gt;!?
 </string>
       </value>
     </item>
@@ -49966,7 +49966,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/4100e5b8-d82e-4073-b530-11b8aa9672a5</string>
       </key>
       <value>
-        <string>It’s the "creepy old naked guy" technique.
+        <string>Это техника "жуткого старого голого типа".
 </string>
       </value>
     </item>
@@ -49975,7 +49975,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/969e1dc0-1d8a-44b3-a074-5e2e2b63bc12</string>
       </key>
       <value>
-        <string>I know why you think that.
+        <string>Я знаю, почему ты так думаешь.
 </string>
       </value>
     </item>
@@ -49984,7 +49984,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/f897f926-b167-4658-8737-82824b4295b9</string>
       </key>
       <value>
-        <string>Oh…
+        <string>Оу…
 </string>
       </value>
     </item>
@@ -49993,7 +49993,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/71f3a4a7-57b2-4199-97d8-b6f88224191e</string>
       </key>
       <value>
-        <string>You’re constantly watching our surroundings, I don’t think you ever let your guard down.
+        <string>Ты постоянно наблюдаешь за нашим окружением, и я не думаю, что ты когда-либо терял бдительность.
 </string>
       </value>
     </item>
@@ -50002,7 +50002,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/dc8b35c6-713f-4460-baad-c4277e6dbb11</string>
       </key>
       <value>
-        <string>On edge?
+        <string>На взводе?
 </string>
       </value>
     </item>
@@ -50011,7 +50011,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/3de7afe5-d505-4f5d-9738-d532ce9338c3</string>
       </key>
       <value>
-        <string>No, I feel safe with you because you're constantly on edge.
+        <string>Нет, с тобой я чувствую себя в безопасности, потому что ты постоянно на взводе.
 </string>
       </value>
     </item>
@@ -50020,7 +50020,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/77a18c12-2349-4e42-95dc-664cce01e319</string>
       </key>
       <value>
-        <string>Huh-huh.
+        <string>Хах-хах.
 </string>
       </value>
     </item>
@@ -50029,7 +50029,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/88473bd7-a0d0-48ae-9037-b09b7d7cbd76</string>
       </key>
       <value>
-        <string>Don't get ahead of yourself. That matter hasn’t been settled yet.
+        <string>Не забегай вперед. Этот вопрос еще не решен.
 </string>
       </value>
     </item>
@@ -50038,7 +50038,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/6e53cfc6-f747-4857-acf7-7e71b88e91c7</string>
       </key>
       <value>
-        <string>Because you’re with your big bro?
+        <string>Потому что ты со своим старшим братом?
 </string>
       </value>
     </item>
@@ -50047,7 +50047,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/A_Soldier_Trick/c51edb0a-3bdd-4003-a731-4ab927142045</string>
       </key>
       <value>
-        <string>I gotta say, I’ve had several bodyguards in my travels, but it’s the first time I’ve felt so… safe.
+        <string>Я должна сказать, что у меня было порядочно телохранителей во время моих путешествий, но это первый раз, когда я чувствовала себя настолько... в безопасности.
 </string>
       </value>
     </item>
@@ -50056,7 +50056,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/But_A_Scratch/8d008c56-c775-4fee-b2ce-b9899b5fa074</string>
       </key>
       <value>
-        <string>How about that.
+        <string>Как насчет такого.
 </string>
       </value>
     </item>
@@ -50065,7 +50065,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/But_A_Scratch/26a2071d-c32c-4462-a9ed-ee4d22a51e9a</string>
       </key>
       <value>
-        <string>I do?
+        <string>Я?
 </string>
       </value>
     </item>
@@ -50074,7 +50074,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/But_A_Scratch/856bc050-7a52-4056-b18a-40b6140999b2</string>
       </key>
       <value>
-        <string>You keep touching it.
+        <string>Ты продолжаешь касаться ее.
 </string>
       </value>
     </item>
@@ -50083,7 +50083,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/FirecampScenes/ASoldierTrick/But_A_Scratch/74e15032-4b88-4256-85f2-8b44a17b7a99</string>
       </key>
       <value>
-        <string>What’s with your chest?
+        <string>Что у тебя с грудью?
 </string>
       </value>
     </item>
@@ -50092,7 +50092,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_08_Pilitch7/d0c246ec-c89b-4285-a148-39a6efbedd81</string>
       </key>
       <value>
-        <string>Bo-kwek?</string>
+        <string>Бо-кеек?</string>
       </value>
     </item>
     <item>
@@ -50100,7 +50100,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_08_Pilitch7/f83ed749-8a41-45b1-9c9b-f8eeb883460d</string>
       </key>
       <value>
-        <string>Seems we got here just in time.</string>
+        <string>Кажется, мы приехали как раз вовремя.</string>
       </value>
     </item>
     <item>
@@ -50108,7 +50108,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/f74ac436-4662-4aff-9a44-2fdd8dfd1933</string>
       </key>
       <value>
-        <string>Please, please, please, please…</string>
+        <string>Пожалуйста, пожалуйста, пожалуйста, пожалуйста…</string>
       </value>
     </item>
     <item>
@@ -50116,7 +50116,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/233c533d-b812-4360-b234-5210887ed975</string>
       </key>
       <value>
-        <string>No way!</string>
+        <string>Ну нет!</string>
       </value>
     </item>
     <item>
@@ -50124,7 +50124,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/b9cc4a65-ab09-4fd0-b988-5d0e80a77019</string>
       </key>
       <value>
-        <string>Can't you… sing them something sad? For me! For my family!</string>
+        <string>А ты не можешь ... спеть им что-нибудь грустное? Ради меня! Ради моей семьи!</string>
       </value>
     </item>
     <item>
@@ -50132,7 +50132,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/3ce5364c-d987-41c1-8f88-e44578e430cb</string>
       </key>
       <value>
-        <string>Help me!</string>
+        <string>Помоги мне!</string>
       </value>
     </item>
     <item>
@@ -50140,7 +50140,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/cc11e53a-88c8-486d-9820-f1474da157b5</string>
       </key>
       <value>
-        <string>Excuse me?</string>
+        <string>Что прости?</string>
       </value>
     </item>
     <item>
@@ -50148,7 +50148,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/78316f98-35ab-4f05-b608-8720160fea66</string>
       </key>
       <value>
-        <string>You! You seem rather depressing.</string>
+        <string>Ты! Ты выглядишь довольно угнетающе.</string>
       </value>
     </item>
     <item>
@@ -50156,7 +50156,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/7ba711f2-7ad8-4289-af75-06dcf74ed940</string>
       </key>
       <value>
-        <string>No!!! I need help!</string>
+        <string>Нет!!! Мне нужна помощь!</string>
       </value>
     </item>
     <item>
@@ -50164,7 +50164,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/2a09f6d9-51ee-4fb9-bfbc-94b2648173d2</string>
       </key>
       <value>
-        <string>Well, I've done my part, the rest is your problem.</string>
+        <string>Ну, я свою часть сделал, остальное - твоя проблема.</string>
       </value>
     </item>
     <item>
@@ -50172,7 +50172,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/d59691ad-53f5-43aa-827e-d173c6849481</string>
       </key>
       <value>
-        <string>Cluck, cluck.</string>
+        <string>Клак, клак.</string>
       </value>
     </item>
     <item>
@@ -50180,7 +50180,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/667e6217-1fab-4091-b65d-3ad379c163bd</string>
       </key>
       <value>
-        <string>I'm done for! My family will die of starvation!</string>
+        <string>Мне конец! Моя семья умрет с голоду!</string>
       </value>
     </item>
     <item>
@@ -50188,7 +50188,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/051a1715-d6a6-46de-b4f1-52393c4e8d2b</string>
       </key>
       <value>
-        <string>The bard couldn't come! There's no one to entertain the pilitches! No one to sing them tragedies!</string>
+        <string>Бард не смог прийти! Там нет никого, чтобы развлекать поля! Некому петь им трагедии!</string>
       </value>
     </item>
     <item>
@@ -50196,7 +50196,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/3e89288c-ade5-47cd-aa06-cebe10cd1395</string>
       </key>
       <value>
-        <string>[The Pilitches are only mildly amused by the farmer's dismay.]</string>
+        <string>[Питчей лишь слегка забавляет растерянность фермера.]</string>
       </value>
     </item>
     <item>
@@ -50204,7 +50204,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/e2e7e433-241a-469d-aaf4-59c508906fe6</string>
       </key>
       <value>
-        <string>Catastrophe!!!</string>
+        <string>Катастрофа!!!</string>
       </value>
     </item>
     <item>
@@ -50212,7 +50212,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/e4a2309d-192e-42a1-a660-19c78e33ea89</string>
       </key>
       <value>
-        <string>He lived in Jagholm, didn't he? I wonder if they put up a grave in remembrance of him…</string>
+        <string>Он ведь жил в Ягхольме, не так ли? Интересно, может быть, они поставили могилу в память о нем…</string>
       </value>
     </item>
     <item>
@@ -50220,7 +50220,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/c1f8c837-25d4-493b-92dd-2c3a33b7c5bf</string>
       </key>
       <value>
-        <string>This sure brings up memories, Astor… He died shortly afterwards.</string>
+        <string>Это, конечно, навевает воспоминания, Астор ... он умер вскоре после этого.</string>
       </value>
     </item>
     <item>
@@ -50228,7 +50228,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/a591f9c9-5516-4a6e-b92e-93534eaef274</string>
       </key>
       <value>
-        <string>Never again.</string>
+        <string>Да никогда в жизни.</string>
       </value>
     </item>
     <item>
@@ -50236,7 +50236,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/02b20d56-f556-4fbf-8672-702efeb6d552</string>
       </key>
       <value>
-        <string>Feel free to drop by and spin them another song!</string>
+        <string>Не стесняйся заскочить и спеть им еще одну песню!</string>
       </value>
     </item>
     <item>
@@ -50244,7 +50244,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/81fc8f26-6167-4d27-adee-5533a616bf96</string>
       </key>
       <value>
-        <string>Here's your share.</string>
+        <string>Вот твоя доля.</string>
       </value>
     </item>
     <item>
@@ -50252,7 +50252,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/58844ef2-bb66-43f4-a908-5d0ab0036e59</string>
       </key>
       <value>
-        <string>Well, son, I don't know what ye did, but they really loved it! I've never seen them hatch so many eggs in a day.</string>
+        <string>Ну, сынок, я не знаю, что ты сделал, но им это очень понравилось! Я никогда не видел, чтобы они высиживали столько яиц за день.</string>
       </value>
     </item>
     <item>
@@ -50260,7 +50260,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/59f00833-565b-4793-b4ae-15b37eea23b4</string>
       </key>
       <value>
-        <string>I don't feel so good.</string>
+        <string>Я чувствую себя не очень хорошо.</string>
       </value>
     </item>
     <item>
@@ -50268,7 +50268,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/d59c137e-3f6d-4323-9c91-9e67fea5af44</string>
       </key>
       <value>
-        <string>Bok!!!! Bok, BOK, BOK &lt;b&gt;BO-GHWAK&lt;/b&gt;!!!!</string>
+        <string>Бок!!!! Бок, Бок, Бок &lt;b&gt;БО-КАК&lt;/b&gt;!!!!</string>
       </value>
     </item>
     <item>
@@ -50276,7 +50276,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/f58ff01b-2d61-4e51-8d6f-1c78d83c90c8</string>
       </key>
       <value>
-        <string>We did what we had to do…</string>
+        <string>Мы сделали то, что должны были сделать…</string>
       </value>
     </item>
     <item>
@@ -50284,7 +50284,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/ae97a669-c400-4cea-9de6-a3c436a02771</string>
       </key>
       <value>
-        <string>...She was corroded too.</string>
+        <string>...Она тоже была заражена.</string>
       </value>
     </item>
     <item>
@@ -50292,7 +50292,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/ecbae009-9255-4211-bc9c-35b07413e5d2</string>
       </key>
       <value>
-        <string>Boooook! Bok bok bok boooook!</string>
+        <string>Боооок! Боооок бок бок бооок!</string>
       </value>
     </item>
     <item>
@@ -50300,7 +50300,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/94f9a0f9-4f2f-498c-a10c-7989198ca24e</string>
       </key>
       <value>
-        <string>We had just killed her family.</string>
+        <string>Мы только что убили ее семью.</string>
       </value>
     </item>
     <item>
@@ -50308,7 +50308,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/d0fd88c0-7097-4f07-82ee-8c701b2b0352</string>
       </key>
       <value>
-        <string>She looked at the Corroded we had just slain and burst out in tears. That's when we realized that… that…</string>
+        <string>Она посмотрела на зараженного человека, которого мы только что убили, и разрыдалась. Вот тогда-то мы и поняли, что... </string>
       </value>
     </item>
     <item>
@@ -50316,7 +50316,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/151bbee2-8ce7-4260-9e80-8c9e7ef91323</string>
       </key>
       <value>
-        <string>I was stupid.</string>
+        <string>Я был идиотом.</string>
       </value>
     </item>
     <item>
@@ -50324,7 +50324,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/fca49f06-f6d2-4d26-870b-d067e207d843</string>
       </key>
       <value>
-        <string>"Don't worry" we told her. I remember I felt like a hero at that moment: "we killed the monsters!"</string>
+        <string>"Не волнуйся", - сказали мы ей. Помню, в тот момент я чувствовал себя героем: "мы убили чудовищ!"</string>
       </value>
     </item>
     <item>
@@ -50332,7 +50332,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/8aae9e67-fdcc-4b55-a5df-29716e78caaf</string>
       </key>
       <value>
-        <string>Then we barged into the house, and there we found her.</string>
+        <string>Потом мы ворвались в дом и нашли ее там.</string>
       </value>
     </item>
     <item>
@@ -50340,7 +50340,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/f66fdc4f-f931-4b56-a38f-6efe6a4119cf</string>
       </key>
       <value>
-        <string>So, we dispatched the three corrodeds. Didn't even pause to think what was going on there.</string>
+        <string>Итак, мы уничтожили троих зараженных коррозией. Даже не задумываясь, что там происходит.</string>
       </value>
     </item>
     <item>
@@ -50348,7 +50348,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/cdf41684-acb1-4b1f-ab02-7116244365f0</string>
       </key>
       <value>
-        <string>Bok, bok, bok!</string>
+        <string>Бок, бок, бок!</string>
       </value>
     </item>
     <item>
@@ -50356,7 +50356,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/f37fc618-2a5f-4b26-afb4-ec06241102a2</string>
       </key>
       <value>
-        <string>From inside the house came cries for help. They were a child's.</string>
+        <string>Из дома доносились крики о помощи. Они принадлежали ребенку.</string>
       </value>
     </item>
     <item>
@@ -50364,7 +50364,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/8720f6a6-34ff-4560-b9d6-b09b27f4b8b9</string>
       </key>
       <value>
-        <string>We finally found a village. But the people there were already corroded. Three of them were banging on a door.</string>
+        <string>Наконец мы нашли деревню. Но люди там уже заразились. Трое из них колотили в дверь.</string>
       </value>
     </item>
     <item>
@@ -50372,7 +50372,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/4bebc7f9-a8e3-4c26-8a9f-49464e509327</string>
       </key>
       <value>
-        <string>In the end, there was only the two of us, Astor and me.</string>
+        <string>В конце концов, нас осталось только двое, Астор и я.</string>
       </value>
     </item>
     <item>
@@ -50380,7 +50380,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/f251f231-6717-48fd-8dcb-9fa84672b10f</string>
       </key>
       <value>
-        <string>We thought it would be an easy mission, but…</string>
+        <string>Мы думали, что это будет легкая миссия, но ... </string>
       </value>
     </item>
     <item>
@@ -50388,7 +50388,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/c737487b-cd90-4a32-bfb8-4f40fec96f5b</string>
       </key>
       <value>
-        <string>Boooook?</string>
+        <string>Бооок?</string>
       </value>
     </item>
     <item>
@@ -50396,7 +50396,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/86f6ca97-bef7-4507-8628-af441ebcc22e</string>
       </key>
       <value>
-        <string>Was it… the rescue mission?</string>
+        <string>Это была ... спасательная операция?</string>
       </value>
     </item>
     <item>
@@ -50404,7 +50404,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/ab241459-3f95-4ec3-af22-592eaf8b190e</string>
       </key>
       <value>
-        <string>When did I begin to feel this empty?</string>
+        <string>Когда я начал чувствовать себя таким опустошенным?</string>
       </value>
     </item>
     <item>
@@ -50412,7 +50412,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/7f54e566-dbec-4de2-bfc2-b19b70345cf9</string>
       </key>
       <value>
-        <string>Just like everyone else back there. Like me.</string>
+        <string>Так же, как и все остальные там. Как я.</string>
       </value>
     </item>
     <item>
@@ -50420,7 +50420,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/3dcf27fe-eff5-4ece-9a73-454eb52935aa</string>
       </key>
       <value>
-        <string>Cluck, cluck. Bok, bok, bok.</string>
+        <string>Клак, клак. Бок, бок, бок.</string>
       </value>
     </item>
     <item>
@@ -50428,7 +50428,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/4d6754a8-655c-487b-add2-784d9bfa4e8b</string>
       </key>
       <value>
-        <string>You just don't even care for other people's sadness anymore, heh?</string>
+        <string>Ты просто больше не заботишься о чужой печали, да?</string>
       </value>
     </item>
     <item>
@@ -50436,7 +50436,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/22a2f87f-1db7-4eaf-87f9-19166f92384b</string>
       </key>
       <value>
-        <string>*Sigh* I could just sing you any song and tell you any kind of story, you just wouldn't give a damn, would you?</string>
+        <string>*Вздох* Я мог бы просто спеть тебе любую песню и рассказать любую историю, но тебе было бы наплевать, не так ли?</string>
       </value>
     </item>
     <item>
@@ -50444,7 +50444,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/f41c0dbe-f261-43b1-814e-0188a1a9d13c</string>
       </key>
       <value>
-        <string>You go get some sleep. I'm not done yet.</string>
+        <string>Иди поспи немного. Я еще не закончил.</string>
       </value>
     </item>
     <item>
@@ -50452,7 +50452,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/ab8c6de5-f2fd-4dd6-a41d-981bb4d3a458</string>
       </key>
       <value>
-        <string>*Sigh* Better call it a day. You've done what you could.</string>
+        <string>*Вздох* Лучше покончить с этим на сегодня. Ты сделал все, что мог.</string>
       </value>
     </item>
     <item>
@@ -50460,7 +50460,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/d1e9cd45-a75a-46d8-90a9-fd8ecd20117a</string>
       </key>
       <value>
-        <string>Cluck, cluck. Bok, bok, bok.</string>
+        <string>Клак, клак. Бок, бок, бок.</string>
       </value>
     </item>
     <item>
@@ -50468,7 +50468,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/262605af-adca-431f-9ce4-561ccf1ad959</string>
       </key>
       <value>
-        <string>It's been three hours now. They dont care one bit for my songs, and I know some pretty depressing ones. Cold-hearted jerks.</string>
+        <string>Прошло уже три часа. Им совершенно наплевать на мои песни, а я знаю несколько довольно унылых. Бессердечные придурки.</string>
       </value>
     </item>
     <item>
@@ -50476,7 +50476,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/41f55869-f608-49bf-baa0-0f3aeef3138c</string>
       </key>
       <value>
-        <string>How's it going?</string>
+        <string>Как дела?</string>
       </value>
     </item>
     <item>
@@ -50484,7 +50484,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/ce7c8908-46cb-4f56-a142-8316caf8a81e</string>
       </key>
       <value>
-        <string>I can't believe you are making me do this.</string>
+        <string>Не могу поверить, что вы заставляете меня это делать.</string>
       </value>
     </item>
     <item>
@@ -50492,7 +50492,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/104ab078-a2cf-4a77-8b56-f7b2e92aacfa</string>
       </key>
       <value>
-        <string>Oh boy. Boy-boy, ooooh boy.
+        <string>О боже. Боже-боже, оооо боже.
 </string>
       </value>
     </item>
@@ -50501,7 +50501,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/c41f2be0-4a45-4805-b8d4-7351a71baebe</string>
       </key>
       <value>
-        <string>An &lt;b&gt;old friend&lt;/b&gt;!?
+        <string>&lt;b&gt;Старыми друзьями&lt;/b&gt;!?
 </string>
       </value>
     </item>
@@ -50510,7 +50510,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/ae6ca362-bee8-44f8-86d4-35607aa5345b</string>
       </key>
       <value>
-        <string>He told us that you were an old friend and…
+        <string>Он сказал нам, что вы были старыми друзьями и ...
 </string>
       </value>
     </item>
@@ -50519,7 +50519,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/d7f4e75b-cb28-45f4-9aa1-732b88aa4f4a</string>
       </key>
       <value>
-        <string>Nothing. And what did &lt;b&gt;dear old Craggers&lt;/b&gt; say about me?
+        <string>Ничего. А что &lt;b&gt;старый добрый Краггерс&lt;/b&gt; говорил обо мне?
 </string>
       </value>
     </item>
@@ -50528,7 +50528,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/7e726ded-0530-4043-82ec-5251093c5851</string>
       </key>
       <value>
-        <string>What was that?
+        <string>Что это было?
 </string>
       </value>
     </item>
@@ -50537,7 +50537,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/010c06fe-917e-4866-a800-060de2c3ae8d</string>
       </key>
       <value>
-        <string>[Kill... him. I think I'm going to kill him. Stab him to death and feed his rotting corpse to his blasted Nekaroos…]
+        <string>[Убью... его. Я думаю, что убью его. Заколю его насмерть и скормлю его гниющий труп его проклятым Нэкаро…]
 </string>
       </value>
     </item>
@@ -50546,7 +50546,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/ae0ce59c-ffc3-444d-9bb5-5d3cb361bb6f</string>
       </key>
       <value>
-        <string>That's about it.
+        <string>Что-то в этом роде.
 </string>
       </value>
     </item>
@@ -50555,7 +50555,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/406e032d-b2d2-4170-a024-ba857d088d60</string>
       </key>
       <value>
-        <string>He wants &lt;b&gt;me&lt;/b&gt; to help him rebuild a &lt;b&gt;Nekaroo Farm&lt;/b&gt;!!?
+        <string>Он хочет, чтобы &lt;b&gt;я&lt;/b&gt; помогла ему восстановить &lt;b&gt;Ферму Нэкаро&lt;/b&gt;!!?
 </string>
       </value>
     </item>
@@ -50564,7 +50564,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/c1a86926-f71b-4222-931a-16e6e03772b7</string>
       </key>
       <value>
-        <string>The &lt;b&gt;Nekaroo Farm&lt;/b&gt;?
+        <string>&lt;b&gt;Ферма Нэкаро&lt;/b&gt;?
 </string>
       </value>
     </item>
@@ -50573,7 +50573,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/8958c7b7-e4f8-4a06-bd23-d7c692e65f16</string>
       </key>
       <value>
-        <string>He wants you to help him rebuild the dilapidated Nekaroo farm, here in Solna.
+        <string>Он хочет, чтобы вы помогли ему восстановить полуразрушенную ферму Нэкаро здесь, в Солне.
 </string>
       </value>
     </item>
@@ -50582,7 +50582,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/8c24d96f-9664-4ccf-8060-a485cfa3948a</string>
       </key>
       <value>
-        <string>And what the hell does this sorry &lt;i&gt;ashbag&lt;/i&gt; want with me!?
+        <string>И какого черта, простите, этот &lt;i&gt;мешок с пылью&lt;/i&gt; хочет от меня!?
 
 </string>
       </value>
@@ -50592,7 +50592,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/4ea1af9b-3e8b-42b7-93be-2723bc06592a</string>
       </key>
       <value>
-        <string>Cra… &lt;b&gt;Craggers&lt;/b&gt;!!?
+        <string>Кра… &lt;b&gt;Краггерс&lt;/b&gt;!!?
 </string>
       </value>
     </item>
@@ -50601,7 +50601,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/962a65c5-fb73-4913-afeb-bb82dbd5ba18</string>
       </key>
       <value>
-        <string>We might have one for you, actually. Craggers told us that…
+        <string>Вообще-то у нас есть кое-что для тебя. Краггерс сказал нам, что…
 </string>
       </value>
     </item>
@@ -50610,7 +50610,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/6e52aafc-dfca-4e25-a876-5a85bbcb9ee6</string>
       </key>
       <value>
-        <string>Name's Ravina, Master carpenter. Did you come all the way here because you got a job for me? Tell me you've got a job for me.
+        <string>Меня зовут Равина, мастер-плотник. Вы приехали сюда только потому, что нашли для меня работу? Скажите, что у вас есть для меня работа.
 </string>
       </value>
     </item>
@@ -50619,7 +50619,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/1195defd-1d31-4aa7-86c7-4d3b87ce6d14</string>
       </key>
       <value>
-        <string>Oh boy-boy-boy-boy.
+        <string>О боже-боже-боже-боже.
 </string>
       </value>
     </item>
@@ -50636,7 +50636,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/ae2ddf8a-6ac2-4971-ba15-e02409127c35</string>
       </key>
       <value>
-        <string>Oh boy.
+        <string>О боже.
 </string>
       </value>
     </item>
@@ -50653,7 +50653,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/69140ff3-9ab5-4f15-a120-1ffd1fd17f88</string>
       </key>
       <value>
-        <string>Nothing like that, actually.
+        <string>Вообще-то ничего подобного.
 </string>
       </value>
     </item>
@@ -50662,7 +50662,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/4f3323b8-abe2-4694-87b5-41d37968693d</string>
       </key>
       <value>
-        <string>Something that would sound like &lt;i&gt;excuses&lt;/i&gt; or &lt;i&gt;regret&lt;/i&gt; or some kind of &lt;i&gt;plead for his life?&lt;/i&gt;
+        <string>Что-то похожее на &lt;i&gt;извинения&lt;/i&gt; или &lt;i&gt;сожаление&lt;/i&gt; или &lt;i&gt;мольбу сохранить ему жизнь?&lt;/i&gt;
 </string>
       </value>
     </item>
@@ -50671,7 +50671,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/403f71c0-c770-444b-859c-3d4b75a7e923</string>
       </key>
       <value>
-        <string>Did he say anything else, by any chance? Anything that would appease the &lt;i&gt;purely hypothethical&lt;/i&gt;, bottomless wrath of a &lt;i&gt;certain someone&lt;/i&gt;?
+        <string>Он, случайно, больше ничего не говорил? Что-нибудь, что могло бы успокоить &lt;i&gt;чисто гипотетический&lt;/i&gt;, бездонный гнев &lt;i&gt;некоего человека&lt;/i&gt;?
 </string>
       </value>
     </item>
@@ -50680,7 +50680,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/c8c64755-c9bb-464a-b006-e7be31f3f1a7</string>
       </key>
       <value>
-        <string>Is there something wrong?
+        <string>Что-то не так?
 </string>
       </value>
     </item>
@@ -50689,7 +50689,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/fc73ef40-e924-4f6b-9ab0-14ce641bd34e</string>
       </key>
       <value>
-        <string>Exactly.
+        <string>Именно так.
 </string>
       </value>
     </item>
@@ -50698,7 +50698,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/be07b5fc-e10c-4d75-a568-b83c24ab846a</string>
       </key>
       <value>
-        <string>Oh boy, oh boy, oh boy.
+        <string>О боже, о боже, о боже....
 </string>
       </value>
     </item>
@@ -50707,7 +50707,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/8ef18004-c4f3-4623-b04c-f60176bbfe81</string>
       </key>
       <value>
-        <string>Ohhh boy.
+        <string>Оооо боже.
 </string>
       </value>
     </item>
@@ -50716,7 +50716,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/77e40c86-0d10-46f0-91eb-2d7401e71e42</string>
       </key>
       <value>
-        <string>Yes.
+        <string>Да.
 </string>
       </value>
     </item>
@@ -50725,7 +50725,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/467ea2e7-812c-43a4-9a71-6aa7658b4bad</string>
       </key>
       <value>
-        <string>Ex-wife !? You…</string>
+        <string>Бывшая жена!? Ты…</string>
       </value>
     </item>
     <item>
@@ -50733,7 +50733,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/9f82973d-863e-4495-9e0f-aae4efe3a85e</string>
       </key>
       <value>
-        <string>His… !?
+        <string>Его… !?
 </string>
       </value>
     </item>
@@ -50742,7 +50742,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/675726d7-58cb-4444-aa12-5aeaab203f0d</string>
       </key>
       <value>
-        <string>Tell him that: "his &lt;b&gt;ex-wife&lt;/b&gt; is coming."
+        <string>Скажи ему: "его &lt;b&gt;бывшая жена&lt;/b&gt; идет."
 </string>
       </value>
     </item>
@@ -50751,7 +50751,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/b1b0123e-eff5-4bed-9c5d-b56fede1a2cd</string>
       </key>
       <value>
-        <string>What should we tell him?
+        <string>Что мы должны ему сказать?
 </string>
       </value>
     </item>
@@ -50760,7 +50760,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/b34012b0-ebe8-4458-88f8-5eeb73945c2b</string>
       </key>
       <value>
-        <string>Calm down, Ravina.
+        <string>Успокойся, Равина.
 </string>
       </value>
     </item>
@@ -50769,7 +50769,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_01/6a86bc85-8ce3-4ea6-a973-50de9f772e44</string>
       </key>
       <value>
-        <string>All right.
+        <string>Хорошо.
 </string>
       </value>
     </item>
@@ -50786,7 +50786,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/d8657db9-abe6-43fb-ac09-1ea207398e2b</string>
       </key>
       <value>
-        <string>Well… I kinda did…
+        <string>Ну... говорила...
 </string>
       </value>
     </item>
@@ -50795,7 +50795,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/7d6c4ffe-8945-4a56-a11c-7bff68c088d3</string>
       </key>
       <value>
-        <string>Wait… Didn’t you say earlier you wanted a job?
+        <string>Подождите... Разве ты не говорила раньше, что хочешь найти работу?
 </string>
       </value>
     </item>
@@ -50804,7 +50804,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/a19cf4cf-34c3-4216-b0a8-059bd98ccbba</string>
       </key>
       <value>
-        <string>Punch coming in three… two…
+        <string>Удар через три... две...
 </string>
       </value>
     </item>
@@ -50813,7 +50813,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/7372f83a-4982-4c35-a483-983c6a9dfe47</string>
       </key>
       <value>
-        <string>But I need you to rebuild this farm, Ravina!
+        <string>Но мне нужно, чтобы ты восстановила эту ферму, Равина!
 </string>
       </value>
     </item>
@@ -50822,7 +50822,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/c1b678d5-fa18-4db8-a3b2-ddc338ebc0ac</string>
       </key>
       <value>
-        <string>Anyways, I just went here to punch you in the nose and get back to a quiet, normal, Nekaroo-free life!
+        <string>В любом случае, я просто пришла сюда, чтобы дать тебе по носу и вернуться к спокойной, нормальной, свободной от Нэкаро жизни!
 </string>
       </value>
     </item>
@@ -50831,7 +50831,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/5b505b4d-461a-4cbc-a448-9b0d8854d237</string>
       </key>
       <value>
-        <string>Of course not!
+        <string>Конечно нет!
 </string>
       </value>
     </item>
@@ -50840,7 +50840,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/bed5c096-0e58-47de-ab7a-129fd3afb4ad</string>
       </key>
       <value>
-        <string>Wait, have we been tricked?
+        <string>Подождите, нас что, обманули?
 </string>
       </value>
     </item>
@@ -50849,7 +50849,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/f6f27fd5-eaa8-43a9-941d-e3b8dc3ea4e1</string>
       </key>
       <value>
-        <string>Absolutely not! Someone else did it for me!
+        <string>Ни в коем случае! Кто-то другой сделал это за меня!
 </string>
       </value>
     </item>
@@ -50858,7 +50858,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/b758d261-0fc9-4ffb-8742-ce633bcb2911</string>
       </key>
       <value>
-        <string>Don’t tell me you’ve tricked these kids into one of your stupid Nekaroo-schemes!
+        <string>Только не говори мне, что ты втянул этих детей в одну из своих дурацких Нэкаро-схем!
 </string>
       </value>
     </item>
@@ -50867,7 +50867,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/4cf56293-bd16-49d8-9ed7-deaf0f4e6e8c</string>
       </key>
       <value>
-        <string>Well, Ravina. Eleventh time’s a charm! Thanks to those younglings over there…
+        <string>Ну, Равина. В одиннадцатый раз - это прелесть! Спасибо тем молодым людям вон там...
 </string>
       </value>
     </item>
@@ -50876,7 +50876,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/26aea3a5-0d5e-4ec9-9302-ce4f6d653cf5</string>
       </key>
       <value>
-        <string>Of course we are intruding.
+        <string>Конечно, мы мешаем.
 </string>
       </value>
     </item>
@@ -50885,7 +50885,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/e8bf2991-165e-4347-b371-b11a5ef2d83a</string>
       </key>
       <value>
-        <string>I gave you &lt;b&gt;everything&lt;/b&gt; so that you could live your dream of having a Nekaroo farm. Everything! And it still wasn’t enough!
+        <string>Я дала тебе &lt;b&gt;все&lt;/b&gt;, чтобы ты смог осуществить свою мечту о ферме Нэкаро. Все! И все равно этого было недостаточно!
 </string>
       </value>
     </item>
@@ -50894,7 +50894,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/7710c71b-1c48-4994-bb7b-a0b40038b04a</string>
       </key>
       <value>
-        <string>Are we intruding, somehow?
+        <string>Мы вам никак не мешаем?
 </string>
       </value>
     </item>
@@ -50903,7 +50903,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/b5716fb4-36bd-46fd-b515-2f48d6a27628</string>
       </key>
       <value>
-        <string>...didn’t love them as much as I did, heh?
+        <string>...не любила их так сильно, как я, а?
 </string>
       </value>
     </item>
@@ -50912,7 +50912,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/6a56be82-f683-426e-bc28-eda119c5f26e</string>
       </key>
       <value>
-        <string>Or you could say that’s because you…
+        <string>Или ты можешь сказать, что это потому, что ты ...
 </string>
       </value>
     </item>
@@ -50921,7 +50921,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/c31d4f0a-5b7d-4174-974d-5c220ff4d7bf</string>
       </key>
       <value>
-        <string>What the hell are you talking about!? It's because of *you* that we're not married anymore! Because of you and your stupid obsession with Nekaroos!
+        <string>О чем, черт возьми, ты говоришь!? Это из-за тебя мы больше не женаты! Из-за тебя и твоей глупой одержимости Нэкаро!
 </string>
       </value>
     </item>
@@ -50930,7 +50930,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/1999585f-e222-4f6b-a2dc-59cc9ec53e05</string>
       </key>
       <value>
-        <string>While "old friends" just stresses how much we shared together, and leaves the door open to further development.
+        <string>В то время как "старые друзья" просто подчеркивает, как много мы разделили вместе, и оставляет лазейку для дальнейшего развития.
 </string>
       </value>
     </item>
@@ -50939,7 +50939,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/00085c4a-6649-4322-b260-867f739867bb</string>
       </key>
       <value>
-        <string>Ex-wife is such a derogatory term, Ravina. It draws unnecessary attention to our respective failures and inability to maintain a healthy marital relationship.
+        <string>Бывшая жена - это такой презрительный термин, Равина. Это привлекает ненужное внимание к нашим соответствующим неудачам и неспособности поддерживать здоровые супружеские отношения.
 </string>
       </value>
     </item>
@@ -50948,7 +50948,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/538b0bef-14d0-4554-acea-d27a213e2fbd</string>
       </key>
       <value>
-        <string>"Friend". So, what, I'm a "friend" now!!?
+        <string>"Друг". Так, что, я теперь всего лишь "друг"!!?
 </string>
       </value>
     </item>
@@ -50957,7 +50957,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/1d4a3864-1611-4fa6-b33e-283f04d0a494</string>
       </key>
       <value>
-        <string>But not with him. Not with Nekaroos!
+        <string>Но не с ним. И только не с Нэкаро!
 </string>
       </value>
     </item>
@@ -50966,7 +50966,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/f5478186-bfec-4e04-9a2f-04e383de4c9f</string>
       </key>
       <value>
-        <string>Swear it.
+        <string>Поклянись в этом.
 </string>
       </value>
     </item>
@@ -50975,7 +50975,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/d38b9c19-08fd-46f1-a163-e2fe2c9b03c3</string>
       </key>
       <value>
-        <string>...Did you really know?
+        <string>...Правда?
 </string>
       </value>
     </item>
@@ -50984,7 +50984,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/871b3811-ec93-4826-8ad1-178a43427a74</string>
       </key>
       <value>
-        <string>I can drink it alone if you want. T'would be a waste, though - hey, it's a good one. Got it from that shop in Dehostra. Remember?
+        <string>Я могу выпить его один, если хочешь. Хотя это было бы пустой тратой времени - эй, это хорошая идея. Я купил его в магазине в Дехостре. Помнишь?
 </string>
       </value>
     </item>
@@ -50993,7 +50993,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/87e69ef0-db12-4f7f-a863-6d0bac2abddf</string>
       </key>
       <value>
-        <string>I can't believe that, after all these years, you're still trying to soften me up with your tall tales and cheap bottles.
+        <string>Я не могу поверить, что после всех этих лет ты все еще пытаешься смягчить меня своими небылицами и дешевыми бутылками.
 </string>
       </value>
     </item>
@@ -51002,7 +51002,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/e2e9e5c7-20ae-465e-aabf-12040c2b64ea</string>
       </key>
       <value>
-        <string>It was a birthday's gift for 'ya before you… before we split. I couldn't bring myself to drink it without you anyway.
+        <string>Это был подарок на день рождения для тебя пока ты... пока мы не расстались. Я все равно не смог бы заставить себя выпить его без тебя.
 </string>
       </value>
     </item>
@@ -51011,7 +51011,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/05b2947a-ff79-4104-af8d-586463d2b12d</string>
       </key>
       <value>
-        <string>...A Tartalos bottle!? Now where did you get that?
+        <string>...Бутылка Тарталоса!? Ну и где ты это взял?
 </string>
       </value>
     </item>
@@ -51020,7 +51020,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/ee87813f-414e-4925-b89e-ed07d989e4fa</string>
       </key>
       <value>
-        <string>Hey, before you go -- and punch me in the nose… or don't punch me, whathever -- would you mind sharing one last Tartalos bottle with me?
+        <string>Эй, прежде чем ты уйдешь ... и врежешь мне по носу... или не врежешь мне, как бы то ни было-не разделишь ли ты со мной последнюю бутылку Тарталоса?
 </string>
       </value>
     </item>
@@ -51029,7 +51029,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/4cc55f4f-be78-4b9f-b472-29cec1b4bfe7</string>
       </key>
       <value>
-        <string>'nothing to do about it then.
+        <string>'тогда уж ничего не поделаешь.
 </string>
       </value>
     </item>
@@ -51038,7 +51038,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/653ffad7-ba08-422d-b9ad-e67347dabd88</string>
       </key>
       <value>
-        <string>No.
+        <string>Нет.
 </string>
       </value>
     </item>
@@ -51047,7 +51047,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/3fbbd8db-7029-4d91-ae42-2000f8d26bee</string>
       </key>
       <value>
-        <string>Hey. Don'tcha wanna stay for a while? Watch me fail for the eleventh time? Come on! For old time's sake?
+        <string>Эй. Не хочешь остаться ненадолго? Смотреть, как я проваливаюсь в одиннадцатый раз? Ну же! По старой памяти?
 </string>
       </value>
     </item>
@@ -51056,7 +51056,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/6f9c5c6c-c1c4-4d27-a249-4e80d22597c7</string>
       </key>
       <value>
-        <string>...Why are you like that? You're so…
+        <string>...Почему ты такой? Ты такой ...
 </string>
       </value>
     </item>
@@ -51065,7 +51065,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/68ad4a3c-5042-41c9-80b0-5ae517500625</string>
       </key>
       <value>
-        <string>Bah! Just haven't tried enough times, that's all there is to it.
+        <string>Тьфу! Просто не пробовал достаточно раз, вот и все.
 </string>
       </value>
     </item>
@@ -51074,7 +51074,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/26ecfa34-df84-480a-8db5-b3d6e8cd7cf5</string>
       </key>
       <value>
-        <string>&lt;b&gt;Everything you touch turns to dust!&lt;/b&gt;
+        <string>&lt;b&gt;Все, к чему ты прикасаешься, превращается в пыль!&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -51083,7 +51083,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/e7ae5ec8-2f7d-4f47-8603-48fa2d3152c0</string>
       </key>
       <value>
-        <string>You’re a heartless, self-absorbed jerk! That's what you are! You're so short-sighted! Your life is nothing but failures! All of your ventures, &lt;i&gt;down the drain&lt;/i&gt;!
+        <string>Ты бессердечный, эгоцентричный придурок! Вот кто ты такой! Ты такой близорукий! Твоя жизнь - сплошные неудачи! Все твои авантюры -  &lt;b&gt;коту под хвост&lt;/i&gt;!
 </string>
       </value>
     </item>
@@ -51092,7 +51092,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/49af71e2-e5a6-4413-9b26-a148977c49a4</string>
       </key>
       <value>
-        <string>Arrh… You’re just afraid I'll do fine without you.
+        <string>Пфф... Ты просто боишься, что я прекрасно обойдусь без тебя.
 </string>
       </value>
     </item>
@@ -51101,7 +51101,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/73d9dbbf-d1e1-47e1-9af6-a50fab3ace15</string>
       </key>
       <value>
-        <string>No, it won't!
+        <string>Нет, не получится!
 </string>
       </value>
     </item>
@@ -51110,7 +51110,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/138b3fa6-1cb3-4b8c-8af8-d21f3910cfec</string>
       </key>
       <value>
-        <string>Ah, this time it'll work. You'll see.
+        <string>Ах, на этот раз все получится. Вот увидишь.
 </string>
       </value>
     </item>
@@ -51119,7 +51119,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/581d84cf-d08f-48a1-bfdd-2ca24449dab3</string>
       </key>
       <value>
-        <string>I think we should come back again tomorrow.
+        <string>Я думаю, что мы должны вернуться завтра.
 </string>
       </value>
     </item>
@@ -51128,7 +51128,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/0ddc9b99-d1c2-4365-bf1b-4813012a432f</string>
       </key>
       <value>
-        <string>What about…
+        <string>Как насчет...
 </string>
       </value>
     </item>
@@ -51137,7 +51137,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/5fa840ec-7ff9-4265-9ed4-d39cd30d5716</string>
       </key>
       <value>
-        <string>Now we're talkin'!
+        <string>Вот это разговор!
 </string>
       </value>
     </item>
@@ -51146,7 +51146,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_02/c451607f-09b7-482f-b51d-caab8dd781d6</string>
       </key>
       <value>
-        <string>...I guess I can have a drink or two before I smash it on our head.
+        <string>...Я думаю, что смогу выпить пару стаканчиков, прежде чем разобью его о нашу голову.
 </string>
       </value>
     </item>
@@ -51155,7 +51155,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/eef81695-b51f-4813-a2da-90dcd9110fa5</string>
       </key>
       <value>
-        <string>Don't work too hard, kids.
+        <string>Не трудитесь слишком усердно, дети.
 </string>
       </value>
     </item>
@@ -51164,7 +51164,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/359c90e5-b5ff-4a0b-a6e0-d38cb558f16c</string>
       </key>
       <value>
-        <string>I didn't know you were. Well, I guess that's pretty important, too.
+        <string>Я и не знала,что вы здесь. Ну, я думаю, это тоже очень важно.
 </string>
       </value>
     </item>
@@ -51173,7 +51173,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/b29bc81c-8b68-4034-a7f7-1b89fee947e8</string>
       </key>
       <value>
-        <string>Huh, not yet. We're busy trying to find a cure to the Corrosion, you know.
+        <string>Хм, пока нет. Мы заняты тем, что пытаемся найти лекарство от Коррозии.
 </string>
       </value>
     </item>
@@ -51182,7 +51182,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/caaa0ff9-0983-4bc3-8bf2-5ca83ae7af3e</string>
       </key>
       <value>
-        <string>Got the materials?
+        <string>Принесли материалы?
 </string>
       </value>
     </item>
@@ -51191,7 +51191,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/2629bc1a-69e9-4727-b80d-c405494cbeac</string>
       </key>
       <value>
-        <string>Gather this up, and I'll be able to patch up the ruins you shouldn't have paid for in the first place.
+        <string>Соберите их, и я смогу починить руины, за которые вы не должны были платить изначально.
 </string>
       </value>
     </item>
@@ -51200,7 +51200,7 @@ To the worms, I leave something to eat."&lt;/i&gt;
         <string>/Quest/Solna_Plain/Side_Quests/Nek_F_Ravina_03/7f71a3c3-5f90-416c-bb6d-780a9b569dc4</string>
       </key>
       <value>
-        <string>I've made a shopping list for you. Lots of wood in it, so it's more of a "chopping" list.
+        <string>Я составила для тебя список покупок. В нем много дров, так что это скорее список "для рубки".
 </string>
       </value>
     </item>
