@@ -46301,7 +46301,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp05_Refugee_40F/3d4fd0fd-7ec2-4b32-8332-a2a8e489a012</string>
       </key>
       <value>
-        <string>Our choices are grim, indeed. Either we settle for Tyr-Caelum and become the slaves of some Technomage, or we try to found a new city. We're pretty much condemned.</string>
+        <string>Наш выбор действительно печален. Либо мы поселимся в Тир-Келуме и станем рабами какого-нибудь техномага, либо попытаемся основать новый город. Мы в значительной степени обречены.</string>
       </value>
     </item>
     <item>
@@ -46309,7 +46309,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp05_Refugee_20F/d811add7-0f62-41ea-8780-10c019c9fb56</string>
       </key>
       <value>
-        <string>Astrya's a system of city-states. Each of them has their own set of laws and regulations, politics and government. And yet... none of them accept refugees at the moment.</string>
+        <string>Астрэя - это система городов-государств. Каждый из них имеет свой собственный набор законов и правил, политику и правительство. И все же ... в настоящее время ни один из них не принимает беженцев.</string>
       </value>
     </item>
     <item>
@@ -46317,7 +46317,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp04_Sorcerer_40M/729ae7c8-a254-46e7-ba41-39e8ddb9d32c</string>
       </key>
       <value>
-        <string>A moment of inattention and I'm monster munch. I'm trusting these two with my life.</string>
+        <string>Стоит один раз отвлечься на мгновение и я стану ужином для монстра. Я доверяю этим двоим свою жизнь.</string>
       </value>
     </item>
     <item>
@@ -46325,7 +46325,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp04_Huntress_30F/fd39d35b-6b68-46b2-9603-93149231a4f2</string>
       </key>
       <value>
-        <string>I'm not here because I'm after some kind of hot prize, y'know. Herelsor has enough "protectors". They refuse to hire any more hunters.</string>
+        <string>Я здесь не потому, что мне нужен какой-то горячий приз, знаешь ли. У Херельсора достаточно "защитников". Они отказываются нанимать больше охотников.</string>
       </value>
     </item>
     <item>
@@ -46333,7 +46333,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp04_Hunter_30M/3641a3dc-4e64-4a63-850b-f494775d3345</string>
       </key>
       <value>
-        <string>We don't get a security fee if we kill the monsters here—so far from all the cities—but monster parts can still fetch a pretty penny. High risks, high rewards, as they say.</string>
+        <string>Мы не получим гонорар за безопасность, если убьем монстров здесь - слишком далеко от всех городов, но части монстров все равно могут принести довольно много денег. Высокий риск, высокая награда, как говорится.</string>
       </value>
     </item>
     <item>
@@ -46341,7 +46341,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp03_Hunter_30M/f0fa1696-38e7-41c2-91b7-f8f2f329a402</string>
       </key>
       <value>
-        <string>The job pays well, but having to keep up with this troupe is... exhausting.</string>
+        <string>Работа хорошо оплачивается, но приходится идти в ногу с этой труппой... утомительно.</string>
       </value>
     </item>
     <item>
@@ -46349,7 +46349,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp03_Taster_20F/ab569596-4867-4d66-8b58-0c4136218034</string>
       </key>
       <value>
-        <string>I keep telling you, man, anyone who eats these mushrooms with &lt;i&gt;Wine Merchant Sauce&lt;/i&gt; other than me is going to die! Or at least get sick for a week. You need to find another way to cook them!</string>
+        <string>Я все время говорю тебе, парень, что любой, кто ест эти грибы с &lt;i&gt;Винным Соусом от торговца&lt;/i&gt;, кроме меня, умрет! Или хотя бы заболеет на неделю. Тебе нужно найти другой способ их приготовить!</string>
       </value>
     </item>
     <item>
@@ -46357,7 +46357,7 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp03_Cook_20M/343ec889-b065-4074-9a6e-ec849927272a</string>
       </key>
       <value>
-        <string>It's also about the *taste*! Do you think anyone will eat these if they taste like boiled snot? 'F course not! We need to find a proper way to cook them. Fried with Wine Merchant Sauce is perfect!</string>
+        <string>Дело еще и во вкусе! Как вы думаете, кто-нибудь будет есть их, если они на вкус как вареные сопли? Конечно, нет! Нам нужно найти правильный способ их приготовить. Жаркое с винным соусом от купца - это прекрасно!</string>
       </value>
     </item>
     <item>
@@ -46365,8 +46365,8 @@ In the end, it doesn't matter much. We're all dead meat if the Consort gets us.<
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp03_AstryanSoldier_30M/f8f60e71-07ff-4c4a-b04a-a9db217d0d3d</string>
       </key>
       <value>
-        <string>We've been commissioned by Herelsor to study the flora and fauna in the Elysian Fields. To find out which monster parts or plants are edible? How to cook them? Can we feed them to animals?
-It's our job to answer all these questions without causing any casualties.</string>
+        <string>Херельсор поручил нам изучить флору и фауну Элизианских полей. Какие части монстров или растений съедобны? Как их приготовить? Можем ли мы скормить их животным?
+Наша задача - ответить на все эти вопросы, не причиняя никому вреда.</string>
       </value>
     </item>
     <item>
@@ -46374,8 +46374,8 @@ It's our job to answer all these questions without causing any casualties.</stri
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Consort_Soldier_01_20F/774d3e83-0e73-4f2e-982b-f358ced39ed9</string>
       </key>
       <value>
-        <string>I'm pretty sure there's a reason why the officers leave these wretches scattered all over the Elysian Fields. How long before they catch the Corrosion playing with forbidden technology?
-It's only a matter of time before Astrya begs the Consort to purify this area.</string>
+        <string>Я почти уверена, что есть причина, по которой офицеры оставляют этих несчастных разбросанными по всем Элизианским полям. Сколько времени пройдет, прежде чем они подхватят Коррозию, играя с запрещенной технологией?
+Это только вопрос времени, когда Астрэя попросит Консорт очистить эту область.</string>
       </value>
     </item>
     <item>
@@ -46383,7 +46383,7 @@ It's only a matter of time before Astrya begs the Consort to purify this area.</
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Consort_Soldier_02_20M/57bd6528-bf86-43a6-8d4c-89157d759ee0</string>
       </key>
       <value>
-        <string>Lieutenant Argentis is too kind for her own good.</string>
+        <string>Лейтенант Аргентис слишком добра к себе.</string>
       </value>
     </item>
     <item>
@@ -46391,7 +46391,7 @@ It's only a matter of time before Astrya begs the Consort to purify this area.</
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Consort_Soldier_03_20F/94ac8a8f-c07e-48c2-aaaa-41d8584e1423</string>
       </key>
       <value>
-        <string>Last time she heard you say this, you got two months of cooking duty.</string>
+        <string>В последний раз, когда она это слышала, ты получил два месяца поварской работы.</string>
       </value>
     </item>
     <item>
@@ -46399,7 +46399,7 @@ It's only a matter of time before Astrya begs the Consort to purify this area.</
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp01_Huntress_30F/e5a32a0c-d0e2-4ed1-8f7b-c1c9eba2c9d3</string>
       </key>
       <value>
-        <string>So I was thinking the other day: what's the difference between monsters and animals? We eat both. Some monsters can be tamed and domesticated, just like animals... And some animals can be dangerous to humans.</string>
+        <string>Вот я и подумала на днях: в чем разница между чудовищами и животными? Мы едим оба. Некоторые монстры могут быть приручены и одомашнены, как и животные... А некоторые животные могут быть опасны для человека.</string>
       </value>
     </item>
     <item>
@@ -46407,9 +46407,9 @@ It's only a matter of time before Astrya begs the Consort to purify this area.</
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp01_Hunter_30M/26bedfb2-9d11-4804-81e3-b18ad06d5937</string>
       </key>
       <value>
-        <string>You got a point there, friend. I'd say... intelligence maybe? But are monsters more intelligent than animals?
+        <string>В этом ты права, подруга. Я бы сказал... может быть, сообразительность? Но разве чудовища умнее животных?
 ...
-Some Nekaroos and Pilitches are damn smart.</string>
+Некоторые Нэкаро и Пилитчи чертовски умны.</string>
       </value>
     </item>
     <item>
@@ -46417,7 +46417,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp02_Scavenger_01_20M/86b3b213-fc68-4e47-9800-f4ef0ffc55ff</string>
       </key>
       <value>
-        <string>The pickings here are better than in Tyr-Caelum, but getting here is becoming more and more dangerous. </string>
+        <string>Добыча здесь лучше, чем в Тир-Келуме, но добираться сюда становится все опаснее и опаснее. </string>
       </value>
     </item>
     <item>
@@ -46425,7 +46425,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp02_Scavenger_02_20F/c1a554d9-b7e5-4969-9ae5-4bbf4534c6f6</string>
       </key>
       <value>
-        <string>Do we care about getting the Corrosion from picking through Archelite wreckage? Nah. I mean yeah, of course we do, but right now we're more worried about getting paid and finding something to eat than dying of the Corrosion in a year or two.</string>
+        <string>Беспокоимся ли мы о том, что получим Коррозию от ковыряния в обломках Архелита? Нет. Я имею в виду, да, конечно, но сейчас мы больше беспокоимся о том, чтобы получить зарплату и найти что-нибудь поесть, чем умереть от Коррозии через год или два.</string>
       </value>
     </item>
     <item>
@@ -46433,7 +46433,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp02_Scavenger_03_20F/d8c4b729-3473-4b22-8257-fb03fe1d3a1f</string>
       </key>
       <value>
-        <string>When scavengers band together, they take an oath. The first to get an eye twitch has to tell everyone, so the others can keep their distance... or kill them, if that's what they prefer. </string>
+        <string>Когда падальщики собираются вместе, они дают клятву. Первый, у кого дернется глаз, должен рассказать об этом всем, чтобы остальные держались на расстоянии... или убить их, если они этого пожелают. </string>
       </value>
     </item>
     <item>
@@ -46441,7 +46441,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp02_Scavenger_04_30F/87987697-d584-4fb8-b21e-48d18739f7cd</string>
       </key>
       <value>
-        <string>You guys worry too much. If you could get the Corrosion from Archelite technology, we’d already have it.</string>
+        <string>Вы, ребята, слишком много волнуетесь. Если бы вы могли получить Коррозию от технологий Арчелайтов, мы бы уже получили ее.</string>
       </value>
     </item>
     <item>
@@ -46449,7 +46449,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp02_Scavenger_05_30M/f243967f-f1cf-44ed-861e-96d1c4753578</string>
       </key>
       <value>
-        <string>We survived the war. Might even survive this.</string>
+        <string>Мы пережили войну. Может быть, даже переживем это.</string>
       </value>
     </item>
     <item>
@@ -46457,7 +46457,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp03_AstryanSoldier_20M/616cdee2-ca85-495a-9b38-260f3f5d06b4</string>
       </key>
       <value>
-        <string>This is the best posting I’ve ever had! Hunting, eating, sleeping, and these views, man!</string>
+        <string>Это самая лучшая должность, которая у меня когда-либо была! Охота, еда, сон, и эти виды, чувак!</string>
       </value>
     </item>
     <item>
@@ -46465,7 +46465,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Disgruntled_Citizen_30M/2dcb479b-1e44-4f9d-84cc-4d7f4ba05da9</string>
       </key>
       <value>
-        <string>Tch, the guards in this city are a joke. That's what we get for sending the most experienced officers to the Consort Army.</string>
+        <string>Пф, охранники в этом городе - просто шутка. Вот что мы получаем за то, что посылаем самых опытных офицеров в армию Консорта.</string>
       </value>
     </item>
     <item>
@@ -46473,7 +46473,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Foppish_Noble_50M/3b51c1bc-f6b2-47c8-aab3-f52b298fff66</string>
       </key>
       <value>
-        <string>It’s about time the Consort took matters into their own hands and did something about the refugees. About blasted time.</string>
+        <string>Консорту давно пора взять дело в свои руки и что-то сделать с беженцами. В эти проклятые времена.</string>
       </value>
     </item>
     <item>
@@ -46481,7 +46481,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid_on_watch_duty_10F/049d6774-46d8-47be-83f9-aab9c99a3223</string>
       </key>
       <value>
-        <string>Easy-peasy job, Cos'. I swear, none of these new guards take us seriously.</string>
+        <string>Легкая работа, кузен. Клянусь, никто из этих новых охранников не воспринимает нас всерьез.</string>
       </value>
     </item>
     <item>
@@ -46489,7 +46489,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Nervous_Kid_10M/3a7d9059-2f47-48f9-8cfa-d99c6d38e965</string>
       </key>
       <value>
-        <string>It's not for me, maybe I should go. Turn myself in. I don't know if...</string>
+        <string>Это не для меня, может, мне стоит уйти. Сдаться. Я не знаю если...</string>
       </value>
     </item>
     <item>
@@ -46497,7 +46497,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Confident_Teenager_13M/41bff043-c453-4a19-899f-a5808dc65056</string>
       </key>
       <value>
-        <string>It's okay, Cos', you'll get used to it. You’ve been through a rough time, but we're here now. We're &lt;i&gt;all&lt;/i&gt; here for you if you need us.</string>
+        <string>Все в порядке, кузен, ты к этому привыкнешь. Тебе пришлось нелегко, но теперь мы здесь. Мы все здесь для вас, если вы нуждаетесь в нас.</string>
       </value>
     </item>
     <item>
@@ -46505,7 +46505,7 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Guard_on_duty_20M/16a9bdb8-7ef6-4a3d-8dc7-8dc58c024045</string>
       </key>
       <value>
-        <string>Another quiet day in Herelsor. </string>
+        <string>Еще один тихий день в Херельсоре.</string>
       </value>
     </item>
     <item>
@@ -46513,8 +46513,8 @@ Some Nekaroos and Pilitches are damn smart.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Crippled_Veteran_60M/f79d8d68-adb6-4e0b-9059-59c48ca66ea3</string>
       </key>
       <value>
-        <string>I know nearly all of these kids’ parents. What do you want me to say? That we're going to sacrifice another generation to the war?
-I wish I could take their place. Any of them. Any of them! But the Consort... They won't take me back.</string>
+        <string>Я знаю почти всех родителей этих детей. Что ты хочешь, чтобы я сказал? Что мы собираемся принести в жертву войне еще одно поколение?
+Жаль, что я не могу занять их место. Любого из них. Любой из них! Но Консорт..... Они не примут меня обратно.</string>
       </value>
     </item>
     <item>
@@ -46522,7 +46522,7 @@ I wish I could take their place. Any of them. Any of them! But the Consort... Th
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Eagle_13M/9e4e037f-a317-4d27-b8af-151716323adb</string>
       </key>
       <value>
-        <string>Know Beaver and Pig? If ya wanna deal with us, you take it to them.</string>
+        <string>Знаешь Бивера и Пиг? Если ты хочешь иметь дело с нами, то отдай это им.</string>
       </value>
     </item>
     <item>
@@ -46530,8 +46530,8 @@ I wish I could take their place. Any of them. Any of them! But the Consort... Th
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Flustered_Noblewoman_35F/414590db-de7b-46da-868c-05d49bd8bfc6</string>
       </key>
       <value>
-        <string>They should lower the age of conscription. Too many &lt;i&gt;street rats&lt;/i&gt; these days.
-Have you seen all the &lt;i&gt;garbage littering the streets?&lt;/i&gt;</string>
+        <string>Они должны снизить возраст призыва на военную службу. Слишком много &lt;i&gt;уличных крыс&lt;/i&gt; в эти дни.
+Вы видели весь &lt;i&gt;мусор, который валяется на улицах?&lt;/i&gt;</string>
       </value>
     </item>
     <item>
@@ -46539,7 +46539,7 @@ Have you seen all the &lt;i&gt;garbage littering the streets?&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Guard_off_duty_20F/c37175e4-6ddb-4450-a3b7-7b433206fd8e</string>
       </key>
       <value>
-        <string>I admit, I'm glad the Consort and the hunters are in charge of the countryside. With the Archelite war machines, the Corroded and the monster population booming we're safer here.</string>
+        <string>Я признаю, что рад, что Консорт и охотники отвечают за сельскую местность. С кораблями Арчелайтов, Коррозией и растущим числом монстров мы здесь в большой безопасности.</string>
       </value>
     </item>
     <item>
@@ -46547,8 +46547,8 @@ Have you seen all the &lt;i&gt;garbage littering the streets?&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid_obsessed_with_monickers_12M/ccb8b138-dffa-42ed-a281-d167ee70523d</string>
       </key>
       <value>
-        <string>Hey I came up with a nickname for ya. How about "Bat"? You look like a Bat to me.
-Can you screech a little? Give it a try?</string>
+        <string>Эй, я придумал тебе прозвище. Как насчет "летучей мыши"? По-моему, ты похож на летучую мышь.
+Ты можешь немного попищать? Попробуешь?</string>
       </value>
     </item>
     <item>
@@ -46556,7 +46556,7 @@ Can you screech a little? Give it a try?</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Overexcited_Priest_40M/ec991733-7f05-4d6b-a084-1de862c6919d</string>
       </key>
       <value>
-        <string>We shot down every Archelite airship that dared to threaten our dear city! Our holy fireballs rained down on those wretched machines! We triumphed yet again!</string>
+        <string>Мы сбили каждый воздушный корабль Арчелайтов, который осмелился угрожать нашему дорогому городу! Наши священные огненные шары обрушились на эти жалкие машины! Мы снова одержали победу!</string>
       </value>
     </item>
     <item>
@@ -46564,7 +46564,7 @@ Can you screech a little? Give it a try?</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Reassuring_mom_40M/ea30e515-279f-4be9-9c16-ba42bde74695</string>
       </key>
       <value>
-        <string>It was nothing, dear. It was just an old house that collapsed a few streets away. Now what would you like for lunch? </string>
+        <string>Ничего страшного, дорогой. Это был просто старый дом, который обрушился в нескольких улицах отсюда. Что бы ты хотел на обед? </string>
       </value>
     </item>
     <item>
@@ -46572,8 +46572,8 @@ Can you screech a little? Give it a try?</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Worried_Sorceress_30F/66a8fd1f-2727-4e19-880b-8090a0131298</string>
       </key>
       <value>
-        <string>I was on the ramparts when the bombing raid started. The Archelites weren't targeting the city or it would've been razed.
-But then again... why? Why leave us alone?</string>
+        <string>Я была на крепостном валу, когда началась бомбежка. Арчелайты не собирались нападать на город, иначе он был бы стерт с лица земли.
+Но опять же... почему? Зачем оставлять нас одних?</string>
       </value>
     </item>
     <item>
@@ -46581,7 +46581,7 @@ But then again... why? Why leave us alone?</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Worried_Child_8F/a54fe0b4-5b45-40c4-916f-b2299b28d540</string>
       </key>
       <value>
-        <string>What was that loud noise the other day, Mom? What was it? Eagle told me it was the Archelites attacking the city!</string>
+        <string>Что это был за громкий шум на днях, мама? Что же это было? Орел сказал мне, что это Арчелайты напали на город!</string>
       </value>
     </item>
     <item>
@@ -46589,7 +46589,7 @@ But then again... why? Why leave us alone?</string>
         <string>/NPC_Dialogs/HerelsorPlain_NPC_Dials/Ragna_House/f5bc950a-1e0a-4fa1-8532-f23e842f66ef</string>
       </key>
       <value>
-        <string>It's been a while since something blew up. I should do something about that.</string>
+        <string>Прошло много времени с тех пор, как что-то взорвалось. Я должна что-нибудь с этим сделать.</string>
       </value>
     </item>
     <item>
@@ -46597,7 +46597,7 @@ But then again... why? Why leave us alone?</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/SmittenLady_35F/a21058da-139f-49f9-a4de-ee0268284e69</string>
       </key>
       <value>
-        <string>Would you... tell me about your adventures again?</string>
+        <string>Не могли бы вы... рассказать мне еще раз о своих приключениях.</string>
       </value>
     </item>
     <item>
@@ -46605,8 +46605,8 @@ But then again... why? Why leave us alone?</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/RecoveringHunter_35F/b1af4752-8a4b-4d96-acdc-a3d1c6bd2994</string>
       </key>
       <value>
-        <string>Got a few nasty bites here and there. The poison's not helping the healing.
-If you want to make old bones in my line of work, kid, you’ve gotta take care of yourself and know when to kick back and relax.</string>
+        <string>Получил несколько неприятных укусов здесь и там. Яд мешает исцелиться.
+Если ты хочешь состариться на моей работе, парень, ты должен заботиться о себе и знать, когда можно расслабиться и отдохнуть.</string>
       </value>
     </item>
     <item>
@@ -46614,7 +46614,7 @@ If you want to make old bones in my line of work, kid, you’ve gotta take care 
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/NononesenseMercenary_30M/8fc300a4-e22b-4bc3-8e74-43824496e386</string>
       </key>
       <value>
-        <string>I'm still waiting for them. Talk about a disappointment.</string>
+        <string>Я все еще жду их. Поговорим о разочаровании.</string>
       </value>
     </item>
     <item>
@@ -46622,8 +46622,8 @@ If you want to make old bones in my line of work, kid, you’ve gotta take care 
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/NononesenseMercenary_30M/268cf3af-6ea6-4188-a8d5-15ea1e482496</string>
       </key>
       <value>
-        <string>The right thing, I guess. Punched him in the guts. Took him half an hour to recover. Couldn't stop retching.
-When he &lt;i&gt;finally&lt;/i&gt; pulled himself together, he screamed that he’d send the city guards after me.
+        <string>Самое правильное, на мой взгляд. Ударил его кулаком в живот. Ему потребовалось полчаса, чтобы прийти в себя. Не мог остановить рвоту.
+Когда он &lt;i&gt;наконец&lt;/i&gt; взял себя в руки, то закричал, что пошлет за мной городскую стражу.
 </string>
       </value>
     </item>
@@ -46632,7 +46632,7 @@ When he &lt;i&gt;finally&lt;/i&gt; pulled himself together, he screamed that he�
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/NononesenseMercenary_30M/6f872e65-c5d7-4bcb-a295-677a8119b796</string>
       </key>
       <value>
-        <string>So what did you do?</string>
+        <string>Так что ты сделал?</string>
       </value>
     </item>
     <item>
@@ -46640,7 +46640,7 @@ When he &lt;i&gt;finally&lt;/i&gt; pulled himself together, he screamed that he�
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/NononesenseMercenary_30M/50d076a3-4743-4b1e-91f6-daceba440814</string>
       </key>
       <value>
-        <string>Can you believe it? He couldn't stop smiling like he just had the best idea in the world. Wouldn't shut up.</string>
+        <string>Вы можете в это поверить? Он не мог перестать улыбаться, как будто у него только что появилась лучшая идея в мире. Никак не мог заткнуться.</string>
       </value>
     </item>
     <item>
@@ -46648,9 +46648,9 @@ When he &lt;i&gt;finally&lt;/i&gt; pulled himself together, he screamed that he�
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/NononesenseMercenary_30M/f50e4848-7832-43c9-8912-e5fcb8d07659</string>
       </key>
       <value>
-        <string>I was approached by one of those dandified ashbags the other day. Guess what he said to me?
-He asked me to find his brother outside—it was a refugee I think—and "terminate" him.
-He’s the last in line. We'll share the inheritance, he said.</string>
+        <string>На днях ко мне подошел один из этих щегольских мешков с прахом. Угадай, что он мне сказал?
+Он попросил меня найти снаружи его брата — кажется, это был беженец — и "прикончить" его.
+Он последний в очереди. Мы разделим наследство, сказал он.</string>
       </value>
     </item>
     <item>
@@ -46658,7 +46658,7 @@ He’s the last in line. We'll share the inheritance, he said.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/YoungNoble_02_20M/c6c501f7-32eb-463e-8026-b733e62de4f1</string>
       </key>
       <value>
-        <string>Jonas’ parents are tailors. What did they expect? Did they even understand the concept of conscription? You can't refuse the Calling.</string>
+        <string>Родители Джонаса - портные. А чего они ожидали? Понимают ли они вообще понятие воинской обязанности? Ты не можешь отказаться от своего призыва.</string>
       </value>
     </item>
     <item>
@@ -46666,8 +46666,8 @@ He’s the last in line. We'll share the inheritance, he said.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/YoungNoble_01_20M/03929b85-f867-4db0-b008-88fc0a3ef161</string>
       </key>
       <value>
-        <string>I know, right? All we have to do is stay safely inside these walls and wait for the situation to improve.
-I oughta feel bad for Jonas, though. He had no choice but to go, man.</string>
+        <string>Я знаю, да? Все, что нам нужно сделать, это оставаться в безопасности внутри этих стен и ждать, пока ситуация улучшится.
+Хотя мне должно быть жаль Джонаса. У него не было другого выбора, кроме как уйти.</string>
       </value>
     </item>
     <item>
@@ -46675,8 +46675,8 @@ I oughta feel bad for Jonas, though. He had no choice but to go, man.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Somerichmerchantskid_20F/8ceb32de-3380-45a5-a11b-1effe6731342</string>
       </key>
       <value>
-        <string>The war will be over soon, mark my words! And when it does, the Consort will deal with the Corrosion in the blink of an eye.
-Trust me, I got some good intel on this.</string>
+        <string>Война скоро закончится, запомните мои слова! И когда это произойдет, консорт справится с Коррозией в мгновение ока.
+Поверьте мне, у меня есть хорошая информация на этот счет.</string>
       </value>
     </item>
     <item>
@@ -46684,8 +46684,8 @@ Trust me, I got some good intel on this.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/OverworkedWaitress_19F/4169e1fd-d60d-4e04-95c5-2acbe4a570e1</string>
       </key>
       <value>
-        <string>My two bosses wrote me a discharge letter so that I could stay in Herelsor rather than go to war. But I'm exhausted...
-Maybe I should quit and face the ordeal.</string>
+        <string>Два моих босса написали мне увольнительное письмо, чтобы я могла остаться в Херельсоре, а не ехать на войну. Но я очень устала...
+Может быть, мне стоит бросить все и принять это испытание.</string>
       </value>
     </item>
     <item>
@@ -46693,7 +46693,7 @@ Maybe I should quit and face the ordeal.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ColdKid_13F/7b4ce497-aefc-4b82-b3a8-d3dd555af1c4</string>
       </key>
       <value>
-        <string>Snow or storm, this stove is always warm.</string>
+        <string>Снег или буря, эта печка всегда теплая.</string>
       </value>
     </item>
     <item>
@@ -46701,8 +46701,8 @@ Maybe I should quit and face the ordeal.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/SardonicKid_11M/68779434-7c79-48be-a13e-0d664eee911b</string>
       </key>
       <value>
-        <string>Boy, I can just imagine the look on the pillock's face if I told him we were sneaking refugees in through the sewers!
-Wait... You didn't hear me say that, okay!? Beaver will have my head if she finds out!</string>
+        <string>Боже, я могу только представить себе выражение лица этого придурка, если я скажу ему, что мы тайком протаскиваем беженцев через канализацию!
+Подожди... Ты не слышал, как я это сказал, ясно?? Бивер оторвет мне голову, если узнает!</string>
       </value>
     </item>
     <item>
@@ -46710,8 +46710,8 @@ Wait... You didn't hear me say that, okay!? Beaver will have my head if she find
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ParticularlysatisfiedCityOfficial_35M/546e23f8-e2c3-4dc9-81ae-cc62f1f5ef2e</string>
       </key>
       <value>
-        <string>I am breathing easier now that the refugee situation is being taken care of. Some of us didn't even want to send them food in the first place.
-Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt;</string>
+        <string>Теперь, когда ситуация с беженцами разрешилась, я могу вздохнуть с облегчением. Некоторые из нас даже не хотели посылать им еду поначалу.
+Хорошо, что некоторые из нас в городском совете &lt;i&gt;филантропы.&lt;/i&gt;</string>
       </value>
     </item>
     <item>
@@ -46719,7 +46719,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ACitizenwithcleancheeks_40M/2355c43c-4fb9-44ff-9a0d-c9d64561fddd</string>
       </key>
       <value>
-        <string>Heh-heh-heh-heh. I stocked up on drysilk wipesheets. Seven crates, chock full of 'em.</string>
+        <string>Хе-хе-хе-хе. Я запасся сухими шелковыми салфетками. Семь ящиков, битком набитых ими.</string>
       </value>
     </item>
     <item>
@@ -46727,7 +46727,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_01_30F/b92c1ed0-a087-48dd-a31b-ae544f047b44</string>
       </key>
       <value>
-        <string>They don't understand what's happening: the Archelites are cutting off our trade routes. They’ll slowly choke the city to death. The floating skyfarms won't be able to feed everyone for long.</string>
+        <string>Они не понимают, что происходит: Арчелайты отрезают нам торговые пути. Они будут медленно душить город до смерти. Плавучие небесные фермы не смогут долго кормить всех подряд.</string>
       </value>
     </item>
     <item>
@@ -46735,7 +46735,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp03_Refugee_30M/0b5c7edc-cc37-4264-aa49-f4ed2a95c279</string>
       </key>
       <value>
-        <string>Are we all going to die? Is that why you're here!?</string>
+        <string>Неужели мы все умрем? Так вот почему ты здесь!?</string>
       </value>
     </item>
     <item>
@@ -46743,7 +46743,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp02_Refugee_40F/873784ed-8818-4df8-b384-b8b8c59973f9</string>
       </key>
       <value>
-        <string>No need to hide it, you're here to *dispose* of us! We know how the Consort deals with refugees! We won't let you! We *won't*!</string>
+        <string>Не нужно это скрывать, вы здесь, чтобы избавиться от нас! Мы знаем, как консорт обращается с беженцами! Мы вам не позволим! Мы *не хотим*!</string>
       </value>
     </item>
     <item>
@@ -46751,7 +46751,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp04_Refugee_40F/74c41e64-87d7-404a-8775-aaf1bad0c3b9</string>
       </key>
       <value>
-        <string>I will *not* let you take my children from me!</string>
+        <string>Я не позволю вам забрать у меня моих детей!</string>
       </value>
     </item>
     <item>
@@ -46759,7 +46759,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_ConsortSoldier01_20F/7af74aaa-c152-4cf2-bbee-00dbc22685ae</string>
       </key>
       <value>
-        <string>We didn't expect the Sanctorium to send a Priestess to help us. Huh... No offense intended, Ma’am.</string>
+        <string>Мы не ожидали, что Санкториум пришлет нам на помощь жрицу. Хах... Не хочу вас обидеть, мэм.</string>
       </value>
     </item>
     <item>
@@ -46767,7 +46767,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_ConsortSoldier02_20M/84128f2a-e5bf-4fa5-a294-b2af565cc8b1</string>
       </key>
       <value>
-        <string>We're conducting an operation, here. With all due respect, Priestess, stay out of our way.</string>
+        <string>Мы проводим здесь операцию. При всем уважении, Жрица, держись от нас подальше.</string>
       </value>
     </item>
     <item>
@@ -46775,7 +46775,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_ConsortSoldier03_20F/c3f59d01-0043-4721-b9b3-30297f600896</string>
       </key>
       <value>
-        <string>The Consort is relocating the refugees. We are not to disclose the whereabouts of the camp.</string>
+        <string>Консорт переселяет беженцев. Мы не должны раскрывать местонахождение лагеря.</string>
       </value>
     </item>
     <item>
@@ -46783,7 +46783,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_ConsortSoldier04_20M/d82e3d34-f194-45ba-9f0a-03db082270e4</string>
       </key>
       <value>
-        <string>Everything will be taken care of. The Consort leaves nothing to chance.</string>
+        <string>Мы обо всем позаботимся. Консорт ничего не оставляет на волю случая.</string>
       </value>
     </item>
     <item>
@@ -46791,7 +46791,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_ConsortSoldier05_20M/edf20966-a374-4207-a386-522b54388f77</string>
       </key>
       <value>
-        <string>The Herelsor City Guard has dealt with this situation poorly. If one confirmed case of Corrosion infiltrates the city... </string>
+        <string>Городская стража Херельсора плохо справилась с этой ситуацией. Если один подтвержденный случай Коррозии проникнет в город... </string>
       </value>
     </item>
     <item>
@@ -46799,7 +46799,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp01_ConsortS_20F/7fbc27f7-a28a-4a97-baf2-164a4cfb302b</string>
       </key>
       <value>
-        <string>Everything will be fine, but you need to follow our orders.</string>
+        <string>Все будет хорошо, но вы должны следовать нашим приказам.</string>
       </value>
     </item>
     <item>
@@ -46807,7 +46807,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp01_Refugee_40M/a7843689-13a2-4879-bd27-d466dcdecf00</string>
       </key>
       <value>
-        <string>What will happen to us? You're not dealing with enemies here. Just human beings!</string>
+        <string>Что же с нами будет? Здесь вы имеете дело не с врагами. А с простыми людьми!</string>
       </value>
     </item>
     <item>
@@ -46815,7 +46815,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp02_ConsortS_20M/c67bb628-9b19-428c-92d3-f6abb4c57bd1</string>
       </key>
       <value>
-        <string>No one will be harmed. We're just here to organize the confinement measures.</string>
+        <string>Никто не пострадает. Мы здесь только для того, чтобы организовать меры по ограничению свободы.</string>
       </value>
     </item>
     <item>
@@ -46823,7 +46823,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp03_ConsortS_20M/4734ea2e-69fb-4175-907f-251e4723c3e6</string>
       </key>
       <value>
-        <string>Thus far, no one has been diagnosed with the Corrosion, but we still insist on taking the proper hygiene measures and putting you into an isolation camp.</string>
+        <string>До сих пор никто не был диагностирован с Коррозией, но мы по-прежнему настаиваем на принятии надлежащих гигиенических мер и помещении вас в изолятор.</string>
       </value>
     </item>
     <item>
@@ -46831,7 +46831,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp04_ConsortS_20M/e56c7f7d-b11f-4bf0-a2c3-cb129adfb7d1</string>
       </key>
       <value>
-        <string>No, we won't separate the families, you will *all* stay together. Your everyday needs will be taken care of, but we *will* use force if you don't comply.</string>
+        <string>Нет, мы не будем разлучать семьи, вы все останетесь вместе. Мы позаботимся о ваших повседневных нуждах, но если вы не подчинитесь, мы применим силу.</string>
       </value>
     </item>
     <item>
@@ -46839,7 +46839,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp05_Refugee_60F/a20d6c7a-b194-4700-b4e2-4264e41ffea8</string>
       </key>
       <value>
-        <string>What will become of us?</string>
+        <string>Что с нами будет?</string>
       </value>
     </item>
     <item>
@@ -46847,7 +46847,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Bridge_Grp05_ConsortS_20F/6643e5a3-cef0-473d-a354-a53c2a79529a</string>
       </key>
       <value>
-        <string>Carts will take you to the isolation camp. You will be able to take all of your luggage.</string>
+        <string>Повозки доставят вас в изолятор. Вы сможете взять с собой весь свой багаж.</string>
       </value>
     </item>
     <item>
@@ -46855,7 +46855,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/02a3867d-752f-45eb-9458-0aaf5124efe8</string>
       </key>
       <value>
-        <string>Okay, &lt;b&gt;okay,&lt;/b&gt; I get it, now please remove it from my sight and go wag your tongue elsewhere!</string>
+        <string>Хорошо, &lt;b&gt;хорошо,&lt;/b&gt; Я понял, а теперь, пожалуйста, убери его с моих глаз и иди верти языком где-нибудь в другом месте!</string>
       </value>
     </item>
     <item>
@@ -46863,7 +46863,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/c5caf849-aecc-4051-857f-bf8535d176ce</string>
       </key>
       <value>
-        <string>It's a &lt;i&gt;fashion statement&lt;/i&gt;, don’t you get it? It's about criticizing the technological &lt;i&gt;status-quo&lt;/i&gt; controlled by a silly government that prevents us from improving our everyday lives with new technology...</string>
+        <string>Это же &lt;i&gt;дань моде&lt;/i&gt;, разве ты не понимаешь? Речь идет о критике технологического &lt;i&gt;статус-кво&lt;/i&gt; контролируемого глупым правительством, которое мешает нам улучшить нашу повседневную жизнь с помощью новых технологий...</string>
       </value>
     </item>
     <item>
@@ -46871,7 +46871,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/89b939ad-8075-42e2-9c81-951b25c5cb27</string>
       </key>
       <value>
-        <string>Looks like forbidden technology to me...</string>
+        <string>По-моему, это запретная технология...</string>
       </value>
     </item>
     <item>
@@ -46879,7 +46879,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/e521ad02-58f0-4d59-993f-292bacd573f9</string>
       </key>
       <value>
-        <string>These wires and tubes are the latest fashion on Avaris, didn't you know? These are *fake*.</string>
+        <string>Эти провода и трубки - последний писк моды на Аварисе, разве ты не знал? Это "подделка".</string>
       </value>
     </item>
     <item>
@@ -46887,7 +46887,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/7412c81f-985a-4d61-bc48-08afa3583a9c</string>
       </key>
       <value>
-        <string>Oh, this "armored arm" you mean?</string>
+        <string>А, ты имеешь в виду эту "бронированную руку"?</string>
       </value>
     </item>
     <item>
@@ -46895,7 +46895,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/65ea4050-6f1a-4bf8-b54e-910a011b3cfe</string>
       </key>
       <value>
-        <string>Your arm seems... rather suspicious, sir.</string>
+        <string>Ваша рука кажется... довольно подозрительной, сэр.</string>
       </value>
     </item>
     <item>
@@ -46903,7 +46903,7 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/BradThePillitch/7ff76fd0-eb2b-4a72-b69d-369df4714594</string>
       </key>
       <value>
-        <string>Bo-KEK.</string>
+        <string>Бо-КЕК.</string>
       </value>
     </item>
     <item>
@@ -46911,8 +46911,8 @@ Good thing some of us on the City Council are &lt;i&gt;philanthropists.&lt;/i&gt
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/DayDreamingYounth_20M/59da392c-2f48-4e69-9e5d-16b23794a31b</string>
       </key>
       <value>
-        <string>Yeah, right? It's so expensive! But they say that one bowl of the stuff, and you're set for a week without food!
-Apparently it tastes good, too.</string>
+        <string>Да, правда? Она такая дорогая! Но говорят, что одна миска этой фигни, и ты неделю просидишь без еды!
+По-видимому, она тоже вкусная.</string>
       </value>
     </item>
     <item>
@@ -46920,7 +46920,7 @@ Apparently it tastes good, too.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/DayDreamingYounth_20M/7259d604-d359-4203-817d-49b9275e5dd9</string>
       </key>
       <value>
-        <string>That's the blueish reed they cultivate on the skyfarms, right? Can't say that I have.</string>
+        <string>Это голубоватый тростник, который выращивают на небесных фермах, верно? Не могу сказать, что пробовал.</string>
       </value>
     </item>
     <item>
@@ -46928,7 +46928,7 @@ Apparently it tastes good, too.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/DayDreamingYounth_20M/13055a62-d2d6-41eb-97fb-6cd87f68966e</string>
       </key>
       <value>
-        <string>Have you ever tasted Ambrosia?</string>
+        <string>Вы когда-нибудь пробовали Амброзию?</string>
       </value>
     </item>
     <item>
@@ -46936,9 +46936,9 @@ Apparently it tastes good, too.</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/DesperateFarmer_30M/36ac9f79-9470-4355-af06-c8eb78bcb242</string>
       </key>
       <value>
-        <string>When I heard there was a bombing here in Herelsor, I thought I would bring my pilitch here to see...
-the &lt;i&gt;desolation&lt;/i&gt; in the city.
-But they bombed the outside... and no one here cares...</string>
+        <string>Когда я услышал, что здесь, в Херельсоре, был взрыв, я подумал, что принесу сюда своего пилитча, чтобы осмотреть...
+&lt;i&gt;пустоши&lt;/i&gt; в городе.
+Но они бомбили снаружи... и никого здесь это не волнует...</string>
       </value>
     </item>
     <item>
@@ -46946,7 +46946,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/283ec408-8bb3-4176-ab0a-0c6614e3ba91</string>
       </key>
       <value>
-        <string>*Sigh* When did it become a contest?</string>
+        <string>*Вздох* Когда это стало соревнованием?</string>
       </value>
     </item>
     <item>
@@ -46954,7 +46954,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/82966f11-fe0c-4b86-bbeb-a992c04c1c1d</string>
       </key>
       <value>
-        <string>Oh, then that would be me, no doubt.</string>
+        <string>О, тогда это несомненно я.</string>
       </value>
     </item>
     <item>
@@ -46962,7 +46962,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/cfde7b91-9010-4bcc-b05d-417c245751e3</string>
       </key>
       <value>
-        <string>But one... far more than the other.</string>
+        <string>Но один... гораздо больше, чем другой.</string>
       </value>
     </item>
     <item>
@@ -46970,7 +46970,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/abcec061-bd5f-4843-bf33-6d5a0941da7a</string>
       </key>
       <value>
-        <string>Both of you, actually.</string>
+        <string>Вообще-то, вы оба.</string>
       </value>
     </item>
     <item>
@@ -46978,7 +46978,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/ff8bb8a3-0236-47e1-9800-3c1ee4dabadc</string>
       </key>
       <value>
-        <string>Not me.</string>
+        <string>Нет я.</string>
       </value>
     </item>
     <item>
@@ -46986,7 +46986,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/d3f13069-a167-4bc3-9bd2-e11a1d919067</string>
       </key>
       <value>
-        <string>Or me?</string>
+        <string>Или я?</string>
       </value>
     </item>
     <item>
@@ -46994,7 +46994,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/511947ad-b7d6-4511-8ae6-f49916c39389</string>
       </key>
       <value>
-        <string>Me?</string>
+        <string>Я?</string>
       </value>
     </item>
     <item>
@@ -47002,7 +47002,7 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/214319ce-7e11-4b42-b2b4-b229b8b26416</string>
       </key>
       <value>
-        <string>You... look sad.</string>
+        <string>Вы... выглядите печально.</string>
       </value>
     </item>
     <item>
@@ -47010,8 +47010,8 @@ But they bombed the outside... and no one here cares...</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/HerelsorOfficial_30M/3852dc76-5fc9-4fd0-a2ef-6bcf47b85f61</string>
       </key>
       <value>
-        <string>Herelsor has had... a criminality problem in the past. Theft mainly.&lt;endline&gt;
-But the problem is largely confined to... certain fringes of the population. It's a problem that solves itself with every round of conscription.</string>
+        <string>Херельсор имел... проблемы с преступностью в прошлом. В основном с воровством.&lt;endline&gt;
+Но проблема в основном ограничивается ... определенными слоями населения. Это проблема, которая решается сама собой с каждым новым призывом.</string>
       </value>
     </item>
     <item>
@@ -47019,8 +47019,8 @@ But the problem is largely confined to... certain fringes of the population. It'
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Hunter_01_20F/7eeba884-d132-4696-a04c-b311faf4f468</string>
       </key>
       <value>
-        <string>I found this sweet girl the other day, fighting for her life against a pack of Croctas. I came to her aid.&lt;endline&gt;
-She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probably split at some point... but she hasn't yet.</string>
+        <string>Я нашел эту милую девочку на днях, сражающуюся за свою жизнь против стаи Кроктас. Я пришел ей на помощь.&lt;endline&gt;
+С тех пор она постоянно таскается за мной. Она дикая Нэкаро, так что в какой-то момент она, вероятно, уйдет... но она еще не сделала этого.</string>
       </value>
     </item>
     <item>
@@ -47028,7 +47028,7 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/85a08a27-566b-4c8a-b58d-36d604ad738f</string>
       </key>
       <value>
-        <string>I took it myself and I'm still alive!</string>
+        <string>Я сам это принял и до сих пор жив!</string>
       </value>
     </item>
     <item>
@@ -47036,7 +47036,7 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/c1026db9-7fe9-4ea2-93cc-3d409b832c3e</string>
       </key>
       <value>
-        <string>Where's your proof?</string>
+        <string>Где твои доказательства?</string>
       </value>
     </item>
     <item>
@@ -47044,7 +47044,7 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/233abd29-b6b7-437c-9362-3ca98d017015</string>
       </key>
       <value>
-        <string>I don't know. It just does!</string>
+        <string>Я не знаю. Просто работает!</string>
       </value>
     </item>
     <item>
@@ -47052,7 +47052,7 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/98d34af8-a60c-4337-90e1-59aa6ff080c4</string>
       </key>
       <value>
-        <string>Tell me more about it. How does it work?</string>
+        <string>Расскажи мне об этом подробнее. Как это работает?</string>
       </value>
     </item>
     <item>
@@ -47060,7 +47060,7 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/6f6c7289-619a-4aec-83a7-bbf357358153</string>
       </key>
       <value>
-        <string>I got a remedy for the Corrosion here. Well, 'tis not so much a remedy... It's more of a "preventive measure." You take this now, and you will never fall sick!</string>
+        <string>У меня тут есть средство от Коррозии. Ну, это не такое уж и средство... Это скорее "мера профилактики".- Прими это сейчас, и ты никогда не заболеешь!</string>
       </value>
     </item>
     <item>
@@ -47068,7 +47068,7 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Nekaroo_01/de383b5a-6ed3-48ce-b314-fee1e7901475</string>
       </key>
       <value>
-        <string>*Purrr*</string>
+        <string>*Пуррр*</string>
       </value>
     </item>
     <item>
@@ -47076,9 +47076,9 @@ She’s been tagging along ever since. She's a wild Nekaroo, so she’ll probabl
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/ed86c3d8-54c5-4ca8-828e-1c3db065c394</string>
       </key>
       <value>
-        <string>What!?
-No! That's not the thing I want you to absolve!
-Not the thing at all!</string>
+        <string>Что!?
+Нет! Это не то, что я хочу, чтобы ты отпустила грехи!
+Это совсем не то!</string>
       </value>
     </item>
     <item>
@@ -47086,7 +47086,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/ec6e710b-136c-4f0c-86dd-2d2137f1233b</string>
       </key>
       <value>
-        <string>All right, then. I absolve you for demanding absolution without saying "hello" first.</string>
+        <string>Ну, тогда ладно. Я прощаю тебя за то, что ты потребовал отпущения грехов, не сказав сначала "привет".</string>
       </value>
     </item>
     <item>
@@ -47094,7 +47094,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/24b28bee-8500-42aa-9896-8f75256cbb84</string>
       </key>
       <value>
-        <string>I just told you why! Because I'm *asking* you!</string>
+        <string>Я только что сказал тебе почему! Потому что я *прошу* тебя!</string>
       </value>
     </item>
     <item>
@@ -47102,7 +47102,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/85623d64-35fa-4a71-8ebe-610b13f596d6</string>
       </key>
       <value>
-        <string>Is that so? Then why is it warranted?</string>
+        <string>Неужели? Тогда почему это оправдано?</string>
       </value>
     </item>
     <item>
@@ -47110,7 +47110,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/eeb9a37a-1ce6-4c7a-aa08-b37bf243d3e2</string>
       </key>
       <value>
-        <string>No question... &lt;i&gt;shush-shush&lt;/i&gt;... you're young and I've lived *plenty.* I know when *demanding* absolution is warranted.</string>
+        <string>Без вопросов... &lt;i&gt;цыц-цыц&lt;/i&gt;... Ты молода, а я прожил *достаточно.* Я знаю, когда *требование* отпущения грехов оправдано.</string>
       </value>
     </item>
     <item>
@@ -47118,7 +47118,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/4b832ce9-7f5a-4ccb-8ddb-2529ca0978bb</string>
       </key>
       <value>
-        <string>Why should I give you absolution?</string>
+        <string>Почему я должна отпустить тебе грехи?</string>
       </value>
     </item>
     <item>
@@ -47126,7 +47126,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ObnoxiousElerly_60M/c628019e-8ad9-4302-bc12-e7fd8732afd5</string>
       </key>
       <value>
-        <string>You, Priestess! Give me absolution, &lt;b&gt;now&lt;/b&gt;!</string>
+        <string>Ты, Жрица! Отпусти мне грехи, &lt;b&gt;сейчас же&lt;/b&gt;!</string>
       </value>
     </item>
     <item>
@@ -47134,7 +47134,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Farmer_01_20F/1bd3634f-6bde-43e1-b8a3-0abced3452e6</string>
       </key>
       <value>
-        <string>Here to sell som' vegetables.</string>
+        <string>Здесь продают какие-то овощи.</string>
       </value>
     </item>
     <item>
@@ -47150,7 +47150,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ManStarinIntoSpace_40M/02a58e9a-09ed-484b-87a6-c7056abffecb</string>
       </key>
       <value>
-        <string>I don't know, it really looks like he’s staring at something.</string>
+        <string>Я не знаю, это действительно выглядит так, как будто он смотрит на что-то.</string>
       </value>
     </item>
     <item>
@@ -47158,7 +47158,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ManStarinIntoSpace_40M/6c2c7980-745c-44b5-95f0-0914b8fe0ef3</string>
       </key>
       <value>
-        <string>Leave him be, he probably needs time to think about something.</string>
+        <string>Оставь его в покое, ему, наверное, нужно время, чтобы о чем-то подумать.</string>
       </value>
     </item>
     <item>
@@ -47174,7 +47174,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ManStarinIntoSpace_40M/332eb185-a56d-4bfa-b764-33d223456c75</string>
       </key>
       <value>
-        <string>I think he's looking at something over there.</string>
+        <string>Мне кажется, он смотрит на что-то вон там.</string>
       </value>
     </item>
     <item>
@@ -47190,7 +47190,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ManStarinIntoSpace_40M/5c9b2c16-18c4-47b1-95b9-c8646cf40ede</string>
       </key>
       <value>
-        <string>Are you okay?</string>
+        <string>Ты в порядке?</string>
       </value>
     </item>
     <item>
@@ -47206,7 +47206,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/AstryanGuard_01_20F/c37e37a1-d168-4486-b3f2-04cae02eb1df</string>
       </key>
       <value>
-        <string>I've just started my shift, and all I can think about is when it will end.</string>
+        <string>Моя смена только началась, и я могу думать только о том, когда она закончится.</string>
       </value>
     </item>
     <item>
@@ -47214,7 +47214,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Farmer02_40F/8d8d2919-9d82-483e-a1a2-6f484a5c695c</string>
       </key>
       <value>
-        <string>I've lost everything to the war. My husband, my son, our farm. But I'll survive. I always do and always will. For their sake and for mine.</string>
+        <string>Я потеряла все из-за войны. Моего мужа, моего сына, нашу ферму. Но я выживу. Я всегда это делаю и всегда буду делать. Ради них и ради себя.</string>
       </value>
     </item>
     <item>
@@ -47222,7 +47222,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/9c695fe7-f3ad-46ae-80be-541ef0bee968</string>
       </key>
       <value>
-        <string>Of course not!</string>
+        <string>Конечно нет!</string>
       </value>
     </item>
     <item>
@@ -47230,7 +47230,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/acda2ec8-3594-43ab-98a4-1965d70779c9</string>
       </key>
       <value>
-        <string>... Is it true, though?</string>
+        <string>... Это действительно правда?</string>
       </value>
     </item>
     <item>
@@ -47238,7 +47238,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/338de108-4eb7-40cb-92b1-056619a0a1cd</string>
       </key>
       <value>
-        <string>Wait... No!</string>
+        <string>Погоди... Нет!</string>
       </value>
     </item>
     <item>
@@ -47246,7 +47246,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/95328827-be53-4592-9553-1772f3f12405</string>
       </key>
       <value>
-        <string>Actually, I'm corroded, boy. If I touch you, you'll be corroded too. Wanna try?</string>
+        <string>На самом деле, я заражен Коррозией, парень. Если я прикоснусь к тебе, ты тоже будешь заражен. Хочешь попробовать?</string>
       </value>
     </item>
     <item>
@@ -47254,7 +47254,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/293edb1c-605c-44b3-a340-56cd06f18dad</string>
       </key>
       <value>
-        <string>Yes, you! You look weird! What's with the arm? And your walk! Is there something wrong with your feet?</string>
+        <string>Да, ты! Ты выглядишь странно! А что у тебя с рукой? А твоя походка! Что-то не так с твоими ногами?</string>
       </value>
     </item>
     <item>
@@ -47262,7 +47262,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/def98f8c-d700-477b-b393-0a2625934fd7</string>
       </key>
       <value>
-        <string>Me?</string>
+        <string>Я?</string>
       </value>
     </item>
     <item>
@@ -47270,7 +47270,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/738a8bec-e344-4b0e-91c7-48f843f57974</string>
       </key>
       <value>
-        <string>Hey, hey! The big one!</string>
+        <string>Эй, эй! Тот который побольше!</string>
       </value>
     </item>
     <item>
@@ -47278,7 +47278,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary_01_30F/fbd6fb91-de02-43a6-a69d-dedf13d58e79</string>
       </key>
       <value>
-        <string>Do you have a mission for me? Please tell me you have a mission for me. I can't stand this boredom.</string>
+        <string>У тебя есть для меня задание? Пожалуйста, скажи, что у тебя есть для меня задание. Я не могу выносить эту скуку.</string>
       </value>
     </item>
     <item>
@@ -47286,7 +47286,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_02_40F/c2b52ea1-5291-4e88-826e-00fba941d325</string>
       </key>
       <value>
-        <string>Herelsor is a strange beast. I have plenty of demand for exotic products, but not so much for basic necessities. I don't think these people understand what's coming. Especially with the blockade.</string>
+        <string>Херельсорианцы - странные звери. У меня есть большой спрос на экзотические продукты, но не такой большой на предметы первой необходимости. Я не думаю, что эти люди понимают, что происходит. Особенно в условиях блокады.</string>
       </value>
     </item>
     <item>
@@ -47294,7 +47294,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch01/7fdda85b-9615-47f0-ab3f-d3fd6dbb5e69</string>
       </key>
       <value>
-        <string>Boooook? </string>
+        <string>Боооок? </string>
       </value>
     </item>
     <item>
@@ -47302,8 +47302,8 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch02/68f53527-fa5e-404a-8ba4-0c3d0d23032e</string>
       </key>
       <value>
-        <string>Bok, bok, bok, bok!
-*The pilitch is watching her mistress with insistence, as if it was waiting for something to happen.*</string>
+        <string>Бок, бок, бок, бок!
+*Пилитч пристально наблюдает за своей хозяйкой, как будто ждет, чтобы что-то случилось.*</string>
       </value>
     </item>
     <item>
@@ -47311,7 +47311,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Citizen01_30M/323e33b1-4f95-44d7-83d8-7eaba244a5a5</string>
       </key>
       <value>
-        <string>I spoke with an Arkadian the other day. They told me that after the monsters overran their city a flock of pilitches nested on the city spires to enjoy the view. There's no creature as evil as a pilitch, I tell you.</string>
+        <string>На днях я разговаривал с Аркадианцами. Они рассказали мне, что после того, как монстры захватили их город, стая пилитчей устроилась на городских шпилях, чтобы насладиться видом. Говорю вам, нет на свете существ более злых, чем пилитчи.</string>
       </value>
     </item>
     <item>
@@ -47319,7 +47319,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ConsortSoldier01_20M/9415d6d1-2aed-4386-a766-311b7c341a4f</string>
       </key>
       <value>
-        <string>Our orders are to deal with the refugees before we start clearing the countryside of Archelite war machines. The commander says they’re no threat to the city at the moment.</string>
+        <string>Нам приказано разобраться с беженцами, прежде чем мы начнем очищать сельскую местность от машин Арчелайтов. Командир говорит, что в данный момент они не представляют угрозы для города.</string>
       </value>
     </item>
     <item>
@@ -47327,7 +47327,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ConsortSoldier02_20F/e87470cd-acf9-4824-a075-e7165825a7ed</string>
       </key>
       <value>
-        <string>He’s right. Herelsor's defenses will have to suffice for the moment.</string>
+        <string>Он прав. На данный момент обороны Херельсора должно хватить.</string>
       </value>
     </item>
     <item>
@@ -47335,7 +47335,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ConcernedFriend_20M/4e0631a1-fccf-4703-8ca0-e2f1dc4acb3e</string>
       </key>
       <value>
-        <string>Don't overthink it, brother. Really. &lt;b&gt;Really.&lt;/b&gt;</string>
+        <string>Не преувеличивай, брат. Реально. &lt;b&gt;Реально.&lt;/b&gt;</string>
       </value>
     </item>
     <item>
@@ -47343,7 +47343,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/OverthinkingTeenager_16M/5c087288-065a-4ad5-9ffe-b62482e42fd4</string>
       </key>
       <value>
-        <string>Where's Myrna? I miss her predictions. She told me I'd find love before the conscription, maybe what she really meant was that *she* was in...</string>
+        <string>Где Мурна? Я скучаю по ее предсказаниям. Она сказала мне, что я найду любовь до призыва в армию, может быть, она на самом деле имела в виду, что *она* была ей...</string>
       </value>
     </item>
     <item>
@@ -47351,7 +47351,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PublicServant_30M/133aecfa-4b7e-411a-bf0f-ecf8be6a91d7</string>
       </key>
       <value>
-        <string>*Sigh* I miss her.</string>
+        <string>*Вздох* Я скучаю по ней.</string>
       </value>
     </item>
     <item>
@@ -47359,7 +47359,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PublicServant_30M/e6a07b95-e950-46cf-bb4f-3e6f805a8129</string>
       </key>
       <value>
-        <string>The look on his face when Myrna gave him the list of all the measures the Council had neglected!</string>
+        <string>Видели бы вы его выражение лица, когда Мурна дала ему список всех мер, которыми пренебрег совет!</string>
       </value>
     </item>
     <item>
@@ -47367,7 +47367,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PublicServant_30M/83f9cc01-a893-4034-9a03-cb4ea165cbf0</string>
       </key>
       <value>
-        <string>Myrna got expelled from the city because one of the fools at the City Council asked her for advice on how to deal with the current situation. He thought their governance was spotless. He was really fishing for compliment.</string>
+        <string>Мурну выгнали из города, потому что один из дураков в городском совете попросил у нее совета, как справиться с нынешней ситуацией. Он считал, что их правление безупречно. Он действительно напрашивался на комплимент.</string>
       </value>
     </item>
     <item>
@@ -47375,7 +47375,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/fde43ef8-27aa-463a-9ba8-acdbdcf46c25</string>
       </key>
       <value>
-        <string>That bad, huh? </string>
+        <string>Всё так плохо, хах? </string>
       </value>
     </item>
     <item>
@@ -47383,7 +47383,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/8d385e1b-12cd-406b-ba57-60701ddaabe8</string>
       </key>
       <value>
-        <string>I'm not on this assignment for the money.</string>
+        <string>Я делаю это не из-за денег.</string>
       </value>
     </item>
     <item>
@@ -47391,7 +47391,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/b4424a8e-e794-47c8-8dd3-12693c26e318</string>
       </key>
       <value>
-        <string>Does it pay well, being a Priestess bodyguard?</string>
+        <string>Хорошо ли платят за то, чтобы быть телохранителем Жрицы?</string>
       </value>
     </item>
     <item>
@@ -47399,7 +47399,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/b0465fac-a90f-4c61-9cbd-8d6e8e783d77</string>
       </key>
       <value>
-        <string>Hey.</string>
+        <string>Эй.</string>
       </value>
     </item>
     <item>
@@ -47407,7 +47407,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/ec3d9b0a-3326-44c6-9ffd-ec541d61177f</string>
       </key>
       <value>
-        <string>Hey.</string>
+        <string>Эй.</string>
       </value>
     </item>
     <item>
@@ -47415,7 +47415,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch03/7d39abe0-1b9e-431f-9310-013cb829e0d7</string>
       </key>
       <value>
-        <string>Now wait a second.</string>
+        <string>Так, погоди-ка секунду.</string>
       </value>
     </item>
     <item>
@@ -47423,7 +47423,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch03/85ddc143-da9c-4d57-ba30-49ec5e4a3338</string>
       </key>
       <value>
-        <string>But I've eaten pilitches all my life! I would've known if it brought bad...</string>
+        <string>Но я ел пилитчей всю свою жизнь! Я бы знал, если бы это принесло какое-нибудь несчастье...</string>
       </value>
     </item>
     <item>
@@ -47431,7 +47431,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch03/ad24e963-6722-4758-8eac-d28477244d7e</string>
       </key>
       <value>
-        <string>Ysoris, where do you come from? We don't eat pilitches, it brings bad luck! Everyone knows that.</string>
+        <string>Юсорис, откуда ты родом? Мы не едим пилитчей, это приносит несчастье! Это всем известно.</string>
       </value>
     </item>
     <item>
@@ -47439,7 +47439,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch03/e086f38c-848c-4335-8b72-96c7c697f3d1</string>
       </key>
       <value>
-        <string>Why don't we eat some more pilitches? I'm hungry.</string>
+        <string>Почему бы нам не съесть еще несколько пилитчей? Я голоден.</string>
       </value>
     </item>
     <item>
@@ -47447,7 +47447,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch03/7ff1019f-e4ad-475f-ab49-ddff453b35d2</string>
       </key>
       <value>
-        <string>Ko-KWEK.</string>
+        <string>Ко-КЕК.</string>
       </value>
     </item>
     <item>
@@ -47455,7 +47455,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Teenager01_12M/1ddc0579-79dc-4168-87ec-96ca9dbd8440</string>
       </key>
       <value>
-        <string>Khrator is the best god there is. One day he'll make the clouds rain on your fields after a drought and then the next &lt;b&gt;BOOM&lt;/b&gt; he just destroys everything with thunder!</string>
+        <string>Кратос - лучший бог на свете. Однажды он заставит облака пролиться дождем на ваши поля после засухи, а на следующий день &lt;b&gt;БУУМ&lt;/b&gt; он просто уничтожит все громом!</string>
       </value>
     </item>
     <item>
@@ -47463,7 +47463,7 @@ Not the thing at all!</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Teenager02_13F/7ffd7ca8-54f8-4df5-90d8-841a3714eb50</string>
       </key>
       <value>
-        <string>You read too many stories, friend. And by the way, Anselm's the best of the Trio, hands down.</string>
+        <string>Ты читаешь слишком много историй, дружище. И кстати, Ансельм - лучший из этой троицы.</string>
       </value>
     </item>
     <item>
@@ -47471,7 +47471,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/981cfa5a-396b-4d77-bb34-d4411a1d2508</string>
       </key>
       <value>
-        <string>Pretty please? I know it was good. I &lt;b&gt;know&lt;/b&gt; it was something really, really *good*!
+        <string>Ну пожалуйста? Я знаю, что это было хорошим. Я знаю, что это было что-то очень, очень хорошее!
 </string>
       </value>
     </item>
@@ -47480,7 +47480,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/d51f3771-1215-4dcf-afc3-1d4d2e5e98b4</string>
       </key>
       <value>
-        <string>We don't have time for this.
+        <string>У нас пока нет на это времени.
 </string>
       </value>
     </item>
@@ -47489,7 +47489,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/09b757a0-5695-4f02-ab24-cf53555956a4</string>
       </key>
       <value>
-        <string>I don't know anymore! It's either a planter or a barrel!
+        <string>Я больше ничего не знаю! Это либо плантатор, либо бочка!
 </string>
       </value>
     </item>
@@ -47498,7 +47498,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/613d3797-5fa0-4455-a9a1-39f46d3248eb</string>
       </key>
       <value>
-        <string>Or... maybe it wasn't a planter. Maybe it was a... barrel?
+        <string>Или... может, это и не плантатор. Может быть, это была... бочка?
 </string>
       </value>
     </item>
@@ -47507,7 +47507,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/70095ddd-6c62-48d3-beec-a0dc53d8bdcd</string>
       </key>
       <value>
-        <string>I don't know which one! One of them! You know how Herelsian people are! They put planters everywhere!
+        <string>Я не знаю, каком именно! Одном из них! Ты же знаешь этих Херельсорианцев! Они всюду ставят плантаторы!
 </string>
       </value>
     </item>
@@ -47516,7 +47516,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/f764c4f5-076d-4f4e-94a2-c6157d488143</string>
       </key>
       <value>
-        <string>Which planter?
+        <string>Каком плантаторе?
 </string>
       </value>
     </item>
@@ -47525,7 +47525,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/5441d495-9dff-47e8-bb9e-f7dea943dace</string>
       </key>
       <value>
-        <string>It... must have fallen when I sat on that planter.
+        <string>Оно... должно быть, он упал, когда я сидел на том плантаторе.
 </string>
       </value>
     </item>
@@ -47534,7 +47534,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/993d6576-9496-429a-a072-469cbffef0cc</string>
       </key>
       <value>
-        <string>Well too bad about the gift, buddy, we don’t have time to go looking for a... whatever it was.
+        <string>Ну, очень жаль насчет подарка, приятель, у нас нет времени искать его... что бы это ни было.
 </string>
       </value>
     </item>
@@ -47543,7 +47543,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/f7e6505b-3b24-4de0-933e-c161d805565c</string>
       </key>
       <value>
-        <string>"Drunk on euphoria" huh?
+        <string>"Пьян от эйфории", хах?
 </string>
       </value>
     </item>
@@ -47552,7 +47552,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/52c1e2fe-d984-42dd-a8b1-827c6e5e3b42</string>
       </key>
       <value>
-        <string>Well it was *late* at night and I was *drunk* with euphoria because you two were pleased with me...
+        <string>Ну, это было *поздно* ночью, и я был *пьян* от эйфории, потому что вы двое были довольны мной...
 </string>
       </value>
     </item>
@@ -47561,7 +47561,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/a707c921-b782-46d3-a370-6960d6e84e89</string>
       </key>
       <value>
-        <string>Can't you even remember what it was?
+        <string>Неужели ты даже не помнишь, что это было?
 </string>
       </value>
     </item>
@@ -47570,7 +47570,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/14c40aa8-019d-4569-a0ad-d3ee4fc6205c</string>
       </key>
       <value>
-        <string>It was... Hmmm.
+        <string>Это... Хммм.
 </string>
       </value>
     </item>
@@ -47579,7 +47579,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/4e737b8f-df80-4591-acb4-f869b62de008</string>
       </key>
       <value>
-        <string>I... huh... You see...
+        <string>Я... хах... видите ли...
 </string>
       </value>
     </item>
@@ -47588,7 +47588,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/7a2489a7-7616-4b46-be3b-a39f802bc0f4</string>
       </key>
       <value>
-        <string>What is it, then?
+        <string>Так что же это такое?
 </string>
       </value>
     </item>
@@ -47597,7 +47597,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/2e9a6543-e72a-419f-ae98-88667978bf58</string>
       </key>
       <value>
-        <string>No, no, no, it is *pretty important*. It's something I *need* to give you.
+        <string>Нет, нет, нет, это очень важно. Это то, что мне *необходимо* дать вам.
 </string>
       </value>
     </item>
@@ -47606,7 +47606,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/34d3e1b5-af6d-4b55-8e41-92bd4d21066d</string>
       </key>
       <value>
-        <string>Well, I'm sure it was a nice gift, but we have more pressing matters at hand.
+        <string>Ну, я уверен, что это был хороший подарок, но у нас есть более неотложные дела.
 </string>
       </value>
     </item>
@@ -47624,7 +47624,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/78469a05-9fea-4dcc-b200-88d4cd08bf01</string>
       </key>
       <value>
-        <string>It fell out of my pocket!
+        <string>Оно выпало у меня из кармана!
 </string>
       </value>
     </item>
@@ -47642,7 +47642,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/434efc25-a8bc-46e4-8e86-0212806c38d0</string>
       </key>
       <value>
-        <string>You see, I... it's...
+        <string>Как видите, я... оно...
 </string>
       </value>
     </item>
@@ -47651,7 +47651,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/bbad0c25-0941-4558-a3f3-b4848235f45e</string>
       </key>
       <value>
-        <string>Something really good that I picked up yesterday.
+        <string>Что-то действительно хорошее, что я нашел вчера.
 </string>
       </value>
     </item>
@@ -47660,7 +47660,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/c4627e09-b9e3-4619-b4c1-7826270ead80</string>
       </key>
       <value>
-        <string>What?
+        <string>Что?
 </string>
       </value>
     </item>
@@ -47669,7 +47669,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/d434ffdf-c4dd-47eb-b64b-9f7912988499</string>
       </key>
       <value>
-        <string>By giving you... uh...
+        <string>Подарив вам... ух...
 </string>
       </value>
     </item>
@@ -47678,7 +47678,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/7af0f110-c82f-4974-82bb-4a2cf466c826</string>
       </key>
       <value>
-        <string>By the way, since we're officially teammates now, I wanted to commemorate this fine occasion by giving you...
+        <string>Кстати, поскольку мы теперь официально товарищи по команде, я хотел бы отметить это прекрасное событие, подарив вам...
 </string>
       </value>
     </item>
@@ -47687,7 +47687,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/3396bdbc-1cc3-41e6-b7af-296c776f4350</string>
       </key>
       <value>
-        <string>The &lt;b&gt;*best*&lt;/b&gt;!
+        <string>&lt;b&gt;*Лучший*&lt;/b&gt;!
 </string>
       </value>
     </item>
@@ -47696,7 +47696,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/04a0d3bb-2ead-4c8a-b880-f4914f12a65b</string>
       </key>
       <value>
-        <string>How good?
+        <string>Насколько хорошо?
 </string>
       </value>
     </item>
@@ -47705,7 +47705,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/4925a685-4bd3-42ef-a8f1-541ae45a15cd</string>
       </key>
       <value>
-        <string>Can we just... can we just go, now!?
+        <string>Мы можем просто ... .. мы можем просто уйти, сейчас же!?
 </string>
       </value>
     </item>
@@ -47714,7 +47714,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/40d3ac32-1065-43c7-bfd8-e76148e7844d</string>
       </key>
       <value>
-        <string>I can't believe this.
+        <string>Я не могу в это поверить.
 </string>
       </value>
     </item>
@@ -47732,7 +47732,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/92db5b81-0934-4f56-952a-0314ebb862b9</string>
       </key>
       <value>
-        <string>Thank you, Ysoris.
+        <string>Спасибо, Юсорис.
 </string>
       </value>
     </item>
@@ -47741,7 +47741,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/6e0114bf-a8e7-4ea0-aafe-d85cea859bc4</string>
       </key>
       <value>
-        <string>We accept it. It’s a very touching gift.
+        <string>Мы примем её. Это очень трогательный подарок.
 </string>
       </value>
     </item>
@@ -47750,7 +47750,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/e033f778-d23e-4ed2-ac70-b64b336771eb</string>
       </key>
       <value>
-        <string>...I'm just sinking myself in deeper?
+        <string>...Я просто зарываюсь еще больше?
 </string>
       </value>
     </item>
@@ -47768,7 +47768,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/d1f8cf85-e5b7-4314-b7e2-d677dbc2db4f</string>
       </key>
       <value>
-        <string>With these arms I thought that it would be a feat in itself to...</string>
+        <string>С этими руками я думал, что это будет подвиг сам по себе...</string>
       </value>
     </item>
     <item>
@@ -47776,7 +47776,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/0d808651-d959-463d-942e-11ce25584347</string>
       </key>
       <value>
-        <string>Where I come from, these things have a very special meaning and...
+        <string>Там, откуда я родом, эти вещи имеют совершенно особое значение...
 </string>
       </value>
     </item>
@@ -47785,7 +47785,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/d88d89a4-ed6d-483f-a4f2-d8aa3d4177f2</string>
       </key>
       <value>
-        <string>Okay, this is really embarrassing now. It *seemed* like a good idea at the time and...
+        <string>Ладно, сейчас это действительно неловко. Это *показалось* хорошей идеей тогда и...
 </string>
       </value>
     </item>
@@ -47794,7 +47794,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/683d249d-91bf-4548-b9c2-42ba4fc44527</string>
       </key>
       <value>
-        <string>I... huh... was drunk with euphoria.
+        <string>Я... хах... был пьян от эйфории.
 </string>
       </value>
     </item>
@@ -47803,7 +47803,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/752f4846-bf84-4994-b5c2-eb5391f24fab</string>
       </key>
       <value>
-        <string>It's... huh...
+        <string>Это... хах...
 </string>
       </value>
     </item>
@@ -47812,7 +47812,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/ec28aec7-d556-415a-a22c-1b820e6c8647</string>
       </key>
       <value>
-        <string>A &lt;b&gt;paper&lt;/b&gt; dog?
+        <string>&lt;b&gt;Бумажная&lt;/b&gt; собака?
 </string>
       </value>
     </item>
@@ -47821,7 +47821,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/4367e2f2-6f89-4e95-bee2-c1e3bac452a8</string>
       </key>
       <value>
-        <string>Is &lt;b&gt;that&lt;/b&gt; the super-important thing you wanted to give us? The thing we’ve been looking for everywhere in Herelsor?
+        <string>&lt;b&gt;Это&lt;/b&gt; и есть та сверхважная вещь, которую ты хотел нам дать? То, что мы искали повсюду в Херельсоре?
 </string>
       </value>
     </item>
@@ -47830,7 +47830,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/b32fed94-3d61-40c9-88fe-558b2f50c38f</string>
       </key>
       <value>
-        <string>Yes! That's it... That's what it was! I folded it myself, I remember! It's a paper dog!
+        <string>Да! Вот что... Вот что это было! Я сам его сложил, помню! Это же бумажная собака!
 </string>
       </value>
     </item>
@@ -47839,7 +47839,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/10dc5cf4-3df8-4470-80fd-8b0fe86b041c</string>
       </key>
       <value>
-        <string>It's a paper dog?
+        <string>Это бумажная собака?
 </string>
       </value>
     </item>
@@ -47848,7 +47848,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/1e3ec022-9d60-49e1-be12-de0d28dbbbca</string>
       </key>
       <value>
-        <string>It's a...
+        <string>Это...
 </string>
       </value>
     </item>
@@ -47857,7 +47857,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/a33b0a0b-268f-4b16-a2a0-bfe08413a0ae</string>
       </key>
       <value>
-        <string>So, "sweetest of all grandmas." I'll remember.
+        <string>Итак, "самая милая из всех бабушек." Я запомню.
 </string>
       </value>
     </item>
@@ -47866,7 +47866,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/b773d7a2-1e56-4946-87a0-18c2057c04fa</string>
       </key>
       <value>
-        <string>I don’t intend to. But since we’re traveling long distances, it’s possible we find it by chance.
+        <string>Я и не собираюсь этого делать. Но поскольку мы путешествуем на большие расстояния, вполне возможно, что мы найдем ее случайно.
 </string>
       </value>
     </item>
@@ -47875,7 +47875,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/e22707d0-0e66-4867-b978-13e94805f35e</string>
       </key>
       <value>
-        <string>Don't lose time on this.
+        <string>Не теряйте на это время.
 </string>
       </value>
     </item>
@@ -47884,7 +47884,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/12067ad5-f52b-488f-967b-111ff7b7d3c1</string>
       </key>
       <value>
-        <string>Well, if we find the grave of a very special grandma, we might check it out.
+        <string>Ну, если мы найдем могилу очень особенной бабушки, мы можем проверить ее.
 </string>
       </value>
     </item>
@@ -47893,7 +47893,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/c1a91475-fb26-49de-b00e-1d3a00ba3deb</string>
       </key>
       <value>
-        <string>A lot!
+        <string>Много!
 </string>
       </value>
     </item>
@@ -47902,7 +47902,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/8b752444-3ad5-4053-8e27-df07a514e29d</string>
       </key>
       <value>
-        <string>A lot?
+        <string>Много?
 </string>
       </value>
     </item>
@@ -47911,7 +47911,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/5890c0f2-2985-4fb6-a3be-dfc48fe1732a</string>
       </key>
       <value>
-        <string>Do you have an idea how many grandmas are buried in the whole continent?
+        <string>Ты хоть представляешь, сколько бабушек похоронено на всем континенте?
 </string>
       </value>
     </item>
@@ -47920,7 +47920,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/f1c7577c-15ed-4ad2-b05d-c4032d871d26</string>
       </key>
       <value>
-        <string>That's the only information I have. So I have to check and read aaaaalll of the tombstones, one by one, until I find a description that matches!
+        <string>Это единственная информация, которой я располагаю. Поэтому я должна проверить и прочитать всееее надгробия, одно за другим, пока не найду описание, которое соответствует ей.
 </string>
       </value>
     </item>
@@ -47929,7 +47929,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/991da0e7-d856-499d-b9a8-899e2310b88a</string>
       </key>
       <value>
-        <string>"The sweetest of all grandmas"?
+        <string>"Самая милая из всех бабушек"?
 </string>
       </value>
     </item>
@@ -47938,7 +47938,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/0e4fff10-9816-4f91-b3cc-374bfa54b5ca</string>
       </key>
       <value>
-        <string>I'm looking for the grave of "the sweetest of all grandmas."
+        <string>Я ищу могилу "самой милой из всех бабушек".
 </string>
       </value>
     </item>
@@ -47947,7 +47947,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/7eaefb86-253a-4be2-831f-92ca612864dd</string>
       </key>
       <value>
-        <string>So, which one are you stuck on?
+        <string>Итак, на какой из них ты застряла?
 </string>
       </value>
     </item>
@@ -47956,7 +47956,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/ef67bcf4-c05c-4f7f-9c3e-9b0363efdf7f</string>
       </key>
       <value>
-        <string>*sigh* No wonder the bishops elected the midwives for this mission.
+        <string>*вздох* Неудивительно, что епископы выбрали повивальных бабок для этой миссии.
 </string>
       </value>
     </item>
@@ -47965,7 +47965,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/7f8420a5-0138-4f2a-bf83-2e330d9de78c</string>
       </key>
       <value>
-        <string>The directions to the empty tombs are vague... cryptic, even. Talk about a waste of time.
+        <string>Пути к пустым гробницам туманны... даже загадочны. По разговорам это пустая трата времени.
 </string>
       </value>
     </item>
@@ -47974,7 +47974,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/2faa536a-7e4b-4505-afb5-8511528ba1ad</string>
       </key>
       <value>
-        <string>That's what we’re trying to find out.
+        <string>Именно это мы и пытаемся выяснить.
 </string>
       </value>
     </item>
@@ -47983,7 +47983,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/390719fc-1851-4e5e-83a3-047991b83b36</string>
       </key>
       <value>
-        <string>Any idea why?
+        <string>Есть идеи почему?
 </string>
       </value>
     </item>
@@ -47992,7 +47992,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/df485317-42b3-45b0-8fa4-ae7806e5653d</string>
       </key>
       <value>
-        <string>Nobody is sure. Maybe they were just empty all along.
+        <string>Никто не уверен. Может быть, они просто были пусты все это время.
 </string>
       </value>
     </item>
@@ -48001,7 +48001,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/6b5e66a9-6493-42a0-a976-7425699cd189</string>
       </key>
       <value>
-        <string>Empty... Graverobbing?
+        <string>Пустые...  Могилы расхищены?
 </string>
       </value>
     </item>
@@ -48010,7 +48010,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/c15f7be7-cd10-4307-bd7c-46972d2cafa4</string>
       </key>
       <value>
-        <string>It seems that some of the tombs on the Astryan Continent are... empty.
+        <string>Похоже, что некоторые из гробниц на Астрэйском континенте ... пустые.
 </string>
       </value>
     </item>
@@ -48019,7 +48019,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/531a6d4a-e6d0-492b-8aca-693d6026c43b</string>
       </key>
       <value>
-        <string>I was sent to investigate a strange will and testament, left by an Astryan undertaker.
+        <string>Меня послали расследовать странное завещание, оставленное Астрэйским гробовщиком.
 </string>
       </value>
     </item>
@@ -48028,7 +48028,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/d5b0a0e3-f335-496d-a28c-d9f740a54a25</string>
       </key>
       <value>
-        <string>Punishing myself, obviously.
+        <string>Очевидно, наказываю себя.
 </string>
       </value>
     </item>
@@ -48037,7 +48037,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/5ce20769-0fec-4038-97da-d4feb828b32f</string>
       </key>
       <value>
-        <string>By the way, what are you doing here?
+        <string>Кстати, что ты здесь делаешь?
 </string>
       </value>
     </item>
@@ -48046,7 +48046,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/348ebb8a-3d2e-412f-8fab-a138a24a330d</string>
       </key>
       <value>
-        <string>I will.
+        <string>Я сделаю это.
 </string>
       </value>
     </item>
@@ -48055,7 +48055,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/f2ecc42e-6564-44ad-9782-2db3a0fc505a</string>
       </key>
       <value>
-        <string>You must find that cure, Selene. The future of the Sanctorium rests on your shoulders.
+        <string>Ты должна найти это лекарство, Селена. Будущее Санкториума лежит на твоих плечах.
 </string>
       </value>
     </item>
@@ -48064,7 +48064,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/97f19d13-81d6-4433-8ed7-56fbd1823edb</string>
       </key>
       <value>
-        <string>No need, Selene. You are doing what you must, and just surely as you, we will do our part.
+        <string>Ничего страшного, Селена. Вы делаете то, что должны, и мы, как и вы, безусловно, выполним свою часть работы.
 </string>
       </value>
     </item>
@@ -48073,7 +48073,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/9b81263e-13f0-4a13-8db4-84095bb4896f</string>
       </key>
       <value>
-        <string>Without a doubt, they are punishing you for supporting me. I am sorry for this.
+        <string>Без сомнения, они наказывают тебя за то, что ты поддерживаешь меня. Я сожалею об этом.
 </string>
       </value>
     </item>
@@ -48082,7 +48082,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/546b962e-fbca-4822-86c0-a4b003caf543</string>
       </key>
       <value>
-        <string>They sent a few boys to the frontlines, as a message to the rest of the Congregation.
+        <string>Они послали нескольких мальчиков на передовую, как послание остальным верующим.
 </string>
       </value>
     </item>
@@ -48091,7 +48091,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/3a455ec1-d475-4fc3-9b8c-695684cfd3ec</string>
       </key>
       <value>
-        <string>The Elders are trying to crush us, but we’ve resisted their attempts to divide us, so far.
+        <string>Старейшины пытаются сломить нас, но мы до сих пор сопротивлялись их попыткам разделить нас.
 </string>
       </value>
     </item>
@@ -48100,7 +48100,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/8153bf70-851a-43fa-9458-a1b5f0572f66</string>
       </key>
       <value>
-        <string>Figures. How are the midwives?
+        <string>Понятно. Как поживают акушерки?
 </string>
       </value>
     </item>
@@ -48109,7 +48109,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/4882c581-6890-4e87-8f2d-72399546ef12</string>
       </key>
       <value>
-        <string>Yes.
+        <string>Да.
 </string>
       </value>
     </item>
@@ -48118,7 +48118,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/e82244fa-33ff-40a7-9ebe-92e30397b1f5</string>
       </key>
       <value>
-        <string>Let me guess, it started with the Scribes?
+        <string>Дай угадаю, все началось с Писарей?
 </string>
       </value>
     </item>
@@ -48127,7 +48127,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/08b5a1bb-6c21-4dae-80d0-ba8fb1171a2c</string>
       </key>
       <value>
-        <string>There have been rumors that... you caught the Corrosion, and died on duty.
+        <string>Ходили такие слухи... вы поймали Коррозию, а также погибли при исполнении служебных обязанностей.
 </string>
       </value>
     </item>
@@ -48136,7 +48136,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/599dfd17-9883-4d2b-a6ee-4f5ef6407c1d</string>
       </key>
       <value>
-        <string>Why would you be?
+        <string>А почему бы и нет?
 </string>
       </value>
     </item>
@@ -48145,7 +48145,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/f6622968-5394-49ca-a580-363b52e6522f</string>
       </key>
       <value>
-        <string>By the Gods, I am relieved!
+        <string>Клянусь богами, Я чувствую облегчение!
 </string>
       </value>
     </item>
@@ -48154,7 +48154,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/e5ca6d7e-2eaf-400e-bccd-7cfc039573e1</string>
       </key>
       <value>
-        <string>Sister Juli, it’s nice to see you.
+        <string>Сестра Джулия, я так рада тебя видеть.
 </string>
       </value>
     </item>
@@ -48163,7 +48163,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/82984e7b-9859-4892-b7a9-22c722b65cee</string>
       </key>
       <value>
-        <string>Oh, Sister Selene!
+        <string>О, Сестра Селена!
 </string>
       </value>
     </item>
@@ -48172,7 +48172,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/03412f6a-9e10-43b1-91d4-d2c0b37d08de</string>
       </key>
       <value>
-        <string>Let's go back and see Sister Juli.
+        <string>Давай вернемся и повидаемся с сестрой Джулией.
 </string>
       </value>
     </item>
@@ -48181,7 +48181,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/6ed42dc0-92c6-4e33-90d1-dfb80d83de47</string>
       </key>
       <value>
-        <string>So, the gravedigger was right, the grave *is* empty.
+        <string>Итак, могильщик был прав, могила *пуста*.
 </string>
       </value>
     </item>
@@ -48190,7 +48190,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/0ab1a92b-d6e8-4714-b3a8-68aba9da7c17</string>
       </key>
       <value>
-        <string>The Nekaroo has dug enough, there was nothing inside. No funerary urn or anything.
+        <string>Нэкаро выкопал достаточно, внутри ничего не было. Ни погребальной урны, ни чего-то еще.
 </string>
       </value>
     </item>
@@ -48199,7 +48199,7 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/4c132096-6611-4d1d-9693-eed029343319</string>
       </key>
       <value>
-        <string>Looks like this is the tomb Sister Juli was looking for. "The sweetest of all grandmas."
+        <string>Похоже, это та самая гробница, которую искала сестра Джулия. "Самая милая из всех бабушек."
 </string>
       </value>
     </item>
@@ -48208,9 +48208,9 @@ Not the thing at all!</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/a832e41c-0a65-480e-ac17-0c15570317aa</string>
       </key>
       <value>
-        <string>&lt;i&gt;"Here lies Tyra, a grandma so sweet
-That each of her grandchildren
-Secretly thought they were her favorite."&lt;/i&gt;</string>
+        <string>&lt;i&gt;"Здесь лежит Тайра, такая милая бабушка
+Что каждый из ее внуков
+Втайне считал себя ее любимцем."&lt;/i&gt;</string>
       </value>
     </item>
     <item>
@@ -48218,7 +48218,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/04e1aaa3-be71-4e1a-b17b-7f30e8d4b9ae</string>
       </key>
       <value>
-        <string>Still, let me thank you for your help.
+        <string>И все же позвольте поблагодарить вас за помощь.
 </string>
       </value>
     </item>
@@ -48227,7 +48227,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/036d9b0a-b65b-4b24-888b-0bb1e69cb035</string>
       </key>
       <value>
-        <string>Isn't it?
+        <string>Неужели?
 </string>
       </value>
     </item>
@@ -48236,7 +48236,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/49be3c5d-21a9-4cbb-87b9-c3d7dbf89c9b</string>
       </key>
       <value>
-        <string>Strange.
+        <string>Странно.
 </string>
       </value>
     </item>
@@ -48245,7 +48245,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/b2e58589-eed8-4641-9619-8bde62b535e1</string>
       </key>
       <value>
-        <string>... Nothing except: "Those who talk, will soon lie."
+        <string>... Ничего, кроме: "те, кто говорит, скоро солгут."
 </string>
       </value>
     </item>
@@ -48254,7 +48254,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/818e45bf-bc4c-43c8-89e1-1208fcaaa977</string>
       </key>
       <value>
-        <string>Apart from a list of purportedly empty graves, nothing.
+        <string>Кроме списка якобы пустых могил - ничего.
 </string>
       </value>
     </item>
@@ -48263,7 +48263,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/cf5934e8-c6d3-4258-850e-473fba85c44e</string>
       </key>
       <value>
-        <string>By the way, is there anything written in the will?
+        <string>Кстати, а в завещании что-нибудь написано?
 </string>
       </value>
     </item>
@@ -48272,7 +48272,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/d701f831-1659-4921-92e4-19fa09e59c8b</string>
       </key>
       <value>
-        <string>But we need to be cautious.
+        <string>Но мы должны быть осторожны.
 </string>
       </value>
     </item>
@@ -48281,7 +48281,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/8aab8e9a-fc4b-4477-8f59-3ed9d879d80c</string>
       </key>
       <value>
-        <string>Well, we don't have any proof that a Black Stomach is involved yet.
+        <string>Ну, у нас пока нет никаких доказательств, что тут замешан Черный Желудок.
 </string>
       </value>
     </item>
@@ -48290,7 +48290,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/61fd8e94-a8bf-461d-af25-5165e9711f44</string>
       </key>
       <value>
-        <string>That's... dreadful.
+        <string>Это... ужасно.
 </string>
       </value>
     </item>
@@ -48299,7 +48299,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/76d3936d-bca2-4aa5-8331-e16b6cdc4f93</string>
       </key>
       <value>
-        <string>Yes, memories, emotions... everything.
+        <string>Да, воспоминания, эмоции... всё.
 </string>
       </value>
     </item>
@@ -48308,7 +48308,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/dd46bdb0-6d4a-4aa6-864a-a077da5eb7db</string>
       </key>
       <value>
-        <string>What... their spirit... you mean it eats everything up?
+        <string>Что... их души... ты хочешь сказать, что он съедает все?
 </string>
       </value>
     </item>
@@ -48317,7 +48317,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/b5221e07-870a-402f-a3a0-574df2b0a512</string>
       </key>
       <value>
-        <string>A soul-eating monster that desecrates the tombs of the deceased to feed on them before their spirit can rejoin the Gods.
+        <string>Чудовище, пожирающее души, которое оскверняет могилы умерших, чтобы насытиться ими, прежде чем их дух сможет воссоединиться с богами.
 </string>
       </value>
     </item>
@@ -48326,7 +48326,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/87bc4061-8c85-432d-ad73-487ac2e020b0</string>
       </key>
       <value>
-        <string>What's a Black Stomach?
+        <string>Что за Черный Желудок?
 </string>
       </value>
     </item>
@@ -48344,7 +48344,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/320a156d-5f5a-4dd4-91f6-9fcd546c0a63</string>
       </key>
       <value>
-        <string>Maybe we have a Black Stomach on the loose.
+        <string>Возможно Черный Желудок на свободе.
 </string>
       </value>
     </item>
@@ -48353,7 +48353,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/d0f0cbac-176f-4649-bdee-38931596749a</string>
       </key>
       <value>
-        <string>What do you mean?
+        <string>Что ты имеешь в виду?
 </string>
       </value>
     </item>
@@ -48362,7 +48362,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/4cdcbf98-e0a2-440f-b49d-aa87f7567820</string>
       </key>
       <value>
-        <string>Maybe it wasn’t a waste of time, Sister Juli.
+        <string>Может быть, это не пустая трата времени, сестра Джулия.
 </string>
       </value>
     </item>
@@ -48371,7 +48371,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/7f799296-706f-4290-b834-d215fe0858b3</string>
       </key>
       <value>
-        <string>Thank you Sister Selene. You shouldn't have wasted your precious time... but you did it anyway.
+        <string>Спасибо, сестра Селена. Тебе не следовало тратить свое драгоценное время... но ты все равно это сделала.
 </string>
       </value>
     </item>
@@ -48380,7 +48380,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/fd3f35d1-7488-45d1-90e2-31100ab102b4</string>
       </key>
       <value>
-        <string>So the will and testament was correct.
+        <string>Значит воля и завещание были верны.
 </string>
       </value>
     </item>
@@ -48389,7 +48389,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/d183ffbc-f5d8-41e1-bb90-45f87bb0aec0</string>
       </key>
       <value>
-        <string>Nothing, no funerary urn.
+        <string>Ничего, даже похоронной урны.
 </string>
       </value>
     </item>
@@ -48398,7 +48398,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/39b4344f-1939-49ed-9163-3080a2d3c719</string>
       </key>
       <value>
-        <string>Was there anything inside it?
+        <string>Было ли там что-нибудь внутри?
 </string>
       </value>
     </item>
@@ -48407,7 +48407,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/02423351-2b79-474f-baaf-74e8108ee54c</string>
       </key>
       <value>
-        <string>We found the empty grave, Juli.
+        <string>Мы нашли пустую могилу, Джулия.
 </string>
       </value>
     </item>
@@ -48416,7 +48416,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Julis_TalkAgain/a7ce89ad-c672-4972-8d16-c7fa69eb0a22</string>
       </key>
       <value>
-        <string>The tomb of "the sweetest of all grandmas", did you find it?
+        <string>Могила "самой милой из всех бабушек", вы ее нашли?
 </string>
       </value>
     </item>
@@ -48425,7 +48425,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene1/b38b9763-9847-4a64-8545-acb994039819</string>
       </key>
       <value>
-        <string>We'll keep an eye out, then.
+        <string>Тогда мы будем держать ухо востро.
 </string>
       </value>
     </item>
@@ -48434,7 +48434,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene1/1f45d5ea-4eba-42eb-a024-783390189675</string>
       </key>
       <value>
-        <string>No, nothing else.
+        <string>Нет, больше ничего.
 </string>
       </value>
     </item>
@@ -48443,7 +48443,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene1/ae51d561-fd7c-45c7-b000-e9058d89f55e</string>
       </key>
       <value>
-        <string>A compulsive gambler? Any other information?
+        <string>Заядлого игрока? Есть еще какая-нибудь информация?
 </string>
       </value>
     </item>
@@ -48452,7 +48452,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene1/be8a9e94-57a1-4919-a566-2269cb7c9d4e</string>
       </key>
       <value>
-        <string>This time we're looking for a compulsive gambler.
+        <string>На этот раз мы ищем заядлого игрока.
 </string>
       </value>
     </item>
@@ -48461,7 +48461,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene1/7d1137f1-54f0-4079-82f9-9c1df6ada048</string>
       </key>
       <value>
-        <string>What's the next name on the list, Sister Juli?
+        <string>Какое следующее имя в списке, сестра Джулия?
 </string>
       </value>
     </item>
@@ -48470,7 +48470,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/1eb1b362-71ac-4bb6-9f68-01b71aef06c7</string>
       </key>
       <value>
-        <string>You always do, don't you? You always do.
+        <string>Вы всегда так делаете, не так ли? Вы всегда так делаете.
 </string>
       </value>
     </item>
@@ -48479,7 +48479,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/fcf73b21-92e1-4e34-a2e2-2f631a25dba4</string>
       </key>
       <value>
-        <string>We'll get over it.
+        <string>Мы это переживем.
 </string>
       </value>
     </item>
@@ -48488,7 +48488,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/c3e6f0b1-2114-4a40-88b0-5c7e9326b498</string>
       </key>
       <value>
-        <string>And still, I can't help but feel a little disappointed that you know nothing of the fine art of gambling.</string>
+        <string>И все же я не могу не чувствовать некоторого разочарования от того, что вы ничего не знаете о тонком искусстве азартных игр.</string>
       </value>
     </item>
     <item>
@@ -48496,7 +48496,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/173990bf-232d-4ef7-88cc-8e5da5961b3a</string>
       </key>
       <value>
-        <string>I don't expect you two rubes to understand the incredible thrill of a high-stakes game of Gravlax.
+        <string>Я не рассчитываю, что вы, двое деревенщин, поймете невероятный кайф от игры с высокими ставками в Гравлакс.
 </string>
       </value>
     </item>
@@ -48541,7 +48541,7 @@ Secretly thought they were her favorite."&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene2/a68abeb2-91e0-4ec0-97d5-81e7111899bd</string>
       </key>
       <value>
-        <string>Минуту, пожалуйста. Я хотел бы почтить память этого храброго человека.
+        <string>Минуту, пожалуйста. Я хотела бы почтить память этого храброго человека.
 </string>
       </value>
     </item>
