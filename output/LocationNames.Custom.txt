@@ -327,7 +327,7 @@
         <string>SP_ClockWork_Field_Garden</string>
       </key>
       <value>
-        <string>Часовой Сад - Статуя Седовласой Богини</string>
+        <string>Часовое Поле - Статуя Седовласой Богини</string>
       </value>
     </item>
     <item>
@@ -399,7 +399,7 @@
         <string>SP_ClockWork_Center</string>
       </key>
       <value>
-        <string>Часовой Сад - Центр</string>
+        <string>Часовое Поле - Центр</string>
       </value>
     </item>
     <item>

@@ -546,31 +546,3 @@
         <string>Back To Main Menu?</string>
       </value>
     </item>
-  </Entries>
-  <LastModified>
-    <item>
-      <key>
-        <string>AskMainMenu</string>
-      </key>
-      <value>
-        <dateTime>2020-08-25T18:19:11.380787+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>buttonExitGame</string>
-      </key>
-      <value>
-        <dateTime>2020-08-25T18:18:05.842643+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ExitConfirmation</string>
-      </key>
-      <value>
-        <dateTime>2020-08-25T18:19:26.231599+02:00</dateTime>
-      </value>
-    </item>
-  </LastModified>
-</LanguageCategoryEntry>
