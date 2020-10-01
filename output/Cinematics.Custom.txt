@@ -23879,7 +23879,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg582bfd1c-4ff1-4b78-bf74-7600213a6d21</string>
       </key>
       <value>
-        <string>Да, кстати, я надеюсь,что вы готовы к вторжению.</string>
+        <string>Да, кстати, я надеюсь,что вы готовы к нападению.</string>
       </value>
     </item>
     <item>
@@ -23887,7 +23887,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlga6fb7e67-6021-4723-bea0-37c60702ffc3</string>
       </key>
       <value>
-        <string>Какому вторжению!?</string>
+        <string>Какому нападению!?</string>
       </value>
     </item>
     <item>
@@ -23895,7 +23895,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg27dbabd9-1838-444f-bff1-9796c0bcd281</string>
       </key>
       <value>
-        <string>Вторжению заразившихся. Что? Неужели вы думаете, что они просто будут стоять в стороне и позволят нам испортить их статую?</string>
+        <string>Нападению заразившихся. Что? Неужели вы думаете, что они просто будут стоять в стороне и позволят нам испортить их статую?</string>
       </value>
     </item>
     <item>

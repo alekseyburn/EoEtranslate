@@ -7346,7 +7346,7 @@
         <string>/Quest/Technomages_Area/Way_To_Ysoris_scene8.2/9944b54d-c74e-46f4-aab6-1e2cd16bcf58</string>
       </key>
       <value>
-        <string>Прах Кратора!</string>
+        <string>Прах Кратоса!</string>
       </value>
     </item>
     <item>
@@ -14706,7 +14706,7 @@
         <string>/Quest/Refugee_Camp/NMFDial8/3ca84474-79d1-431d-9158-2da4d2500dc1</string>
       </key>
       <value>
-        <string>Заводное Поле! Здесь? Наши разведчики говорили, что в этом регионе их нет.</string>
+        <string>Часовое Поле! Здесь? Наши разведчики говорили, что в этом регионе их нет.</string>
       </value>
     </item>
     <item>
@@ -14714,7 +14714,7 @@
         <string>/Quest/Refugee_Camp/NMFDial8/9a85db8d-bb9f-48d8-99ec-dd336f50c8cd</string>
       </key>
       <value>
-        <string>Но вместо этого... Я наткнулся на Заводное Поле.</string>
+        <string>Но вместо этого... Я наткнулся на Часовое Поле.</string>
       </value>
     </item>
     <item>
@@ -15370,7 +15370,7 @@
         <string>/Quest/Herelsor/NPC Dials/Dévot2/3e2b3e1f-8bef-4fb0-a78e-c65b1ceffde8</string>
       </key>
       <value>
-        <string>Печальные новости из Церкви: Айрика и Коборд умерли во время войны. Это означает, что у Кратора осталось всего 26 детей.</string>
+        <string>Печальные новости из Церкви: Айрика и Коборд умерли во время войны. Это означает, что у Кратоса осталось всего 26 детей.</string>
       </value>
     </item>
     <item>
@@ -20144,7 +20144,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_01_LookingForPilitch/2134f585-f3e1-4db6-8f02-b6173523a117</string>
       </key>
       <value>
-        <string>Нет необходимости мне рассказывать, как я сказал, я знаю пилитчей.</string>
+        <string>Нет необходимости мне рассказывать, как я уже сказал, я знаю пилитчей.</string>
       </value>
     </item>
     <item>
@@ -20256,7 +20256,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_01_LookingForPilitch/a9e667b0-ab67-43f8-aa26-06409d6d7580</string>
       </key>
       <value>
-        <string>Для тебя да, но не для них! Вы знаете, что они говорят о пилитчах?</string>
+        <string>Для тебя да, но не для них! Вы знаете, что говорят о пилитчах?</string>
       </value>
     </item>
     <item>
@@ -20280,7 +20280,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_01_LookingForPilitch/45d8d945-51c8-46a6-a85b-dd1d19b296b4</string>
       </key>
       <value>
-        <string>Развлекать… ? Ты имеешь в виду…</string>
+        <string>Развлекать…? Ты имеешь в виду…</string>
       </value>
     </item>
     <item>
@@ -20312,7 +20312,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_01_LookingForPilitch/d5c93d52-fb80-4931-9571-06538cf880fb</string>
       </key>
       <value>
-        <string>Это же пустой загон?</string>
+        <string>Этот загон ведь пустой?</string>
       </value>
     </item>
     <item>
@@ -20328,7 +20328,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_01_LookingForPilitch/7612984c-8633-4511-86c1-210242b70e22</string>
       </key>
       <value>
-        <string>Что за пилитчи ?</string>
+        <string>Какие пилитчи?</string>
       </value>
     </item>
     <item>
@@ -20368,7 +20368,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_03_Pilitch2/f8d34ef5-e740-47d2-aa13-d64d39297b78</string>
       </key>
       <value>
-        <string>&lt;Этому пилитчу кажется довольно удобно здесь.&gt;</string>
+        <string>&lt;Этому пилитчу кажется довольно хорошо здесь.&gt;</string>
       </value>
     </item>
     <item>
@@ -20384,7 +20384,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_05_Pilitch4/2bc01d47-fde2-4cb0-981c-20e0529ee322</string>
       </key>
       <value>
-        <string>*кашель* *кашель* *кашель*</string>
+        <string>*кхе* *кхе* *кхе*</string>
       </value>
     </item>
     <item>
@@ -20400,7 +20400,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_06_Pilitch5/56da56bf-433f-45a0-b31b-62250a4b39ff</string>
       </key>
       <value>
-        <string>&lt;Расположившись на бандита по спине, пилитч слегка задремал.&gt;</string>
+        <string>&lt;Расположившись у бандита на спине, пилитч слегка задремал.&gt;</string>
       </value>
     </item>
     <item>
@@ -20424,7 +20424,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_07_Pilitch6/b1ffbdb5-9146-4e7d-9744-f93d78a53e04</string>
       </key>
       <value>
-        <string>&lt;Пилитчи ждут чего-то.&gt;</string>
+        <string>&lt;Пилитч ждет чего-то.&gt;</string>
       </value>
     </item>
     <item>
@@ -20448,7 +20448,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_07_Pilitch6/5b6dc94d-4b4c-4ddc-872d-446622ab1513</string>
       </key>
       <value>
-        <string>&lt;Пилитчи чего-то ждут.&gt;</string>
+        <string>&lt;Пилитч чего-то ждет.&gt;</string>
       </value>
     </item>
     <item>
@@ -20560,7 +20560,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_DaryonTalkPilitch/d59c137e-3f6d-4323-9c91-9e67fea5af44</string>
       </key>
       <value>
-        <string>Бок !!!! Бок, БОК, БОК КХЕ!!!!</string>
+        <string>Пок !!!! Пок, ПОК, КУ-ДАХ!!!!</string>
       </value>
     </item>
     <item>
@@ -20584,7 +20584,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_DaryonTalkPilitch/ecbae009-9255-4211-bc9c-35b07413e5d2</string>
       </key>
       <value>
-        <string>Бооооок! Бок бок бок боооооок!</string>
+        <string>Пооооок! Пок пок пок поооооок!</string>
       </value>
     </item>
     <item>
@@ -20640,7 +20640,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_DaryonTalkPilitch/cdf41684-acb1-4b1f-ab02-7116244365f0</string>
       </key>
       <value>
-        <string>Бок, бок, бок!</string>
+        <string>Пок, пок, пок!</string>
       </value>
     </item>
     <item>
@@ -20712,7 +20712,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_DaryonTalkPilitch/3dcf27fe-eff5-4ece-9a73-454eb52935aa</string>
       </key>
       <value>
-        <string>Клац. Клац. Бок, бок, бок.</string>
+        <string>Клац. Клац. Пок, пок, пок.</string>
       </value>
     </item>
     <item>
@@ -20752,7 +20752,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_DaryonTalkPilitch/d1e9cd45-a75a-46d8-90a9-fd8ecd20117a</string>
       </key>
       <value>
-        <string>Клац. Клац. Бок, бок, бок.</string>
+        <string>Клац. Клац. пок, пок, пок.</string>
       </value>
     </item>
     <item>
@@ -20936,7 +20936,7 @@
         <string>/NPC_Dialogs/Jagholm_NPC_Dials/Villager_03/29341367-781e-4aba-8590-c478ed3be3c5</string>
       </key>
       <value>
-        <string>Я уверен, что это покажет всем, что Церковь заслуживает своей веры!</string>
+        <string>Я уверена, что это покажет всем, что Церковь заслуживает своей веры!</string>
       </value>
     </item>
     <item>
@@ -21147,7 +21147,7 @@
       </key>
       <value>
         <string>"Я разрежу себе руку - так широко, что люди смогут укрыться внутри. Они будут питаться червями и личинками, пока огонь не погаснет. так сказала Ансельм.
-Кратор и Ильвана с неохотой и облегчением согласились, и Ансельм выползла из Колыбели Времени навстречу верующим."</string>
+Кратос и Ильвана с неохотой и облегчением согласились, и Ансельм выползла из Колыбели Времени навстречу верующим."</string>
       </value>
     </item>
     <item>
@@ -21183,7 +21183,7 @@
         <string>/Legends/Stelle7/47674b43-fb17-4edd-a0ff-9ba2c34c79b3</string>
       </key>
       <value>
-        <string>"Когда Остия сорвала хризантему со Священного Дерева, она распустилась на тысячу лепестков, из которых родилась Ансельм, переплетенная Светом и Тенью. Она принесла своего ребенка в царство богов и положила его перед Ильваной и Кратором , которые, сдержав их слова, даровали Третий Трон юной Богине."
+        <string>"Когда Остия сорвала хризантему со Священного Дерева, она распустилась на тысячу лепестков, из которых родилась Ансельм, переплетенная Светом и Тенью. Она принесла своего ребенка в царство богов и положила его перед Ильваной и Кратосом , которые, сдержав их слова, даровали Третий Трон юной Богине."
 </string>
       </value>
     </item>
@@ -21224,7 +21224,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_Kid1_02/17b9afdd-8cd1-425b-aa16-e09277d1ecff</string>
       </key>
       <value>
-        <string>Через два месяца я присоединюсь к Консорту. Я буду совершеннолетним для призыва. Думаешь, мой отец помнил бы это?</string>
+        <string>Через два месяца я присоединюсь к Консорту. Я стану совершеннолетним для призыва. Думаешь, мой отец помнит это?</string>
       </value>
     </item>
     <item>
@@ -24238,7 +24238,7 @@
         <string>/Quest/Kaladaan_Coast/KaladaanCoast_SunkenCathedral_01GetFlower/9fccdf2e-e45f-4314-a31e-89572d2ade71</string>
       </key>
       <value>
-        <string>Ну, Троица: Ансельм, Кратор и Ильвана ... плюс их дети, так что получается тридцать два или около того?
+        <string>Ну, Троица: Ансельм, Кратос и Ильвана ... плюс их дети, так что получается тридцать два или около того?
 </string>
       </value>
     </item>
@@ -27533,7 +27533,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_Wife_01/e92f25b6-7d30-4ba4-8814-15d1d6fdb065</string>
       </key>
       <value>
-        <string>Мы должны поджарить их и жить дальше.</string>
+        <string>Мы должны зажарить их и жить дальше.</string>
       </value>
     </item>
     <item>
@@ -27541,7 +27541,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_Kid2_02/e22fa208-a768-45e3-9088-3709753012cd</string>
       </key>
       <value>
-        <string>Отец и его пилитчи... Говорили ему растить Нэкаро или кого-то в этом роде.</string>
+        <string>Отец и его пилитчи... Говорили же ему разводить Нэкаро или кого-нибудь еще.</string>
       </value>
     </item>
     <item>
@@ -38283,7 +38283,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/ed94f12b-2b0b-4b41-9bc6-4a10c065d6ec</string>
       </key>
       <value>
-        <string>И поверят ли они вам?
+        <string>И поверят ли они тебе?
 </string>
       </value>
     </item>
@@ -38328,7 +38328,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/9c82c8a6-a0d8-4d27-b25f-8cfe551f21cb</string>
       </key>
       <value>
-        <string>Я не знаю, очистить столько часовых полей, сколько они могут, прежде чем ситуация станет отчаянной.
+        <string>Я не знаю, очистить столько Часовых Полей, сколько они могут, прежде чем ситуация станет отчаянной.
 </string>
       </value>
     </item>
@@ -38373,7 +38373,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/4421c4ad-92dc-49c9-9997-bd0dc7fea6f4</string>
       </key>
       <value>
-        <string>Почему я никому не сказал? Я действительно всем рассказал.
+        <string>Почему я никому не сказал? Я действительно всем рассказывал.
 </string>
       </value>
     </item>
@@ -38400,7 +38400,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0200_daryon_conscience/9ff78dfe-79fd-4211-9c9b-8adb26eb31a7</string>
       </key>
       <value>
-        <string>И в тот день, когда они решат напасть на Херьон, у нас на руках будет еще одна война.
+        <string>И в тот день, когда они решат напасть на Герион, у нас на руках будет еще одна война.
 </string>
       </value>
     </item>
@@ -39264,7 +39264,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0150_infected_crystal/779fbfe0-782d-4158-9171-7134eb6b91e4</string>
       </key>
       <value>
-        <string>Итак, Зараженные поклоняются своей собственной богине и пытаются создать эквивалент кристаллов самостоятельно…
+        <string>Значит, Зараженные поклоняются своей собственной богине и пытаются создать эквивалент кристаллов самостоятельно…
 </string>
       </value>
     </item>
@@ -39273,7 +39273,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0150_infected_crystal/6df13db8-125b-4d0d-9131-aa23e5596a12</string>
       </key>
       <value>
-        <string>Ближайшее, что может сделать Корродированный металл, чтобы эмулировать кристаллы.
+        <string>Ближайшая вещь, которая может брать Корродированный металл, чтобы эмулировать кристаллы.
 </string>
       </value>
     </item>
@@ -43080,7 +43080,7 @@
         <string>/Quest/Chapter_5/secondary/EchoesOfThePast/Scene1/4b2f2b76-54a1-462d-9b0e-97490d00414f</string>
       </key>
       <value>
-        <string>Или давай не будем, и уберемся отсюда!
+        <string>Или давайте не будем, и уберемся отсюда!
 </string>
       </value>
     </item>
@@ -43089,7 +43089,7 @@
         <string>/Quest/Chapter_5/secondary/EchoesOfThePast/Scene1/0f2d0980-6c3b-4df4-83e8-3f46cbea66b4</string>
       </key>
       <value>
-        <string>Тогда давай исследуем странные магические эхо. Не то, чтобы я чувствовал их, конечно.
+        <string>Тогда давайте исследуем странные магические эхо. Не то, чтобы я чувствовал их, конечно.
 </string>
       </value>
     </item>
@@ -43098,7 +43098,7 @@
         <string>/Quest/Chapter_5/secondary/EchoesOfThePast/Scene1/9dc6b38e-b708-45f5-9d81-3e9693d7b877</string>
       </key>
       <value>
-        <string>Для тебя всегда одиннадцать!
+        <string>Для тебя всегда 11!
 </string>
       </value>
     </item>
@@ -43188,7 +43188,7 @@
         <string>/Quest/Chapter_5/secondary/EchoesOfThePast/Scene2/15811717-5f62-4737-b55b-4ad5d1e90ada</string>
       </key>
       <value>
-        <string>Пошли, нельзя терять ни минуты.
+        <string>Пошли, нельзя терять времени.
 </string>
       </value>
     </item>
@@ -43197,7 +43197,7 @@
         <string>/Quest/Chapter_5/secondary/EchoesOfThePast/Scene2/abd7b13a-9ce2-44ff-96cd-0c519d2df54e</string>
       </key>
       <value>
-        <string>О, я правда, *правда*, не против.
+        <string>О, я правда, *правда*, с этим согласен.
 </string>
       </value>
     </item>
@@ -43305,7 +43305,7 @@
         <string>/Quest/Chapter_5/secondary/EchoesOfThePast/Scene2/0e7aff44-43ec-4395-83fb-9245eb8146e8</string>
       </key>
       <value>
-        <string>Так вот что вызвало эхо, которое ты почувствовал? Кристаллы, заключенные в изъеденную Коррозией плоть?
+        <string>Так вот что вызывало эхо, которое ты почувствовала? Кристаллы, заключенные в изъеденную Коррозией плоть?
 </string>
       </value>
     </item>
@@ -46903,7 +46903,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/BradThePillitch/7ff76fd0-eb2b-4a72-b69d-369df4714594</string>
       </key>
       <value>
-        <string>Бо-КЕК.</string>
+        <string>Ку-ДАХ.</string>
       </value>
     </item>
     <item>
@@ -47302,7 +47302,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch02/68f53527-fa5e-404a-8ba4-0c3d0d23032e</string>
       </key>
       <value>
-        <string>Бок, бок, бок, бок!
+        <string>Пок, пок, пок, пок!
 *Пилитч пристально наблюдает за своей хозяйкой, как будто ждет, чтобы что-то случилось.*</string>
       </value>
     </item>
@@ -47447,7 +47447,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch03/7ff1019f-e4ad-475f-ab49-ddff453b35d2</string>
       </key>
       <value>
-        <string>Ко-КЕК.</string>
+        <string>Ку-ДАХ.</string>
       </value>
     </item>
     <item>
@@ -50092,7 +50092,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_08_Pilitch7/d0c246ec-c89b-4285-a148-39a6efbedd81</string>
       </key>
       <value>
-        <string>Бо-кеек?</string>
+        <string>Ку-дах?</string>
       </value>
     </item>
     <item>
@@ -50100,7 +50100,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_08_Pilitch7/f83ed749-8a41-45b1-9c9b-f8eeb883460d</string>
       </key>
       <value>
-        <string>Кажется, мы приехали как раз вовремя.</string>
+        <string>Кажется, мы пишли как раз вовремя.</string>
       </value>
     </item>
     <item>
@@ -50188,7 +50188,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/051a1715-d6a6-46de-b4f1-52393c4e8d2b</string>
       </key>
       <value>
-        <string>Бард не смог прийти! Там нет никого, чтобы развлекать поля! Некому петь им трагедии!</string>
+        <string>Бард не смог прийти! У нас нет никого, чтобы развлекать поля! Некому петь им трагедии!</string>
       </value>
     </item>
     <item>
@@ -50196,7 +50196,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_FindAllPilitch/3e89288c-ade5-47cd-aa06-cebe10cd1395</string>
       </key>
       <value>
-        <string>[Питчей лишь слегка забавляет растерянность фермера.]</string>
+        <string>[Пилитчей лишь слегка забавляет растерянность фермера.]</string>
       </value>
     </item>
     <item>
@@ -50212,7 +50212,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/e4a2309d-192e-42a1-a660-19c78e33ea89</string>
       </key>
       <value>
-        <string>Он ведь жил в Ягхольме, не так ли? Интересно, может быть, они поставили могилу в память о нем…</string>
+        <string>Он ведь жил в Ягхольме, кажется? Интересно, может быть, они поставили могилу в память о нем…</string>
       </value>
     </item>
     <item>
@@ -50268,7 +50268,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/d59c137e-3f6d-4323-9c91-9e67fea5af44</string>
       </key>
       <value>
-        <string>Бок!!!! Бок, Бок, Бок &lt;b&gt;БО-КАК&lt;/b&gt;!!!!</string>
+        <string>Пок!!!! Пок, Пок, Пок &lt;b&gt;КУ-ДАХ&lt;/b&gt;!!!!</string>
       </value>
     </item>
     <item>
@@ -50292,7 +50292,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/ecbae009-9255-4211-bc9c-35b07413e5d2</string>
       </key>
       <value>
-        <string>Боооок! Боооок бок бок бооок!</string>
+        <string>Поооок! Поооок пок пок пооок!</string>
       </value>
     </item>
     <item>
@@ -50348,7 +50348,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/cdf41684-acb1-4b1f-ab02-7116244365f0</string>
       </key>
       <value>
-        <string>Бок, бок, бок!</string>
+        <string>Пок, Пок, Пок!</string>
       </value>
     </item>
     <item>
@@ -50388,7 +50388,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/c737487b-cd90-4a32-bfb8-4f40fec96f5b</string>
       </key>
       <value>
-        <string>Бооок?</string>
+        <string>Пооок?</string>
       </value>
     </item>
     <item>
@@ -50412,7 +50412,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/7f54e566-dbec-4de2-bfc2-b19b70345cf9</string>
       </key>
       <value>
-        <string>Так же, как и все остальные там. Как я.</string>
+        <string>Так же, как и все остальные там. Как и я.</string>
       </value>
     </item>
     <item>
@@ -50420,7 +50420,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/3dcf27fe-eff5-4ece-9a73-454eb52935aa</string>
       </key>
       <value>
-        <string>Клак, клак. Бок, бок, бок.</string>
+        <string>Клак, клак. Пок, пок, пок.</string>
       </value>
     </item>
     <item>
@@ -50428,7 +50428,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/4d6754a8-655c-487b-add2-784d9bfa4e8b</string>
       </key>
       <value>
-        <string>Ты просто больше не заботишься о чужой печали, да?</string>
+        <string>Ты просто не заботишься о чужой печали, да?</string>
       </value>
     </item>
     <item>
@@ -50444,7 +50444,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/f41c0dbe-f261-43b1-814e-0188a1a9d13c</string>
       </key>
       <value>
-        <string>Иди поспи немного. Я еще не закончил.</string>
+        <string>Иди отдохни немного. Я еще не закончил.</string>
       </value>
     </item>
     <item>
@@ -50460,7 +50460,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/d1e9cd45-a75a-46d8-90a9-fd8ecd20117a</string>
       </key>
       <value>
-        <string>Клак, клак. Бок, бок, бок.</string>
+        <string>Клак, клак. пок, пок, пок.</string>
       </value>
     </item>
     <item>
@@ -50476,7 +50476,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Solna_Plain/Side_Quests/IFS_10_DaryonTalkPilitch/41f55869-f608-49bf-baa0-0f3aeef3138c</string>
       </key>
       <value>
-        <string>Как дела?</string>
+        <string>Как успехи?</string>
       </value>
     </item>
     <item>
@@ -51468,7 +51468,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/TheBag/The_Bag_01/4c1fff07-7156-4c06-8da5-426b69b863a5</string>
       </key>
       <value>
-        <string>Эй, если у вас есть талант к небольшому риску &amp; вознаграждению, не могли бы вы вернуть ее до того, как монстры закончат свою трапезу?
+        <string>Эй, если у вас есть смелость немного рискнуть &amp; заработать, не могли бы вы вернуть ее до того, как монстры закончат свою трапезу?
 </string>
       </value>
     </item>
@@ -51751,7 +51751,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_01/04af5eb6-fa66-4a62-b959-989bead1c267</string>
       </key>
       <value>
-        <string>Клянусь жизнью, я не могу вспомнить, какое лекарство я должна дать, чтобы исцелить его!
+        <string>Клянусь жизнью, я не могу вспомнить, какое лекарство я должен дать, чтобы исцелить его!
 </string>
       </value>
     </item>
@@ -51903,7 +51903,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/fa16d989-ccf3-4176-93fd-b64e0905d401</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -51912,7 +51912,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_01/8f5b3f2c-8f99-4461-b32e-88571c024457</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -51956,7 +51956,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/c85c1d01-4c64-4f80-8302-9eada8c2d357</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -51965,7 +51965,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_02/670159c0-a53f-43bd-aecf-c34431b27caa</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52093,7 +52093,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/c258913d-9061-45aa-82f2-a7b3ccf240fa</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52102,7 +52102,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_03/f09c1f6c-6863-4303-b1a4-36c1fd005c59</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52207,7 +52207,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/0d1e93e8-cf90-4699-b1c0-70dd0f4296bc/msg</string>
       </key>
       <value>
-        <string>Я точно не знаю, он просто..... не могу перестать смеяться. За последние три часа!</string>
+        <string>Я точно не знаю, он просто..... не может перестать смеяться. За последние три часа!</string>
       </value>
     </item>
     <item>
@@ -52472,7 +52472,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/0ba68318-d53a-4f02-821f-f83726fe4eff</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52481,7 +52481,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_04/bd653722-d477-4482-ab7f-ed955eea8da2</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52552,7 +52552,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/f3fae99c-a1be-47e7-8ca9-a6b2ccf0d3da</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52561,7 +52561,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/a4d64cb3-5b29-4bd0-bb7f-826f38727db4</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52579,7 +52579,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/4ab94e39-7c9a-4d37-ba26-bde306e2733f</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52588,7 +52588,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_05/83d3e694-84ac-4f17-a317-2cc1ef6265f6</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52632,7 +52632,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/8a4ef9ae-84c3-4e0b-b5f7-f792fcac7bd9</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52641,7 +52641,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_06/9dd37a4c-5ed9-49a5-ba1f-fa95ba3251aa</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52765,7 +52765,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/ab5bb54e-cf0e-46d0-98f0-6f38eff88831</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52774,7 +52774,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_07/2ad03523-51c8-4203-99b1-66cf34ff1c57</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52818,7 +52818,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/bae60a33-93d9-43fa-a146-dde1728bf96e</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52827,7 +52827,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_08/4ef8d6f1-7760-4ad9-b801-ccba4902ef50</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52871,7 +52871,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/cf057ebd-d981-439a-bbe3-3b1608580fc5</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52880,7 +52880,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_09/6db914c1-af6e-4e6c-9599-0f0708b738c0</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -52977,7 +52977,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/4c1a7627-c482-4ea0-9c37-58ba5a2f60be</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -52986,7 +52986,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_10/00d6ec44-0f3e-4fe8-b178-06f21afad32b</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53085,7 +53085,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/afa0fc90-cea6-426c-bd94-78a53ff1fe39</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -53094,7 +53094,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_11/f31dd99c-8de1-4dbf-b8c5-a2fc8f6ebcbf</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53112,7 +53112,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/633299eb-cf97-4ad8-aa77-587f8b922e80</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -53121,7 +53121,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_12/6fa0e94e-a2e0-4138-a20a-714b37371b48</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53247,7 +53247,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/015fa1a1-a351-406a-8f02-78d9ae222058</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -53256,7 +53256,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_13/484afb82-e762-469b-a296-49c2c29f336f</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -53301,7 +53301,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/23b6273b-4244-438a-b820-4b326df1dbe3</string>
       </key>
       <value>
-        <string>Я бы не смогла этого сделать без вашего диагноза.
+        <string>Я бы не смогла этого сделать без твоего диагноза.
 </string>
       </value>
     </item>
@@ -53310,7 +53310,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/DynamicEvents/AstryanContinent/Generic/AManInNeed/AManInNeed_Story_14/50f1ca2c-c69b-4e62-b383-84d4a26ce67a</string>
       </key>
       <value>
-        <string>Теперь он выглядит лучше. Похоже, ты сделала правильный выбор, Жрица.
+        <string>Теперь ему лучше. Похоже, ты сделала правильный выбор, Жрица.
 </string>
       </value>
     </item>
@@ -56734,7 +56734,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/4d3eb687-0ce7-4549-9010-59feb7829995</string>
       </key>
       <value>
-        <string>...I'll look forward to our next encounter.
+        <string>...Я буду с нетерпением ждать нашей следующей встречи.
 </string>
       </value>
     </item>
@@ -56759,7 +56759,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/46ace7f6-ff34-4fa4-bd17-f52feaf851dd/choice1</string>
       </key>
       <value>
-        <string>yes</string>
+        <string>да</string>
       </value>
     </item>
     <item>
@@ -56767,7 +56767,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/46ace7f6-ff34-4fa4-bd17-f52feaf851dd/choice2</string>
       </key>
       <value>
-        <string>no</string>
+        <string>нет</string>
       </value>
     </item>
     <item>
@@ -56775,7 +56775,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/a2c53e5d-da93-4e1a-ac4a-888fa0e64133</string>
       </key>
       <value>
-        <string>I don't know how long we'll stay here, mum said we would be going soon...
+        <string>Я не знаю, как долго мы здесь пробудем, мама сказала, что мы скоро уедем...
 </string>
       </value>
     </item>
@@ -56784,7 +56784,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/c4f897f6-6a8b-4f22-8713-28f42cd24a4a</string>
       </key>
       <value>
-        <string>If you... If you find my Ralphie... will you bring it back to me? *sniff*
+        <string>Если ты... Если ты найдешь моего Ральфи... ты вернешь его мне? *всхлип*
 </string>
       </value>
     </item>
@@ -56793,7 +56793,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/4e5f04c7-e5cc-4152-a56a-d6d65614d9cd</string>
       </key>
       <value>
-        <string>But it's so hard! I'm trying so hard!
+        <string>Но это так тяжело! Я так стараюсь!
 </string>
       </value>
     </item>
@@ -56802,7 +56802,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/51b0ed26-7adb-4e03-b5b1-bb0bf51c2fa3</string>
       </key>
       <value>
-        <string>I know I must be strong... mum told me I must be strong and not cry.
+        <string>Я знаю, что должен быть сильным... мама сказала мне, что я должен быть сильным и не плакать.
 </string>
       </value>
     </item>
@@ -56811,7 +56811,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/7ba8b773-8a70-4b4a-b642-2b24c8e6a3b2</string>
       </key>
       <value>
-        <string>But Ralphie's still out there! And he's alone! And...
+        <string>Но Ральфи все еще там! И он один! И...
 </string>
       </value>
     </item>
@@ -56820,7 +56820,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/2336ef59-4caa-4c85-b858-5738048a8175</string>
       </key>
       <value>
-        <string>I saw a monster, so I started running! And now my dad won't let me leave the tabernacle because it's dangerous!
+        <string>Я увидел чудовище и побежал! И теперь мой отец не позволяет мне покинуть пристанище, потому что это опасно!
 </string>
       </value>
     </item>
@@ -56829,7 +56829,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/75c8a4c1-def5-4cd5-aa11-428752763dbf</string>
       </key>
       <value>
-        <string>I lost my Nekaroo plushie on the way here...
+        <string>Я потерял свою Нэкаро-игрушку по пути сюда...
 </string>
       </value>
     </item>
@@ -56838,7 +56838,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/968c8a97-338f-420d-95c3-fcb5dafd569b</string>
       </key>
       <value>
-        <string>I lost it...
+        <string>Я потерял его...
 </string>
       </value>
     </item>
@@ -56847,7 +56847,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/45c2b81a-a5d3-4e74-bfc5-7da34ff10236</string>
       </key>
       <value>
-        <string>Please find Ralphie, please! The stone on his forehead shines! Use that to spot him!</string>
+        <string>Пожалуйста, найдите Ральфи, пожалуйста! Камень у него на лбу блестит! Используйте это, чтобы обнаружить его!</string>
       </value>
     </item>
     <item>
@@ -56855,7 +56855,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/df1d0b82-b07c-4b0b-bd78-328567420b28</string>
       </key>
       <value>
-        <string>If you see something shining in the grass around here, it just might be Ralphie! If you see him, bring it back, please!
+        <string>Если вы увидите что-то блестящее в траве, это может быть Ральфи! Если увидите его, верните, пожалуйста!
 </string>
       </value>
     </item>
@@ -56864,7 +56864,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_DialogWoman/5ebf8146-a8c6-4136-86f2-12e88744dae4</string>
       </key>
       <value>
-        <string>We are tired. But we still must go on. </string>
+        <string>Мы устали. Но мы все равно должны идти дальше.</string>
       </value>
     </item>
     <item>
@@ -56872,7 +56872,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_DialogMan/ef3904aa-b62b-4d21-bf28-19597861b69b</string>
       </key>
       <value>
-        <string>We lost everything we had when Arkadia blew up. We have to find a city that still accepts refugees.</string>
+        <string>Мы потеряли все, что имели, когда взорвалась Аркадия. Мы должны найти город, который все еще принимает беженцев.</string>
       </value>
     </item>
     <item>
@@ -56880,7 +56880,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/646a9f10-9a16-427b-8f1e-f82b30a91ed4</string>
       </key>
       <value>
-        <string>Yes, sir! Keep it!
+        <string>Да, сэр! Возьмите его!
 </string>
       </value>
     </item>
@@ -56889,7 +56889,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/5b538e72-84ab-4065-805f-dda609fe4265</string>
       </key>
       <value>
-        <string>Was this the reason why one of Ralphie's eyes was shining? It was a crystal?
+        <string>Не по этой ли причине один из глаз Ральфи сиял? Это был кристалл?
 </string>
       </value>
     </item>
@@ -56898,7 +56898,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/3b9de816-c975-4635-ae38-e61164878f3f</string>
       </key>
       <value>
-        <string>Without you, Ralphie would have been lost forever. Here, keep this. It's the stone!
+        <string>Без вас Ральфи был бы потерян навсегда. Вот, возьмите это. Это камень!
 </string>
       </value>
     </item>
@@ -56907,7 +56907,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/f1d3fb16-4000-485b-a9c2-281163ba9580</string>
       </key>
       <value>
-        <string>Don't mention it.
+        <string>Не стоит об этом упоминать.
 </string>
       </value>
     </item>
@@ -56916,7 +56916,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/9b2d785f-b2e6-4135-a26e-6d7e49d855a2</string>
       </key>
       <value>
-        <string>Thank you for bringing my son's stuffed animal. Even the smallest of good news is more than welcome.
+        <string>Спасибо, что принесли мягкую игрушку моего сына. Даже самые незначительные хорошие новости более чем приятны.
 </string>
       </value>
     </item>
@@ -56925,7 +56925,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/436437b6-616c-49b7-b953-8758af15de69</string>
       </key>
       <value>
-        <string>Ralphie... I will &lt;b&gt;never&lt;/b&gt; leave you behind again! *sob*
+        <string>Ральфи... Я больше &lt;b&gt;никогда&lt;/b&gt; не оставлю тебя снова! *всхлип*
 </string>
       </value>
     </item>
@@ -56934,7 +56934,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/LostInTheField/LostInTheField_Kid/ac43df95-f02f-496d-9c93-13f8e787cdd1</string>
       </key>
       <value>
-        <string>Oh, you got him back! Ralphiiiie!
+        <string>О, вы его вернули! Ральфиии!
 </string>
       </value>
     </item>
@@ -56943,7 +56943,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/672df036-9507-4d3d-82b2-1f1498c50ce7</string>
       </key>
       <value>
-        <string>You are right. Still better than nothing.</string>
+        <string>Ты прав. Все равно лучше, чем ничего.</string>
       </value>
     </item>
     <item>
@@ -56951,7 +56951,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/5d01f8eb-1164-4550-a736-473a7f67c70b</string>
       </key>
       <value>
-        <string>Take this anyway. Still better than nothing.</string>
+        <string>Все равно возьми это. Все же лучше, чем ничего.</string>
       </value>
     </item>
     <item>
@@ -56959,7 +56959,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/260be87f-a243-4984-9cba-61056367e6c2</string>
       </key>
       <value>
-        <string>I'm overwhelmed with disappointment. I should be more polite... and hide it... But I cannot.</string>
+        <string>Я переполнен разочарованием. Я должен быть более вежливым... и скрывать это... Но я не могу.</string>
       </value>
     </item>
     <item>
@@ -56967,7 +56967,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/09d1e896-0f1f-43af-a295-454e80aaec62</string>
       </key>
       <value>
-        <string>Why?</string>
+        <string>За что?</string>
       </value>
     </item>
     <item>
@@ -56975,7 +56975,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/185d6366-1800-4df4-acec-5fab8c64268f</string>
       </key>
       <value>
-        <string>I'm sorry.</string>
+        <string>Я извиняюсь.</string>
       </value>
     </item>
     <item>
@@ -56983,7 +56983,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/5ff18848-50b7-4d44-8b42-b38bdfcdefd5</string>
       </key>
       <value>
-        <string>Isn't this what you wanted?</string>
+        <string>Разве ты не этого хотела?</string>
       </value>
     </item>
     <item>
@@ -56999,7 +56999,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogBadReward/261778a0-81d5-4bfa-ad02-c7f9634095b2</string>
       </key>
       <value>
-        <string>There you go.</string>
+        <string>Вот держи.</string>
       </value>
     </item>
     <item>
@@ -57007,7 +57007,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/356860dc-1056-4ee3-b330-c04ad1ec41b2</string>
       </key>
       <value>
-        <string>Okay, we'll take it then.
+        <string>Хорошо, тогда мы возьмем это.
 </string>
       </value>
     </item>
@@ -57016,7 +57016,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/399b2f5e-11fe-4ac7-a926-3b97e6eee4c6</string>
       </key>
       <value>
-        <string>I insist.
+        <string>Я настаиваю.
 </string>
       </value>
     </item>
@@ -57025,7 +57025,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/597668bb-9da0-4de4-8113-471e9b075928</string>
       </key>
       <value>
-        <string>We kinda agreed on...
+        <string>Мы вроде как договорились...
 </string>
       </value>
     </item>
@@ -57034,7 +57034,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/39f7fcc7-bfb5-4782-b508-c0fef80b796e</string>
       </key>
       <value>
-        <string>Though I know you'll refuse, I insist you accept this gift. I insist.
+        <string>Хотя я знаю, что вы откажетесь, я настаиваю, чтобы вы приняли этот подарок. Я настаиваю.
 </string>
       </value>
     </item>
@@ -57043,7 +57043,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/4d5d8ca7-e126-4733-8aa6-f60d1d5e437b</string>
       </key>
       <value>
-        <string>Actually...
+        <string>Вообще-то...
 </string>
       </value>
     </item>
@@ -57052,7 +57052,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/0e5e9771-9edf-4c08-844b-aa6972bbcfb9</string>
       </key>
       <value>
-        <string>Of course, you'd do it for free. I know you knightly types - always doing the right thing and helping people in need.
+        <string>Разумеется, вы сделали это бесплатно. Я знаю, что вы, рыцари, всегда поступаете правильно и помогаете нуждающимся.
 </string>
       </value>
     </item>
@@ -57061,7 +57061,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/058aaf58-4057-4c50-b699-d301f0d3e6c7</string>
       </key>
       <value>
-        <string>For free? We didn't...
+        <string>Бесплатно? Мы не...
 </string>
       </value>
     </item>
@@ -57070,7 +57070,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/4a944865-6ff6-4353-8001-360d701154b0</string>
       </key>
       <value>
-        <string>It's really kind of you to go out of your way and do this for free.
+        <string>Это очень мило с вашей стороны - сделать все это бесплатно.
 </string>
       </value>
     </item>
@@ -57079,7 +57079,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/0d9b78be-7f43-4728-b8e3-b70160defb44</string>
       </key>
       <value>
-        <string>And even a little extra for tonight's soup.
+        <string>И даже немного больше на сегодняшний суп.
 </string>
       </value>
     </item>
@@ -57088,7 +57088,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/48d924de-06ee-4fe4-a7a0-45eba00d4954</string>
       </key>
       <value>
-        <string>Ah, yes, yes. There should be enough of them.
+        <string>Ах, да, да. Их должно быть достаточно.
 </string>
       </value>
     </item>
@@ -57097,7 +57097,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/12a1ebb3-a17f-4d2e-aea3-8022b62dcad4</string>
       </key>
       <value>
-        <string>Who were you, already? Ah! The Crimsonblooms!
+        <string>Вы уже здесь? А? Алые цветы!
 </string>
       </value>
     </item>
@@ -57106,7 +57106,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogMeduimReward/c550f194-91e6-4922-bcab-8cf19e997eee</string>
       </key>
       <value>
-        <string>We managed to get these. Think there will be enough?
+        <string>Нам удалось их достать. Думаешь, их будет достаточно?
 </string>
       </value>
     </item>
@@ -57115,7 +57115,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogGoodReward/35b184b3-4cd2-49d3-bb16-84bacd3415df</string>
       </key>
       <value>
-        <string>Much obliged.
+        <string>Премного благодарен.
 </string>
       </value>
     </item>
@@ -57124,7 +57124,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogGoodReward/8bd0669a-9918-4e03-908d-38b7a67361b2</string>
       </key>
       <value>
-        <string>Anyways! Here's for you, you deserve it.
+        <string>В любом случае! Это тебе, ты заслужил.
 </string>
       </value>
     </item>
@@ -57133,7 +57133,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogGoodReward/ee7380d8-019b-4b30-b2f1-b0f7802cb9da</string>
       </key>
       <value>
-        <string>Hey, I heard that.
+        <string>Эй, я все слышал.
 </string>
       </value>
     </item>
@@ -57142,7 +57142,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogGoodReward/503c1edd-c4ee-4d02-96a6-d460b2d6407e</string>
       </key>
       <value>
-        <string>You sure don't know when to stop! (Maybe some repressed anger issues...)
+        <string>Ты точно не знаешь, когда остановиться! (Возможно, проблемы с подавлением гнева...)
 </string>
       </value>
     </item>
@@ -57169,7 +57169,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogGoodReward/86b6c4ed-5341-4516-8e95-3c648f5b5d20</string>
       </key>
       <value>
-        <string>Who were you, already? Ah! The Crimsonblooms!
+        <string>Вы уже здесь? А? Алые цветы!
 </string>
       </value>
     </item>
@@ -57794,7 +57794,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/4be606de-3824-4a55-b20e-3f899dbcf884</string>
       </key>
       <value>
-        <string>И поскольку мы не полные &lt;i&gt;мешки с пеплом&lt;/i&gt;, мы пометим на твоей карте общую зону для прочесывания. Да, она будет большой, но, по крайней мере, ты будешь знать, куда направить свои главные усилия.</string>
+        <string>И поскольку мы не полные &lt;i&gt;мешки с прахом&lt;/i&gt;, мы пометим на твоей карте общую зону для прочесывания. Да, она будет большой, но, по крайней мере, ты будешь знать, куда направить свои главные усилия.</string>
       </value>
     </item>
     <item>
@@ -57889,7 +57889,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/50f224f0-3124-4dd9-9717-caa3b1134cd0</string>
       </key>
       <value>
-        <string>Продать?Нет, это было бы верхом скуки, кузен.
+        <string>Продать? Нет, это было бы верхом скуки, кузен.
 </string>
       </value>
     </item>
@@ -58759,7 +58759,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ApothecaryLesson/ApothecaryLesson_Dialog/125161b6-3ae5-4e2b-aac2-62a129b538a9</string>
       </key>
       <value>
-        <string>Хорошо. Теперь недомогания крови.
+        <string>Хорошо. Теперь болезни крови.
 </string>
       </value>
     </item>
@@ -58804,7 +58804,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ApothecaryLesson/ApothecaryLesson_Dialog/ee7216cf-2c27-471e-81db-e58aff55a259</string>
       </key>
       <value>
-        <string>Итак... в этом мире есть три основных вида недомоганий: нарушения &lt;b&gt;дыхания&lt;/b&gt;, &lt;b&gt;крови&lt;/b&gt;и &lt;b&gt;рассудка.&lt;/b&gt;
+        <string>Итак... в этом мире есть три основных вида недомоганий: недуги &lt;b&gt;дыхания&lt;/b&gt;, &lt;b&gt;крови&lt;/b&gt; и &lt;b&gt;рассудка.&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -58831,7 +58831,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ApothecaryLesson/ApothecaryLesson_Dialog/aaa819a7-11ef-4a11-9352-bcb0e944e2a1</string>
       </key>
       <value>
-        <string>... Я думаю.
+        <string>... Я понял.
 </string>
       </value>
     </item>
@@ -58858,7 +58858,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ApothecaryLesson/ApothecaryLesson_Dialog/887653f5-c2df-4be8-8707-b225ad1c2b45</string>
       </key>
       <value>
-        <string>...И прежде чем я отправлюсь на фронт, я удостоверюсь, что время, которое я потратил, обучая вас, не было напрасным.
+        <string>...И прежде чем я отправлюсь на фронт, я удостоверюсь, что время, которое я потратил, обучая тебя, не было напрасным.
 </string>
       </value>
     </item>
@@ -58921,7 +58921,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/TabernacleIntro_Dialog/437d0e58-1d43-4b83-9450-5a066589d954</string>
       </key>
       <value>
-        <string>&lt;b&gt;Если они увидят, что вы идете в Херельсор или достигаете другого региона - они поймут, что им нужно искать помощь в другом месте... и покидают Пристанище.&lt;/b&gt;
+        <string>&lt;b&gt;Если они увидят, что вы идете в Херельсор или достигли другого региона - они поймут, что им нужно искать помощь в другом месте... и покидают Пристанище.&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -58939,7 +58939,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/TabernacleIntro_Dialog/5971f743-940d-47e8-bd97-0b34b40a8c9a</string>
       </key>
       <value>
-        <string>Итак, вы говорите, что если мы хотим помочь людям в этих Пристанищах, мы не должны медлить слишком долго... или забредем слишком далеко. Это все?
+        <string>Итак, вы говорите, что если мы хотим помочь людям в этих Пристанищах, мы не должны медлить слишком долго... или забредать слишком далеко. Это все?
 </string>
       </value>
     </item>
@@ -58948,7 +58948,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/TabernacleIntro_Dialog/5693e236-e3b5-4896-b650-8108efc5b165</string>
       </key>
       <value>
-        <string>И даже если вы обещали им помощь, люди могут получить подсказку. Если они не увидят, как вы возвращаетесь, увидят, что вы забрели слишком далеко отсюда, они попросят кого-нибудь другого.
+        <string>И даже если вы обещали им помощь, люди могут получить подсказку. Если они не увидят, как вы подходите или увидят, что вы забрели слишком далеко отсюда, они попросят кого-нибудь другого.
 </string>
       </value>
     </item>
@@ -58975,7 +58975,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/TabernacleIntro_Dialog/8bf2f707-50da-4087-8a72-d609c8434fdc</string>
       </key>
       <value>
-        <string>Парящие фонарики, хах? У нас у самих срочное дело. Я не знаю, сможем ли мы помочь всем... или кому-то еще, если уж на то пошло.
+        <string>Горящие фонари, а? У нас у самих срочное дело. Я не знаю, сможем ли мы помочь всем... или кому-то вообще, если уж на то пошло.
 </string>
       </value>
     </item>
@@ -58984,7 +58984,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/TabernacleIntro_Dialog/9da65fa2-8da7-4372-8333-9aaa1e662b8c</string>
       </key>
       <value>
-        <string>&lt;b&gt;Вот почему я хотел бы попросить вас следить за фонарями&lt;/b&gt;. &lt;b&gt;Если вы увидите их, парящих над Пристанищем&lt;/b&gt;, это будет означать, что кто-то там внизу нуждается в какой-то помощи... или внимании.
+        <string>&lt;b&gt;Вот почему я хотел бы попросить вас следить за фонарями&lt;/b&gt;. &lt;b&gt;Если вы увидите их горящими над Пристанищем&lt;/b&gt;, это будет означать, что кто-то там нуждается в какой-то помощи... или внимании.
 </string>
       </value>
     </item>
