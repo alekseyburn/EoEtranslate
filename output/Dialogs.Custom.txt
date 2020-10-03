@@ -38229,7 +38229,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1400_find_caravan/ce425af8-ef63-471f-ad56-3f1cd6e37511</string>
       </key>
       <value>
-        <string>Давай поговорим с торговцами и посмотрим, сможем ли мы проехать с ними в Аварис.
+        <string>Давайте поговорим с торговцами и посмотрим, сможем ли мы проехать с ними в Аварис.
 </string>
       </value>
     </item>
@@ -38544,7 +38544,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0300_bridge_back_herelsor/70ac8fd0-ade2-4a7d-a664-107e3a40c031</string>
       </key>
       <value>
-        <string>Жрица и ее помощница готовы идти и…
+        <string>Жрица и ее помощник могут идти и…
 </string>
       </value>
     </item>
@@ -38625,7 +38625,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0400_call_day/e17799ec-2edf-4b4b-b3b7-7a5a9b9ced26</string>
       </key>
       <value>
-        <string>И отвечать на наши вопросы?
+        <string>И ответить на наши вопросы?
 </string>
       </value>
     </item>
@@ -41271,7 +41271,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/20c11430-49ac-4c70-93f5-2c76b99e17d5</string>
       </key>
       <value>
-        <string>Запомни, кузен. Красная &lt;b&gt;Бархатная Перчатка&lt;/b&gt;.
+        <string>Запомни, братик. &lt;b&gt;Красная Бархатная Перчатка&lt;/b&gt;.
 </string>
       </value>
     </item>
@@ -41280,7 +41280,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/00819b6a-1007-41ba-a2ef-474a28b8456f</string>
       </key>
       <value>
-        <string>Да, я думаю, что жрица - это кузина. Она определенно выглядит как кузина.
+        <string>Да, я думаю, что жрица - это сестрица. Она определенно выглядит как сестра.
 </string>
       </value>
     </item>
@@ -41289,7 +41289,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/601b6add-9d00-4ca6-af84-6ac22aec9f33</string>
       </key>
       <value>
-        <string>Видишь? Даже жрица - кузина.
+        <string>Видишь? Даже жрица - сестрица.
 </string>
       </value>
     </item>
@@ -41307,7 +41307,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/3024c41e-9dfa-4e0c-85df-e825be51f3c6</string>
       </key>
       <value>
-        <string>Потому что ты не кузен, Юсорис.
+        <string>Потому что ты не братец, Юсорис.
 </string>
       </value>
     </item>
@@ -41325,7 +41325,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/21f8ad59-3723-407a-9ebd-23bdda19a1fb</string>
       </key>
       <value>
-        <string>Бойлерная. Дом.
+        <string>К Котлу. Домой.
 </string>
       </value>
     </item>
@@ -41334,7 +41334,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/120fd601-7796-47a3-93ea-36466327fb18</string>
       </key>
       <value>
-        <string>Мы знаем, кузен. Мы знаем. Просто делай свое дело, кузен. Если ты найдешь по дороге &lt;b&gt;Красную Бархатную Перчатку&lt;/b&gt;, возвращайся сюда.
+        <string>Мы знаем, братец. Мы знаем. Просто делай свое дело, братец. Если ты найдешь по дороге &lt;b&gt;Красную Бархатную Перчатку&lt;/b&gt;, возвращайся сюда.
 </string>
       </value>
     </item>
@@ -41352,7 +41352,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/bacce294-d613-42c4-a46b-0129b0bf1c02</string>
       </key>
       <value>
-        <string>Вот это умно, кузен.
+        <string>Вот это умно, сестрица.
 </string>
       </value>
     </item>
@@ -41388,7 +41388,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/e2befae1-4bd0-429b-8185-4a04b8b113c8</string>
       </key>
       <value>
-        <string>Хотя теперь я уверен, что он Шнедаггл. Гарантирую.
+        <string>Хотя теперь я уверена, что он Шнедаггл. Гарантирую.
 </string>
       </value>
     </item>
@@ -41406,7 +41406,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/e13bfa2b-88d8-4886-8b80-b812986d3ae2</string>
       </key>
       <value>
-        <string>Нет! Снейк больше не Снейк, кузен. Он, вероятно, скрывается под дурацким псевдонимом типа Бронсона, Руди или Шнедаггла!
+        <string>Нет! Снейк больше не Снейк, братец. Он, вероятно, скрывается под дурацким псевдонимом типа Бронсона, Руди или Шнедаггла!
 </string>
       </value>
     </item>
@@ -41442,7 +41442,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/d4e4193e-cd67-420f-ba69-c20b7324c729</string>
       </key>
       <value>
-        <string>Вот именно! Но Дарион здесь, как я уже сказал, кузен.
+        <string>Вот именно! Но Дарион, как я уже сказала, братишка.
 </string>
       </value>
     </item>
@@ -41451,7 +41451,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/2f1dfb99-27b6-4a7c-b59d-308b9c4269da</string>
       </key>
       <value>
-        <string>Это все равно паршивая идея, кузен. Мы не должны вовлекать не-кузенов в проблему кузенов.
+        <string>Это все равно паршивая идея, сестра. Мы не должны вовлекать не-кузенов в проблемы кузенов.
 </string>
       </value>
     </item>
@@ -41460,7 +41460,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/3934ac02-c9ed-423a-b8f6-299d95d9936e</string>
       </key>
       <value>
-        <string>Может быть, кто-нибудь объяснит мне, о чем говорят эти два перевозбужденных уличных сорванца?
+        <string>Может быть, кто-нибудь объяснит мне, о чем говорят эти две перевозбужденных уличных сорванчихи?
 </string>
       </value>
     </item>
@@ -41478,7 +41478,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/d66741de-4d26-40f6-ae42-0974f770147b</string>
       </key>
       <value>
-        <string>Я не знаю, кузен, это само собой разумеется, что кузен, который думает как кузен, может читать мысли другого кузена, верно?
+        <string>Я не знаю, сестрица, это само собой разумеется, что кузен, который думает как кузен, может читать мысли другого кузена, верно?
 </string>
       </value>
     </item>
@@ -41487,7 +41487,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/577dd674-cec6-4afc-9e6a-45b1f5fdc432</string>
       </key>
       <value>
-        <string>Кузен! Ты читаешь мои мысли, и это жутко.
+        <string>Сестра! Ты читаешь мои мысли, и это жутко.
 </string>
       </value>
     </item>
@@ -41496,7 +41496,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/c7800119-65c7-4e62-98e8-871888b24d06</string>
       </key>
       <value>
-        <string>Эй, ты посылаешь его по следу парня, которого-раньше-звали-Беар, а теперь-Снейк?
+        <string>Эй, ты посылаешь его по следу парня, которого-раньше-звали-Беар, а теперь - Снейк?
 </string>
       </value>
     </item>
@@ -41514,7 +41514,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/f96ec44e-c826-4c1d-8547-2d6327cf257c</string>
       </key>
       <value>
-        <string>Разгуливать.
+        <string>Разгуливать повсюду.
 </string>
       </value>
     </item>
@@ -41532,7 +41532,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/def74b55-d81d-4970-b493-e0106e1fbd5a</string>
       </key>
       <value>
-        <string>Дарион, &lt;i&gt;*Паренек*&lt;/i&gt; Кузен. Нам нужен человек с твоими &lt;b&gt;способностями&lt;/b&gt; для задания. Это очень важно. Вопрос жизни и смерти.
+        <string>Дарион, &lt;i&gt;*Паренек*&lt;/i&gt; братец. Нам нужен человек с твоими &lt;b&gt;способностями&lt;/b&gt; для задания. Это очень важно. Вопрос жизни и смерти.
 </string>
       </value>
     </item>
@@ -41541,7 +41541,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/5f6d88b2-145e-478e-97e4-b3621954b722</string>
       </key>
       <value>
-        <string>Видишь? Это имя кузена!
+        <string>Видишь? Это имя братика!
 </string>
       </value>
     </item>
@@ -41559,7 +41559,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/9b85a198-55b2-4d0a-b36f-82454b08e706</string>
       </key>
       <value>
-        <string>Это у тебя в голове, кузен.
+        <string>Это у тебя в голове, сестра.
 </string>
       </value>
     </item>
@@ -41568,7 +41568,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/8a738356-abbd-428a-bbfb-b33cddb44b19</string>
       </key>
       <value>
-        <string>Послушай &lt;b&gt;это&lt;/b&gt;! Он сказал "в чем дело". Он кузен&lt;b&gt;&lt;/b&gt;!
+        <string>Послушай &lt;b&gt;это&lt;/b&gt;! Он сказал "в чем дело". Он точно братец&lt;b&gt;&lt;/b&gt;!
 </string>
       </value>
     </item>
@@ -41586,7 +41586,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/2dda729c-b16d-4fc3-a2bd-2f07037fd4ca</string>
       </key>
       <value>
-        <string>Он выглядит как кузен как по мне.
+        <string>Он выглядит как братец как по мне.
 </string>
       </value>
     </item>
@@ -41595,7 +41595,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/95d148a8-5843-4b8d-9ef6-710c64cb97ac</string>
       </key>
       <value>
-        <string>Бивер! Какого черта? Ведь... мы даже не знаем, является ли этот парень кузеном!
+        <string>Бивер! Какого черта? Ведь... мы даже не знаем, является ли этот парень братцем!
 </string>
       </value>
     </item>
@@ -41604,7 +41604,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene1/3263ac9b-76be-41d6-9e96-38e54f293903</string>
       </key>
       <value>
-        <string>Эй, кузен. Подойди сюда на секунду.
+        <string>Эй, братец. Подойди сюда на секунду.
 </string>
       </value>
     </item>
@@ -41703,7 +41703,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/6a292412-10eb-46fa-8bd2-c1f7e1df7b48</string>
       </key>
       <value>
-        <string>Приходи как-нибудь, парень, кузен ... Когда тебе снова захочется помочь кузену.
+        <string>Приходи как-нибудь, паренек, братец ... Когда тебе снова захочется помочь братьям и сестрам.
 </string>
       </value>
     </item>
@@ -41730,7 +41730,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/db592b08-2624-4ae2-9365-cf34af05cda1</string>
       </key>
       <value>
-        <string>Ты все еще кузен. А кузены помогают друг другу.
+        <string>Ты все еще братец. А кузены помогают друг другу.
 </string>
       </value>
     </item>
@@ -41748,7 +41748,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/79fef1bd-7236-42c3-ac89-7043adf29238</string>
       </key>
       <value>
-        <string>Подойди ближе, парень, чтобы я мог похлопать тебя по плечу и потрепать по щеке.
+        <string>Подойди ближе, паренек, чтобы я могла похлопать тебя по плечу и потрепать по щеке.
 </string>
       </value>
     </item>
@@ -41757,7 +41757,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/0424f64b-003c-44a3-9277-0d1c4bb920b3</string>
       </key>
       <value>
-        <string>Я же говорила тебе, что Дарион кузен!
+        <string>Я же говорила тебе, что Дарион братишка!
 </string>
       </value>
     </item>
@@ -41775,7 +41775,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/115a6a9d-15ac-4ff1-bbf8-03b360942051</string>
       </key>
       <value>
-        <string>...потому что мы кузены.
+        <string>...потому что мы своего рода 'Семья'.
 </string>
       </value>
     </item>
@@ -41829,7 +41829,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/ea7c8a1d-f96b-4966-9957-be4e36c750c8</string>
       </key>
       <value>
-        <string>Ну что ж, спасибо, что принес нам перчатку, кузен. Вы хорошо поработали. А теперь - в качестве достойной награды...
+        <string>Ну что ж, спасибо, что принес нам перчатку, братик. Вы хорошо поработали. А теперь - в качестве достойной награды...
 </string>
       </value>
     </item>
@@ -41847,7 +41847,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/7258e809-3ee1-4334-9fb7-d83072196f05</string>
       </key>
       <value>
-        <string>Где вы его нашли?
+        <string>Где вы ее нашли?
 </string>
       </value>
     </item>
@@ -41856,7 +41856,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/be8cb066-915f-4c67-9bd3-751c74c9d1b4</string>
       </key>
       <value>
-        <string>Я думаю, что он это сделал, кузен! Я думаю, что так оно и было.
+        <string>Я думаю, что это он сделал, сестра! Я думаю, что так оно и было.
 </string>
       </value>
     </item>
@@ -41883,7 +41883,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/f35bca6e-92cd-4577-94c5-2a499d91c5c8</string>
       </key>
       <value>
-        <string>The bloody &lt;b&gt;ash wallower&lt;/b&gt;!
+        <string>Проклятый &lt;b&gt;чёрт&lt;/b&gt;!
 </string>
       </value>
     </item>
@@ -41910,7 +41910,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/dc3c2243-cd88-4903-bd81-bea6e80c6e4b</string>
       </key>
       <value>
-        <string>Дай-ка я посмотрю, кузен.
+        <string>Дай-ка я посмотрю, братец.
 </string>
       </value>
     </item>
@@ -41919,7 +41919,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_Scene2/3b26214a-8e2e-4880-a6e4-712d65ca00fc</string>
       </key>
       <value>
-        <string>Я нашел эту Бархатную Перчатку, но она пурпурная, а не красная.
+        <string>Я нашел эту Бархатную Перчатку, но она фиолетовая, а не красная.
 </string>
       </value>
     </item>
@@ -41937,7 +41937,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Beaver/6cd95814-8b35-4589-99a5-3f2ea340963e</string>
       </key>
       <value>
-        <string>Просто делай свое дело, кузен. Если ты найдешь по дороге  &lt;b&gt;Красную Бархатную Перчатку&lt;/b&gt;, возвращайся сюда, и мы будем квиты.
+        <string>Просто делай свое дело, братец. Если ты найдешь по дороге  &lt;b&gt;Красную Бархатную Перчатку&lt;/b&gt;, возвращайся сюда, и мы будем квиты.
 </string>
       </value>
     </item>
@@ -41946,7 +41946,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/a0e4dcfa-91e9-4aca-bcff-b5eb699b7191</string>
       </key>
       <value>
-        <string>... Как будто котел спас ему жизнь.
+        <string>... Как будто котёл спас ему жизнь.
 </string>
       </value>
     </item>
@@ -41955,7 +41955,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/4faf89e7-6e9f-462a-969d-f1f60eb61023</string>
       </key>
       <value>
-        <string>Я бы сказал, что ты меня поймал, кузен. Он &lt;i&gt;посмотрел&lt;/i&gt; на котел с должным уважением.
+        <string>Я бы сказала, что ты меня вразумила, сестра. Он &lt;i&gt;смотрел&lt;/i&gt; на котел с должным уважением.
 </string>
       </value>
     </item>
@@ -41964,7 +41964,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/0e6b6293-c773-42ad-b874-5150080fdee5</string>
       </key>
       <value>
-        <string>Друг бойлерной для меня - кузен. 'Gotta be. Это &lt;b&gt;факт&lt;/b&gt;!
+        <string>Друг котла для меня - кузен. Пойми. Это &lt;b&gt;факт&lt;/b&gt;!
 </string>
       </value>
     </item>
@@ -41973,7 +41973,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/e81401d3-5395-46bd-9dce-a5e659ef2ffb</string>
       </key>
       <value>
-        <string>Just like he's &lt;b&gt;been there.&lt;/b&gt;
+        <string>Как будто они всегда &lt;b&gt;жили здесь.&lt;/b&gt;
 </string>
       </value>
     </item>
@@ -41982,7 +41982,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/bfb4d67b-333d-4a0f-8135-93c5d41bcc92</string>
       </key>
       <value>
-        <string>Котел его &lt;b&gt;друг&lt;/b&gt;, Кузен!
+        <string>Котёл его &lt;b&gt;друг&lt;/b&gt;, сестра!
 </string>
       </value>
     </item>
@@ -41991,7 +41991,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/8ad28aad-85ef-43f5-9db7-8f605b00f15b</string>
       </key>
       <value>
-        <string>Это котёл, Кузен! Ты видел, как он смотрел на бойлерную?
+        <string>Этот котёл, сестрица! Ты видел, как он смотрел на котёл?
 </string>
       </value>
     </item>
@@ -42000,7 +42000,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_TalkAgain_Pig/72ba0afd-4167-41c3-891e-ef5144168508</string>
       </key>
       <value>
-        <string>Так почему же ты думаешь, что он кузен, а?
+        <string>Так почему же ты думаешь, что он братец, а?
 </string>
       </value>
     </item>
@@ -42009,7 +42009,7 @@
         <string>/Quest/Chapter_5/secondary/ForTheCos/dialogs/ForTheCos_BoilerDialog/8bdd20b4-76b5-4e6d-b5b6-a8f4fd5e17ee</string>
       </key>
       <value>
-        <string>&lt;Семнадцать лет назад. Это спасло нам жизнь, Селене и мне.&gt;
+        <string>&lt;Семнадцать лет назад. Это спасало нам жизнь, Селене и мне.&gt;
 </string>
       </value>
     </item>
@@ -46481,7 +46481,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid_on_watch_duty_10F/049d6774-46d8-47be-83f9-aab9c99a3223</string>
       </key>
       <value>
-        <string>Легкая работа, кузен. Клянусь, никто из этих новых охранников не воспринимает нас всерьез.</string>
+        <string>Изи-пизи, братан. Клянусь, никто из этих новых охранников не воспринимает нас всерьез.</string>
       </value>
     </item>
     <item>
@@ -46497,7 +46497,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Confident_Teenager_13M/41bff043-c453-4a19-899f-a5808dc65056</string>
       </key>
       <value>
-        <string>Все в порядке, кузен, ты к этому привыкнешь. Тебе пришлось нелегко, но теперь мы здесь. Мы все здесь для вас, если вы нуждаетесь в нас.</string>
+        <string>Все в порядке, братан, ты к этому привыкнешь. Тебе пришлось нелегко, но теперь мы здесь. Мы все здесь с тобой, если ты нуждаешься в нас.</string>
       </value>
     </item>
     <item>
@@ -46614,7 +46614,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/NononesenseMercenary_30M/8fc300a4-e22b-4bc3-8e74-43824496e386</string>
       </key>
       <value>
-        <string>Я все еще жду их. Поговорим о разочаровании.</string>
+        <string>Я все еще жду их. Говоря о разочаровании.</string>
       </value>
     </item>
     <item>
@@ -46911,7 +46911,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/DayDreamingYounth_20M/59da392c-2f48-4e69-9e5d-16b23794a31b</string>
       </key>
       <value>
-        <string>Да, правда? Она такая дорогая! Но говорят, что одна миска этой фигни, и ты неделю просидишь без еды!
+        <string>Это правда? Она такая дорогая! Но говорят, что одна миска этой фигни, и ты неделю можешь просидеть без еды!
 По-видимому, она тоже вкусная.</string>
       </value>
     </item>
@@ -46962,7 +46962,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/cfde7b91-9010-4bcc-b05d-417c245751e3</string>
       </key>
       <value>
-        <string>Но один... гораздо больше, чем другой.</string>
+        <string>Но один... гораздо больше, чем другие.</string>
       </value>
     </item>
     <item>
@@ -46970,7 +46970,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/GentleWoman_60F/abcec061-bd5f-4843-bf33-6d5a0941da7a</string>
       </key>
       <value>
-        <string>Вообще-то, вы оба.</string>
+        <string>Вообще-то, вы все.</string>
       </value>
     </item>
     <item>
@@ -47010,7 +47010,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/HerelsorOfficial_30M/3852dc76-5fc9-4fd0-a2ef-6bcf47b85f61</string>
       </key>
       <value>
-        <string>Херельсор имел... проблемы с преступностью в прошлом. В основном с воровством.&lt;endline&gt;
+        <string>Херельсор имел... проблемы с преступностью в прошлом. В основном с воровством.
 Но проблема в основном ограничивается ... определенными слоями населения. Это проблема, которая решается сама собой с каждым новым призывом.</string>
       </value>
     </item>
@@ -47019,7 +47019,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Hunter_01_20F/7eeba884-d132-4696-a04c-b311faf4f468</string>
       </key>
       <value>
-        <string>Я нашел эту милую девочку на днях, сражающуюся за свою жизнь против стаи Кроктас. Я пришел ей на помощь.&lt;endline&gt;
+        <string>Я нашла эту милую девочку на днях, сражающуюся за свою жизнь против стаи Кроктас. Я пришла ей на помощь.
 С тех пор она постоянно таскается за мной. Она дикая Нэкаро, так что в какой-то момент она, вероятно, уйдет... но она еще не сделала этого.</string>
       </value>
     </item>
@@ -47028,7 +47028,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/85a08a27-566b-4c8a-b58d-36d604ad738f</string>
       </key>
       <value>
-        <string>Я сам это принял и до сих пор жив!</string>
+        <string>Я сама это приняла и до сих пор жива!</string>
       </value>
     </item>
     <item>
@@ -47060,7 +47060,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Merchant_Ysoris_40M/6f6c7289-619a-4aec-83a7-bbf357358153</string>
       </key>
       <value>
-        <string>У меня тут есть средство от Коррозии. Ну, это не такое уж и средство... Это скорее "мера профилактики".- Прими это сейчас, и ты никогда не заболеешь!</string>
+        <string>У меня тут есть средство от Коррозии. Ну, это не то чтобы средство... Это скорее "мера профилактики".- Прими это сейчас, и ты никогда не заболеешь!</string>
       </value>
     </item>
     <item>
@@ -47077,7 +47077,7 @@ His ever-loving family&lt;/i&gt;</string>
       </key>
       <value>
         <string>Что!?
-Нет! Это не то, что я хочу, чтобы ты отпустила грехи!
+Нет! Это не то, что я хочу, я хочу, чтобы ты отпустила грехи!
 Это совсем не то!</string>
       </value>
     </item>
@@ -47230,7 +47230,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Kid01_8M/acda2ec8-3594-43ab-98a4-1965d70779c9</string>
       </key>
       <value>
-        <string>... Это действительно правда?</string>
+        <string>... Точно не хочешь?</string>
       </value>
     </item>
     <item>
@@ -47606,7 +47606,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene1/34d3e1b5-af6d-4b55-8e41-92bd4d21066d</string>
       </key>
       <value>
-        <string>Ну, я уверен, что это был хороший подарок, но у нас есть более неотложные дела.
+        <string>Ну, я уверена, что это был хороший подарок, но у нас есть более неотложные дела.
 </string>
       </value>
     </item>
@@ -47705,7 +47705,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/WithTremblingHands/Scene2/4925a685-4bd3-42ef-a8f1-541ae45a15cd</string>
       </key>
       <value>
-        <string>Мы можем просто ... .. мы можем просто уйти, сейчас же!?
+        <string>Мы можем просто ... мы можем просто продолжить путь дальше!?
 </string>
       </value>
     </item>
@@ -55253,7 +55253,7 @@ And you will not lie.</string>
         <string>/Quest/Oboros/oboros_scn_0600_autocut_choose_one/b9cf4ea0-13ae-4d8f-8ebd-8824479ca71d/msg</string>
       </key>
       <value>
-        <string>So... which one?</string>
+        <string>Так... который из них?</string>
       </value>
     </item>
     <item>
@@ -55261,7 +55261,7 @@ And you will not lie.</string>
         <string>/Quest/Oboros/oboros_scn_0600_autocut_choose_one/b9cf4ea0-13ae-4d8f-8ebd-8824479ca71d/choice1</string>
       </key>
       <value>
-        <string>Nicholas</string>
+        <string>Николас</string>
       </value>
     </item>
     <item>
@@ -55269,7 +55269,7 @@ And you will not lie.</string>
         <string>/Quest/Oboros/oboros_scn_0600_autocut_choose_one/b9cf4ea0-13ae-4d8f-8ebd-8824479ca71d/choice2</string>
       </key>
       <value>
-        <string>Verleh</string>
+        <string>Верлех</string>
       </value>
     </item>
     <item>
@@ -55277,7 +55277,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/6fb0092a-c792-4923-b8c7-28fde36efca5</string>
       </key>
       <value>
-        <string>Ah, you remembered our appointment! I'm glad you made it in on time!</string>
+        <string>Ах, ты вспомнил о нашей встрече! Я рад, что ты пришел вовремя!</string>
       </value>
     </item>
     <item>
@@ -55285,7 +55285,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/792b3722-61f0-4f63-b5e2-3a5338433e4a</string>
       </key>
       <value>
-        <string>I... think you got me mixed up with someone else.</string>
+        <string>Я... думаю, ты меня с кем-то перепутала.</string>
       </value>
     </item>
     <item>
@@ -55293,7 +55293,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/d7747f85-679a-4fd2-ac86-e018088d3866</string>
       </key>
       <value>
-        <string>No, I'm pretty sure it was you. There's not that many people with swords around here. </string>
+        <string>Нет, я почти уверена, что это был ты. Здесь не так уж много людей с мечами. </string>
       </value>
     </item>
     <item>
@@ -55301,7 +55301,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/13677034-f001-49cb-86d0-6f78f5e48693/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -55309,7 +55309,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/13677034-f001-49cb-86d0-6f78f5e48693/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -55317,7 +55317,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/13677034-f001-49cb-86d0-6f78f5e48693/msg</string>
       </key>
       <value>
-        <string>Have you finished? Did you pick everything you could?</string>
+        <string>Вы уже закончили? Вы собрали все, что могли?</string>
       </value>
     </item>
     <item>
@@ -55325,7 +55325,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/b26be2a7-b254-469d-aa92-c438bfd030eb</string>
       </key>
       <value>
-        <string>Then I'll have to actually work. By the Gods, I hate that...</string>
+        <string>Тогда мне действительно придется поработать. Клянусь богами, Я ненавижу это...</string>
       </value>
     </item>
     <item>
@@ -55333,7 +55333,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/b16c994a-87dd-453c-9c00-c5cf39b5801a</string>
       </key>
       <value>
-        <string>Then go! Cut down as many as you can! You won't miss them, they're big and red, and have sprouted just all around the tabernacle!</string>
+        <string>Тогда идите же! Соберите столько, сколько сможете! Вы не пропустите их, они большие и красные, и всходят только вокруг скинии!</string>
       </value>
     </item>
     <item>
@@ -55341,7 +55341,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/3c8074d5-5361-49bf-a8fa-c733d59f79b8</string>
       </key>
       <value>
-        <string>And don't forget, they'll wither fast - you must bring them to me &lt;b&gt;before&lt;/b&gt; their time runs out, or they'll be wasted!</string>
+        <string>И не забудьте, они быстро завянут - вы должны принести их мне &lt;b&gt;прежде&lt;/b&gt; чем их время выйдет, или они завянут!</string>
       </value>
     </item>
     <item>
@@ -55349,7 +55349,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/25dcb568-b0c7-4d1a-819a-7433796b198b/msg</string>
       </key>
       <value>
-        <string>There's something for you if you help me. Up for the task?</string>
+        <string>Для вас есть кое-что, если вы мне поможете. Готовы к выполнению задания?</string>
       </value>
     </item>
     <item>
@@ -55357,7 +55357,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/25dcb568-b0c7-4d1a-819a-7433796b198b/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -55365,7 +55365,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/25dcb568-b0c7-4d1a-819a-7433796b198b/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -55373,7 +55373,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/cd4752c0-b1ee-4615-8129-56effac73cff</string>
       </key>
       <value>
-        <string>They wither as quickly as they sprout, so I need someone to help me harvest them before they do, so I can put them in conservation jars.</string>
+        <string>Они вянут так же быстро, как и прорастают, поэтому мне нужен кто-то, кто поможет мне собрать их до того, как они это сделают, чтобы я могла положить их в консервные банки.</string>
       </value>
     </item>
     <item>
@@ -55381,7 +55381,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/5ef7c237-445d-4dd1-b082-f6d67e9b51eb</string>
       </key>
       <value>
-        <string>I sowed several crimsonbloom seeds yesterday, they will be blossoming soon.</string>
+        <string>Вчера я посеяла несколько семян алых цветов, они скоро зацветут.</string>
       </value>
     </item>
     <item>
@@ -55389,7 +55389,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/d8bc6e33-0501-44ab-af9c-2ae1037cfe7e</string>
       </key>
       <value>
-        <string>Pah! Don't be such a wuss, you've got a sword: you'll be perfect for the task.</string>
+        <string>Тьфу! Не будь таким слабаком, у тебя есть меч: ты отлично справишься с этой задачей.</string>
       </value>
     </item>
     <item>
@@ -55397,7 +55397,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/ItemOnTheRoad/ItemOnTheRoad_DialogStart/490e8742-6046-4849-ae99-09a047a99ce6</string>
       </key>
       <value>
-        <string>Actually, there is.</string>
+        <string>Вообще-то, да</string>
       </value>
     </item>
     <item>
@@ -55405,7 +55405,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_before_fight_kora/e47ad54b-d648-421d-929c-7bf45044a0b4/msg</string>
       </key>
       <value>
-        <string>Ready?</string>
+        <string>Готов?</string>
       </value>
     </item>
     <item>
@@ -55413,7 +55413,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_before_fight_kora/e47ad54b-d648-421d-929c-7bf45044a0b4/choice1</string>
       </key>
       <value>
-        <string>Yes</string>
+        <string>Да</string>
       </value>
     </item>
     <item>
@@ -55421,7 +55421,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_before_fight_kora/e47ad54b-d648-421d-929c-7bf45044a0b4/choice2</string>
       </key>
       <value>
-        <string>No</string>
+        <string>Нет</string>
       </value>
     </item>
     <item>
@@ -55429,7 +55429,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/145a4cc7-5891-4b52-9932-27d219df1b82</string>
       </key>
       <value>
-        <string>See you around.
+        <string>Еще увидимся.
 </string>
       </value>
     </item>
@@ -55438,7 +55438,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/1f7a57d5-eff7-4692-89ca-08aedc9ec582</string>
       </key>
       <value>
-        <string>Whatever. If you'll excuse me - I got a hundred to spent, my throat is getting dry and my feet are growing cold.
+        <string>Как угодно. Если вы меня извините - мне нужно потратить сотню, у меня пересохло в горле и замерзли ноги.
 </string>
       </value>
     </item>
@@ -55447,7 +55447,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/1d8d6d08-5c46-4632-b7ab-a6daea16d352</string>
       </key>
       <value>
-        <string>As a matter of fact, it was not Ilvana descending from Heaven, but Anselm - rising up from the Holy Chrysanthem.
+        <string>На самом деле это была не Ильвана, спускающаяся с небес, а Ансельм, поднимающийся из Священной Хризантемы.
 </string>
       </value>
     </item>
@@ -55456,7 +55456,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/56dc1d46-fbe7-43b7-9a39-e6f6fa3090c4</string>
       </key>
       <value>
-        <string>I don't care for it. Nobody does.
+        <string>Меня это не волнует. Никого не волнует.
 </string>
       </value>
     </item>
@@ -55465,7 +55465,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/64eb1f21-8fc8-4cde-9a07-81e45e71f7e3</string>
       </key>
       <value>
-        <string>And I know that look, Priestess. I probably missed some important part, like the Goddess Ilvana descending from heaven to impart us mortals with some important message. But guess what?
+        <string>И я знаю этот взгляд, Жрица. Вероятно, я пропустил какую-то важную часть, например, богиню Ильвану, спустившуюся с небес, чтобы передать нам, смертным, какое-то важное послание. Но знаешь что?
 </string>
       </value>
     </item>
@@ -55483,7 +55483,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/a3edef91-7dd6-438b-91e4-b1ff9ee74921</string>
       </key>
       <value>
-        <string>*Burrrp* And that's how it happened. More or less.
+        <string>И вот как это произошло. Более или менее.
 </string>
       </value>
     </item>
@@ -55492,7 +55492,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/a190ce68-f911-459f-96db-2ce75d285d47</string>
       </key>
       <value>
-        <string>The earth eventually closed itself upon it. It was only when the earth finally stopped rumbling the people realized that the Gods had answered their prayers. They had saved them.
+        <string>Земля в конце концов сомкнулась вокруг него. И только когда Земля наконец перестала грохотать, люди поняли, что боги ответили на их молитвы. Они спасли их.
 </string>
       </value>
     </item>
@@ -55501,7 +55501,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/c2d475f6-3fd8-4b3d-979b-1d006d3a2910</string>
       </key>
       <value>
-        <string>And just as if it had understood what was expected of it, the comet began hovering towards the chasm which finally welcomed it in its bosom.
+        <string>И как будто поняв, чего от нее ждут, Комета начала парить над пропастью, которая наконец-то приняла ее в свое лоно.
 </string>
       </value>
     </item>
@@ -55510,7 +55510,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/ab5962f7-9abf-4a98-a6a9-c6ffed0308b8</string>
       </key>
       <value>
-        <string>After what seemed like an eternity, the earth began to rumble and parted itself in two, opening a gigantic rift to welcome the celestial body.
+        <string>После того, что казалось вечностью, земля начала грохотать и разделилась надвое, открывая гигантскую трещину, чтобы приветствовать небесное тело.
 </string>
       </value>
     </item>
@@ -55519,7 +55519,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/31ab3da2-908f-4e72-97c8-fb622235a6d3</string>
       </key>
       <value>
-        <string>There it remained, frozen, for an indefinite amount of time - the fate of the world still in the balance.
+        <string>Там она и оставалась, замороженная, на неопределенное время - судьба мира все еще была на волоске.
 </string>
       </value>
     </item>
@@ -55528,7 +55528,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/bb41eaa7-3517-4148-a1d8-d072d9456f5e</string>
       </key>
       <value>
-        <string>As the comet was about to crash on Junor, a gigantic flood of light gushed from every crystal on the surface of the planet and stopped the comet in its tracks.
+        <string>Когда комета собиралась обрушиться на Джунор, гигантский поток света хлынул из каждого кристалла на поверхности планеты и остановил комету на ее пути.
 </string>
       </value>
     </item>
@@ -55537,7 +55537,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/ac7c218b-b0cf-48bf-a128-fde1ea3a976d</string>
       </key>
       <value>
-        <string>And that's when the miracle happened.
+        <string>И тогда случилось чудо.
 </string>
       </value>
     </item>
@@ -55555,7 +55555,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/f252668f-9f20-46e0-9fba-0783cfc5fab8</string>
       </key>
       <value>
-        <string>Because it's all that they could do at the time.
+        <string>Потому что это все, что они могли сделать в то время.
 </string>
       </value>
     </item>
@@ -55564,7 +55564,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/7f672e74-afa8-42c5-bc34-c3ee837d9cae</string>
       </key>
       <value>
-        <string>&lt;i&gt;Everyone&lt;/i&gt; prayed. &lt;i&gt;Everyone and their dog.&lt;/i&gt;
+        <string>&lt;i&gt;Все&lt;/i&gt; молились. &lt;i&gt;Все и даже их животные.&lt;/i&gt;
 </string>
       </value>
     </item>
@@ -55573,7 +55573,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/37e517be-6b96-4f18-bc6a-e18620819423</string>
       </key>
       <value>
-        <string>Not only your run-of-the-mill bigot grandparents, not only the priests, not only the old wizened hermits who thought they got it all figured out.
+        <string>Не только ваши заурядные фанатичные дедушки и бабушки, не только священники, не только старые иссохшие отшельники, которые думали, что они все поняли.
 </string>
       </value>
     </item>
@@ -55582,7 +55582,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/a7716537-a74a-4519-bf57-2bceb774811e</string>
       </key>
       <value>
-        <string>Just like Raz'lan, other people began to pray.
+        <string>Как и Раз'Лан, другие люди начали молиться.
 </string>
       </value>
     </item>
@@ -55591,7 +55591,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/1ec4a119-1f89-463d-b9e4-616672d79787</string>
       </key>
       <value>
-        <string>But it's not what happened.
+        <string>Но этого не произошло.
 </string>
       </value>
     </item>
@@ -55600,7 +55600,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/c5fca0e5-126b-42b3-b4d2-adb3879aeeb5</string>
       </key>
       <value>
-        <string>At this point in history, some *despicable nihilist* would argue that, faced with their impending doom, mankind would've torn each other apart in despair. That some kind of chaos would engulf the world and end it before its time.
+        <string>На этом этапе истории некоторые "презренные нигилисты" утверждали, что, столкнувшись с надвигающейся гибелью, человечество в отчаянии разорвало бы друг друга на части. Что какой-то хаос поглотит мир и покончит с ними раньше времени.
 </string>
       </value>
     </item>
@@ -55609,7 +55609,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/45f332af-a39c-4f36-8236-fea0effc7f87</string>
       </key>
       <value>
-        <string>But whether he liked it or not, he had no solution on how to advert the cataclysm. So, he... decided to pray.
+        <string>Но нравилось ему это или нет, он не знал, как объявить о катаклизме. Итак, он... решил помолиться.
 </string>
       </value>
     </item>
@@ -55618,7 +55618,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/7a19db9a-80d8-4546-a4a6-b8fca9c93563</string>
       </key>
       <value>
-        <string>You could easily guess Raz'lan was only *mildly* happy about the fact his namesake would be the end of all life on Heryon.
+        <string>Можно было легко догадаться, что Раз'Лан был лишь слегка счастлив от того, что его тезка станет концом всей жизни в Герионе.
 </string>
       </value>
     </item>
@@ -55627,7 +55627,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/df99e11c-5b61-4498-9263-8d0e0a2ea0d6</string>
       </key>
       <value>
-        <string>So... as you said, our friend the astronomer eventually realized a comet was heading towards Heryon. And since he had the ear of some &lt;i&gt;pretty important&lt;/i&gt; people at the time, it was only a matter of time before everyone on Heryon learned that they were all doomed.
+        <string>Так... как вы сказали, наш друг астроном в конце концов понял, что комета направляется на Герион. А так как в то время он был на слуху у некоторых довольно важных людей, это был только вопрос времени, когда все здесь узнают, что они все обречены.
 </string>
       </value>
     </item>
@@ -55636,7 +55636,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/545436f1-1ac4-4838-b1fb-a5363072eded</string>
       </key>
       <value>
-        <string>Of course you don't.
+        <string>Конечно нет.
 </string>
       </value>
     </item>
@@ -55645,7 +55645,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/41cf22b5-8eaf-47c3-938f-1f140a62179f</string>
       </key>
       <value>
-        <string>No, thank you.
+        <string>Нет, спасибо.
 </string>
       </value>
     </item>
@@ -55654,7 +55654,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/45eb8f20-e597-42a9-a1ef-6c47267dd74a</string>
       </key>
       <value>
-        <string>Oh, maybe you want to tell the story instead!? Or maybe you want to explain &lt;b&gt;how&lt;/b&gt; Raz'lan managed to notice something as tiny as a comet with the &lt;i&gt;ridiculously primitive&lt;/i&gt; tools they had at the time?
+        <string>О, может быть, вы хотите рассказать эту историю вместо этого!? Или, может быть, вы хотите объяснить, как Раз'Лан сумел заметить что-то крошечное, как комета, с помощью смехотворно примитивных инструментов, которые они имели в то время?
 </string>
       </value>
     </item>
@@ -55663,7 +55663,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/a7316d85-99ea-488a-accd-6f08c3c8ae68</string>
       </key>
       <value>
-        <string>It was a giant comet heading right here, on Heryon. Everyone knows that.
+        <string>Это была гигантская комета, направлявшаяся прямо сюда, на Герион. Это все знают.
 </string>
       </value>
     </item>
@@ -55672,7 +55672,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/6ad09df9-9737-41bd-8339-6641d2c5a83b</string>
       </key>
       <value>
-        <string>Naturally, he checked the speck every night. And every night it seemed bigger.
+        <string>Естественно, он проверял пятнышко каждую ночь. И с каждой ночью оно становилось все больше.
 </string>
       </value>
     </item>
@@ -55681,7 +55681,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/6bcd2b72-a901-4ed3-ad35-16942f916498</string>
       </key>
       <value>
-        <string>Needless to say he had what you kids would proverbially call "a bad feeling about this." Specks of light don't appear in the sky just like that.
+        <string>Нет нужды говорить, что у него было то, что вы, ребята, в народе называете "плохим предчувствием". Световые пятна не появляются в небе просто так.
 </string>
       </value>
     </item>
@@ -55690,7 +55690,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/b0bb48c9-44e1-487c-b011-09ef8f6216d6</string>
       </key>
       <value>
-        <string>That's when he first saw it. A speck of light he had never seen before.
+        <string>Тогда-то он и увидел ее впервые. Пятнышко света, которого он никогда раньше не видел.
 </string>
       </value>
     </item>
@@ -55699,7 +55699,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/5a2ce442-e29c-464f-8709-26079a67519a</string>
       </key>
       <value>
-        <string>More than a millenia ago, the famed astronomer Raz'lan checked the sky to see if everything was in its right place, up above. He was an astronomer, it was his job.
+        <string>Более тысячи лет назад знаменитый астроном Раз'Лан проверил небо, чтобы убедиться, что все находится на своем месте, наверху. Он был астрономом, это была его работа.
 </string>
       </value>
     </item>
@@ -55708,7 +55708,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/066177da-9ed2-4677-89f9-15ca2a474bff</string>
       </key>
       <value>
-        <string>&lt;b&gt;The comet of Raz'lan.&lt;b&gt;
+        <string>&lt;b&gt;Комета Раз'Лана.&lt;b&gt;
 </string>
       </value>
     </item>
@@ -55717,7 +55717,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/1d4c2edb-175f-4065-b110-1e6f25147806</string>
       </key>
       <value>
-        <string>*So*!
+        <string>*Итак*!
 </string>
       </value>
     </item>
@@ -55726,7 +55726,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/f1ec4d4a-545b-4d0a-bf4b-934650dc8c82</string>
       </key>
       <value>
-        <string>*I* will pick your stories in your stead! You young'uns couldn't recognize a good tale even if it slapped you in the face!
+        <string>*Я* буду выбирать ваши истории вместо вас! Вы, молодые люди, не узнаете хорошую сказку, даже если она даст вам пощечину!
 </string>
       </value>
     </item>
@@ -55735,7 +55735,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/cc95fc59-983a-44aa-9625-3a3991a5c1df</string>
       </key>
       <value>
-        <string>Think what, that learning our *history* is some kind of entertainment!? Think you can *choose* and *cherrypick* what part of our sacred heritage you're going to carry?
+        <string>Думаете, что изучение нашей *истории* - это своего рода развлечение!? Думаете, что вы можете *взять* и *выбрать* какую часть нашего священного наследия вы собираетесь нести?
 </string>
       </value>
     </item>
@@ -55744,7 +55744,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/a5521695-ceb0-44ea-832c-a39b6d24493d</string>
       </key>
       <value>
-        <string>What? Oh, listen to that: "I want to choose muh story!" Pah! Philistine.
+        <string>Что? О, послушайте это: "я хочу выбрать Историю! Тьфу! Обыватели.
 </string>
       </value>
     </item>
@@ -55753,7 +55753,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/809fe573-302c-49c1-977a-7225a30e34a0</string>
       </key>
       <value>
-        <string>Hey, aren't we supposed to choose the story we wanna hear?
+        <string>Эй, разве мы не должны выбрать историю, которую хотим услышать?
 </string>
       </value>
     </item>
@@ -55762,7 +55762,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_01/40ce440a-137c-44ea-950c-b1a85589f444</string>
       </key>
       <value>
-        <string>So, now, the story about the comet of Raz'lan
+        <string>Итак, теперь история о комете раз' Лан.
 </string>
       </value>
     </item>
@@ -55771,7 +55771,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/4160394b-7182-4537-aeef-f3588884aacb</string>
       </key>
       <value>
-        <string>If you got the money, of course.
+        <string>Если у вас есть деньги, конечно же.
 </string>
       </value>
     </item>
@@ -55780,7 +55780,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/29cffb6e-e356-4d30-a508-ee27acac6843</string>
       </key>
       <value>
-        <string>Next time... we'll talk about Cyrus.
+        <string>В следующий раз... мы поговорим о Цирусе.
 </string>
       </value>
     </item>
@@ -55789,7 +55789,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/13286b93-f097-4619-9260-9c64d99c142f</string>
       </key>
       <value>
-        <string>*Heavy sigh*
+        <string>*Тяжелый вздох*
 </string>
       </value>
     </item>
@@ -55798,7 +55798,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/9d2d8be6-403a-470c-bf4d-70ba89f4c749</string>
       </key>
       <value>
-        <string>Next time...
+        <string>В следующий раз...
 </string>
       </value>
     </item>
@@ -55807,7 +55807,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/98257471-c70f-497f-9d8a-dbc407213957</string>
       </key>
       <value>
-        <string>So? So, that's it for today.
+        <string>И? И, на сегодня все.
 </string>
       </value>
     </item>
@@ -55816,7 +55816,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/a404063e-61bc-4c07-95b7-c519a5a6f953</string>
       </key>
       <value>
-        <string>So?
+        <string>И?
 </string>
       </value>
     </item>
@@ -55825,7 +55825,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/444f7083-0969-4bd4-a442-ed3ceefb0fc9</string>
       </key>
       <value>
-        <string>You only have to open one of their children's story books to realize it.
+        <string>Вам нужно только открыть одну из их детских книжек, чтобы понять это.
 </string>
       </value>
     </item>
@@ -55834,7 +55834,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/2e71f5ef-072c-458f-b935-a1126eced7d6</string>
       </key>
       <value>
-        <string>And even though they eventually caught up with our technology in time, they never could completely depart from that deeply ingrained sense of doom they had to live with for so long.
+        <string>И хотя они в конце концов догнали наши технологии по времени, они никогда не могли полностью отойти от того глубоко укоренившегося чувства обреченности, с которым им пришлось жить так долго.
 </string>
       </value>
     </item>
@@ -55843,7 +55843,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/22eb38a7-d16f-4c0f-8357-816b14fb87ef</string>
       </key>
       <value>
-        <string>This may be why Avaris people often sound cold-hearted to us : their ancestors had learned to survive without hope.
+        <string>Возможно, именно поэтому люди Авариса часто кажутся нам бессердечными : их предки научились выживать без надежды.
 </string>
       </value>
     </item>
@@ -55852,7 +55852,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/12fee7e9-7eba-4160-a634-ac213e65b81c</string>
       </key>
       <value>
-        <string>They lived through cruel times, for more than a millenia - while we, on Astrya - lost our time and energy over mere nothings.
+        <string>Они жили в жестокие времена, в течение многих тысячелетий, в то время как мы, в Астрэе, теряли время и энергию из - за пустяков.
 </string>
       </value>
     </item>
@@ -55861,7 +55861,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/0a95e9ff-de0c-4670-a022-f8b624f20b25</string>
       </key>
       <value>
-        <string>There are no recordings of these events, of course, but modern historians suspect that the Avaris tribes lost half of their population in the mere ten years that followed the arrival of the Raz'lan comet.
+        <string>Записей об этих событиях, конечно, нет, но современные историки подозревают, что племена Авариса потеряли половину своего населения всего за десять лет, последовавших за появлением кометы раз'Лан.
 </string>
       </value>
     </item>
@@ -55870,7 +55870,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/390f8c53-fe2e-40cd-b6d3-3897e41c5002</string>
       </key>
       <value>
-        <string>They kept their numbers small, so they could move quickly. They had learned to leave their elderly and their sick behind, in order to survive.
+        <string>Их численность была невелика, так что они могли двигаться быстро. Они научились оставлять своих стариков и больных, чтобы выжить.
 </string>
       </value>
     </item>
@@ -55879,7 +55879,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/d680d15f-3bbc-4640-9aef-2207cb0bbca0</string>
       </key>
       <value>
-        <string>In cold seasons, they stayed in the mountains, while the monsters basked in the warm sun.
+        <string>В холодное время года они оставались в горах, в то время как монстры грелись на теплом солнце.
 </string>
       </value>
     </item>
@@ -55888,7 +55888,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/e092a0b6-6042-4530-a717-89a6934efdbf</string>
       </key>
       <value>
-        <string>They had learned to adapt to the monster population. They migrated from one field to another. Covered the fields the monsters had just ravaged - eating what meager scraps of food the beasts couldn't reach.
+        <string>Они научились приспосабливаться к популяции монстров. Они мигрировали с одного поля на другое. Они покрывали поля, которые только что опустошили чудовища, поедая те скудные остатки пищи, до которых звери не могли дотянуться.
 </string>
       </value>
     </item>
@@ -55897,7 +55897,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/6a6eb158-ddd9-444f-bfdf-2ac2f1ad518f</string>
       </key>
       <value>
-        <string>...And bone spears could only carry them so far.
+        <string>...И только костяные копья могли унести их так далеко.
 </string>
       </value>
     </item>
@@ -55906,7 +55906,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/3963acaa-ec37-42c4-82e1-33ed46e487d5</string>
       </key>
       <value>
-        <string>There, there was no ironworks at the time, no taming techniques either. Though their land was bountiful, they couldn't rely on metal blades and stone walls like we did.
+        <string>Там в то время не было ни работ по железу, ни техник укрощения. Хотя их земля была богата, они не могли полагаться на металлические клинки и каменные стены, как мы.
 </string>
       </value>
     </item>
@@ -55915,7 +55915,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/a37ab5a3-3245-46d8-a1c9-312ea06373f8</string>
       </key>
       <value>
-        <string>But we're not talking about Astrya, or Junor here. We're talking about the home of the Sanctorium: Avaris.
+        <string>Но мы говорим не об Астрэе и не о Джуноре. Мы говорим о доме Санкториума - Аварисе.
 </string>
       </value>
     </item>
@@ -55924,7 +55924,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/a8136d97-ced2-44ac-93d7-83a84cf8ce09</string>
       </key>
       <value>
-        <string>Some would argue that if Junorians could've built boats sturdy enough to transport their tamed Gigantors on other continents at the time, they just might have conquered the rest of the world.
+        <string>Некоторые утверждают, что если бы Джунорианцы могли построить достаточно прочные лодки, чтобы перевозить своих прирученных гигантов на другие континенты в то время, они просто могли бы завоевать остальной мир.
 </string>
       </value>
     </item>
@@ -55933,7 +55933,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/2616ad23-2526-4104-b317-3e1b7aa6498f</string>
       </key>
       <value>
-        <string>In Junor... They did good. They managed to tame some of them. And with but a handful of tamed Gigantors, nothing could stand in their way.
+        <string>В Джуноре... Они хорошо поработали. Им удалось приручить некоторых. А с горсткой прирученных гигантов ничто не могло встать у них на пути.
 </string>
       </value>
     </item>
@@ -55942,7 +55942,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/a66070c7-6cc7-4e76-acce-ff64231c6c31</string>
       </key>
       <value>
-        <string>On top of that, compared to the rest of the world, the monsters here are just about as dangerous as stray kittens.
+        <string>Кроме того, по сравнению с остальным миром, монстры здесь так же опасны, как бездомные котята.
 </string>
       </value>
     </item>
@@ -55951,7 +55951,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/638458c1-5e14-4aa7-9d42-3a10f13b6b0d</string>
       </key>
       <value>
-        <string>Here, on Astrya, we settled for the most boring way possible, of course. We built cities, fortifications, ramparts. We already had developed ironworks to a point we could outfit our warriors with decent ways to resist any opposition.
+        <string>Здесь, в Астрэе, мы остановились на самом скучном способе, конечно. Мы строили города, укрепления, валы. Мы уже развили металлургические заводы до такой степени, что могли снабдить наших воинов достойными способами противостоять любому сопротивлению.
 </string>
       </value>
     </item>
@@ -55960,7 +55960,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/c9ca1e9d-c2e6-43f4-a2cb-53425644cfa8</string>
       </key>
       <value>
-        <string>We had to learn how to fend for ourselves, without magic.
+        <string>Мы должны были научиться постоять за себя, без магии.
 </string>
       </value>
     </item>
@@ -55969,7 +55969,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/b325f223-939e-413f-8a05-59739775b817</string>
       </key>
       <value>
-        <string>But after Raz'lan, we were alone. Completely alone.
+        <string>Но после Раз'Лана мы остались одни. Совершенно одни.
 </string>
       </value>
     </item>
@@ -55978,7 +55978,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/1afb299f-c49a-459a-8fca-a529046f2bc1</string>
       </key>
       <value>
-        <string>Up till then, us menfolks had used magic to defend ourselves. And though at the time there weren't as many practitioners as there are now, it was sufficient somehow to keep those pesky man-eaters in check.
+        <string>До сих пор мы, народ, использовали магию, чтобы защитить себя. И хотя в то время практикующих было не так много, как сейчас, этого было достаточно, чтобы держать этих надоедливых людоедов в узде.
 </string>
       </value>
     </item>
@@ -55987,7 +55987,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/ffaa6c2e-f2a2-4a81-a45a-839b5ce23d10</string>
       </key>
       <value>
-        <string>In the vacuum left by the Gods' absence, the monsters became an even bigger problem.
+        <string>В вакууме, оставленном отсутствием богов, монстры стали еще большей проблемой.
 </string>
       </value>
     </item>
@@ -55996,7 +55996,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/49aebff3-65ad-4b44-be9c-ff7581a20169</string>
       </key>
       <value>
-        <string>Then go on.
+        <string>Тогда вперед.
 </string>
       </value>
     </item>
@@ -56005,7 +56005,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/4e594678-5e53-4b58-943e-908c1264167c</string>
       </key>
       <value>
-        <string>Come what may. I don't care for some Priest's precious little feelings, Sister - I only care for truth.
+        <string>Будь что будет. Меня не волнуют драгоценные маленькие чувства какого - то священника, сестра - меня волнует только правда.
 </string>
       </value>
     </item>
@@ -56014,7 +56014,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/597d3d60-3f16-4aa3-a8b7-bee5921e471e</string>
       </key>
       <value>
-        <string>I don't personally mind, sir, but you should probably leave this part out if you tell this story to other Priests.
+        <string>Лично я не возражаю, сэр, но вам, вероятно, следует оставить эту часть, если вы будете рассказывать эту историю другим священникам.
 </string>
       </value>
     </item>
@@ -56023,7 +56023,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/58719e7d-0545-4946-9a67-0db1f77dfd11</string>
       </key>
       <value>
-        <string>As if the efforts they conducted to save the world from the Comet had exerted them to the grave.
+        <string>Как будто усилия, которые они предпринимали, чтобы спасти мир от кометы, свели их в могилу.
 </string>
       </value>
     </item>
@@ -56032,7 +56032,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/2b093592-dbd4-47de-bc68-aa0b3418734e</string>
       </key>
       <value>
-        <string>And by silent, I mean &lt;i&gt;completely&lt;/i&gt; silent. All over the world, their heralds - from the tuuandi shamans to the astryan ascetics - proclaimed that the Gods had simply vanished out of existence.
+        <string>И под молчанием я подразумеваю полное молчание. Во всем мире их глашатаи- от шаманов тууанди до астрэйских аскетов - провозглашали, что боги просто перестали существовать.
 </string>
       </value>
     </item>
@@ -56041,7 +56041,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/f40914f5-45e8-4021-8ec8-beb038f8c456</string>
       </key>
       <value>
-        <string>Once the Raz'Lan Comet crisis was resolved, the Gods became silent.
+        <string>Как только кризис кометы Раз'Лан был преодолен, Боги замолчали.
 </string>
       </value>
     </item>
@@ -56050,7 +56050,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/60a4c8cd-8a29-42d4-b155-48461c1de229</string>
       </key>
       <value>
-        <string>So, where were we? Right. The Raz'lan Comet.
+        <string>Итак, на чем мы остановились? Правильно. Комета Раз'Лан.
 </string>
       </value>
     </item>
@@ -56059,7 +56059,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/f06590d6-fa76-4a58-a26f-52efd35fd024</string>
       </key>
       <value>
-        <string>If you say so.
+        <string>Если ты так говоришь.
 </string>
       </value>
     </item>
@@ -56068,7 +56068,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/a46cab60-8e51-4627-be17-411bd520c8b0</string>
       </key>
       <value>
-        <string>There's actually four continents, but we'll get over that later. Or maybe not. You don't look like the sharpest tool in the shed, and that lesson would probably be wasted on you.
+        <string>На самом деле существует четыре континента, но мы разберемся с этим позже. А может, и нет. Вы не похожи на самый острый инструмент в сарае, и этот урок, вероятно, будет потрачен впустую на вас.
 </string>
       </value>
     </item>
@@ -56077,7 +56077,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/2452caef-3559-4226-9af1-81905e5537c5</string>
       </key>
       <value>
-        <string>Three. Astrya, Avaris and Junor.
+        <string>Три. Астрэя, Аварис и Джунор.
 </string>
       </value>
     </item>
@@ -56086,7 +56086,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/48db0582-dbe0-4e51-9f23-9a64b072e686</string>
       </key>
       <value>
-        <string>Tell me, how many continents do you think there are on Heryon?
+        <string>Скажи мне, как ты думаешь, сколько континентов в Герионе?
 </string>
       </value>
     </item>
@@ -56095,7 +56095,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/70ed3e27-322d-4052-a89e-0bd0763b9544</string>
       </key>
       <value>
-        <string>Pshah! You kids only have ears when it's about that bloody murderer.
+        <string>Пфф! У вас, детишек, уши бывают только тогда, когда речь заходит об этом чертовом убийце.
 </string>
       </value>
     </item>
@@ -56104,7 +56104,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/8df06b99-f13f-4678-a30a-7bf379182663</string>
       </key>
       <value>
-        <string>That much? Why not skip directly to the Cyrus Era?
+        <string>Так много? Почему бы не перейти непосредственно к эпохе Цируса?
 </string>
       </value>
     </item>
@@ -56113,7 +56113,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_02/3a4d22ac-e368-457c-86dc-3641a12daace</string>
       </key>
       <value>
-        <string>You can't understand the current state of the world if you don't understand what has been brewing in Avaris for the last fifteen centuries.
+        <string>Ты не сможешь понять нынешнюю ситуацию в мире, если не поймешь, что творилось в Аварисе на протяжении последних пятнадцати столетий.
 </string>
       </value>
     </item>
@@ -56122,7 +56122,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/4e4a9dde-242c-4221-bf37-6920f9012563</string>
       </key>
       <value>
-        <string>So, you're going to talk about Cyrus the First, this time?
+        <string>Так ты хочешь поговорить о Цирусе Первом в этот раз?
 </string>
       </value>
     </item>
@@ -56131,7 +56131,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/f7cbcbec-9035-4fed-a26a-d8d0ea656be8</string>
       </key>
       <value>
-        <string>The hell with Cyrus! I'd rather talk about my condition, *our* condition.
+        <string>К черту Цирус! Я бы лучше поговорила о своем положении, *нашем* положении.
 </string>
       </value>
     </item>
@@ -56140,7 +56140,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/de8f4a8b-3e93-4ed6-bae3-0fc62fcaa29a</string>
       </key>
       <value>
-        <string>No. Broader than that. Not merely us, but everyone wearing the Mark. The hunters, the storytellers, the cartographers... The Vagrants.
+        <string>Нет. Мысли шире. Не только нас, но и всех, кто носит этот знак. Охотников, рассказчиков, картографов... бродяг.
 </string>
       </value>
     </item>
@@ -56149,7 +56149,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/c9b59bb6-7610-4092-9dfc-f264766f2987</string>
       </key>
       <value>
-        <string>A first, one could think it is about how one should respect the Sanctorium and its principles... The threshold, entering a temple, bowing down in reverence or contrition : usual Sanctorium fare.
+        <string>Поначалу можно было подумать, что речь идет о том, как следует уважать Санкториум и его принципы... Порог перед входом в храм, поклон в знак почтения или раскаяния-обычная плата за прием в Санкториуме.
 </string>
       </value>
     </item>
@@ -56158,7 +56158,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/a1128cc2-9187-413d-b0fa-844d62163264</string>
       </key>
       <value>
-        <string>But in truth, this precept is nothing less than a groundwork that allowed the Sanctorium to denigrate and dehumanize a large portion of the population - those that wouldn't settle within the comfy wall of a city : Vagrants.
+        <string>Но на самом деле эта заповедь - не что иное, как фундамент, позволивший Санкториуму очернить и дегуманизировать значительную часть населения-тех, кто не захотел поселиться за удобной городской стеной: бродяг.
 </string>
       </value>
     </item>
@@ -56167,7 +56167,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/0f66449c-ef18-43aa-a2f2-3dc59ee9c50c</string>
       </key>
       <value>
-        <string>Bow down as you walk the threshold, For who is without reverence&lt;endline&gt;
+        <string>Преклонитесь, переступая порог, ибо кто без почтения&lt;endline&gt;
 </string>
       </value>
     </item>
@@ -56176,7 +56176,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/3fbab8af-d98d-4377-897e-1f74aa6ff151</string>
       </key>
       <value>
-        <string>"&lt;i&gt;The Sanctorium is Home to the Gods and their Holy Spirits&lt;endline&gt;
+        <string>"&lt;i&gt;Санкториум является домом для богов и их святых духов&lt;endline&gt;
 </string>
       </value>
     </item>
@@ -56185,7 +56185,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/162e1847-f307-47f7-b668-fb903ddc1734</string>
       </key>
       <value>
-        <string>Okay, then.
+        <string>Окей, дальше.
 </string>
       </value>
     </item>
@@ -56194,7 +56194,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/6f3a9290-1d0a-427f-90b8-3d77f1acf9dd</string>
       </key>
       <value>
-        <string>No!
+        <string>Нет!
 </string>
       </value>
     </item>
@@ -56203,7 +56203,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/5f65c43e-d142-4515-ad8c-26ba2783f680</string>
       </key>
       <value>
-        <string>You mean the Weaver's Guild?
+        <string>Ты имеешь в виду Гильдию Ткачей?
 </string>
       </value>
     </item>
@@ -56212,7 +56212,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b0848d14-f886-4c15-93f9-a65bef1ee87b</string>
       </key>
       <value>
-        <string>Everyone on Heryon has heard this line at least once in their life, it is the most famous precept of the 17th Epigram.
+        <string>Каждый в Герионе слышал эту строчку хотя бы раз в жизни, это самая известная заповедь 17-й эпиграммы.
 </string>
       </value>
     </item>
@@ -56221,7 +56221,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/435cd17e-b222-460d-b4f0-e9e6f5f56127</string>
       </key>
       <value>
-        <string>Deserves no Shelter&lt;endline&gt;&lt;/i&gt;"
+        <string>Не заслуживают никакого пристанища&lt;endline&gt;&lt;/i&gt;"
 </string>
       </value>
     </item>
@@ -56230,7 +56230,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/a5d644a4-d6a5-4870-ab82-b216725e7167</string>
       </key>
       <value>
-        <string>Sounds quite far-fetched to me.
+        <string>Звучит довольно надуманно для меня.
 </string>
       </value>
     </item>
@@ -56239,7 +56239,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/061b731e-ba26-448c-8c79-220fb6660f67</string>
       </key>
       <value>
-        <string>Oh, does it? Pray tell kind sir, how do you interpret : "Who is without reverence deserves no shelter."
+        <string>О, неужели? Скажите, пожалуйста, добрый господин, как вы истолкуете: "кто без почтения, тот не заслуживает приюта."
 </string>
       </value>
     </item>
@@ -56248,7 +56248,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/39ff4f8f-1dd8-4398-8690-09440ad5536c</string>
       </key>
       <value>
-        <string>Let's begin with something familiar...
+        <string>Давай начнем с чего-нибудь известного...
 </string>
       </value>
     </item>
@@ -56257,7 +56257,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/07748441-b5ef-4681-aaff-429a793c4af4</string>
       </key>
       <value>
-        <string>Sounds like the usual "pray, be a good person, found a family."
+        <string>Звучит как обычное "молись, будь хорошим человеком, найди семью."
 </string>
       </value>
     </item>
@@ -56266,7 +56266,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/620ed4ec-ae6d-449b-b38f-18a5cbd9634c</string>
       </key>
       <value>
-        <string>*Not* everyone.
+        <string>*Не* все.
 </string>
       </value>
     </item>
@@ -56275,7 +56275,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/99f6ecf3-7d02-4565-a0d4-682145a1d838</string>
       </key>
       <value>
-        <string>... They are unworthy.
+        <string>... Они недостойны этого.
 </string>
       </value>
     </item>
@@ -56284,7 +56284,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/f375b809-80cb-4e59-a877-aa0561bc00e8</string>
       </key>
       <value>
-        <string>Come on. Say it, Priestess.
+        <string>Давай. Скажи это, Жрица.
 </string>
       </value>
     </item>
@@ -56293,7 +56293,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/8ef28d45-d18f-43d3-99f3-00d8bcb4901c</string>
       </key>
       <value>
-        <string>It tells us that people who have relinquished, or lost their homes for any reason - even misfortune - are &lt;i&gt;without reverence.&lt;/i&gt;
+        <string>Она говорит нам, что люди, покинувшие свои дома или потерявшие их по какой-либо причине - даже из-за несчастья - &lt;i&gt;лишены почтения.&lt;/i&gt;
 </string>
       </value>
     </item>
@@ -56302,7 +56302,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/57480c8a-e70f-4a7d-b11b-f4085a2685a5</string>
       </key>
       <value>
-        <string>... It's... huh.
+        <string>... Она... хах.
 </string>
       </value>
     </item>
@@ -56311,7 +56311,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/1a976cdf-ddc5-4fcb-81c8-034f96da77e3</string>
       </key>
       <value>
-        <string>Fair enough. But what does this precept tells us about people who spends most of their days on the road, or in the wilderness? People without a home?
+        <string>Справедливо. Но что эта заповедь говорит нам о людях, которые проводят большую часть своих дней на дороге или вне социума? Люди без дома?
 </string>
       </value>
     </item>
@@ -56320,7 +56320,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/3ea12e20-14d2-4109-afcb-03d38b09e214</string>
       </key>
       <value>
-        <string>Most people, then.
+        <string>Большинство.
 </string>
       </value>
     </item>
@@ -56329,7 +56329,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b18ba68b-f611-4024-a22e-408793763570</string>
       </key>
       <value>
-        <string>I mean, a household, a family it's the kind of thing everyone wants, right?
+        <string>Я имею в виду, дом, семья - это то, чего все хотят, верно?
 </string>
       </value>
     </item>
@@ -56338,7 +56338,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/02807d5c-cb98-4967-9e2e-f40986a2149f</string>
       </key>
       <value>
-        <string>Know that I don't agree with this interpretation, though.
+        <string>Однако знай, что я не согласен с такой интерпретацией.
 </string>
       </value>
     </item>
@@ -56347,7 +56347,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/75756da8-6ac0-472a-b20e-955ecc23081d</string>
       </key>
       <value>
-        <string>Spare it.
+        <string>Пощади его.
 </string>
       </value>
     </item>
@@ -56356,7 +56356,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/4eecda3d-5d94-4798-b106-9eae83fadd81</string>
       </key>
       <value>
-        <string>So you're saying that because of this precept, you're being persecuted by the Sanctorium. But there I thought you were content with the life of a wanderer...
+        <string>Итак, ты говоришь, что из-за этой заповеди тебя преследует Санкториум. Но я-то думал, что ты довольна жизнью скитальца...
 </string>
       </value>
     </item>
@@ -56365,7 +56365,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/3deff639-74e8-439d-a61a-d8986927758d</string>
       </key>
       <value>
-        <string>What do you think, clever boy? That I was reeling in ecstasy the day they dragged me to the brazier and branded me this mark on the forehead!?
+        <string>Как ты думаешь, умник? Я была в экстазе в тот день, когда меня притащили к жаровне и заклеймили этой меткой на лбу!?
 </string>
       </value>
     </item>
@@ -56374,7 +56374,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/028444f7-9159-4604-b1b6-a2bfcd766174</string>
       </key>
       <value>
-        <string>I believed this mark came with the job, because you were a member of the Weaver's Guild.
+        <string>Я верил, что этот знак появился вместе с службой, потому что ты была членом Гильдии Ткачей.
 </string>
       </value>
     </item>
@@ -56383,7 +56383,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/f72b09b0-02e9-41fd-b3b5-d8b42fe6b0c6</string>
       </key>
       <value>
-        <string>Pfah! Where the hell were you, three years ago?
+        <string>ПФ! Где, черт возьми, ты был три года назад?
 </string>
       </value>
     </item>
@@ -56392,7 +56392,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/594d8631-665b-4a16-bb5f-c072a0a853e5</string>
       </key>
       <value>
-        <string>Busy with stuff.
+        <string>Был занят всякой ерундой.
 </string>
       </value>
     </item>
@@ -56401,7 +56401,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/30100b87-a477-4748-964a-089c2a2dcfa5</string>
       </key>
       <value>
-        <string>It turned out wrong, of course... But that theory was so consistent, made so much *sense* at the time that the Consort didn't think twice about it.
+        <string>Конечно, все вышло не так... Но эта теория была так последовательна, имела столько "смысла" в то время, что Консорт не задумывался дважды об этом.
 </string>
       </value>
     </item>
@@ -56410,7 +56410,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/54b6c900-4f72-4900-b7e1-1e776f031c75</string>
       </key>
       <value>
-        <string>At first, they suspected the Hunters. They thought they had eaten and brought the bodies of Corroded monsters into the cities. Peddled them along with the rest of their trophies.
+        <string>Сначала они заподозрили охотников. Они думали, что охотники ели и приносили в города тела разъеденных коррозией чудовищ. Продавали их вместе с остальными трофеями.
 </string>
       </value>
     </item>
@@ -56419,7 +56419,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/474121c4-269e-43da-8992-d00c3f7647a5</string>
       </key>
       <value>
-        <string>No, suspicion over Archelite tech came shortly afterwards.
+        <string>Нет, подозрения в отношении технологий Арчелайтов появились вскоре после этого.
 </string>
       </value>
     </item>
@@ -56428,7 +56428,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/4646392e-1b7e-4693-925b-c1b5c0e6dc88</string>
       </key>
       <value>
-        <string>Archelite technology?
+        <string>Технологии Арчелайтов?
 </string>
       </value>
     </item>
@@ -56437,7 +56437,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/ed0baa6e-311a-49bb-bc56-01716285aeff</string>
       </key>
       <value>
-        <string>When the first Corrosion outbreak happened, guess who the Sanctorium suspected first?
+        <string>Когда произошла первая вспышка Коррозии, угадай, кого Санкториум заподозрил первым?
 </string>
       </value>
     </item>
@@ -56446,7 +56446,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/1077507a-84ef-490b-948b-cbebf2245c50</string>
       </key>
       <value>
-        <string>Let me ask you this:
+        <string>Позволь мне спросить:
 </string>
       </value>
     </item>
@@ -56455,7 +56455,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/18890a77-bce3-4457-85ce-955fcfb897b1</string>
       </key>
       <value>
-        <string>Huh-huh.
+        <string>Хах-хах.
 </string>
       </value>
     </item>
@@ -56464,7 +56464,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/177cf6e8-4035-4cd4-b9b6-3f752cd3bdf9</string>
       </key>
       <value>
-        <string>They rounded up the Hunters, then all the other Vagrants. The storytellers, a handful of prospectors - even some merchants...
+        <string>Они схватили охотников, потом всех остальных бродяг. Повествователей, горстку разведчиков и даже несколько торговцев...
 </string>
       </value>
     </item>
@@ -56473,7 +56473,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/adc95066-af23-467a-8c56-2c6a853f63e4</string>
       </key>
       <value>
-        <string>And they marked us all, quick and dirty.
+        <string>И они пометили нас всех, быстро и грязно.
 </string>
       </value>
     </item>
@@ -56482,7 +56482,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/376cf501-ce26-4c37-8b73-970bebd87f1e</string>
       </key>
       <value>
-        <string>They did so, so that everyone would know "which kind of people we were". People suspected of carrying the corrosion. Pestiferous nobodies, dead men walking.
+        <string>Они сделали это, чтобы все знали, "что мы за люди". Людей подозреваемых в том, что они несут Коррозию. Отвратительных ничтожеств, Ходячих мертвецов.
 </string>
       </value>
     </item>
@@ -56491,7 +56491,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/66b647f2-f705-474e-9138-9132ba866c28</string>
       </key>
       <value>
-        <string>I didn't know.
+        <string>Я не знал.
 </string>
       </value>
     </item>
@@ -56500,7 +56500,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/6bcc7c01-9e86-4ba7-bdf7-5b5b254a0a14</string>
       </key>
       <value>
-        <string>In the end, everyone eventually realized that the Vagrants weren't the ones propagating the Corrosion. Archelite technology became the next suspect... But prejudices born out of sudden paranoÃ¯a die hard.
+        <string>В конце концов все поняли, что не бродяги распространяют Коррозию. Технологии Арчелайтов стали следующим подозреваемым.... Но предрассудки, рожденные внезапной паранойей, умирают долго.
 </string>
       </value>
     </item>
@@ -56509,7 +56509,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/677bc751-257b-4689-bc92-50d37d2d926a</string>
       </key>
       <value>
-        <string>To this day, everyone still sees us as a potential danger. And we are strongly encouraged to keep our stay inside every cities to a minimum... *If* we are allowed entry at *all.*
+        <string>И по сей день все видят в нас потенциальную опасность. И нам настоятельно рекомендуется свести наше пребывание в каждом городе к минимуму... *Если* нам разрешат войти вовсе.
 </string>
       </value>
     </item>
@@ -56518,7 +56518,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b89ffab2-d16d-4f88-bedc-5f58f7fbe2f9</string>
       </key>
       <value>
-        <string>A "Precaution."
+        <string>Для "Предостережения."
 </string>
       </value>
     </item>
@@ -56527,7 +56527,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/3c2672dc-a43f-479f-b065-a5eeeb3b69ed</string>
       </key>
       <value>
-        <string>And do you know what he used it for at the time?
+        <string>Знаешь, для чего он тогда его использовал?
 </string>
       </value>
     </item>
@@ -56536,7 +56536,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b9fa8f6e-ef29-427e-a553-08c39b73866a</string>
       </key>
       <value>
-        <string>He is the one who wrote the 17th Epigram.
+        <string>Это он написал 17-ю эпиграмму.
 </string>
       </value>
     </item>
@@ -56545,7 +56545,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/f9e5cf1d-a023-4e41-8d11-737af1f3c38b</string>
       </key>
       <value>
-        <string>Believe it or not, I've been doing nothing *but* talking about Cyrus up 'till now.
+        <string>Веришь или нет, но до сих пор я только и делала, что говорила о Цирусе.
 </string>
       </value>
     </item>
@@ -56554,7 +56554,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/63963c1e-8ba4-427b-a92b-0ff03e48a72a</string>
       </key>
       <value>
-        <string>So... huh... will you talk about Cyrus, next time?
+        <string>Так... хах... ты расскажешь о Цирусе в следующий раз?
 </string>
       </value>
     </item>
@@ -56572,7 +56572,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/69db1307-2957-4ae8-8941-d1ff811d519e</string>
       </key>
       <value>
-        <string>I guess you are. But still, here you are, talking to a Vagrant and slapping money in his hands like it's no big deal. You're okay, I guess.
+        <string>Наверное, так оно и есть. И все же ты здесь, разговариваешь с бродягой и швыряешь ему деньги в руки, как будто это не имеет большого значения. Думаю, с тобой все в порядке.
 </string>
       </value>
     </item>
@@ -56581,7 +56581,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/36f31080-9308-4d5c-a66d-e3dfbeb51492</string>
       </key>
       <value>
-        <string>I'm sorry to hear that.
+        <string>Мне жаль слышать это.
 </string>
       </value>
     </item>
@@ -56590,7 +56590,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/5862cb55-d13d-46c1-98be-b5ee700a288e</string>
       </key>
       <value>
-        <string>He used it as a pretext to genocide several of the nomad tribes that wouldn't acknowledge his rule.
+        <string>Он использовал это как предлог для геноцида нескольких кочевых племен, которые не признавали его правление.
 </string>
       </value>
     </item>
@@ -56608,7 +56608,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/bb750e12-68c2-445d-a339-72b4b94a39c8</string>
       </key>
       <value>
-        <string>I don't know how to answer to that.
+        <string>Я не знаю, что на это ответить.
 </string>
       </value>
     </item>
@@ -56617,7 +56617,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/a553b17d-bb3e-4112-8664-465d2a8cd90d</string>
       </key>
       <value>
-        <string>Silence is good enough.
+        <string>Молчания достаточно.
 </string>
       </value>
     </item>
@@ -56626,7 +56626,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/f4515b54-9991-4018-b991-e9c6ac5c5757</string>
       </key>
       <value>
-        <string>Storyteller. The 17th Epigram existed before Cyrus the First.
+        <string>Рассказчик. 17-я эпиграмма существовала еще до Киры Первого.
 </string>
       </value>
     </item>
@@ -56635,7 +56635,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/bdb308e3-95a5-4138-a477-051daa9be88c</string>
       </key>
       <value>
-        <string>That would be the first time I'd hear of it.
+        <string>Впервые об этом слышу.
 </string>
       </value>
     </item>
@@ -56644,7 +56644,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/521155c2-104f-4bb0-85a7-1c8c840b05c9</string>
       </key>
       <value>
-        <string>"&lt;i&gt;The Crystals are Home to the Gods, The Sanctorium is Home to the Crystals&lt;endline&gt; Bow down as you walk the threshold, for who is without reverence for their inner self&lt;endline&gt; Deserves no Love.&lt;/i&gt;"
+        <string>"&lt;i&gt;Кристаллы являются домом для богов, Санкториум является домом для кристаллов&lt;endline&gt; Bow down as you walk the threshold, for who is without reverence for their inner self&lt;endline&gt; Deserves no Love.&lt;/i&gt;"
 </string>
       </value>
     </item>
@@ -56653,7 +56653,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/ba3dc5eb-5845-410e-aba8-7224beea24a4</string>
       </key>
       <value>
-        <string>It is as you said last time, Ormund. "I only care for Truth."
+        <string>Все так, как ты сказал в прошлый раз. - Меня интересует только правда."
 </string>
       </value>
     </item>
@@ -56662,7 +56662,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b56883e8-ed2a-4354-8f42-1744417c14dc</string>
       </key>
       <value>
-        <string>Ormund.
+        <string>Ормунд.
 </string>
       </value>
     </item>
@@ -56671,7 +56671,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/3d369db6-7fdb-4de8-a731-084ea65db14f</string>
       </key>
       <value>
-        <string>It's as you said, sir.
+        <string>Как скажете, сэр.
 </string>
       </value>
     </item>
@@ -56680,7 +56680,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/0528b3ad-110d-42ea-8c96-a60d90cdadd4</string>
       </key>
       <value>
-        <string>Careful, missy. Some of your fellow Priests might take umbrage from your little "reinterpretation."
+        <string>Осторожно, барышня. Некоторые из твоих собратьев-священников могут обидеться на твое маленькое "переосмысление."
 </string>
       </value>
     </item>
@@ -56689,7 +56689,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/e6a8675a-1967-441d-b813-5800f66ec4b9</string>
       </key>
       <value>
-        <string>I am... I was an Archivist at the Sanctorium.
+        <string>Я... Я была архивариусом в Санкториуме.
 </string>
       </value>
     </item>
@@ -56698,7 +56698,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/c2d4e5fc-e0dc-4b76-95fc-40e88257d313</string>
       </key>
       <value>
-        <string>And how would you know that?
+        <string>И откуда ты это знаешь?
 </string>
       </value>
     </item>
@@ -56707,7 +56707,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/e467a3bd-90fe-41e6-8778-f30e3ce2a2e9</string>
       </key>
       <value>
-        <string>It was the final verse of the "Scansion", a lyrical poem written four centuries before Cyrus. There is no allusion to people who wouldn't deserve any shelter.
+        <string>Это был последний стих "Вознесения", лирического стихотворения, написанного за четыре столетия до Киры. Нет никаких намеков на людей, которые не заслуживают никакого убежища.
 </string>
       </value>
     </item>
@@ -56716,7 +56716,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/d5cbf650-e147-4485-8be5-75887eb85f21</string>
       </key>
       <value>
-        <string>...Ha!
+        <string>...Ха!
 </string>
       </value>
     </item>
@@ -56725,7 +56725,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/ce45af06-eef2-48c5-9fbe-b108a8ba0b70</string>
       </key>
       <value>
-        <string>Well look at you, you may just have made my day, Priestess.
+        <string>Ну, посмотри на себя, ты, возможно, только что сделала мой день, Жрица.
 </string>
       </value>
     </item>
@@ -57761,7 +57761,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/70e4891b-c42c-4db2-b36b-b6fee0aeec23</string>
       </key>
       <value>
-        <string>Многое теряешь, кузен.</string>
+        <string>Многое теряешь, братан.</string>
       </value>
     </item>
     <item>
@@ -57786,7 +57786,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/ef8e6dd4-5523-4a61-9d88-5bb76f5757fb/choice2</string>
       </key>
       <value>
-        <string>Не в этот раз, &lt;i&gt;кузен&lt;/i&gt;.</string>
+        <string>Не в этот раз, &lt;i&gt;братан&lt;/i&gt;.</string>
       </value>
     </item>
     <item>
@@ -57889,7 +57889,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/50f224f0-3124-4dd9-9717-caa3b1134cd0</string>
       </key>
       <value>
-        <string>Продать? Нет, это было бы верхом скуки, кузен.
+        <string>Продать? Нет, это было бы верхом скуки, братан.
 </string>
       </value>
     </item>
@@ -57925,7 +57925,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/8abc7f8f-b2aa-4590-9f67-84a7f277932a</string>
       </key>
       <value>
-        <string>О, я здесь не игрок, кузен... А вот ты да.
+        <string>О, я здесь не игрок, братан... А вот ты да.
 </string>
       </value>
     </item>
@@ -57961,7 +57961,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/0e3c53fc-6ffc-41bc-90c5-e579cf5fdf50</string>
       </key>
       <value>
-        <string>Скажи, кузен, знаешь ли ты, чем здесь лучше, чем &lt;i&gt;в стенах&lt;/i&gt; Херельсора?
+        <string>Скажи, братан, знаешь ли ты, чем здесь лучше, чем &lt;i&gt;в стенах&lt;/i&gt; Херельсора?
 </string>
       </value>
     </item>
@@ -57970,7 +57970,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/a4188a3c-5a19-4444-b168-686449f4c13c</string>
       </key>
       <value>
-        <string>Удачной охоты, кузен!</string>
+        <string>Удачной охоты, братан!</string>
       </value>
     </item>
     <item>
@@ -57986,7 +57986,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChest/OffMyChest_DialogStart/d65aafbb-fc28-45b2-b0dd-376566b38590</string>
       </key>
       <value>
-        <string>Потрясающе, кузен. Я знал, что ты любитель спорта.</string>
+        <string>Потрясающе, братан. Я знал, что ты любитель спорта.</string>
       </value>
     </item>
     <item>
@@ -58054,7 +58054,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChestSimple/OffMyChestSimple_DialogStart/34b6ccbe-0b70-401b-bf7c-9be224a8f0e6</string>
       </key>
       <value>
-        <string>Эй, кузен!
+        <string>Эй, братан!
 </string>
       </value>
     </item>
@@ -58063,7 +58063,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChestSimple/OffMyChestSimple_DialogStart/394b5e39-5d43-4df3-9d0a-872abc963315</string>
       </key>
       <value>
-        <string>Удачной охоты, кузен!</string>
+        <string>Удачной охоты, братан!</string>
       </value>
     </item>
     <item>
@@ -58182,7 +58182,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChestHard/OffMyChestHard_DialogStart/7e518126-4bd0-4129-9c44-98c29a224bbf</string>
       </key>
       <value>
-        <string>Эй, кузен!
+        <string>Эй, братан!
 </string>
       </value>
     </item>
@@ -58191,7 +58191,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChestHard/OffMyChestHard_DialogStart/15c14fd7-8d8c-4d03-bf96-d79c615e036d</string>
       </key>
       <value>
-        <string>Счастливой охоты, кузен!</string>
+        <string>Счастливой охоты, братан!</string>
       </value>
     </item>
     <item>
@@ -58207,7 +58207,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChestScattered/OffMyChestScattered_DialogSart/068f06fd-86e7-4cda-89a9-5d7368d7e405</string>
       </key>
       <value>
-        <string>Счастливой охоты, кузен!</string>
+        <string>Счастливой охоты, братан!</string>
       </value>
     </item>
     <item>
@@ -58319,7 +58319,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OffMyChestScattered/OffMyChestScattered_DialogSart/b8d332ef-06b5-43a2-ac06-985a6cade3ea</string>
       </key>
       <value>
-        <string>Эй, кузен!
+        <string>Эй, братан!
 </string>
       </value>
     </item>
@@ -62880,7 +62880,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/96f1fb25-7e2b-4a40-8e3a-22f4f8aa1936</string>
       </key>
       <value>
-        <string>Веришь или нет, но до сих пор я только и делала, что говорила о Кире.
+        <string>Веришь или нет, но до сих пор я только и делала, что говорила о Цирусе.
 </string>
       </value>
     </item>
@@ -62889,7 +62889,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/4be4a216-e3b0-4e12-ac9e-98a3b28f7bf7</string>
       </key>
       <value>
-        <string>Так... хах... ты расскажешь о Кире в следующий раз?
+        <string>Так... хах... ты расскажешь о Цирусе в следующий раз?
 </string>
       </value>
     </item>
@@ -63141,7 +63141,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/2716cab2-70cb-415e-8019-9c3d681893f1</string>
       </key>
       <value>
-        <string>Daryon ... Она... хах.
+        <string>Daryon ... Это... хах.
 </string>
       </value>
     </item>
@@ -63231,7 +63231,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b0202ce9-93b2-4838-8a72-38c7bf252390</string>
       </key>
       <value>
-        <string>Все присутствующие здесь слышали эту строчку хотя бы раз в жизни, это самая известная заповедь 17-й эпиграммы.
+        <string>Все в Герионе слышали эту строчку хотя бы раз в жизни, это самая известная заповедь 17-й эпиграммы.
 </string>
       </value>
     </item>
@@ -63303,7 +63303,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/b3519c70-ec20-47f2-9161-00aef5ffade7</string>
       </key>
       <value>
-        <string>К черту Киру! Я бы лучше поговорила о своем положении, *нашем* положении.
+        <string>К черту Цирус! Я бы лучше поговорила о своем положении, *нашем* положении.
 </string>
       </value>
     </item>
@@ -63321,7 +63321,7 @@ And you will not lie.</string>
         <string>/DynamicEvents/AstryanContinent/Generic/OldStories/story_03/68b18733-4e45-432f-a4b6-3a39fc1acf92</string>
       </key>
       <value>
-        <string>Darion Так ты хочешь поговорить о Кире Первом в этот раз?
+        <string>Darion Так ты хочешь поговорить о Цирусе Первом в этот раз?
 </string>
       </value>
     </item>
