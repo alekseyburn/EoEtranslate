@@ -546,30 +546,30 @@
         <string>Вернуться в Главное Меню?</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>sound</string>
+      </key>
+      <value>
+        <string>Звук</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
       <key>
-        <string>AskMainMenu</string>
+        <string>sound</string>
       </key>
       <value>
-        <dateTime>2020-08-25T18:19:11.380787+02:00</dateTime>
+        <dateTime>2020-09-01T16:13:38.8652691+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>buttonExitGame</string>
+        <string>buttonSoundAndLanguage</string>
       </key>
       <value>
-        <dateTime>2020-08-25T18:18:05.842643+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ExitConfirmation</string>
-      </key>
-      <value>
-        <dateTime>2020-08-25T18:19:26.231599+02:00</dateTime>
+        <dateTime>2020-09-01T16:13:21.2759705+02:00</dateTime>
       </value>
     </item>
   </LastModified>

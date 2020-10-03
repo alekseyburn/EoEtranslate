@@ -16970,7 +16970,7 @@
         <string>CutDlg508e9dd2-20ff-4d27-a949-546d83385a3a</string>
       </key>
       <value>
-        <string>Другогого пути нет.</string>
+        <string>Другого пути нет.</string>
       </value>
     </item>
     <item>
@@ -16978,7 +16978,7 @@
         <string>CutDlg776455ed-6813-403c-aedb-350bde2ca10a</string>
       </key>
       <value>
-        <string>Путь, которым ты должен идти, прямо здесь.</string>
+        <string>Путь, по которому ты должен идти, прямо здесь.</string>
       </value>
     </item>
     <item>
@@ -17002,7 +17002,7 @@
         <string>CutDlgce95d3e3-03d7-4bb8-b99d-02c6fdebbeca</string>
       </key>
       <value>
-        <string>Это магнитный отталкиватель. Или магнитофон, если хочешь. Пока эта маленькая штука продолжает издавать звуковые сигналы, она отталкивает частицы, несущие коррозию, в радиусе 60 футов по периметру.</string>
+        <string>Это магнитный репульсор. Или маг-реп, если хочешь. Пока эта маленькая штука продолжает издавать звуковые сигналы, она отталкивает частицы, несущие Коррозию, в радиусе 60 футов по периметру.</string>
       </value>
     </item>
     <item>
@@ -17010,7 +17010,7 @@
         <string>CutDlgc72f7f48-e7e9-449a-a9a2-e7b42209173c</string>
       </key>
       <value>
-        <string>Это означает, что вы двое будете в безопасности, пока остаетесь в моем окружении с запахом масла.</string>
+        <string>Это означает, что вы двое будете в безопасности, пока остаетесь в моем окружении, пропитанном запахом масла.</string>
       </value>
     </item>
     <item>
@@ -17026,7 +17026,7 @@
         <string>CutDlgadcb832a-ec54-4f06-95e5-a43e4f5db268</string>
       </key>
       <value>
-        <string>Так и есть. Довольно сложно сделать это.</string>
+        <string>Так и есть. Довольно сложно было сделать это.</string>
       </value>
     </item>
     <item>
@@ -17034,7 +17034,7 @@
         <string>CutDlg4356dc6e-f170-4d41-b535-8e0781f06c74</string>
       </key>
       <value>
-        <string>Я должен знать: Я сделал это.</string>
+        <string>Я могу знать: Я сделал это.</string>
       </value>
     </item>
     <item>
@@ -17082,7 +17082,7 @@
         <string>CutDlgf3b77072-de8b-4320-98f5-a299c5d3abe2</string>
       </key>
       <value>
-        <string>...и сразу после того, как ты сказал нам, что это ты его построил!?!</string>
+        <string>...и сразу после того, как ты сказал нам, что это ты его сделал!?!</string>
       </value>
     </item>
     <item>
@@ -21895,7 +21895,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg9ce65c0f-77bb-4f15-a1ac-0b15517c87f6</string>
       </key>
       <value>
-        <string>Леди и джентльмен! Вот то, что мы ищем. Ну, по крайней мере, его статуя.</string>
+        <string>Леди и джентльмен! Вот то, что мы ищем. Ну, по крайней мере, ее статуя.</string>
       </value>
     </item>
     <item>
@@ -21911,7 +21911,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg6d819956-d9b3-4c58-a954-250795aa02e5</string>
       </key>
       <value>
-        <string>Похоже, она-объект поклонения для разрушенных коррозией. Их так много, что они объединяются и сливаются, чтобы воздвигнуть эти гигантские копии в ее честь.</string>
+        <string>Похоже, она - объект поклонения для зараженных Коррозией. Их так много, что они объединяются и сливаются, чтобы воздвигнуть эти гигантские копии в ее честь.</string>
       </value>
     </item>
     <item>
@@ -21927,7 +21927,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg40cf80c1-227d-4534-ab5a-c466c4da40a7</string>
       </key>
       <value>
-        <string>Да. То, что осталось от моего жалкого существования, этим я обязан ей.</string>
+        <string>Да. То, что осталось от моего жалкого существования - этим я обязан ей.</string>
       </value>
     </item>
     <item>
@@ -21935,7 +21935,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg7ab7c33a-c1bb-4091-b8ab-99ad8ecaf80c</string>
       </key>
       <value>
-        <string>Тогда я провел самые болезненные месяцы своей жизни в поисках лекарства - но я понятия не имел, что именно я искал.</string>
+        <string>Тогда я проводил самые болезненные месяцы своей жизни в поисках лекарства - но я понятия не имел, что именно я искал.</string>
       </value>
     </item>
     <item>
@@ -21943,7 +21943,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlged4a7e60-1032-4dfc-9b40-0f03e0e2211c</string>
       </key>
       <value>
-        <string>Но эти статуи..... они были разбросаны вокруг каждого Механического поля, которое я пересекал. В то время я осознавал, что она должна быть важной персоной.</string>
+        <string>Но эти статуи..... они были разбросаны около каждого Часового Поля, которое я пересекал. В то время я осознавал, что она должна быть важной персоной.</string>
       </value>
     </item>
     <item>
@@ -21951,7 +21951,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg27054046-fb18-4417-932a-3de2a9d4e4d8</string>
       </key>
       <value>
-        <string>Поэтому я начал ее искать. Я решил, что она-ключ к разгадке. Я был прав.</string>
+        <string>Поэтому я начал ее искать. Я решил, что она - ключ к разгадке. Я был прав.</string>
       </value>
     </item>
     <item>
@@ -21967,7 +21967,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgbf431961-7ae8-49f7-a44e-261bad867ba5</string>
       </key>
       <value>
-        <string>Она применила ко мне необъяснимую форму магии. Высосала из меня всю коррозию.</string>
+        <string>Она применила ко мне необъяснимую форму магии. Высосала из меня всю Коррозию.</string>
       </value>
     </item>
     <item>
@@ -21975,7 +21975,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg7bb915ba-f24b-43e8-950e-35d0b5631600</string>
       </key>
       <value>
-        <string>Она что-то взяла у меня. Что-то такое я почувствовал.</string>
+        <string>Она что-то взяла у меня. Что-то такое, что я почувствовал.</string>
       </value>
     </item>
     <item>
@@ -21983,7 +21983,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlga58e2433-166b-46eb-9e27-7ee7159c14fa</string>
       </key>
       <value>
-        <string>хватило лишь быстрого прикосновения - нежности иглы - и бесконечные волны боли прокатились по моему телу. В мгновение ока я пережил тысячу смертей... но я был исцелен.</string>
+        <string>Хватило лишь быстрого прикосновения - нежности иглы - и бесконечные волны боли прокатились по моему телу. В мгновение ока я пережил тысячу смертей... но я был исцелен.</string>
       </value>
     </item>
     <item>
@@ -21991,7 +21991,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg643bbb80-e737-4334-8838-d3a30c536c33</string>
       </key>
       <value>
-        <string>И так же быстро, как появилась, она исчезла. Она спасла меня от коррозии, но оставила умирать там, без обеих ног.</string>
+        <string>И так же быстро, как появилась, она исчезла. Она спасла меня от Коррозии, но оставила умирать там, без обеих ног.</string>
       </value>
     </item>
     <item>
@@ -21999,7 +21999,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg8586b23e-3df7-44bf-b9d7-b444d93c8011</string>
       </key>
       <value>
-        <string>Обеих ног? Я думал твоя рука…</string>
+        <string>Обеих ног? Я думала твоя рука…</string>
       </value>
     </item>
     <item>
@@ -22031,7 +22031,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg6e1273e1-9d10-4912-99ad-733555bd5973</string>
       </key>
       <value>
-        <string>Это своеобразный опыт-чувствовать себя ненужным своему собственному телу.</string>
+        <string>Это странный опыт - чувствовать себя ненужным своему собственному телу.</string>
       </value>
     </item>
     <item>
@@ -22071,7 +22071,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlga9f1d6f0-5680-4ed6-8c80-16876e80d660</string>
       </key>
       <value>
-        <string>Во-первых, мне нужно найти камень на лбу статуи.</string>
+        <string>Во-первых, мне нужно добыть камень во лбу статуи.</string>
       </value>
     </item>
     <item>
@@ -22079,7 +22079,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg9c978861-4220-4bbd-9ced-5133eb5cd1ff</string>
       </key>
       <value>
-        <string>Почему это?</string>
+        <string>Зачем это?</string>
       </value>
     </item>
     <item>
@@ -22103,7 +22103,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg2717113e-26bd-4fe6-ad27-6628e4b69d1f</string>
       </key>
       <value>
-        <string>Продолжение: найти настоящую седовласую богиню.</string>
+        <string>Продолжение: найти настоящую Седовласую Богиню.</string>
       </value>
     </item>
     <item>
@@ -23879,7 +23879,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg582bfd1c-4ff1-4b78-bf74-7600213a6d21</string>
       </key>
       <value>
-        <string>Да, кстати, я надеюсь,что вы готовы к вторжению.</string>
+        <string>Да, кстати, я надеюсь,что вы готовы к нападению.</string>
       </value>
     </item>
     <item>
@@ -23887,7 +23887,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlga6fb7e67-6021-4723-bea0-37c60702ffc3</string>
       </key>
       <value>
-        <string>Какому вторжению!?</string>
+        <string>Какому нападению!?</string>
       </value>
     </item>
     <item>
@@ -23895,7 +23895,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg27dbabd9-1838-444f-bff1-9796c0bcd281</string>
       </key>
       <value>
-        <string>Вторжению заразившихся. Что? Неужели вы думаете, что они просто будут стоять в стороне и позволят нам испортить их статую?</string>
+        <string>Нападению заразившихся. Что? Неужели вы думаете, что они просто будут стоять в стороне и позволят нам испортить их статую?</string>
       </value>
     </item>
     <item>

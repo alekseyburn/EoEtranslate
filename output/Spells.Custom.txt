@@ -375,7 +375,7 @@
         <string>DESC_GravityPull</string>
       </key>
       <value>
-        <string>Притягивает противника ближе к вам с одной клетки.</string>
+        <string>Притягивает противника ближе к вам на один Нексус.</string>
       </value>
     </item>
     <item>
@@ -599,7 +599,7 @@
         <string>LightFromAbove</string>
       </key>
       <value>
-        <string>Свет Сверху</string>
+        <string>Свет Свыше</string>
       </value>
     </item>
     <item>
@@ -655,7 +655,7 @@
         <string>DESC_DodgingStance</string>
       </key>
       <value>
-        <string>Уклониться от всех атак и телепортироваться при атаке до следующего действия персонажа</string>
+        <string>Уклонение от всех атак и телепортация при атаке до следующего действия персонажа</string>
       </value>
     </item>
     <item>
@@ -735,7 +735,7 @@
         <string>DESC_ShadowStep</string>
       </key>
       <value>
-        <string>Прорыв сквозь врага и приземление позади. Эта атака всегда наносит удар в спину. </string>
+        <string>Прорыв сквозь врага и появление позади. Эта атака всегда наносит удар в спину.</string>
       </value>
     </item>
     <item>
