@@ -42126,7 +42126,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/f7275d13-9629-4d04-b0a7-78fef69d6634</string>
       </key>
       <value>
-        <string>Нам нужно, чтобы он помог нам справиться с некоторыми вещами здесь. С последним планом, И... Мы с Пиг здесь одни из самых старых. У нас осталось не так уж много времени.
+        <string>Нам нужно, чтобы он помог нам справиться с некоторыми вещами здесь. С последним планом, И... Мы с Пиг здесь одни из самых взрослых. У нас осталось не так уж много времени.
 </string>
       </value>
     </item>
@@ -42198,7 +42198,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/4d74c989-7c9f-4ad7-ad13-244c5bc4dd2d</string>
       </key>
       <value>
-        <string>Теперь Беар зовут Снейк!
+        <string>Теперь Беара зовут Снейк!
 </string>
       </value>
     </item>
@@ -42234,7 +42234,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/88af30ad-0442-4347-9808-2415d9c6a974</string>
       </key>
       <value>
-        <string>Нет, если бы это было так, они бы уже чувствовали себя больными
+        <string>Нет, если бы это было так, они бы уже чувствовали себя больными.
 </string>
       </value>
     </item>
@@ -42261,7 +42261,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/39b10574-095e-43ad-b2c9-9bb527544716</string>
       </key>
       <value>
-        <string>Ну, мы утащили несколько парней, прежде чем Консорт собрал всех.
+        <string>Ну, мы стащили несколько парней, прежде чем Консорт собрал всех.
 </string>
       </value>
     </item>
@@ -42288,7 +42288,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/50b60a15-0b1e-4741-ac9d-0f110e30d8f2</string>
       </key>
       <value>
-        <string>Так что да, контрабанда. Канализация обеспечивает множество путей эвакуации и укрытий для всего, что нам нужно, чтобы *ускользнуть*.
+        <string>Так что да, контрабанда. Канализация обеспечивает множество путей эвакуации и укрытий для всего, что нам нужно, чтобы *прятаться*.
 </string>
       </value>
     </item>
@@ -42342,7 +42342,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/db8d995b-096f-4f1c-9fde-1fee33d1d82d</string>
       </key>
       <value>
-        <string>До тех пор пока Консорт не поймает тех, кто достаточно стар для фронта?
+        <string>До тех пор пока Консорт не поймает тех, кто достаточно взрослый для призыва на фронт?
 </string>
       </value>
     </item>
@@ -42405,7 +42405,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene1/57d32aba-3049-4930-98b0-1dabf813461f</string>
       </key>
       <value>
-        <string>Эй, парень, Дарион! Иди сюда!
+        <string>Эй, паренёк, Дарион! Подойди сюда!
 </string>
       </value>
     </item>
@@ -42558,7 +42558,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene3/6c00783b-ab45-4eee-8edd-8edbdb52c435</string>
       </key>
       <value>
-        <string>Что это за чертовщина?? Просто активируйте это!
+        <string>Что это за название чёртово?? Просто активируйте его!
 </string>
       </value>
     </item>
@@ -42567,7 +42567,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene3/0630884c-02f5-4c85-a34f-69129f3f9374</string>
       </key>
       <value>
-        <string>Я думал, что мы пришли с грохочущим гоготом!?
+        <string>Я думал, что мы пришли с Крысиным Гаттлингом!?
 </string>
       </value>
     </item>
@@ -42702,7 +42702,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene4/626433aa-0042-4228-b741-b3349a2072c5</string>
       </key>
       <value>
-        <string>Действительно?
+        <string>Серьёзно?
 </string>
       </value>
     </item>
@@ -42711,7 +42711,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene4/2a7d542b-9c35-4c59-a6f3-fd068ca80cfb</string>
       </key>
       <value>
-        <string>Разве мы не должны обратиться к Бегемоту в этой комнате?
+        <string>Разве мы не должны обратиться к Громадине в этой комнате?
 </string>
       </value>
     </item>
@@ -42792,7 +42792,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene4/7e8ae6b6-b841-44df-a371-355296b3cad0</string>
       </key>
       <value>
-        <string>Верно... Тогда скажите ей, что она слишком осторожна. Она сказала вам, что они были сестрами? Настоящие кровные сестры и все такое.
+        <string>Верно... Тогда скажите ей, что она слишком осторожна. Она сказала вам, что они сестры? Настоящие кровные сестры и все такое.
 </string>
       </value>
     </item>
@@ -42819,7 +42819,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene4/cb5ec80c-fbcf-40b0-87bf-0b8e3d0688e3</string>
       </key>
       <value>
-        <string>Мы уже работали с Ржавыми Бегунами. Дела идут отлично.
+        <string>Мы уже работали с зараженными беглецами. Дела идут отлично.
 </string>
       </value>
     </item>
@@ -42990,7 +42990,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene5/696ca163-329e-4c2a-8073-ee0c79e2ced5</string>
       </key>
       <value>
-        <string>Эй, почему он не лезет не в свое дело??
+        <string>Эй, какого чёрта он лезет не в свое дело??
 </string>
       </value>
     </item>
@@ -43017,7 +43017,7 @@
         <string>/Quest/Chapter_5/secondary/OwnDevices/dialogs/OwnDevices_Scene5/1cb6d00b-6aa5-4fc4-b89e-52d7207be5c1</string>
       </key>
       <value>
-        <string>... И вот что сказал Беар.
+        <string>... Вот что сказал Беар.
 </string>
       </value>
     </item>
