@@ -40632,7 +40632,7 @@
         <string>/Quest/Chapter_5/secondary/OldMoulds/dialogs/2_Kalsa_Intro/d320cfa4-97a2-490c-a807-ca32ca49958f</string>
       </key>
       <value>
-        <string>Я знала, что не должна был брать выходной в прошлом месяце. Я никогда не сделаю этого вовремя. Никогда... Никогда, никогда, никогда!
+        <string>Я знала, что не должна была брать выходной в прошлом месяце. Я никогда не сделаю этого вовремя. Никогда... Никогда, никогда, никогда!
 </string>
       </value>
     </item>
@@ -40695,7 +40695,7 @@
         <string>/Quest/Chapter_5/secondary/OldMoulds/dialogs/3_Kalsa_Reward_1/73d8cebd-4ede-4d79-a099-7b2fca498c52</string>
       </key>
       <value>
-        <string>А теперь, смотри. Этого материала достаточно, чтобы создать то, что я делаю прямо сейчас.
+        <string>А теперь, смотри. Этого материала достаточно, чтобы создать то, чем я занята прямо сейчас.
 </string>
       </value>
     </item>
@@ -40929,7 +40929,7 @@
         <string>/Quest/Chapter_5/secondary/OldMoulds/dialogs/7_Kalsa_Reward_3/d5405a9e-a1dd-4c12-81d2-eb54f7ed4109</string>
       </key>
       <value>
-        <string>Достаньте мне материал, чтобы я могла продолжить свою работу и сделать вам награду.
+        <string>Достаньте мне материалы, чтобы я могла продолжить свою работу и сделать вам награду.
 </string>
       </value>
     </item>
@@ -41019,7 +41019,7 @@
         <string>/Quest/Chapter_5/secondary/OldMoulds/dialogs/8_Kalsa_Request_4/b7a1b2f0-4eb0-44c1-920b-eef898f00481</string>
       </key>
       <value>
-        <string>Нет! Ты мой раб!
+        <string>Нет!Это ты мой раб!
 </string>
       </value>
     </item>
@@ -41028,7 +41028,7 @@
         <string>/Quest/Chapter_5/secondary/OldMoulds/dialogs/8_Kalsa_Request_4/b2d0701b-ebd7-46e5-940d-92f5e91c7e8f</string>
       </key>
       <value>
-        <string>По сути, ты его раб.
+        <string>По сути, ты его рабыня.
 </string>
       </value>
     </item>
@@ -41046,7 +41046,7 @@
         <string>/Quest/Chapter_5/secondary/OldMoulds/dialogs/8_Kalsa_Request_4/4ef135ac-36f4-4d46-a389-3a879f5a6ad3</string>
       </key>
       <value>
-        <string>Как ученик *Я* тот, кто должен достать материалы.
+        <string>Как ученица *Я* та, кто должен достать материалы.
 </string>
       </value>
     </item>
