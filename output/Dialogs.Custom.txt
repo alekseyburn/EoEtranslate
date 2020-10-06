@@ -20680,7 +20680,7 @@
         <string>/Quest/Solna_Plain/Side_Quests/IFS_09_DaryonTalkPilitch/c737487b-cd90-4a32-bfb8-4f40fec96f5b</string>
       </key>
       <value>
-        <string>Боооок ?</string>
+        <string>Пооок ?</string>
       </value>
     </item>
     <item>
@@ -38787,7 +38787,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/398abb6f-1c2d-4022-b5f3-a29b5f7a4e72</string>
       </key>
       <value>
-        <string>Она на Аварисе, это я тебе точно могу сказать. Вообще-то, где-то рядом с Крученым Пиком.
+        <string>Она на Аварисе, это я вам точно могу сказать. Вообще-то, где-то рядом с Крученым Пиком.
 </string>
       </value>
     </item>
@@ -38805,7 +38805,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/a07a6c26-0a7f-407e-86bf-b3c5a8581d3b</string>
       </key>
       <value>
-        <string>Расскажи нам больше о той, которую ты называешь Седовласой Богиней.
+        <string>Расскажи нам побольше о той, кого ты называешь Седовласой Богиней.
 </string>
       </value>
     </item>
@@ -38850,7 +38850,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/31d5b842-7ce5-4905-ba42-dbf1bbdf0c52</string>
       </key>
       <value>
-        <string>Этот кулон здесь? Однажды я его потерял. Мои штаны, мой разум, мой обед.
+        <string>Этот кулон? Однажды я его потерял. Мои штаны, мой разум, мой обед.
 </string>
       </value>
     </item>
@@ -38904,7 +38904,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/c3d74e81-b3e6-4a8f-a51f-648b9039fc49</string>
       </key>
       <value>
-        <string>Помимо того, что я самый знающий человек в мире по коррозии, моя другая специализация-это "терять" вещи.
+        <string>Помимо того, что я самый знающий человек в мире по Коррозии, моя другая специализация-это "терять" вещи.
 </string>
       </value>
     </item>
@@ -38931,7 +38931,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/c9267e7d-74b1-47e2-8b5a-9b3f696ed1a2</string>
       </key>
       <value>
-        <string>Бродячий изгой, ученик сайфера и единственный известный выживший после коррозии.
+        <string>Бродячий изгой, ученик сайфера и единственный известный выживший после Коррозии.
 </string>
       </value>
     </item>
@@ -38958,7 +38958,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/6b9d8b1c-a37b-495f-a48a-835679549b36</string>
       </key>
       <value>
-        <string>Итак, мы здесь. Спрашивай.
+        <string>Итак, мы здесь. Спрашивайте.
 </string>
       </value>
     </item>
@@ -46539,7 +46539,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Guard_off_duty_20F/c37175e4-6ddb-4450-a3b7-7b433206fd8e</string>
       </key>
       <value>
-        <string>Я признаю, что рад, что Консорт и охотники отвечают за сельскую местность. С кораблями Арчелайтов, Коррозией и растущим числом монстров мы здесь в большой безопасности.</string>
+        <string>Я признаю, что рада, что Консорт и охотники отвечают за сельскую местность. С кораблями Арчелайтов, Коррозией и растущим числом монстров мы здесь в большой безопасности.</string>
       </value>
     </item>
     <item>
@@ -46564,7 +46564,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Reassuring_mom_40M/ea30e515-279f-4be9-9c16-ba42bde74695</string>
       </key>
       <value>
-        <string>Ничего страшного, дорогой. Это был просто старый дом, который обрушился в нескольких улицах отсюда. Что бы ты хотел на обед? </string>
+        <string>Ничего страшного, дорогая. Это был просто старый дом, который обрушился в нескольких улицах отсюда. Что бы ты хотела на обед? </string>
       </value>
     </item>
     <item>
@@ -46581,7 +46581,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Worried_Child_8F/a54fe0b4-5b45-40c4-916f-b2299b28d540</string>
       </key>
       <value>
-        <string>Что это был за громкий шум на днях, мама? Что же это было? Орел сказал мне, что это Арчелайты напали на город!</string>
+        <string>Что это был за громкий шум на днях, мама? Что же это было? Игл сказал мне, что это Арчелайты напали на город!</string>
       </value>
     </item>
     <item>
@@ -46666,7 +46666,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/YoungNoble_01_20M/03929b85-f867-4db0-b008-88fc0a3ef161</string>
       </key>
       <value>
-        <string>Я знаю, да? Все, что нам нужно сделать, это оставаться в безопасности внутри этих стен и ждать, пока ситуация улучшится.
+        <string>Я знаю, понял? Все, что нам нужно сделать, это оставаться в безопасности внутри этих стен и ждать, пока ситуация улучшится.
 Хотя мне должно быть жаль Джонаса. У него не было другого выбора, кроме как уйти.</string>
       </value>
     </item>
@@ -46675,7 +46675,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Somerichmerchantskid_20F/8ceb32de-3380-45a5-a11b-1effe6731342</string>
       </key>
       <value>
-        <string>Война скоро закончится, запомните мои слова! И когда это произойдет, консорт справится с Коррозией в мгновение ока.
+        <string>Война скоро закончится, запомните мои слова! И когда это произойдет, Консорт справится с Коррозией в мгновение ока.
 Поверьте мне, у меня есть хорошая информация на этот счет.</string>
       </value>
     </item>
@@ -46855,7 +46855,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/02a3867d-752f-45eb-9458-0aaf5124efe8</string>
       </key>
       <value>
-        <string>Хорошо, &lt;b&gt;хорошо,&lt;/b&gt; Я понял, а теперь, пожалуйста, убери его с моих глаз и иди верти языком где-нибудь в другом месте!</string>
+        <string>Хорошо, &lt;b&gt;хорошо,&lt;/b&gt; Я поняла, а теперь, пожалуйста, уберите его с моих глаз и идите вертеть языком где-нибудь в другом месте!</string>
       </value>
     </item>
     <item>
@@ -46863,7 +46863,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/c5caf849-aecc-4051-857f-bf8535d176ce</string>
       </key>
       <value>
-        <string>Это же &lt;i&gt;дань моде&lt;/i&gt;, разве ты не понимаешь? Речь идет о критике технологического &lt;i&gt;статус-кво&lt;/i&gt; контролируемого глупым правительством, которое мешает нам улучшить нашу повседневную жизнь с помощью новых технологий...</string>
+        <string>Это же &lt;i&gt;дань моде&lt;/i&gt;, разве вы не понимаете? Речь идет о критике технологического &lt;i&gt;статус-кво&lt;/i&gt; контролируемого глупым правительством, которое мешает нам улучшить нашу повседневную жизнь с помощью новых технологий...</string>
       </value>
     </item>
     <item>
@@ -46879,7 +46879,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/e521ad02-58f0-4d59-993f-292bacd573f9</string>
       </key>
       <value>
-        <string>Эти провода и трубки - последний писк моды на Аварисе, разве ты не знал? Это "подделка".</string>
+        <string>Эти провода и трубки - последний писк моды на Аварисе, разве вы не знали? Это "подделка".</string>
       </value>
     </item>
     <item>
@@ -46887,7 +46887,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/PerceptiveCityguard_20F/7412c81f-985a-4d61-bc48-08afa3583a9c</string>
       </key>
       <value>
-        <string>А, ты имеешь в виду эту "бронированную руку"?</string>
+        <string>А, вы имеете в виду эту "бронированную руку"?</string>
       </value>
     </item>
     <item>
@@ -47294,7 +47294,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Pilitch01/7fdda85b-9615-47f0-ab3f-d3fd6dbb5e69</string>
       </key>
       <value>
-        <string>Боооок? </string>
+        <string>Поооок? </string>
       </value>
     </item>
     <item>
@@ -47335,7 +47335,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/ConcernedFriend_20M/4e0631a1-fccf-4703-8ca0-e2f1dc4acb3e</string>
       </key>
       <value>
-        <string>Не преувеличивай, брат. Реально. &lt;b&gt;Реально.&lt;/b&gt;</string>
+        <string>Не преувеличивай, брат. Серьезно. &lt;b&gt;Серьезно.&lt;/b&gt;</string>
       </value>
     </item>
     <item>
@@ -47399,7 +47399,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/b0465fac-a90f-4c61-9cbd-8d6e8e783d77</string>
       </key>
       <value>
-        <string>Эй.</string>
+        <string>Привет.</string>
       </value>
     </item>
     <item>
@@ -47407,7 +47407,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Mercenary02_30M/ec3d9b0a-3326-44c6-9ffd-ec541d61177f</string>
       </key>
       <value>
-        <string>Эй.</string>
+        <string>Привет.</string>
       </value>
     </item>
     <item>

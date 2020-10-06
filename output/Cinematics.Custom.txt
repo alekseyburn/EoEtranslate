@@ -23263,7 +23263,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg64a28baf-b3b1-4a99-85f6-fd4c94553408</string>
       </key>
       <value>
-        <string>Итак, мы здесь. Спрашивай.</string>
+        <string>Итак, мы здесь. Спрашивайте.</string>
       </value>
     </item>
     <item>
@@ -23287,7 +23287,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg9120c70d-3159-4216-879c-801c07160ff8</string>
       </key>
       <value>
-        <string>Бродячий изгой, ученик сайфера и единственный известный выживший после коррозии.</string>
+        <string>Бродячий изгой, ученик сайфера и единственный известный выживший после Коррозии.</string>
       </value>
     </item>
     <item>
@@ -23295,7 +23295,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgd8bdbbe1-b49e-4d13-abea-3eddd1b80503</string>
       </key>
       <value>
-        <string>И единственный человек в Герионе, способный найти седовласую богиню.</string>
+        <string>И единственный человек в Герионе, способный найти Седовласую Богиню.</string>
       </value>
     </item>
     <item>
@@ -23311,7 +23311,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg41450bf7-3237-4c56-b316-43320f1b7c09</string>
       </key>
       <value>
-        <string>Помимо того, что я самый знающий человек в мире по коррозии, моя другая специализация-это "терять" вещи.</string>
+        <string>Помимо того, что я самый знающий человек в мире по Коррозии, моя другая специализация-это "терять" вещи.</string>
       </value>
     </item>
     <item>
@@ -23359,7 +23359,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg2246c9d3-47ba-4337-a9b4-0c56ff9165b1</string>
       </key>
       <value>
-        <string>Этот кулон здесь? Однажды я его потерял. Мои штаны, мой разум, мой обед.</string>
+        <string>Этот кулон? Однажды я его потерял. Мои штаны, мой разум, мой обед.</string>
       </value>
     </item>
     <item>
@@ -23399,7 +23399,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg6ad62169-b02e-4e36-a480-518576273ad2</string>
       </key>
       <value>
-        <string>Расскажи нам больше о той, которую ты называешь седовласой богиней.</string>
+        <string>Расскажи нам побольше о той, кого ты называешь Седовласой Богиней.</string>
       </value>
     </item>
     <item>
@@ -23415,7 +23415,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgcdb7aa92-73e8-498a-a7f6-219623db636a</string>
       </key>
       <value>
-        <string>Она на Аварисе, это я тебе точно могу сказать. Вообще-то, где-то рядом с Крученым Пиком.</string>
+        <string>Она на Аварисе, это я вам точно могу сказать. Вообще-то, где-то рядом с Крученым Пиком.</string>
       </value>
     </item>
     <item>
@@ -23479,7 +23479,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgfa042027-65d4-48cc-a77c-cc20f79dc089</string>
       </key>
       <value>
-        <string>Я даже не желал быть спасенным больше!</string>
+        <string>Я даже не желал быть спасенным тогда!</string>
       </value>
     </item>
     <item>
@@ -23559,7 +23559,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg2d97b373-0f5b-461d-b2e1-0f0ba8d716b6</string>
       </key>
       <value>
-        <string>Извините, это все, что я могу вспомнить</string>
+        <string>Простите, это все, что я могу вспомнить</string>
       </value>
     </item>
     <item>
@@ -23591,7 +23591,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg93f8005b-5e72-4faa-9e88-a40b5ff45727</string>
       </key>
       <value>
-        <string>Значит, если что-то случится с седовласой богиней, ты сможешь занять ее место?</string>
+        <string>Значит, если что-то случится с Седовласой Богиней, ты сможешь занять ее место?</string>
       </value>
     </item>
     <item>
@@ -23623,7 +23623,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg4f38c8d3-ae45-4da0-9e5e-64fe7a968961</string>
       </key>
       <value>
-        <string>Я понимаю вашу точку зрения.</string>
+        <string>Я понимаю твою точку зрения.</string>
       </value>
     </item>
     <item>
@@ -23655,7 +23655,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgbd2f491c-de34-433e-9fe7-1e057d38b649</string>
       </key>
       <value>
-        <string>Я могу дать вам магию восстановления и нарисовать карту местонахождения седовласой богини. Так что вам не придется оставлять меня здесь, если вы не хотите, чтобы я оставался здесь.</string>
+        <string>Я могу дать вам магию восстановления и нарисовать карту местонахождения Седовласой Богини. Так что вам не придется оставлять меня здесь, если вы не хотите, чтобы я оставался с вами.</string>
       </value>
     </item>
     <item>
@@ -23671,7 +23671,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgc1f06d92-567d-4289-a548-752e21ecdab0</string>
       </key>
       <value>
-        <string>Конечно, ты поедешь с нами. О чем ты говоришь?</string>
+        <string>Конечно ты пойдешь с нами. О чем ты вообще говоришь?</string>
       </value>
     </item>
     <item>
@@ -23679,7 +23679,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg706b1c71-c7e1-4fa9-a151-1476a81bf14a</string>
       </key>
       <value>
-        <string>Ты можешь постоять за себя в бою, и ты знаешь о коррозии больше, чем кто-либо другой.</string>
+        <string>Ты можешь постоять за себя в бою, и ты знаешь о Коррозии больше, чем кто-либо другой.</string>
       </value>
     </item>
     <item>
@@ -23695,7 +23695,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg9bff3513-662b-45cb-94a1-65df97efe71a</string>
       </key>
       <value>
-        <string>Согласна, ваш опыт бесценен. Мы были бы очень признательны, если бы вы были с нами.</string>
+        <string>Согласна, твой опыт бесценен. Мы были бы очень признательны, если бы ты остался с нами.</string>
       </value>
     </item>
     <item>
@@ -23719,7 +23719,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg0181d30a-d25c-4cae-a2a3-60141be0f45f</string>
       </key>
       <value>
-        <string>У меня есть последний вопрос: ты не знаешь, была ли та, которую ты называешь "седовласой богиней", разъедена коррозией, когда ты ее увидел?</string>
+        <string>У меня есть последний вопрос: ты не знаешь, была ли та, которую ты называешь "Седовласой Богиней", разъедена Коррозией, когда ты ее увидел?</string>
       </value>
     </item>
     <item>

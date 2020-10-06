@@ -1039,7 +1039,7 @@
         <string>WorriedChild</string>
       </key>
       <value>
-        <string>Обеспокоеный ребенок</string>
+        <string>Обеспокоенный ребенок</string>
       </value>
     </item>
     <item>
@@ -1055,7 +1055,7 @@
         <string>Eagle</string>
       </key>
       <value>
-        <string>Орел</string>
+        <string>Игл</string>
       </value>
     </item>
     <item>
