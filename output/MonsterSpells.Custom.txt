@@ -191,7 +191,7 @@
         <string>LoadInPoison</string>
       </key>
       <value>
-        <string>Load in Poison</string>
+        <string>Заряд Яда</string>
       </value>
     </item>
     <item>
@@ -215,7 +215,7 @@
         <string>TailSwing</string>
       </key>
       <value>
-        <string>Размах Хвостом</string>
+        <string>Замах Хвостом</string>
       </value>
     </item>
     <item>

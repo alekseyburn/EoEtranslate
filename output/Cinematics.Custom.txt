@@ -5968,7 +5968,7 @@
         <string>CutDlge51c3387-db10-4c35-8bb1-46c61a024b07</string>
       </key>
       <value>
-        <string>Включая тебя, Дерек?</string>
+        <string>Включая тебя, Дэрек?</string>
       </value>
     </item>
     <item>
@@ -6032,7 +6032,7 @@
         <string>CutDlg901a12a3-2a24-4c27-a4af-beb17d7e6abc</string>
       </key>
       <value>
-        <string>Не будь таким нервным, Дерек. Я ел: ты знаешь, я не могу сосредоточиться на двух вещах одновременно.</string>
+        <string>Не будь таким нервным, Дэрек. Я ел: ты знаешь, я не могу сосредоточиться на двух вещах одновременно.</string>
       </value>
     </item>
     <item>
@@ -6048,7 +6048,7 @@
         <string>CutDlg0f5ffe67-faf1-4f31-aa35-967976d99b7f</string>
       </key>
       <value>
-        <string>Эй, Дерек ... они сказали "Альфариус" ... не так ли…</string>
+        <string>Эй, Дэрек ... они сказали "Альфариус" ... не так ли…</string>
       </value>
     </item>
     <item>

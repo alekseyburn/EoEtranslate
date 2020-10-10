@@ -3441,7 +3441,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/6b914b03-c576-43e1-a620-47c4b54c71c7</string>
       </key>
       <value>
-        <string>Не вините себя за то, что не обнаружили нас раньше, Дерек и я очень хороши в своем деле.</string>
+        <string>Не вините себя за то, что не обнаружили нас раньше, Дэрек и я очень хороши в своем деле.</string>
       </value>
     </item>
     <item>
@@ -3537,7 +3537,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/d8a1a96a-b345-4613-8525-5bc7f6e4f41f</string>
       </key>
       <value>
-        <string>Это очень тактично с твоей стороны, Дерек.</string>
+        <string>Это очень тактично с твоей стороны, Дэрек.</string>
       </value>
     </item>
     <item>
@@ -39030,7 +39030,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0500_vignolat_syrup/cf91ce35-ca33-44ef-ae23-5aad34ab3dbf</string>
       </key>
       <value>
-        <string>Воздушный корабль, а?
+        <string>Воздушным кораблём, а?
 </string>
       </value>
     </item>
@@ -39102,7 +39102,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/e8214fa9-d26b-47a4-b11d-6517fc1fd951</string>
       </key>
       <value>
-        <string>&lt;Я должен посмеяться... или отпустить это?&gt;
+        <string>&lt;Я должна посмеяться... или опустить этот момент?&gt;
 </string>
       </value>
     </item>
@@ -39147,7 +39147,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0600_warzone_debriefing/6bec3a08-e953-49c5-8203-0b3f7ec73161</string>
       </key>
       <value>
-        <string>Когда нам, шифровальщикам, нужны редкие и только что украденные технологии Арчелайтов, она - наш первый человек, к которому мы обращаемся.
+        <string>Когда нам, сайферам, нужны редкие и только что украденные технологии Арчелайтов, она - наш первый человек, к которому мы обращаемся.
 </string>
       </value>
     </item>
@@ -43377,7 +43377,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/0ed7f202-52ea-4df6-9ade-1b928f470906</string>
       </key>
       <value>
-        <string>Да, хватит, Дерек. Им не нужно знать, что мы ищем.
+        <string>Да, хватит, Дэрек. Им не нужно знать, что мы ищем.
 </string>
       </value>
     </item>
@@ -43458,7 +43458,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/69891f6c-65c4-4493-83c1-7aa4ca64d3d3</string>
       </key>
       <value>
-        <string>Дерек. Мы профессионалы, мы не ищем ссоры, если мы не можем выставить счет кому-то за это.
+        <string>Дэрек. Мы профессионалы, мы не ищем ссоры, если мы не можем выставить счет кому-то за это.
 </string>
       </value>
     </item>
@@ -43476,7 +43476,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/72b65ad0-a912-4dee-8861-f61a19e49275</string>
       </key>
       <value>
-        <string>Вы что, ребята, пытаетесь затеять драку? Потому что если это так...
+        <string>Вы что, ребята, нарываетесь на драку? Потому что если это так...
 </string>
       </value>
     </item>
@@ -43593,7 +43593,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/306b78d3-ea95-4bea-a8ae-eaea6fed05ad</string>
       </key>
       <value>
-        <string>Думаю, теперь твоя очередь, Дерек.
+        <string>Думаю, теперь твоя очередь, Дэрек.
 </string>
       </value>
     </item>
@@ -43611,7 +43611,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/ec54d085-d4cc-4b4c-9393-891384bbf9a7</string>
       </key>
       <value>
-        <string>Хорошо, Дерек. Показывай дорогу. Снова.
+        <string>Хорошо, Дэрек. Показывай дорогу. Снова.
 </string>
       </value>
     </item>
@@ -43682,7 +43682,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/fc05e589-4045-4102-8a21-77c3eb54d565</string>
       </key>
       <value>
-        <string>(Понял, Гайвин? Вот как надо лгать дуракам. Смотрите им прямо в глаза, не вздрагивай и ...)
+        <string>(Понял, Гайвин? Вот как надо лгать дуракам. Смотри им прямо в глаза, не вздрагивай и ...)
 </string>
       </value>
     </item>
@@ -43871,7 +43871,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2.5/75e74395-bc74-4c6f-8157-8251ce869b3f</string>
       </key>
       <value>
-        <string>Ты говоришь это только потому, что Дерек назвал тебя бродягой.
+        <string>Ты говоришь это только потому, что Дэрек назвал тебя бродягой.
 </string>
       </value>
     </item>
@@ -43889,7 +43889,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2.5/430ccf07-372f-4bfb-84f4-a91531cb9c1c</string>
       </key>
       <value>
-        <string>Что ты сказал? Мы собираемся подраться, сейчас?
+        <string>Что ты сказала? Теперь мы ищем драки?
 </string>
       </value>
     </item>
@@ -44006,7 +44006,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/578f528d-79db-404b-9d74-d375c2a8a7da</string>
       </key>
       <value>
-        <string>Если честно, Дерек. Я стал охотником за головами, потому что меня тошнило от всей этой нечестности.
+        <string>Если честно, Дэрек. Я стал охотником за головами, потому что меня тошнило от всей этой нечестности.
 </string>
       </value>
     </item>
@@ -44078,7 +44078,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/389ffb99-932e-4e5c-9f5f-33d4a600f27e</string>
       </key>
       <value>
-        <string>Мы должны быть честными, Дерек. Это ты сказал, что мы можем победить их.
+        <string>Мы должны быть честными, Дэрек. Это ты сказал, что мы можем победить их.
 </string>
       </value>
     </item>
@@ -44222,7 +44222,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3.5/8269fc5b-7356-47e1-8714-65c0d3733810</string>
       </key>
       <value>
-        <string>Ты имеешь в виду Гайвина. Дерек явно переоценивает свое чувство неполноценности.
+        <string>Ты имеешь в виду Гайвина. Дэрек явно переоценивает свое чувство неполноценности.
 </string>
       </value>
     </item>
@@ -44231,7 +44231,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3.5/400ab3c8-b5e8-4941-8f75-2da24bc99988</string>
       </key>
       <value>
-        <string>Дерек, очевидно.
+        <string>Дэрек, очевидно.
 </string>
       </value>
     </item>
@@ -44357,7 +44357,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene1/e4a60dd4-2040-4e2a-9518-7a2b15afb37f</string>
       </key>
       <value>
-        <string>Это не займет много времени, чтобы начать вести себя по-другому.
+        <string>Начать вести себя по-другому не займет много времени.
 </string>
       </value>
     </item>
@@ -44375,7 +44375,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene1/5e87c6c3-6241-40ce-997c-a1f06c5f57fa</string>
       </key>
       <value>
-        <string>Эй, ну-ка! Почему бы тебе просто не заняться своими чертовыми делами?
+        <string>Эй, слышишь! Почему бы тебе просто не заняться своими чертовыми делами?
 </string>
       </value>
     </item>
@@ -44438,7 +44438,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene1/813e3c04-07e6-4be6-876e-db9073c24523</string>
       </key>
       <value>
-        <string>Твои замахи небрежны. Ты не дрался, ты &lt;i&gt;бил&lt;/i&gt; налево и направо, как человек, отгоняющий гигантского комара."
+        <string>Твои замахи небрежны. Ты не дрался, ты &lt;i&gt;махал&lt;/i&gt; налево и направо, как человек, отгоняющий гигантского комара."
 </string>
       </value>
     </item>
@@ -44447,7 +44447,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene1/6154e0c5-5f0a-4fc9-8326-c56cf19e11a1</string>
       </key>
       <value>
-        <string>Я видел, как ты дрался там, внизу.
+        <string>Я видела, как ты дрался там, внизу.
 </string>
       </value>
     </item>
@@ -46130,7 +46130,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Argentis/d4f8d3f2-47c8-4e11-941a-c0f19c460db6</string>
       </key>
       <value>
-        <string>Зачем ты нам это рассказываешь?
+        <string>Зачем вы нам это рассказываете?
 </string>
       </value>
     </item>
@@ -46157,7 +46157,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Argentis/cf57cad7-be47-4a37-8477-7dceeb733c2c</string>
       </key>
       <value>
-        <string>Однако имейте в виду, что я подал рапорт.
+        <string>Однако имейте в виду, что я подам рапорт.
 </string>
       </value>
     </item>
@@ -46166,7 +46166,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Argentis/55384f28-6783-45f1-9c7a-33c00acde2bf</string>
       </key>
       <value>
-        <string>Конечно, указ Иваны неоспорим. Вы можете идти в Элизианские поля.
+        <string>Конечно, указ Иваны неоспорим. Вы можете пройти в Элизианские поля.
 </string>
       </value>
     </item>
@@ -46175,7 +46175,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Argentis/1d871869-8a37-4bb7-9761-65d5b13ae05c</string>
       </key>
       <value>
-        <string>Наши пути разошлись. Мы можем идти?
+        <string>Наши пути разошлись. Мы можем пройти?
 </string>
       </value>
     </item>
@@ -46184,7 +46184,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Argentis/c8d51124-920d-4464-ac79-160f3fc56701</string>
       </key>
       <value>
-        <string>Жрица и ее телохранитель... а искательница душ?
+        <string>Жрица и ее телохранитель... а где искательница душ?
 </string>
       </value>
     </item>
@@ -48154,7 +48154,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene1/e5ca6d7e-2eaf-400e-bccd-7cfc039573e1</string>
       </key>
       <value>
-        <string>Сестра Джулия, я так рада тебя видеть.
+        <string>Сестра Джули, я так рада тебя видеть.
 </string>
       </value>
     </item>
@@ -48172,7 +48172,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/03412f6a-9e10-43b1-91d4-d2c0b37d08de</string>
       </key>
       <value>
-        <string>Давай вернемся и повидаемся с сестрой Джулией.
+        <string>Давай вернемся и повидаемся с сестрой Джули.
 </string>
       </value>
     </item>
@@ -48199,7 +48199,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene2/4c132096-6611-4d1d-9693-eed029343319</string>
       </key>
       <value>
-        <string>Похоже, это та самая гробница, которую искала сестра Джулия. "Самая милая из всех бабушек."
+        <string>Похоже, это та самая гробница, которую искала сестра Джули. "Самая милая из всех бабушек."
 </string>
       </value>
     </item>
@@ -48362,7 +48362,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/4cdcbf98-e0a2-440f-b49d-aa87f7567820</string>
       </key>
       <value>
-        <string>Может быть, это не пустая трата времени, сестра Джулия.
+        <string>Может быть, это не пустая трата времени, сестра Джули.
 </string>
       </value>
     </item>
@@ -48407,7 +48407,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step1/Scene3/02423351-2b79-474f-baaf-74e8108ee54c</string>
       </key>
       <value>
-        <string>Мы нашли пустую могилу, Джулия.
+        <string>Мы нашли пустую могилу, Джули.
 </string>
       </value>
     </item>
@@ -48461,7 +48461,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/Quest/Chapter_5/secondary/Disembodied/Step2/Scene1/7d1137f1-54f0-4079-82f9-9c1df6ada048</string>
       </key>
       <value>
-        <string>Какое следующее имя в списке, сестра Джулия?
+        <string>Какое следующее имя в списке, сестра Джули?
 </string>
       </value>
     </item>
