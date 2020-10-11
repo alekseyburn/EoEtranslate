@@ -127,7 +127,7 @@
         <string>ClothHood</string>
       </key>
       <value>
-        <string>Капюшон из ткани</string>
+        <string>Накидка из ткани</string>
       </value>
     </item>
     <item>
@@ -135,7 +135,7 @@
         <string>ScholarHood</string>
       </key>
       <value>
-        <string>Капюшон ученика</string>
+        <string>Накидка ученика</string>
       </value>
     </item>
     <item>
@@ -151,7 +151,7 @@
         <string>ScholarArmband</string>
       </key>
       <value>
-        <string>Наручи ученика</string>
+        <string>Перчатки ученика</string>
       </value>
     </item>
     <item>
@@ -327,7 +327,7 @@
         <string>RustyRotaryDisk</string>
       </key>
       <value>
-        <string>Ржавый вращающийся диск</string>
+        <string>Ржавая вращающуяся пластина</string>
       </value>
     </item>
     <item>
@@ -375,7 +375,7 @@
         <string>PolyesterHarness</string>
       </key>
       <value>
-        <string>Полиэфирные перчатки</string>
+        <string>Полиэфирный шлем</string>
       </value>
     </item>
     <item>
@@ -423,7 +423,7 @@
         <string>RunicHeadband</string>
       </key>
       <value>
-        <string>Рунические наручи</string>
+        <string>Рунический капюшон</string>
       </value>
     </item>
     <item>
@@ -495,7 +495,7 @@
         <string>ReinforcedHarness</string>
       </key>
       <value>
-        <string>Усиленная упряжь</string>
+        <string>Усиленная обвязка</string>
       </value>
     </item>
     <item>
@@ -519,7 +519,7 @@
         <string>SteelHeels</string>
       </key>
       <value>
-        <string>Стальные каблуки</string>
+        <string>Стальные сапоги</string>
       </value>
     </item>
     <item>
@@ -583,7 +583,7 @@
         <string>Third Eye Headband</string>
       </key>
       <value>
-        <string>Повязка третьего глаза</string>
+        <string>Шляпа третьего глаза</string>
       </value>
     </item>
     <item>

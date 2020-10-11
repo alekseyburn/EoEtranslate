@@ -95,7 +95,7 @@
         <string>Grenade</string>
       </key>
       <value>
-        <string>Гранат</string>
+        <string>Граната</string>
       </value>
     </item>
     <item>
@@ -159,7 +159,7 @@
         <string>SeleneRepulsar</string>
       </key>
       <value>
-        <string>(Хэллоуин) Repulsar</string>
+        <string>(Хэллоуин) Репульсар</string>
       </value>
     </item>
     <item>
@@ -175,7 +175,7 @@
         <string>DaryonHalloween</string>
       </key>
       <value>
-        <string>(Repulsar) Жуткий Джентльмен</string>
+        <string>(Репульсар) Жуткий Джентльмен</string>
       </value>
     </item>
     <item>

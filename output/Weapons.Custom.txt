@@ -279,7 +279,7 @@
         <string>WorldspineStaff</string>
       </key>
       <value>
-        <string>Worldspine Staff</string>
+        <string>Костяной Посох Мира</string>
       </value>
     </item>
     <item>
@@ -311,7 +311,7 @@
         <string>ChorusSoulstaff</string>
       </key>
       <value>
-        <string>Chorus Soulstaff</string>
+        <string>Хоровой Посох Души</string>
       </value>
     </item>
     <item>

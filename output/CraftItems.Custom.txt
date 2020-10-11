@@ -263,7 +263,7 @@
         <string>BloodGypsum</string>
       </key>
       <value>
-        <string>Кровавый лист</string>
+        <string>Кровавый гипс</string>
       </value>
     </item>
     <item>
@@ -375,7 +375,7 @@
         <string>Homonculium</string>
       </key>
       <value>
-        <string>Гомункул</string>
+        <string>Гомункулиум</string>
       </value>
     </item>
     <item>
@@ -439,7 +439,7 @@
         <string>YellowFoam</string>
       </key>
       <value>
-        <string>Желтая пена</string>
+        <string>Желтая пеня</string>
       </value>
     </item>
     <item>
@@ -455,7 +455,7 @@
         <string>MirrorLeaf</string>
       </key>
       <value>
-        <string>Лист-Зеркало</string>
+        <string>Зеркальный Лист</string>
       </value>
     </item>
     <item>
@@ -535,7 +535,7 @@
         <string>Hilariouscariot</string>
       </key>
       <value>
-        <string>Веселящая колесница</string>
+        <string>Веселящая каретка</string>
       </value>
     </item>
     <item>
