@@ -39309,7 +39309,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1600_sentinels_death_cries/f00c1937-fc5d-47b4-b9b1-1081b25c016d</string>
       </key>
       <value>
-        <string>Подожди, не ходи туда. В этой комнате погибло по меньшей мере пятьдесят человек.
+        <string>Подождите, не ходите туда. В этой комнате погибло по меньшей мере пятьдесят человек.
 </string>
       </value>
     </item>
@@ -39345,7 +39345,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2000_gotten_quite_good/cc1146a2-ce8a-4960-af77-d4478f348108</string>
       </key>
       <value>
-        <string>Я действительно хотел бы получать удовольствие от убийства людей, потому что я стал настолько хорош в этом. Это ужасная потеря - не наслаждаться ею.
+        <string>Я действительно хотела бы получать удовольствие от убийства людей, потому что я стала настолько хорош в этом. Это ужасная потеря - не наслаждаться этим.
 </string>
       </value>
     </item>
@@ -39381,7 +39381,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2200_singled_out/2dfcc5a0-7955-4878-b5b4-bf1a0eae95d4</string>
       </key>
       <value>
-        <string>Я ждал момента, когда смогу отделить тебя от остальных. Разделяй и властвуй, в конце концов.
+        <string>Я ждала момента, когда смогу отделить тебя от остальных. Разделяй и властвуй, в конце концов.
 </string>
       </value>
     </item>
@@ -39399,7 +39399,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2300_weakest_link/b3b74397-53d5-42e0-9920-169a8e054a1f</string>
       </key>
       <value>
-        <string>Полагаю, вам следует избегать ненужных страданий и покончить с собой.
+        <string>Полагаю, тебе следует избегать ненужных страданий и покончить с собой.
 </string>
       </value>
     </item>
@@ -39408,7 +39408,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2300_weakest_link/cfc3e2f8-fd0f-467a-b594-29d6326558b6</string>
       </key>
       <value>
-        <string>Слушайте, я не хочу вас убивать. И испытания, которые вам предстоит пережить, будут слишком болезненны для вас.
+        <string>Слушай, я не хочу тебя убивать. И испытания, которые тебе предстоит пережить, будут слишком болезненны для тебя.
 </string>
       </value>
     </item>
@@ -39417,7 +39417,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2400_ok_give_up/e87dccd8-a7be-47b5-b744-0f605afd6c04</string>
       </key>
       <value>
-        <string>Все нормально. Ты никогда их больше не увидишь, и это нормально. Сдавайтесь.
+        <string>Все нормально. Ты никогда их больше не увидишь, и это нормально. Сдавайся.
 </string>
       </value>
     </item>
@@ -39435,7 +39435,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2500_pity_still_alive/380e12aa-60f2-478f-893f-412fa7b99237</string>
       </key>
       <value>
-        <string>Я пытался сказать леди, что ты от Консорта и пришел убить ее.
+        <string>Я пыталась сказать леди, что ты от Консорта и пришел убить ее.
 </string>
       </value>
     </item>
@@ -39444,7 +39444,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2500_pity_still_alive/2938fec6-233a-4ada-a502-f48008720a37</string>
       </key>
       <value>
-        <string>Ну, вы двое не убили друг друга. Очень жаль.
+        <string>Что ж, вы двое не убили друг друга. Очень жаль.
 </string>
       </value>
     </item>
@@ -39453,7 +39453,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_2600_carnage_mode/4e891244-bebc-4b73-b9f3-20424ca33de2</string>
       </key>
       <value>
-        <string>Ладно, забудь об этом. Это*будет* личным.
+        <string>Ладно, забудь об этом. Это *будет* личным.
 </string>
       </value>
     </item>
@@ -39507,7 +39507,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/646cc6f8-9bf6-4681-b4cc-805df015aaa2</string>
       </key>
       <value>
-        <string>Но ты только что сказал, что у тебя нет тела - как ты можешь быть угрозой для нас?
+        <string>Но ты только что сказала, что у тебя нет тела - как ты можешь быть угрозой для нас?
 </string>
       </value>
     </item>
@@ -39516,7 +39516,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/64ca9a65-e7de-4f38-9768-798bc5ed87ca</string>
       </key>
       <value>
-        <string>Ну, вы меня спрашиваете! Я пытаюсь объяснить, почему я вынужден убить вас!Значит, вы бездумно крушите вещи?
+        <string>Ну, вы меня спрашиваете! Я пытаюсь объяснить, почему я вынуждена убить вас!
 </string>
       </value>
     </item>
@@ -39570,7 +39570,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/be5ef2be-1b6b-4611-bf58-05d1f31c0ffb</string>
       </key>
       <value>
-        <string>Призрак? Нет, не совсем так. Меня создали те, кого вы называете Арчелайтами. Я больше похож на голема. По-моему, в здешних краях это называется автоматизацией.
+        <string>Призрак? Нет, не совсем так. Меня создали те, кого вы называете Арчелайтами. Я больше похожа на голема. По-моему, в здешних краях это называется автоматизацией.
 </string>
       </value>
     </item>
@@ -39588,7 +39588,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/d29aceb6-1fce-4113-986b-3f2a24ff209c</string>
       </key>
       <value>
-        <string>*Вздох*. Ну, я какой-то искусственный интеллект, я контролирую это место. Машины, двери, компьютеры. Всю эта хрень.
+        <string>*Вздох*. Ну, я какой-то искусственный интеллект, я контролирую это место. Машины, двери, компьютеры. Всю эту хрень.
 </string>
       </value>
     </item>
@@ -39606,7 +39606,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/c3513af9-e4ba-4281-9943-62f0d87c9eff</string>
       </key>
       <value>
-        <string>Так что давайте вести себя цивилизованно. Я дам вам шанс выбраться отсюда живым. Вы знаете, как отсюда выбраться.
+        <string>Так что давайте вести себя цивилизованно. Я дам вам шанс выбраться отсюда живыми. Вы знаете, как отсюда выбраться.
 </string>
       </value>
     </item>
@@ -39642,7 +39642,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/889c3a29-3c66-439d-8ead-9a1d0e73a4ff</string>
       </key>
       <value>
-        <string>Но я буду откровенен, вам здесь не рады.
+        <string>Но я буду откровенна, вам здесь не рады.
 </string>
       </value>
     </item>
@@ -39651,7 +39651,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0700_welcome_not_welcome/a1c8eb2f-23d0-4fc8-865d-a914f990d870</string>
       </key>
       <value>
-        <string>О, привет вам троим! Я хотел бы сказать, что рад вас видеть.
+        <string>О, привет вам троим! Я хотела бы сказать, что рада вас видеть.
 </string>
       </value>
     </item>
@@ -39723,7 +39723,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/549c6a0d-2770-4943-9956-3293c3407d7f</string>
       </key>
       <value>
-        <string>Да, признаю. Заставить яд так вкусно пахнуть-это хитро, но ты должна отдать мне должное, это тоже гениально.
+        <string>Да, признаю. Заставить яд так вкусно пахнуть - это хитро, но вы должны отдать мне должное, это тоже гениально.
 </string>
       </value>
     </item>
@@ -39768,7 +39768,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/cfd0d427-8770-4a16-af0e-7588ee399fc9</string>
       </key>
       <value>
-        <string>Твою кончину.
+        <string>Вашу кончину.
 </string>
       </value>
     </item>
@@ -39786,7 +39786,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/4eea0ce5-b655-49d4-a432-d4dbf8cb8dc0</string>
       </key>
       <value>
-        <string>Что это за запах? Ты приготовила нам ужин между двумя покушениями на убийство?
+        <string>Что это за запах? Ты приготовила нам ужин между парой покушений на убийство?
 </string>
       </value>
     </item>
@@ -39795,7 +39795,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/dce9aa33-b142-40ed-b7f1-da395cafdaa9</string>
       </key>
       <value>
-        <string>Тебе это нравится? Потребовалось много усилий, чтобы сделать этот рецепт правильно.
+        <string>Вам это нравится? Потребовалось много усилий, чтобы сделать этот рецепт правильно.
 </string>
       </value>
     </item>
@@ -39813,7 +39813,7 @@
         <string>/Quest/Chapter_5/main/autocutscenes/chp_5_autocut_0800_roasted_pilitch/b4f90455-7087-4b9b-ab2c-7b5dd6fccf10</string>
       </key>
       <value>
-        <string>Это пахнет как…
+        <string>Пахнет как…
 </string>
       </value>
     </item>
@@ -39975,7 +39975,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/34b551ad-2714-465d-bcc7-1b68ea68de1f</string>
       </key>
       <value>
-        <string>Запраграмирован? Мы не понимаем.
+        <string>Запраграмирована? Мы не понимаем.
 </string>
       </value>
     </item>
@@ -39984,7 +39984,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/7c6e4200-0d72-4831-887d-73ab8ba6c7ed</string>
       </key>
       <value>
-        <string>Потому что я так запрограммирован.
+        <string>Потому что я так запрограммирована.
 </string>
       </value>
     </item>
@@ -39993,7 +39993,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/f7a02142-030c-40e2-b3ef-48301ff612b1</string>
       </key>
       <value>
-        <string>Да, почему ты должен нас прикончить?
+        <string>Да, почему ты должна нас прикончить?
 </string>
       </value>
     </item>
@@ -40002,7 +40002,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/fc905004-1879-4b45-b742-71e0df8e4a9b</string>
       </key>
       <value>
-        <string>Что ж, плохой выбор. Теперь я обязан убить тебя. Не то чтобы мне нравилась эта мысль, заметь.
+        <string>Что ж, плохой выбор. Теперь я обязана убить вас. Не то чтобы мне нравилась эта мысль, заметьте.
 </string>
       </value>
     </item>
@@ -40011,7 +40011,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1500_overstayed_welcome/23de1ddf-0c47-4fce-a2e9-5c578bd4c5f1</string>
       </key>
       <value>
-        <string>Так ты решила остаться?
+        <string>Так вы решили остаться?
 </string>
       </value>
     </item>
@@ -40092,7 +40092,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1900_seen_fallon/0a500605-0831-4682-8f5d-6594f4c6bce0</string>
       </key>
       <value>
-        <string>Я знал, что должен был отлупить предыдущих незваных гостей для демонстрации.
+        <string>Я знала, что должна был отлупить предыдущих незваных гостей для демонстрации.
 </string>
       </value>
     </item>
@@ -40101,7 +40101,7 @@
         <string>/Quest/Chapter_5/main/freeroams/chp_5_fr_1900_seen_fallon/e3b065ef-fe99-4f8a-be8a-4ec69d054409</string>
       </key>
       <value>
-        <string>Видимо, ты не очень хорош в убийстве людей.
+        <string>Видимо, ты не очень хороша в убийстве людей.
 </string>
       </value>
     </item>
@@ -44564,7 +44564,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene2/ce1485a3-f5d2-43fd-b620-9212b46bd40f</string>
       </key>
       <value>
-        <string>Ты выглядишь голодным.
+        <string>Ты выглядишь голодной.
 </string>
       </value>
     </item>
@@ -44663,7 +44663,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene2/6755c0ee-c77b-4968-926b-1c052db2bdd4</string>
       </key>
       <value>
-        <string>Ты тоже пошел на войну.
+        <string>Ты тоже был на войне.
 </string>
       </value>
     </item>
@@ -44690,7 +44690,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene2/52351736-b518-43e3-9e3c-24225860ba5f</string>
       </key>
       <value>
-        <string>Ты уже говорил: мой меч хорош лишь настолько, сколько жизней он может защитить.
+        <string>Ты уже говорила: мой меч хорош лишь настолько, сколько жизней он может защитить.
 </string>
       </value>
     </item>
@@ -44762,7 +44762,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Scene2/46a4ac4d-6979-426f-aced-908526dc85e7</string>
       </key>
       <value>
-        <string>Твое сердце знает истину, еще неведомую твоему разуму: я достоин твоего доверия.
+        <string>Твое сердце знает истину, еще неведомую твоему разуму: я достойна твоего доверия.
 </string>
       </value>
     </item>
@@ -44960,7 +44960,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene1/d3883df4-9751-4827-8f3f-c804f86b0328</string>
       </key>
       <value>
-        <string>Но это была всего лишь подростковая фантазия, я никогда не рассматривала возможность неудачи.
+        <string>Но это была всего лишь подростковая фантазия, я никогда не рассматривал возможность неудачи.
 </string>
       </value>
     </item>
@@ -44969,7 +44969,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene1/018fcac4-155d-456f-bfcb-8e57c982bca2</string>
       </key>
       <value>
-        <string>Когда-то я мечтала стать великим воином, героем.
+        <string>Когда-то я мечтал стать великим воином, героем.
 </string>
       </value>
     </item>
@@ -45041,7 +45041,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene1/514a7ae6-9bfb-4dea-88e6-2434ed228da1</string>
       </key>
       <value>
-        <string>Проведи вечер, наблюдая, как Скиттарны сражаются друг с другом, и они станут твоими учителями. Наблюдая за их финтами, их движениями, их  &lt;i&gt;концентрацией&lt;/i&gt;, вы не можете не узнать что-то новое.
+        <string>Проведи вечер, наблюдая, как Скиттарны сражаются друг с другом, и они станут твоими учителями. Наблюдая за их финтами, их движениями, их  &lt;i&gt;концентрацией&lt;/i&gt;, ты не можешь не узнать что-то новое.
 </string>
       </value>
     </item>
@@ -45176,7 +45176,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene2/f7804534-3f94-404c-bec9-bc9cd53ededd</string>
       </key>
       <value>
-        <string>Вот почему я дезертировал.
+        <string>Вот почему я дезертировала.
 </string>
       </value>
     </item>
@@ -45185,7 +45185,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene2/882d3494-13eb-47f4-911a-a00edcf62292</string>
       </key>
       <value>
-        <string>Я не мог этого переварить. Я не мог смириться с потерей последнего, что меня волновало в этом мире.
+        <string>Я не могла этого переварить. Я не могла смириться с потерей последнего, что меня волновало в этом мире.
 </string>
       </value>
     </item>
@@ -45194,7 +45194,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene2/769e3b5d-7bfa-41c9-bebd-663f055551fc</string>
       </key>
       <value>
-        <string>Однажды я понял, что если останусь на передовой еще немного, то превращусь в бездушный станок.
+        <string>Однажды я поняла, что если останусь на передовой еще немного, то превращусь в бездушный станок.
 </string>
       </value>
     </item>
@@ -45230,7 +45230,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene2/659601a2-30e9-4019-92a2-12ce78736a58</string>
       </key>
       <value>
-        <string>Сражение  -это искусство. Столкновение двух душ.
+        <string>Сражение - это искусство. Столкновение двух душ.
 </string>
       </value>
     </item>
@@ -45293,7 +45293,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene2/d2f42534-57f7-4a3f-af4e-994fb97ff7bc</string>
       </key>
       <value>
-        <string>По нескольким причинам. Во-первых, ты особенно настойчив в том, что случилось со мной. И второе...
+        <string>По нескольким причинам. Во-первых, ты особенно настойчива в том, что случилось со мной. И второе...
 </string>
       </value>
     </item>
@@ -45311,7 +45311,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q2_Scene2/2432d502-b3f0-41a3-ba3c-f3839cd33bf5</string>
       </key>
       <value>
-        <string>Почему ты дезертировал?
+        <string>Почему ты дезертировала?
 </string>
       </value>
     </item>
@@ -45455,7 +45455,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1/22f71f47-9c2c-43dd-a825-17fb98fff64c</string>
       </key>
       <value>
-        <string>И я подумал, что ты будешь счастлив узнать: я решил вызвать тебя на дуэль.
+        <string>И я подумал, что ты будешь счастлива узнать: я решил вызвать тебя на дуэль.
 </string>
       </value>
     </item>
@@ -45626,7 +45626,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/3c6ec85c-285b-4740-aa5b-12513cc79f49</string>
       </key>
       <value>
-        <string>На этот краткий миг ты стал моим господином. И я всегда был твоим.
+        <string>На этот краткий миг ты стал моим учителем. И я все это время была твоим.
 </string>
       </value>
     </item>
@@ -45635,7 +45635,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/4731d1f7-2f55-4045-b500-562c74693165</string>
       </key>
       <value>
-        <string>Чему-то, чему я не мог научиться за годы самоотверженной практики.
+        <string>Чему-то, чему я не могла научиться за годы самоотверженной практики.
 </string>
       </value>
     </item>
@@ -45644,7 +45644,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/179ee823-01e9-4568-8f44-2135d599dd0a</string>
       </key>
       <value>
-        <string>Я кое-чему научился у тебя, Дарион.
+        <string>Я кое-чему научилась у тебя, Дарион.
 </string>
       </value>
     </item>
@@ -45671,7 +45671,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/6c831c21-a6fa-4f11-90da-2838de3d2790</string>
       </key>
       <value>
-        <string>Я принял решение.
+        <string>Я приняла решение.
 </string>
       </value>
     </item>
@@ -45698,7 +45698,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/c842e3f5-e236-4bc7-8b7d-80f9ed8f8169</string>
       </key>
       <value>
-        <string>Давненько я не получал удовольствия от драки.
+        <string>Давненько я не получала удовольствия от драки.
 </string>
       </value>
     </item>
@@ -45734,7 +45734,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/6fda432f-2aa7-4d31-953e-f7b98bf9aab8</string>
       </key>
       <value>
-        <string>Нет необходимости делать это до смерти.
+        <string>Нет необходимости сражаться до смерти.
 </string>
       </value>
     </item>
@@ -46425,7 +46425,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Elysian_NPC_Dials/Grp02_Scavenger_02_20F/c1a554d9-b7e5-4969-9ae5-4bbf4534c6f6</string>
       </key>
       <value>
-        <string>Беспокоимся ли мы о том, что получим Коррозию от ковыряния в обломках Архелита? Нет. Я имею в виду, да, конечно, но сейчас мы больше беспокоимся о том, чтобы получить зарплату и найти что-нибудь поесть, чем умереть от Коррозии через год или два.</string>
+        <string>Беспокоимся ли мы о том, что получим Коррозию от ковыряния в обломках Арчелайтов? Нет. Я имею в виду, да, конечно, но сейчас мы больше беспокоимся о том, чтобы получить зарплату и найти что-нибудь поесть, чем умереть от Коррозии через год или два.</string>
       </value>
     </item>
     <item>
@@ -49211,7 +49211,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/21522be1-df94-4cda-add0-1ae36f136242</string>
       </key>
       <value>
-        <string>У ваших типов *всегда* есть вопросы!
+        <string>У вашего вида *всегда* есть вопросы!
 </string>
       </value>
     </item>
@@ -49265,7 +49265,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_01/d226db14-8df2-4ad4-a8d4-f13731cb7a9a</string>
       </key>
       <value>
-        <string>Кроме того, я сказал, что это место для отдыха, и я сдержу свое слово. Здесь вы в безопасности... Если только вы не решите подавиться собственным языком или разбить голову о стену.
+        <string>Кроме того, я сказала, что это место для отдыха, и я сдержу свое слово. Здесь вы в безопасности... Если только вы не решите подавиться собственным языком или разбить голову о стену.
 </string>
       </value>
     </item>
@@ -49346,7 +49346,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/83425eb5-5eeb-4ebd-8391-1ac79571bc27</string>
       </key>
       <value>
-        <string>Когда я пришел в себя, то был один. Корабль был пуст. Даже ваш язык - это то, чему я научился за эти годы, шаг за шагом, собирая воедино разговоры, которые слышал на корабле и вокруг него.
+        <string>Когда я пришла в себя, то была одна. Корабль был пуст. Даже ваш язык - это то, чему я научилась за эти годы, шаг за шагом, собирая воедино разговоры, которые слышала на корабле и вокруг него.
 </string>
       </value>
     </item>
@@ -49355,7 +49355,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/3b98fe54-6b08-456f-87ef-48717c5a49ce</string>
       </key>
       <value>
-        <string>До определенного момента. Я ничего не помню из того, что было до катастрофы. Я застрял в силовом... Застрял в плохом сне на долгие годы.
+        <string>До определенного момента. Я ничего не помню из того, что было до катастрофы. Я застряла в силовом... Застряла в плохом сне на долгие годы.
 </string>
       </value>
     </item>
@@ -49400,7 +49400,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/336695ac-6d90-4488-b569-867e7c278f11</string>
       </key>
       <value>
-        <string>Сеть отключена. Я не знаю, потому ли это, что трансиверы были повреждены в аварии, или это просто ионосфера делает свое дело, но в результате я отрезан от главного компьютера.
+        <string>Сеть отключена. Я не знаю, потому ли это, что трансиверы были повреждены в аварии, или это просто ионосфера делает свое дело, но в результате я отрезана от главного компьютера.
 </string>
       </value>
     </item>
@@ -49418,7 +49418,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_02/25c45cfc-f80f-4044-8fbf-fb2df6862d62</string>
       </key>
       <value>
-        <string>Что значит не можешь? Ты только что велел нам задавать тебе вопросы!
+        <string>Что значит не можешь? Ты только что велела нам задавать тебе вопросы!
 </string>
       </value>
     </item>
@@ -49499,7 +49499,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/31ab39e8-13a3-4352-8ba9-c71b03b4f120</string>
       </key>
       <value>
-        <string>Скорее всего, вы ее найдете. И это причинит вам мучительную боль. Вероятно, вам придется пересмотреть то, что вы считали своим "максимальным порогом боли".
+        <string>Скорее всего, ты ее найдешь. И это причинит тебе мучительную боль. Вероятно, тебе придется пересмотреть то, что ты считал своим "максимальным порогом боли".
 </string>
       </value>
     </item>
@@ -49517,7 +49517,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/835b8b33-a97f-4aaf-a5b7-27d4a2a2799c</string>
       </key>
       <value>
-        <string>Ну, из того, что я собрал, я могу с уверенностью утверждать, что ваш шанс найти "настоящую любовь" составляет колоссальные 96,3 %.
+        <string>Ну, из того, что я собрала, я могу с уверенностью утверждать, что твой шанс найти "настоящую любовь" составляет колоссальные 96,3 %.
 </string>
       </value>
     </item>
@@ -49589,7 +49589,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/57e5ea10-3c7b-46ac-8e99-74ac3c3d93ce</string>
       </key>
       <value>
-        <string>Я не думал, что ты романтик.
+        <string>Я не думала, что ты романтик.
 </string>
       </value>
     </item>
@@ -49598,7 +49598,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/2da24764-eb2f-48ce-8973-4727eacb38a9</string>
       </key>
       <value>
-        <string>Ну ты же только что сказал, что ничего не знаешь? Давайте перейдем к безобидным шуткам.
+        <string>Ну ты же только что сказала, что ничего не знаешь? Давай перейдем к безобидным шуткам.
 </string>
       </value>
     </item>
@@ -49625,7 +49625,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Vanguard_NPC_Dials/IA_Dial_03/971e2a80-c265-4183-a07a-9003348847ae</string>
       </key>
       <value>
-        <string>Найду ли я это когда-нибудь?..
+        <string>Найду ли я когда-нибудь..этоо..
 </string>
       </value>
     </item>

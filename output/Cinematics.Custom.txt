@@ -21303,7 +21303,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg7e5a0be9-d3ab-4a11-befb-117bb42d5d4a</string>
       </key>
       <value>
-        <string>Хафф - Хафф - Хафф</string>
+        <string>*Тяжело дышит*</string>
       </value>
     </item>
     <item>
@@ -21463,7 +21463,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgc75586af-0daf-49b0-8bd5-0416ad45ae82</string>
       </key>
       <value>
-        <string>Ты не дал мне достаточно времени.</string>
+        <string>Ты не дала мне достаточно времени.</string>
       </value>
     </item>
     <item>
@@ -21479,7 +21479,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg413c79fc-0c03-4dc6-a947-72b91331751d</string>
       </key>
       <value>
-        <string>Я же сказал тебе, что я не из консорта. Ты меня не слушала.</string>
+        <string>Я же сказал тебе, что я не из Консорта. Ты меня не слушала.</string>
       </value>
     </item>
     <item>
@@ -21655,7 +21655,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg8d150aa6-d7b9-4300-b77b-46541b686910</string>
       </key>
       <value>
-        <string>Эй, а теперь что, ты сказал, что у тебя нет тела.</string>
+        <string>Эй, а теперь что, ты сказала, что у тебя нет тела.</string>
       </value>
     </item>
     <item>
@@ -21671,7 +21671,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg2bbf8d2d-f955-4121-b884-b12c6a90f09b</string>
       </key>
       <value>
-        <string>Тебе нужно научиться быть более последовательным, мой друг.</string>
+        <string>Тебе нужно научиться быть более последовательной, моя подруга.</string>
       </value>
     </item>
     <item>
@@ -21679,7 +21679,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgd22cf76c-b4da-4933-a5c4-80cb9f9c68a1</string>
       </key>
       <value>
-        <string>ПОСЛЕДОВАТЕЛЬНЫМ?! Я ДАМ ТЕБЕ ПОСЛЕДОВАТЕЛЬНЫМ!</string>
+        <string>ПОСЛЕДОВАТЕЛЬНОЙ?! Я ДАМ ТЕБЕ ПОСЛЕДОВАТЕЛЬНОЙ!</string>
       </value>
     </item>
     <item>
@@ -21695,7 +21695,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg06630564-045e-4e54-b846-d066791824ca</string>
       </key>
       <value>
-        <string>Ты победил. Хорошо. Видишь вон тот голубой глаз на стене? Там установлен мой центральный блок. В этом вся я.</string>
+        <string>Вы победили. Хорошо. Видите вон тот желтый глаз на стене? Там установлен мой центральный блок. В этом вся я.</string>
       </value>
     </item>
     <item>
@@ -21727,7 +21727,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg55f331ee-7210-41f3-a64b-8f67ee57ade3</string>
       </key>
       <value>
-        <string>...было ужасно. Вначале я делал это без раздумий, но постепенно начал понимать ваш язык.</string>
+        <string>...было ужасно. Вначале я делала это без раздумий, но постепенно начала понимать ваш язык.</string>
       </value>
     </item>
     <item>
@@ -21751,7 +21751,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg5ddbf48d-84d9-4b6d-9cc0-e9142b3828d1</string>
       </key>
       <value>
-        <string>Я ничего не мог с этим поделать. Убийство их было прописано в моем коде.</string>
+        <string>Я ничего не могла с этим поделать. Убийство их было прописано в моем коде.</string>
       </value>
     </item>
     <item>
@@ -21759,7 +21759,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg88677617-06f6-4332-9ce0-2f68fd2cedf5</string>
       </key>
       <value>
-        <string>Но я понял, что это значит на самом деле. Я понял, что мне это не нравится.</string>
+        <string>Но я поняла, что это значит на самом деле. Я поняла, что мне это не нравится.</string>
       </value>
     </item>
     <item>
@@ -21767,7 +21767,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg02400bcc-49d8-4e95-8c51-3cda9e8c5901</string>
       </key>
       <value>
-        <string>Поэтому вполне логично, что я умру сегодня от рук тех самых людей, которых я был запрограммирован убить.</string>
+        <string>Поэтому вполне логично, что я умру сегодня от рук тех самых людей, которых я была запрограммирован убить.</string>
       </value>
     </item>
     <item>
@@ -21775,7 +21775,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgeadc2072-1b28-4815-b546-a12b3b36c8ef</string>
       </key>
       <value>
-        <string>Это самая глупая причина для смерти, которую я когда-либо слышал.</string>
+        <string>Это самая глупая причина для смерти, которую я когда-либо слышала.</string>
       </value>
     </item>
     <item>
@@ -21799,7 +21799,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgbcd33b75-490a-4165-94a3-d1e3145bcaa4</string>
       </key>
       <value>
-        <string>О, поверь мне, Ты пожалеешь, что не умер сегодня!</string>
+        <string>О, поверь мне, Ты пожалеешь, что не умерла сегодня!</string>
       </value>
     </item>
     <item>
@@ -21831,7 +21831,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg43c3ff71-12e3-4b5f-b6ba-2dac90a2281c</string>
       </key>
       <value>
-        <string>Значит, молодец. Я получил то, за чем пришел.</string>
+        <string>Значит, молодец. Я получила то, за чем пришла.</string>
       </value>
     </item>
     <item>
@@ -22215,7 +22215,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgc4525025-4a0f-4c93-b026-ca99ba82c4e7</string>
       </key>
       <value>
-        <string>"Никаких поездок некоторое время, кекс... Я застряла в "Авангарде"."</string>
+        <string>"Никаких поездок некоторое время, кексик... Я застряла в "Авангарде"."</string>
       </value>
     </item>
     <item>
@@ -22311,7 +22311,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgaed1e62c-0174-4009-92a9-a10781a3ecc3</string>
       </key>
       <value>
-        <string>Что ж, к тому времени, как мы туда доберемся, она, скорее всего, уже все испортит. Может быть, нам стоит попытаться добраться до Авариса на лодке?</string>
+        <string>Что ж, к тому времени, как мы туда доберемся, она, скорее всего, уже умрет. Может быть, нам стоит попытаться добраться до Авариса на лодке?</string>
       </value>
     </item>
     <item>
@@ -22487,7 +22487,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg72b51215-9ce0-4d63-a8dd-241c98c4101c</string>
       </key>
       <value>
-        <string>*Проблемы с дыханием*</string>
+        <string>*Тяжело дышит*</string>
       </value>
     </item>
     <item>
@@ -22671,7 +22671,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg84d63c1f-9b0d-4e85-b908-a7ec513f71d7</string>
       </key>
       <value>
-        <string>Хафф - Хафф - Хафф</string>
+        <string>*Тяжело дышит*</string>
       </value>
     </item>
     <item>
@@ -22831,7 +22831,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgecbb1b96-6c7f-4ad8-ba88-d532edbdc5ba</string>
       </key>
       <value>
-        <string>Ты не дал мне достаточно времени.</string>
+        <string>Ты не дала мне достаточно времени.</string>
       </value>
     </item>
     <item>
@@ -22847,7 +22847,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg22d5e264-9812-4938-84e4-78288c33ddef</string>
       </key>
       <value>
-        <string>Я же сказал тебе, что я не из консорта. Ты меня не слушала.</string>
+        <string>Я же сказал тебе, что я не из Консорта. Ты меня не слушала.</string>
       </value>
     </item>
     <item>
@@ -22855,7 +22855,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlge783307e-3125-436f-951e-14637b5b6f2e</string>
       </key>
       <value>
-        <string>Да, точно, безумные глаза.</string>
+        <string>Да, точно, безумные глазки.</string>
       </value>
     </item>
     <item>
@@ -23023,7 +23023,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg3554a734-bfae-4269-b9b8-183ee5d425d4</string>
       </key>
       <value>
-        <string>Эй, а теперь что, ты сказал, что у тебя нет тела.</string>
+        <string>Эй, а теперь что, ты сказала, что у тебя нет тела.</string>
       </value>
     </item>
     <item>
@@ -23039,7 +23039,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg9ecb36c3-ca4b-41c2-8ec6-9fa34df07069</string>
       </key>
       <value>
-        <string>Тебе нужно научиться быть более последовательным, мой друг.</string>
+        <string>Тебе нужно научиться быть более последовательной, моя подруга.</string>
       </value>
     </item>
     <item>
@@ -23047,7 +23047,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg676eed55-a7e2-4da8-9922-02df27081c64</string>
       </key>
       <value>
-        <string>ПОСЛЕДОВАТЕЛЬНЫМ?! Я ДАМ ТЕБЕ ПОСЛЕДОВАТЕЛЬНЫМ!</string>
+        <string>ПОСЛЕДОВАТЕЛЬНОЙ?! Я ДАМ ТЕБЕ ПОСЛЕДОВАТЕЛЬНОЙ!</string>
       </value>
     </item>
     <item>
@@ -23063,7 +23063,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgf8d40632-0bc3-4f87-8e99-f44eb4d59c95</string>
       </key>
       <value>
-        <string>Ты победил. Хорошо. Видишь вон тот голубой глаз на стене? Там установлен мой центральный блок. В этом вся я.</string>
+        <string>Вы победили. Хорошо. Видите вон тот желтый глаз на стене? Там установлен мой центральный блок. В этом вся я.</string>
       </value>
     </item>
     <item>
@@ -23095,7 +23095,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg18fbe2ef-3e14-432e-9fa4-1db1c7dd2bb1</string>
       </key>
       <value>
-        <string>...было ужасно. Вначале я делал это без раздумий, но постепенно начал понимать ваш язык.</string>
+        <string>...было ужасно. Вначале я делала это без раздумий, но постепенно начала понимать ваш язык.</string>
       </value>
     </item>
     <item>
@@ -23119,7 +23119,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg8f2c9f3a-ccb6-4a11-8405-f35ce7a39772</string>
       </key>
       <value>
-        <string>Я ничего не мог с этим поделать. Убийство их было прописано в моем коде.</string>
+        <string>Я ничего не могла с этим поделать. Убийство их было прописано в моем коде.</string>
       </value>
     </item>
     <item>
@@ -23127,7 +23127,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg11b2cb7d-63ad-41ba-9ccf-ad55257548d2</string>
       </key>
       <value>
-        <string>Но я понял, что это значит на самом деле. Я понял, что мне это не нравится.</string>
+        <string>Но я поняла, что это значит на самом деле. Я поняла, что мне это не нравится.</string>
       </value>
     </item>
     <item>
@@ -23135,7 +23135,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg8ecbfc56-7b87-4955-9979-996a5fd976b7</string>
       </key>
       <value>
-        <string>Поэтому вполне логично, что я умру сегодня от рук тех самых людей, которых я был запрограммирован убить.</string>
+        <string>Поэтому вполне логично, что я умру сегодня от рук тех самых людей, которых я была запрограммирован убить.</string>
       </value>
     </item>
     <item>
@@ -23143,7 +23143,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgc37b009c-b181-4b28-ac05-8b08e1b55f01</string>
       </key>
       <value>
-        <string>Это самая глупая причина для смерти, которую я когда-либо слышал.</string>
+        <string>Это самая глупая причина для смерти, которую я когда-либо слышала.</string>
       </value>
     </item>
     <item>
@@ -23167,7 +23167,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg95285821-ad90-4c5a-84d5-3bb029a28a69</string>
       </key>
       <value>
-        <string>О, поверь мне, Ты пожалеешь, что не умер сегодня!</string>
+        <string>О, поверь мне, Ты пожалеешь, что не умерла сегодня!</string>
       </value>
     </item>
     <item>
@@ -23199,7 +23199,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlgd6fb09b2-6e18-48f5-8490-86cdf92f046f</string>
       </key>
       <value>
-        <string>Значит, молодец. Я получил то, за чем пришел.</string>
+        <string>Значит, молодец. Я получила то, за чем пришла.</string>
       </value>
     </item>
     <item>

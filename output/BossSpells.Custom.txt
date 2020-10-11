@@ -263,7 +263,7 @@
         <string>Stability_Desc</string>
       </key>
       <value>
-        <string>Медовый горшок вот-вот расколется...</string>
+        <string>Медовый слайм разделяется...</string>
       </value>
     </item>
     <item>
