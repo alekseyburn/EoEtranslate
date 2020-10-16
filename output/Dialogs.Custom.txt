@@ -36175,7 +36175,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/e51b9818-e82e-4d68-948d-bc3de83d7641</string>
       </key>
       <value>
-        <string>Хорошо, я поняла.
+        <string>Хорошо, я понял.
 </string>
       </value>
     </item>
@@ -36283,7 +36283,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_Scene1/33041785-2bd7-4a14-9a07-ad6ed901513c</string>
       </key>
       <value>
-        <string>&lt;вдыхать&gt;
+        <string>&lt;вдыхает&gt;
 </string>
       </value>
     </item>
@@ -36391,7 +36391,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ac7e6e5b-616f-415f-93da-57bab457b356</string>
       </key>
       <value>
-        <string>Ну, я проверила кодекс и не нашла никакого Священного Закона против него.
+        <string>Ну, я проверил кодекс и не нашел никакого Священного Закона против него.
 </string>
       </value>
     </item>
@@ -36427,7 +36427,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/c84f55b2-d7bc-4bc9-8576-668671f26101</string>
       </key>
       <value>
-        <string>Я знаю, что это сделал ты!
+        <string>Я знаю, что ты сделал это!
 </string>
       </value>
     </item>
@@ -36542,7 +36542,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/06073e92-ba8a-47b8-840e-c436fb007e05</string>
       </key>
       <value>
-        <string>Ты знаешь, что ты мертв?
+        <string>Ты знаешь, что ты мертва?
 </string>
       </value>
     </item>
@@ -36551,7 +36551,7 @@
         <string>/Seasonal/Halloween/Quests/Ghosts/Ghost2/c42582f6-126a-4707-a63c-30dd5422da3d</string>
       </key>
       <value>
-        <string>Как хорошо, что ты проходила мимо, Жрица. Я ждал, что кто-нибудь вернет меня "обратно."
+        <string>Как хорошо, что ты проходила мимо, Жрица. Я ждала, что кто-нибудь вернет меня "обратно."
 </string>
       </value>
     </item>
@@ -68806,11 +68806,10 @@ And you will not lie.</string>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/f856e0ce-53f3-46e1-b4f5-1c938d33e9bc</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/6e0c955e-17c1-4d3f-9ffe-a00ec4f2f624</string>
       </key>
       <value>
-        <string>Down the creek.
-</string>
+        <string>I've sent one of my men to craft some. He's in the clearing, near the creek.</string>
       </value>
     </item>
     <item>
@@ -68818,8 +68817,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/ade3d4d1-79fb-45bb-ab4a-4202229c7d2d</string>
       </key>
       <value>
-        <string>Where's your guy?
-</string>
+        <string>Very funny.</string>
       </value>
     </item>
     <item>
@@ -68869,20 +68867,10 @@ And you will not lie.</string>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/bc47f4cd-2980-4ddf-b9c2-a26bb69d3b7c</string>
-      </key>
-      <value>
-        <string>One of my men is gathering them. He's in the clearing, near the creek.
-</string>
-      </value>
-    </item>
-    <item>
-      <key>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/4314ae97-624b-4734-8707-315fe330dce6</string>
       </key>
       <value>
-        <string>Where will I find those?
-</string>
+        <string>And let me guess, it's up to me to find some Orokko Traps?</string>
       </value>
     </item>
     <item>
@@ -68890,8 +68878,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1407220f-a0d1-4e90-b4f8-49a6a6bbcc1f</string>
       </key>
       <value>
-        <string>It's weak to it.
-</string>
+        <string>Doesn't matter what you think. I don't wanna have your death on my conscience, so I won't let you have a go at this Orokko, unless you're properly equipped.</string>
       </value>
     </item>
     <item>
@@ -68899,8 +68886,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/5346d246-0c9e-4cac-8a03-9af0651e15cb</string>
       </key>
       <value>
-        <string>Why?
-</string>
+        <string>I don't need that.</string>
       </value>
     </item>
     <item>
@@ -68908,8 +68894,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/16bc326c-461d-45d9-b841-2c6abf91d8ca</string>
       </key>
       <value>
-        <string>You'll first have to get some [NAME OF THE BATTLE ITEMS]
-</string>
+        <string>You'll first have to get some Orokko Traps, first.</string>
       </value>
     </item>
     <item>
@@ -68944,8 +68929,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/343dced3-3df9-4fe0-9c5f-ddaf20076800</string>
       </key>
       <value>
-        <string>It's staying put for now, but it shows no desire of moving away soon. It's only a matter of time before someone gets their head bitten off - and I can't afford to have one of my men wounded.
-</string>
+        <string>It's staying put for now, but it shows no desire of moving away soon. It's only a matter of time before someone gets their head bitten off - and I can't afford to have one of my men wounded.</string>
       </value>
     </item>
     <item>
@@ -68953,8 +68937,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/5d4efe93-bde3-45a0-8a62-638512c4352e</string>
       </key>
       <value>
-        <string>Further up the path behind me, there's a [NAME OF THE CREATURE]
-</string>
+        <string>Further up the path behind me, there's an Alpha Orokko.</string>
       </value>
     </item>
     <item>
@@ -69115,8 +69098,7 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/9c2d3daf-3b47-4b69-a81f-47a627120a42</string>
       </key>
       <value>
-        <string>I don't need any [NAME OF THE BATTLE ITEMS] to deal with it.
-</string>
+        <string>I don't need any traps to deal with it.</string>
       </value>
     </item>
     <item>
@@ -69124,82 +69106,1200 @@ And you will not lie.</string>
         <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/2fe38636-b87d-44f2-b3de-9808180f3344</string>
       </key>
       <value>
-        <string>Get yourself some [NAME OF THE BATTLE ITEMS], only after I'll let you have a go at that thing.
+        <string>Get yourself some Orokko Traps, only after I'll let you have a go at that thing.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f4883366-f70e-4666-a005-b5e002757716</string>
+      </key>
+      <value>
+        <string>...
 </string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/95a93d68-afc9-4f85-b6e9-800d99aaaf86</string>
+      </key>
+      <value>
+        <string>And be sure to strike those tree stumps down with your sword! That'll help you work out your anger issues!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/222a2703-5a7e-4b49-906a-6d3333793200</string>
+      </key>
+      <value>
+        <string>I'll get out to camp and start the cooking with what I have already.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/cf816974-7ec3-4799-8293-89cd0b91020b</string>
+      </key>
+      <value>
+        <string>A few tree stumps around here, it's the best wood for the traps. Plants too, for the wineberries. As for the nails, there's a guy in the village who sells them.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/6fced194-5224-40c6-a304-0d777063ad92</string>
+      </key>
+      <value>
+        <string>Where can I find the stuff you need?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/eb6960a2-e346-4474-9ad5-45a7ea129f5a</string>
+      </key>
+      <value>
+        <string>Man, you're scary. What's your problem, exactly?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/9ccbcc22-4ff2-4d1c-9f8b-35a7b517af63</string>
+      </key>
+      <value>
+        <string>...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/6c2b668a-3677-4d7f-a413-fb0756e3296f</string>
+      </key>
+      <value>
+        <string>Who-whoa there! By Khrator's Holy Vagaries, man, that was a &lt;b&gt;joke&lt;/b&gt;! Lighten up!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/28b5a8ff-d35f-4d47-9897-5bd8f140def4</string>
+      </key>
+      <value>
+        <string>&lt;b&gt;What... did you just say?!&lt;/b&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/1c9fe2f3-62bc-4b2f-bf94-6f5c07e285c8</string>
+      </key>
+      <value>
+        <string>What...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/28143384-0387-4702-bcab-01925f37915e</string>
+      </key>
+      <value>
+        <string>We caught two bandits the other day, they're our prisoners now. I say we ditch 'em to the beastie, let it have its feast. Once it's belly filled up, it'll surely go away!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f28348e9-3cb7-43a1-9610-7c870aa0d9b2</string>
+      </key>
+      <value>
+        <string>What solution?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/b5dfe592-d71f-49bb-83df-939efa29dc03</string>
+      </key>
+      <value>
+        <string>Hey, if running errands is not your cup of tea, I've got another solution for ya.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/36f16a7f-3c9f-41b5-9958-6dbb6c5f614a</string>
+      </key>
+      <value>
+        <string>I don't have time for this!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/9d14f2f6-dc7a-4df2-afd9-9303a4616d64</string>
+      </key>
+      <value>
+        <string>Hey, I'm just tossing ideas here, but why don't you go gather the rest?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/a12bf668-8b80-4347-ae13-306e0842a681</string>
+      </key>
+      <value>
+        <string>You caught me on the middle of the gathering, I still need about half-a-dozen of wood, six itching wineberries, and three sets of nails.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/5b7c335c-74fd-4403-9428-060d9989b01d</string>
+      </key>
+      <value>
+        <string>Whatever, where are the traps?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/11d7a13a-c471-4409-802b-78704a940d97</string>
+      </key>
+      <value>
+        <string>What can I say, pal - I'm sorry. I'm sure it's tough being on the bottom of the food chain.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/8a179883-e624-47df-80ae-b16fd7323061</string>
+      </key>
+      <value>
+        <string>Good man, such a softie. He'd prefer throwing a total stranger under its paws than risking the life of his own soldiers.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f4be5dc8-721b-461f-a179-adb3b0504f66</string>
+      </key>
+      <value>
+        <string>Ah, so the Captain put you to it, huh?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f35fe3a1-eb5e-40cb-bb5a-1c0ccd13055c</string>
+      </key>
+      <value>
+        <string>The traps. The captain asked me to take down the beast on the road.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/a90905ac-d5a6-4f17-9922-ee9efe1f36e1</string>
+      </key>
+      <value>
+        <string>What are you here for?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/56f77a84-803e-4f36-9585-8b17ff9ac9d7</string>
+      </key>
+      <value>
+        <string>Nobody likes my jokes around here...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/d2a7a964-3ffb-44ad-8466-75dd124df325</string>
+      </key>
+      <value>
+        <string>Troy, will you shut it?!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/a888df94-1739-43bf-b07a-3cefb50df5d9</string>
+      </key>
+      <value>
+        <string>Yes! We want you fresh and rested for the monster to enjoy its meal!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/357eed7e-b88e-4072-84f0-db81466e9300</string>
+      </key>
+      <value>
+        <string>You can sit by our firecamp to settle down for a while. At least until Troy finishes his preparations.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/1ead9121-4130-4e39-9796-e734c84eea79</string>
+      </key>
+      <value>
+        <string>I'm fine.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/1c5c31a8-f700-48c0-9181-ab432fa73afa</string>
+      </key>
+      <value>
+        <string>Yoo look tired.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/3ee3d2bf-6f80-4d07-8aa0-f6d41810dddd</string>
+      </key>
+      <value>
+        <string>I will need a few hours to craft those.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/ba1c07ca-b9b9-457b-ba3a-d2c7aac4506f</string>
+      </key>
+      <value>
+        <string>Yes, good, yes.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/66462566-6384-4ebe-aed6-459c954a6377</string>
+      </key>
+      <value>
+        <string>Then good luck to you, young man.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/ed6192dc-c8a5-4846-82e8-324839347f89</string>
+      </key>
+      <value>
+        <string>Will do.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/08d3304a-02bb-4c0b-a616-17c27d503dba</string>
+      </key>
+      <value>
+        <string>Carry on with your preparations, then. And tell me when you're ready to face it.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/b36466c9-d101-446d-a383-5c66e65f4cf0/msg</string>
+      </key>
+      <value>
+        <string>Now, are you ready to rumble?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/b36466c9-d101-446d-a383-5c66e65f4cf0/choice1</string>
+      </key>
+      <value>
+        <string>Yes</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/b36466c9-d101-446d-a383-5c66e65f4cf0/choice2</string>
+      </key>
+      <value>
+        <string>No</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/a74c0646-1c64-46f6-8e57-7185dc03e742</string>
+      </key>
+      <value>
+        <string>I gave you my promise.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/382f21b3-00d2-44af-b6a7-d28d3451f62a</string>
+      </key>
+      <value>
+        <string>The moment I've beat it, I'll leave. Got it captain?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/487b1d42-c360-460c-b083-d6536e65cf92</string>
+      </key>
+      <value>
+        <string>Once you're ready to fight the monster, come and tell me.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_ReadyToRumble/936ce366-0403-4a42-a71f-d166b3477797</string>
+      </key>
+      <value>
+        <string>Okay. The batch is done, take it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/a89f8f31-f471-4f03-9be0-d481340afdc7</string>
+      </key>
+      <value>
+        <string>Thank the Gods.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/30a044fc-4489-4dc5-8962-19ff5809a339</string>
+      </key>
+      <value>
+        <string>...She's still alive...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/5ef564a2-033e-4367-a97b-03dce83f7367</string>
+      </key>
+      <value>
+        <string>Hey, why you're laughing?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/27e5913b-78aa-410a-9ce6-d40438d40fbf</string>
+      </key>
+      <value>
+        <string>...He-heh-heh-heh...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/b1505797-e424-4c47-82bc-dd4e2c38e3a2</string>
+      </key>
+      <value>
+        <string>Four days...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/3d2b1281-28c0-487f-938b-90a8d2986d22</string>
+      </key>
+      <value>
+        <string>Lemme think. Four days, maybe? Five?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/5468ebfe-ccb6-42d1-bd9e-32a65a5813e4</string>
+      </key>
+      <value>
+        <string>A Priestess... How... long ago was it?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/05265e8a-e423-48d5-bb53-d324084b9869</string>
+      </key>
+      <value>
+        <string>Good thing the Priestess was there, else she would've broken the rest of the rake on our noses.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/5cb044e3-a676-4bde-8ec2-701444bd1f8f</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;I'm too kind for my own good. Too kind, now that's for sure..&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/748fa0c1-69ca-42a2-9ed2-02ef691f1685</string>
+      </key>
+      <value>
+        <string>Cap'n caved in and just gave her the money she was asking for. And then the money for the chair she broke on their heads, and the money for the rope... It ended up being a shakedown!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/02f73e0d-723e-4054-b3a5-8b4a377ae3eb</string>
+      </key>
+      <value>
+        <string>Oh please...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/b2afccdd-2ee6-4144-81ab-aeb0dd1786d2</string>
+      </key>
+      <value>
+        <string>Because she broke it while beating down the bandits! "I did your job!" she said "It's only normal you get me the money to buy a new rake!"
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/6a8799f7-dcd3-496b-8e0d-14c786b9c0cd</string>
+      </key>
+      <value>
+        <string>Why?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/d5c1f423-d312-4f54-9e2d-2b9908db0297</string>
+      </key>
+      <value>
+        <string>So she brought that broken rake with her shoved it in the captain's nose - asking who would pay for it!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/0e4164fc-f264-469b-9fed-b506a17f7d77</string>
+      </key>
+      <value>
+        <string>Troy, I told you to shut up.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/c6b410d3-c590-4790-9b26-63647b1abe7b</string>
+      </key>
+      <value>
+        <string>Oh! And the part with the rake!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/fe74f0c6-a10b-46e6-a646-a1b74cf3ee5b</string>
+      </key>
+      <value>
+        <string>And for her, it was *our* fault that the bandits tried to pillage her farm, see?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/7fd7c033-9d51-4b6c-99a4-02dcf1253d1d</string>
+      </key>
+      <value>
+        <string>Oh yeah, she just went on, and on, and on... The sun was setting and she was *still* talking!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/4f6b9945-2e4c-49b2-9a68-8a44e4834adc</string>
+      </key>
+      <value>
+        <string>I believe I was clear : I don't want to hear it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/0972f959-f5ed-4cec-ad94-8edbf9b9ad83</string>
+      </key>
+      <value>
+        <string>Well, the other she passed by our camp in her chariot, kicked down the two bandits she had captured and then proceeded to give us the scolding of our lives.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/bf2f220e-b266-4192-bce4-50a513f84ba9</string>
+      </key>
+      <value>
+        <string>Troy, shut yer clap.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/be60ff91-4292-4d64-b500-76827a1bdc44</string>
+      </key>
+      <value>
+        <string>Hey, cap! Tell him what she did the other day!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/bac02410-e2f1-4ad6-abb3-7ef75da841d0</string>
+      </key>
+      <value>
+        <string>Oh yeah, you don't wanna cross path with that one.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/5619c0ac-0930-467f-a2b3-ec042fd3fe0e</string>
+      </key>
+      <value>
+        <string>The old witch?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/3f0b05e8-44a8-4110-ba9f-6b7257efd736</string>
+      </key>
+      <value>
+        <string>Well you won't find anything there, 'xcept for the old witch, maybe.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/a2ab5fc7-a6ec-438d-ba2b-dec5e8c78951</string>
+      </key>
+      <value>
+        <string>No, I'm going to the mountain.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/9651b730-5540-4528-a9a4-be9587fd44ca</string>
+      </key>
+      <value>
+        <string>So you're going to Elon? Then you just have to take the path on the left, and...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/17d5b29e-f2a4-4a9e-b4c7-40fd4d1fe902</string>
+      </key>
+      <value>
+        <string>Now that it's done, I'll be on my way.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_StillAlive/8dca8dfe-93ce-4c8c-8066-21d6d8655cca</string>
+      </key>
+      <value>
+        <string>Fine work.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/1ece61a5-0729-485a-97e7-ca2dddfd9631</string>
+      </key>
+      <value>
+        <string>I should really get to it, huh. But the sea is *so* beautiful and I am *so* lazy.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/3792b82f-0b08-4ff6-a3b7-1c552b2affa3</string>
+      </key>
+      <value>
+        <string>I still need those [INGREDIENTS]. You can buy them to some bloke in town if you don't wanna lose time going harvestin'.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking_AstryanCaptain/d9bb26f6-be10-418a-bfd4-1bf4ecd66eaa</string>
+      </key>
+      <value>
+        <string>Go to sleep. You need to be properly rested before you face that monster.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking_Troy/d0926dee-2dbb-490b-963b-ab66589f57a9</string>
+      </key>
+      <value>
+        <string>Can't rush the crafting, y'know?</string>
       </value>
     </item>
   </Entries>
   <LastModified>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/Ghost3/be6592f3-1248-49c4-9a3a-e571b3fe45f2</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking_AstryanCaptain/d9bb26f6-be10-418a-bfd4-1bf4ecd66eaa</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:46:41.2718017+02:00</dateTime>
+        <dateTime>2020-10-16T13:23:42.910507+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/47ac1695-b8a9-4a24-a12d-dc0e7293ebd2</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking_Troy/d0926dee-2dbb-490b-963b-ab66589f57a9</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+        <dateTime>2020-10-16T13:23:54.6024746+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ba5fcca5-8bc7-4430-843d-ae53ea5ca326</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/c895e84c-6eda-4045-a9fc-0008bd07a57a</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3317619+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ac7e6e5b-616f-415f-93da-57bab457b356</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/6057d7f3-b331-49aa-a88e-e2e52679257f</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3317619+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/62e425ea-de8d-4e34-a658-87865ba2956c</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/9c2d3daf-3b47-4b69-a81f-47a627120a42</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3327624+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/52ba2768-b81d-477e-816b-885bf7b8fa10</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/2fe38636-b87d-44f2-b3de-9808180f3344</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3337625+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/878c509f-6186-4f23-9a49-6e7afb5b2408</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/ade3d4d1-79fb-45bb-ab4a-4202229c7d2d</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3498047+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3337625+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/c84f55b2-d7bc-4bc9-8576-668671f26101</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/988a3410-c55b-4ed1-894e-da3330fc78d4</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3498047+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3337625+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/462e9252-d160-4b90-96b4-924c6a1a343e</string>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/58ce8b21-7594-43e5-a78b-60c2687fbadb</string>
       </key>
       <value>
-        <dateTime>2020-10-14T13:48:09.3498047+02:00</dateTime>
+        <dateTime>2020-10-16T13:27:22.3337625+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/042a2267-90a1-4290-a22a-5184a67ea8a5</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3337625+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/53b4c92b-e5a1-45b9-81a0-f05da266a5bc</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.334763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/0c35cebc-90bd-42b8-b5e7-adc0ef4a0131</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.334763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/6e0c955e-17c1-4d3f-9ffe-a00ec4f2f624</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.334763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/4314ae97-624b-4734-8707-315fe330dce6</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.334763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1407220f-a0d1-4e90-b4f8-49a6a6bbcc1f</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.334763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/5346d246-0c9e-4cac-8a03-9af0651e15cb</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.335763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/16bc326c-461d-45d9-b841-2c6abf91d8ca</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.335763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/da896bb5-8fd6-4709-92d3-3d33b6a3e671</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.335763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1e71adb0-cd2e-4ea5-a287-8817c52e7a39</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.335763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/f8ae7ddf-97f1-4fd7-82c0-bbb5f2e7642e</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.335763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/343dced3-3df9-4fe0-9c5f-ddaf20076800</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3367634+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/5d4efe93-bde3-45a0-8a62-638512c4352e</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3367634+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/e984aeea-dec6-46a9-b3c9-788728042417</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3367634+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/928f1b63-dd98-45cf-be6c-2e623a55cb86</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3367634+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/b928c523-518f-4b89-b399-3d365ebd374d</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3377637+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/ed7c4436-2fc0-49d5-9bf6-647b7e189355</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3377637+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/83c8417b-5633-4605-8bc6-89454728d809</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3377637+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/f8a30802-956b-4c4b-98d0-16a29e78fd8c</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3377637+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/c9dba585-bde4-4f06-a364-aa860478ebc2</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3377637+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/3c5d5050-9bbe-4fb4-8df9-6a0e4910dcb3</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3387639+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/c33168f1-140c-472b-903d-d4eba5415b15</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3387639+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/a33115b9-d76a-43b1-beb6-8afc50465ebb</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3387639+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1c315003-2463-4b72-95a9-c83b6e6add7f</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3387639+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/a11c33ac-b49b-4b4f-8f23-5b16dbdb6593</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3387639+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/fcddbb92-3629-44bb-8340-914f7387ad7a</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3397643+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/00bbf4ae-69a4-4f95-97c2-b5ebe8b97d3b</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3397643+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/25efb376-3ce7-4864-b020-9d32f94dcf8d</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:27:22.3397643+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f4883366-f70e-4666-a005-b5e002757716</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2183472+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/95a93d68-afc9-4f85-b6e9-800d99aaaf86</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2183472+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/222a2703-5a7e-4b49-906a-6d3333793200</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2183472+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/cf816974-7ec3-4799-8293-89cd0b91020b</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2193476+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/6fced194-5224-40c6-a304-0d777063ad92</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2193476+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/eb6960a2-e346-4474-9ad5-45a7ea129f5a</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2193476+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/9ccbcc22-4ff2-4d1c-9f8b-35a7b517af63</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2193476+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/6c2b668a-3677-4d7f-a413-fb0756e3296f</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2193476+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/28b5a8ff-d35f-4d47-9897-5bd8f140def4</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2203479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/1c9fe2f3-62bc-4b2f-bf94-6f5c07e285c8</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2203479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/28143384-0387-4702-bcab-01925f37915e</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2203479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f28348e9-3cb7-43a1-9610-7c870aa0d9b2</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2203479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/b5dfe592-d71f-49bb-83df-939efa29dc03</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2203479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/36f16a7f-3c9f-41b5-9958-6dbb6c5f614a</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2213479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/9d14f2f6-dc7a-4df2-afd9-9303a4616d64</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2213479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/a12bf668-8b80-4347-ae13-306e0842a681</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2213479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/5b7c335c-74fd-4403-9428-060d9989b01d</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2213479+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/11d7a13a-c471-4409-802b-78704a940d97</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.222348+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/8a179883-e624-47df-80ae-b16fd7323061</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.222348+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f4be5dc8-721b-461f-a179-adb3b0504f66</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.222348+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/f35fe3a1-eb5e-40cb-bb5a-1c0ccd13055c</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.222348+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/a90905ac-d5a6-4f17-9922-ee9efe1f36e1</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.222348+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_YeetTheDits/1ece61a5-0729-485a-97e7-ca2dddfd9631</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:10.2233485+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/56f77a84-803e-4f36-9585-8b17ff9ac9d7</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.2210177+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/d2a7a964-3ffb-44ad-8466-75dd124df325</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.2210177+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/a888df94-1739-43bf-b07a-3cefb50df5d9</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.222018+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/357eed7e-b88e-4072-84f0-db81466e9300</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.222018+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/1ead9121-4130-4e39-9796-e734c84eea79</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.222018+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/1c5c31a8-f700-48c0-9181-ab432fa73afa</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.222018+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/3ee3d2bf-6f80-4d07-8aa0-f6d41810dddd</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.2230183+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/ba1c07ca-b9b9-457b-ba3a-d2c7aac4506f</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.2230183+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SweetCooking/3792b82f-0b08-4ff6-a3b7-1c552b2affa3</string>
+      </key>
+      <value>
+        <dateTime>2020-10-16T13:30:52.2230183+02:00</dateTime>
       </value>
     </item>
   </LastModified>

@@ -370,6 +370,38 @@
         <string>Poisoned</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>GuardianAngel</string>
+      </key>
+      <value>
+        <string>Guardian Angel</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>GuardienAngel_Desc</string>
+      </key>
+      <value>
+        <string>Retain the target alive and recover her health if the next attack is lethal.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark</string>
+      </key>
+      <value>
+        <string>Bulwark</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark_Desc</string>
+      </key>
+      <value>
+        <string>High defense against physical damages and cannot be ejected from nexus</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -738,6 +770,38 @@
       </key>
       <value>
         <dateTime>2020-08-05T15:42:35.5317013+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>GuardianAngel</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T16:26:07.4327625+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>GuardienAngel_Desc</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T16:28:47.5724196+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:40:14.8428216+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark_Desc</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:40:49.0747928+02:00</dateTime>
       </value>
     </item>
   </LastModified>

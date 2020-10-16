@@ -27109,6 +27109,70 @@ one that might stand a chance against them.</string>
 </string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>CutDlg5c53b1db-6bc6-4229-9b44-9e554d9e0f1c</string>
+      </key>
+      <value>
+        <string>Looks like they were right. This machine hybrid she's working with, the “technomage”, along with that scavenger, is reason enough for the Elders to brand her a heretic and expel her.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg06616611-0344-4295-ad22-c90c69601b2b</string>
+      </key>
+      <value>
+        <string>By sending her away on a quest to find a cure for the Corrosion, the Archpriests thought they could get rid of her. Some of them were even expecting her to slip up...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgf11f9af9-d4ca-4fbe-a5af-e0ceca50bd6d</string>
+      </key>
+      <value>
+        <string>Hm...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgb329ec49-55a9-44a8-a2c7-86405449e62d</string>
+      </key>
+      <value>
+        <string>Who… You’re...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg44fd08d4-773f-4447-bb8f-f9e5b9e0856e</string>
+      </key>
+      <value>
+        <string>Not him.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlga84a4552-38ec-49b7-b43b-ef073112588e</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg4cf47007-a8fe-4472-9daa-75131e187a84</string>
+      </key>
+      <value>
+        <string>Can I fight him? No, we both know you're outmatched. You don't even have your really, really big sword with you.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgdfaf617d-877e-4692-8b27-c430233dd027</string>
+      </key>
+      <value>
+        <string>“And that wound on his chest?" Ah... you noticed that, didn't you? You'll never get anywhere near it.</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -52933,6 +52997,70 @@ one that might stand a chance against them.</string>
       </key>
       <value>
         <dateTime>2020-08-20T13:10:53.756962+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg5c53b1db-6bc6-4229-9b44-9e554d9e0f1c</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T10:37:18.7715791+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg06616611-0344-4295-ad22-c90c69601b2b</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T10:36:43.6888829+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgf11f9af9-d4ca-4fbe-a5af-e0ceca50bd6d</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T17:06:10.0057419+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgb329ec49-55a9-44a8-a2c7-86405449e62d</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T17:06:04.0764091+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg44fd08d4-773f-4447-bb8f-f9e5b9e0856e</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T17:05:40.1038946+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlga84a4552-38ec-49b7-b43b-ef073112588e</string>
+      </key>
+      <value>
+        <dateTime>2020-09-30T10:12:34.1690763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg4cf47007-a8fe-4472-9daa-75131e187a84</string>
+      </key>
+      <value>
+        <dateTime>2020-09-30T10:17:13.4519867+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgdfaf617d-877e-4692-8b27-c430233dd027</string>
+      </key>
+      <value>
+        <dateTime>2020-09-30T10:17:29.4732978+02:00</dateTime>
       </value>
     </item>
   </LastModified>

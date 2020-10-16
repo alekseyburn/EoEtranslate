@@ -1474,6 +1474,14 @@
         <string>Crystal Peddler</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>WoundedLieutnant</string>
+      </key>
+      <value>
+        <string>Wounded Lieutnant</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -2946,6 +2954,14 @@
       </key>
       <value>
         <dateTime>2020-08-11T10:05:24.302839+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>WoundedLieutnant</string>
+      </key>
+      <value>
+        <dateTime>2020-09-04T13:31:46.2422669+02:00</dateTime>
       </value>
     </item>
   </LastModified>

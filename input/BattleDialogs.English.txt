@@ -611,6 +611,142 @@
         <string>It's gonna self-destruct! Get away!</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene</string>
+      </key>
+      <value>
+        <string>Oh I can't take this stupid charade anymore.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene02</string>
+      </key>
+      <value>
+        <string>This is a duel, stay out of it!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene03</string>
+      </key>
+      <value>
+        <string>No, screw that. I'm taking things into my own hands, and kicking *both* of your butts!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene04</string>
+      </key>
+      <value>
+        <string>Him first for being such a prick, and then *you* for being such a pathetic loser!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene05</string>
+      </key>
+      <value>
+        <string>No need to intervene, soldiers—the lesson just got interesting.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene06</string>
+      </key>
+      <value>
+        <string>I dare you to try your stupid magic on me!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris00</string>
+      </key>
+      <value>
+        <string>Oh, the pain, the pain! My life is pain! Please end my suffering!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris01</string>
+      </key>
+      <value>
+        <string>I don't want her to look at me like that! Please don't look at me!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris02</string>
+      </key>
+      <value>
+        <string>Shut up!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris03</string>
+      </key>
+      <value>
+        <string>I'm the last of the Carnelians, my lineage must not die with me!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris04</string>
+      </key>
+      <value>
+        <string>I will cut you open, I swear.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene00</string>
+      </key>
+      <value>
+        <string>Why have the Gods stopped talking to me? Am I not worthy? Am i not their favorite?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene01</string>
+      </key>
+      <value>
+        <string>Everything must go as planned! Don't you *dare* disobey me!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene02</string>
+      </key>
+      <value>
+        <string>Mother will thank me for this. I'll *make* her thank me for this!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene03</string>
+      </key>
+      <value>
+        <string>You're wasting your time. I'm quite aware of my shortcomings.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Kora00</string>
+      </key>
+      <value>
+        <string>You have no chance of winning! The Bearer of Destruction is not here to help you!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Kora01</string>
+      </key>
+      <value>
+        <string>Time to end this charade.</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -1219,6 +1355,142 @@
       </key>
       <value>
         <dateTime>2020-07-17T14:01:04.1110692+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T09:56:34.4352387+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene02</string>
+      </key>
+      <value>
+        <dateTime>2020-09-18T17:06:11.4984158+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene03</string>
+      </key>
+      <value>
+        <dateTime>2020-09-18T17:06:45.8013279+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene04</string>
+      </key>
+      <value>
+        <dateTime>2020-09-18T17:07:12.8055747+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene05</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T10:10:18.8229852+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>KoraDuel_FallonIntervene06</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T10:11:12.5037385+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris00</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:12:16.8219627+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris01</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:12:39.5572701+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris02</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:12:57.8041352+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris03</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:13:42.1303449+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Ysoris04</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:13:57.7175788+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene00</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:15:19.1470684+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene01</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:15:55.3895623+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene02</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:16:24.0668192+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Selene03</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:16:42.4200778+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Kora00</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:19:05.7499008+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DistortingGlass_Kora01</string>
+      </key>
+      <value>
+        <dateTime>2020-09-23T11:19:28.104723+02:00</dateTime>
       </value>
     </item>
   </LastModified>

@@ -202,110 +202,54 @@
         <string>Increases the speed of Cast ATB loading for spells</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>Power</string>
+      </key>
+      <value>
+        <string>Power</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bullets</string>
+      </key>
+      <value>
+        <string>Ammo</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Energy</string>
+      </key>
+      <value>
+        <string>Energy</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
       <key>
-        <string>EvaMag</string>
+        <string>Bullets</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.7558778+01:00</dateTime>
+        <dateTime>2020-10-12T16:39:52.200417+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>HasteMag</string>
+        <string>Power</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.7568752+01:00</dateTime>
+        <dateTime>2020-10-12T16:38:36.8803452+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Atk_Desc</string>
+        <string>Energy</string>
       </key>
       <value>
-        <dateTime>2020-01-21T16:21:01.5719713+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Def_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5719713+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Mag_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5719713+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>MagDef_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5719713+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Eva</string>
-      </key>
-      <value>
-        <dateTime>2019-11-28T11:31:10.1019283+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Speed_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5719713+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Resolve_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5719713+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>HP_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5729704+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>MP_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5729704+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Haste_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5729704+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>MagHaste_Desc</string>
-      </key>
-      <value>
-        <dateTime>2020-01-21T16:21:01.5739697+01:00</dateTime>
+        <dateTime>2020-10-12T16:40:13.7083877+02:00</dateTime>
       </value>
     </item>
   </LastModified>
