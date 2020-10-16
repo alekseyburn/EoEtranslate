@@ -546,3 +546,31 @@
         <string>Back To Main Menu?</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>sound</string>
+      </key>
+      <value>
+        <string>Sound</string>
+      </value>
+    </item>
+  </Entries>
+  <LastModified>
+    <item>
+      <key>
+        <string>sound</string>
+      </key>
+      <value>
+        <dateTime>2020-09-01T16:13:38.8652691+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>buttonSoundAndLanguage</string>
+      </key>
+      <value>
+        <dateTime>2020-09-01T16:13:21.2759705+02:00</dateTime>
+      </value>
+    </item>
+  </LastModified>
+</LanguageCategoryEntry>

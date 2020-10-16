@@ -234,6 +234,38 @@
         <string>Литография</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>WordOfSilence</string>
+      </key>
+      <value>
+        <string>Обет Молчания</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Auger</string>
+      </key>
+      <value>
+        <string>Бур</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ElementalShift</string>
+      </key>
+      <value>
+        <string>Элементальный Сдвиг</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DefensiveRedeployment</string>
+      </key>
+      <value>
+        <string>Оборонительная Позиция</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -466,6 +498,38 @@
       </key>
       <value>
         <dateTime>2020-08-18T09:57:02.8206688+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>WordOfSilence</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T11:13:01.3521586+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Auger</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T11:17:54.1661755+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ElementalShift</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T11:19:36.0745462+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DefensiveRedeployment</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T11:21:15.7056825+02:00</dateTime>
       </value>
     </item>
   </LastModified>

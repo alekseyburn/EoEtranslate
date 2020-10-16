@@ -274,6 +274,22 @@
         <string>Энергетический луч</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>ColdTruth</string>
+      </key>
+      <value>
+        <string>Холодная истина</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CoupDeGrace</string>
+      </key>
+      <value>
+        <string>Последний удар</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -538,6 +554,22 @@
       </key>
       <value>
         <dateTime>2020-04-21T11:21:45.633193+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ColdTruth</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T16:30:00.4333538+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CoupDeGrace</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T16:30:21.4547454+02:00</dateTime>
       </value>
     </item>
   </LastModified>

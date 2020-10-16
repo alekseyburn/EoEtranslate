@@ -522,6 +522,30 @@
         <string>Ormund the storyteller</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>FirstBearer</string>
+      </key>
+      <value>
+        <string>The First Bearer</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Desecrated</string>
+      </key>
+      <value>
+        <string>The Desecrated One</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ForgottenChild</string>
+      </key>
+      <value>
+        <string>The Forgotten Child</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -1042,6 +1066,30 @@
       </key>
       <value>
         <dateTime>2020-07-29T14:39:52.3465869+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>FirstBearer</string>
+      </key>
+      <value>
+        <dateTime>2020-09-11T16:40:06.9035295+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Desecrated</string>
+      </key>
+      <value>
+        <dateTime>2020-09-22T13:33:09.1070575+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ForgottenChild</string>
+      </key>
+      <value>
+        <dateTime>2020-09-22T13:33:32.751497+02:00</dateTime>
       </value>
     </item>
   </LastModified>

@@ -538,6 +538,38 @@
         <string>Боевая Машина Арчелайтов</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>NepenthaSeed</string>
+      </key>
+      <value>
+        <string>Семя Непенты</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Threptik</string>
+      </key>
+      <value>
+        <string>Трептик</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Aisthek</string>
+      </key>
+      <value>
+        <string>Аистек</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Noeti</string>
+      </key>
+      <value>
+        <string>Ноэти</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -1074,6 +1106,38 @@
       </key>
       <value>
         <dateTime>2020-06-03T16:09:26.1575972+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NepenthaSeed</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T12:05:39.7431631+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Threptik</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:30:59.8412554+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Aisthek</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:31:20.3152639+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Noeti</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:31:30.6673603+02:00</dateTime>
       </value>
     </item>
   </LastModified>

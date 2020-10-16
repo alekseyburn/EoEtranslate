@@ -162,86 +162,30 @@
         <string>Do you want to save your progression?</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>Autosave</string>
+      </key>
+      <value>
+        <string>Autosave</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
-    <item>
-      <key>
-        <string>saveGame</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>loadGame</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
     <item>
       <key>
         <string>saveCount</string>
       </key>
       <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
+        <dateTime>2020-09-21T13:43:21.6677751+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>team</string>
+        <string>saveGame</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.8994939+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>gameTime</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>zone</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>save</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>load</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>delete</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>return</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
+        <dateTime>2020-09-21T13:43:31.3773992+02:00</dateTime>
       </value>
     </item>
     <item>
@@ -249,63 +193,15 @@
         <string>saveQuestion</string>
       </key>
       <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
+        <dateTime>2020-09-21T13:43:34.2023599+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>loadQuestion</string>
+        <string>save</string>
       </key>
       <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>saveProgress</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>saveSucceed</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>saveError</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>confirm</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>cancel</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>emptySlot</string>
-      </key>
-      <value>
-        <dateTime>2016-12-27T23:24:05.8+01:00</dateTime>
+        <dateTime>2020-09-21T13:43:36.3606986+02:00</dateTime>
       </value>
     </item>
     <item>
@@ -313,7 +209,47 @@
         <string>askSave</string>
       </key>
       <value>
-        <dateTime>2020-01-30T14:21:09.6856933+01:00</dateTime>
+        <dateTime>2020-09-21T13:43:39.2715762+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>delete</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T13:43:43.9866201+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>load</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T13:43:44.4576178+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>team</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T13:43:46.033205+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>loadGame</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T13:43:46.4981923+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Autosave</string>
+      </key>
+      <value>
+        <dateTime>2020-09-21T13:43:59.1402045+02:00</dateTime>
       </value>
     </item>
   </LastModified>

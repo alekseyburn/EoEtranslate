@@ -818,814 +818,294 @@
         <string>Shoot a bullet that bounces between the entities on a square/nexus. The first bullet from the magazine bounces twice.</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>EnergyTheft</string>
+      </key>
+      <value>
+        <string>Energy Theft</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SyphonOrb</string>
+      </key>
+      <value>
+        <string>Syphon Orb</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_SyphonOrb</string>
+      </key>
+      <value>
+        <string>Deal damages and drain energy from nearby enemies every turns</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PowerTurret</string>
+      </key>
+      <value>
+        <string>Power Turret</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_PowerTurret</string>
+      </key>
+      <value>
+        <string>Set a trap on a nexus that deal damages and drain energy to every enemies on the nexus every turns</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ProtectionNexus</string>
+      </key>
+      <value>
+        <string>Protection Nexus</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_ProtectionNexus</string>
+      </key>
+      <value>
+        <string>Increase defense of allies that are on the same case as the caster, the effect is increased by the energy amount the caster have</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>EyesRay</string>
+      </key>
+      <value>
+        <string>Eyes Ray</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_EyesRay</string>
+      </key>
+      <value>
+        <string>Deal damages to an enemy, the effect is increased by the energy amount the caster have</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NanoHeal</string>
+      </key>
+      <value>
+        <string>Nano Heal</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_NanoHeal</string>
+      </key>
+      <value>
+        <string>Heal an ally, the effect is increased by the energy amount the caster have</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PowerParry</string>
+      </key>
+      <value>
+        <string>Power Parry</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_PowerParry</string>
+      </key>
+      <value>
+        <string>Set a defensive stance on the character that will make it avoid one attack for one turn, if attacked launch a powerful counter-attack, the counter-attack damages are increased by the energy amount the caster have</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PowerRelease</string>
+      </key>
+      <value>
+        <string>Power Release</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_PowerRelease</string>
+      </key>
+      <value>
+        <string>Release an extremely powerful area attack to nearby enemies, use all energy</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>NanoShock</string>
+      </key>
+      <value>
+        <string>Nano Shock</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>DESC_NanoShock</string>
+      </key>
+      <value>
+        <string>Resurrect an ally with all his health and mana, use all energy</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TimelessResonance</string>
+      </key>
+      <value>
+        <string>Timeless Resonance</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
       <key>
-        <string>Attack</string>
+        <string>EnergyTheft</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-07T14:37:56.1467859+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Defend</string>
+        <string>SyphonOrb</string>
       </key>
       <value>
-        <dateTime>2018-11-19T14:12:53.2430442+01:00</dateTime>
+        <dateTime>2020-10-14T09:41:00.0441357+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Flee</string>
+        <string>DESC_SyphonOrb</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T09:42:43.0403005+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>CycloneSlasher</string>
+        <string>PowerTurret</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T09:44:05.1653083+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Accelerate</string>
+        <string>DESC_PowerTurret</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.745904+01:00</dateTime>
+        <dateTime>2020-10-14T10:17:42.5525106+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Timeloop</string>
+        <string>ProtectionNexus</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.745904+01:00</dateTime>
+        <dateTime>2020-10-14T10:19:56.5625327+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Fireball</string>
+        <string>DESC_ProtectionNexus</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T10:22:15.592413+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Thunderift</string>
+        <string>EyesRay</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.745904+01:00</dateTime>
+        <dateTime>2020-10-14T10:22:35.9308368+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>MeteorStrike</string>
+        <string>DESC_EyesRay</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T10:23:07.4280139+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>StellarWaves</string>
+        <string>NanoHeal</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T10:23:26.9032759+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Icerift</string>
+        <string>DESC_NanoHeal</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.7469017+01:00</dateTime>
+        <dateTime>2020-10-14T10:23:52.169482+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>NoxiousSpit</string>
+        <string>PowerParry</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T10:24:26.3978432+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>FlashStrike</string>
+        <string>DESC_PowerParry</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T10:26:10.5373904+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>PoisonFlask</string>
+        <string>PowerRelease</string>
       </key>
       <value>
-        <dateTime>2017-01-08T21:48:52.589+01:00</dateTime>
+        <dateTime>2020-10-14T10:31:54.4703821+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>FleeSucceed</string>
+        <string>DESC_PowerRelease</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.7469017+01:00</dateTime>
+        <dateTime>2020-10-14T10:32:45.2750214+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>FleeFailed</string>
+        <string>NanoShock</string>
       </key>
       <value>
-        <dateTime>2018-10-30T10:30:06.5857205+01:00</dateTime>
+        <dateTime>2020-10-14T10:33:03.4698803+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Firerift</string>
+        <string>DESC_NanoShock</string>
       </key>
       <value>
-        <dateTime>2018-11-20T23:06:33.7469017+01:00</dateTime>
+        <dateTime>2020-10-14T10:38:53.0195177+02:00</dateTime>
       </value>
     </item>
     <item>
       <key>
-        <string>Barrier</string>
+        <string>TimelessResonance</string>
       </key>
       <value>
-        <dateTime>2018-11-02T19:57:05.9307675+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Spring</string>
-      </key>
-      <value>
-        <dateTime>2018-11-20T23:06:33.7469017+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Earthgrave</string>
-      </key>
-      <value>
-        <dateTime>2018-11-20T23:06:33.7469017+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>GravityPull</string>
-      </key>
-      <value>
-        <dateTime>2018-11-02T19:58:27.4027303+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Scan</string>
-      </key>
-      <value>
-        <dateTime>2018-11-13T08:36:03.2272377+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Fire Strike</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T21:39:24.4944182+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Icicle Strike</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T21:39:29.9417007+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Lightning Strike</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T21:39:34.6856203+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Defense Breaker</string>
-      </key>
-      <value>
-        <dateTime>2018-11-13T08:37:18.9882262+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Teleport</string>
-      </key>
-      <value>
-        <dateTime>2018-11-13T08:37:28.5349204+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Firestrike</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.274865+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Accelerate</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T22:43:16.0534032+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Timeloop</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.274865+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_DefenseBreaker</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.274865+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Scan</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.274865+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Teleport</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.274865+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_CycloneSlasher</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.2758647+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_FireRift</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.2758647+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Earthgrave</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.2758647+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Spring</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T22:54:55.3268796+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Barrier</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T22:55:22.1767317+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Mana</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T22:57:06.3099563+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Resurrex</string>
-      </key>
-      <value>
-        <dateTime>2018-12-04T15:07:27.2758647+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Antidote</string>
-      </key>
-      <value>
-        <dateTime>2018-11-17T22:58:53.7540008+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Earth</string>
-      </key>
-      <value>
-        <dateTime>2019-02-19T14:29:49.6940089+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Earth2</string>
-      </key>
-      <value>
-        <dateTime>2019-02-19T14:29:58.2851066+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Earth3</string>
-      </key>
-      <value>
-        <dateTime>2019-02-19T14:30:06.4339913+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Water1</string>
-      </key>
-      <value>
-        <dateTime>2019-02-20T17:11:42.36369+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_GravityPull</string>
-      </key>
-      <value>
-        <dateTime>2019-07-15T09:44:09.180535+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>FireKnife</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:14:24.7959615+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>PoisonKnife</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:14:44.1102341+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ThunderKnife</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:14:53.289196+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>IceKnife</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:15:01.3317891+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>EarthKnife</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:15:09.8452178+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>WaterKnife</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:15:18.5375382+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ExplosiveTrap</string>
-      </key>
-      <value>
-        <dateTime>2019-02-23T09:25:27.2892798+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DivineRadiance</string>
-      </key>
-      <value>
-        <dateTime>2019-06-25T16:04:24.4282229+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>GlassRain</string>
-      </key>
-      <value>
-        <dateTime>2019-07-05T17:11:09.4351145+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>MineralBurst</string>
-      </key>
-      <value>
-        <dateTime>2019-07-05T17:11:46.0737056+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>SyphusChain</string>
-      </key>
-      <value>
-        <dateTime>2019-07-05T17:40:02.2415422+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Daryon_SpecialCrystalSkill1</string>
-      </key>
-      <value>
-        <dateTime>2019-07-09T16:09:31.8566584+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ChainedAttack</string>
-      </key>
-      <value>
-        <dateTime>2019-07-10T14:52:16.8791186+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Stampede</string>
-      </key>
-      <value>
-        <dateTime>2019-07-10T14:57:15.4205602+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ParryRipost</string>
-      </key>
-      <value>
-        <dateTime>2019-07-10T15:00:24.6900473+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Firerift2</string>
-      </key>
-      <value>
-        <dateTime>2019-07-12T18:09:46.2416972+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Taunt</string>
-      </key>
-      <value>
-        <dateTime>2019-08-12T14:26:22.543723+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_TuningFork</string>
-      </key>
-      <value>
-        <dateTime>2019-09-18T13:12:50.1439019+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Rebuild</string>
-      </key>
-      <value>
-        <dateTime>2019-09-18T15:31:55.8304222+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ElectricCoil</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:19:26.0146883+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>JuicingUp</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:19:53.2443931+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Jamming</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:20:13.7070959+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>CohesiveField</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:20:56.3453519+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Shockwave</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:21:19.7189188+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ShadowWalk</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:21:58.0444826+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>IntoTheFray</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:22:25.426867+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DodgingStance</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:23:16.190415+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>LightFromAbove</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:32:07.2837885+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Resurrection</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:32:37.2173164+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Rejuvenation</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:33:17.4694505+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Purge</string>
-      </key>
-      <value>
-        <dateTime>2019-09-27T10:34:54.9565342+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Rejuvenation</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T13:46:50.0226879+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Cleanse</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T13:48:13.6323257+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_FlashStun</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T13:49:39.6862135+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_DodgingStance</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T13:53:05.4756252+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_SwordCharge</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T13:56:13.0258683+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Taunt</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T13:58:43.7489554+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_ElectricCoil</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T14:02:21.5090931+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_ElectricArc</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T14:03:39.643906+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Hack</string>
-      </key>
-      <value>
-        <dateTime>2019-10-29T14:04:49.0689353+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ShieldBash</string>
-      </key>
-      <value>
-        <dateTime>2020-01-30T11:14:12.4708468+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_ShieldBash</string>
-      </key>
-      <value>
-        <dateTime>2020-01-30T11:18:08.0137862+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_ChainedAttack</string>
-      </key>
-      <value>
-        <dateTime>2020-01-30T11:28:40.6327111+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>ShadowStep</string>
-      </key>
-      <value>
-        <dateTime>2020-02-21T13:59:22.3870133+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_ShadowStep</string>
-      </key>
-      <value>
-        <dateTime>2020-02-21T14:00:38.8996469+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>MainShot</string>
-      </key>
-      <value>
-        <dateTime>2020-02-26T10:35:04.1955375+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_MainShot</string>
-      </key>
-      <value>
-        <dateTime>2020-05-14T17:42:54.079803+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Reload</string>
-      </key>
-      <value>
-        <dateTime>2020-03-02T15:23:11.2885628+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Reload</string>
-      </key>
-      <value>
-        <dateTime>2020-03-02T15:24:08.9524838+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>PiercingBullet</string>
-      </key>
-      <value>
-        <dateTime>2020-05-14T17:42:54.079803+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_PiercingBullet</string>
-      </key>
-      <value>
-        <dateTime>2020-05-14T17:42:54.079803+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>BurstFire</string>
-      </key>
-      <value>
-        <dateTime>2020-05-14T17:42:54.079803+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_BurstFire</string>
-      </key>
-      <value>
-        <dateTime>2020-05-14T17:42:54.079803+02:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>Ricochet</string>
-      </key>
-      <value>
-        <dateTime>2020-03-06T11:27:51.0636289+01:00</dateTime>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>DESC_Ricochet</string>
-      </key>
-      <value>
-        <dateTime>2020-05-14T17:42:54.079803+02:00</dateTime>
+        <dateTime>2020-10-14T11:35:07.0230407+02:00</dateTime>
       </value>
     </item>
   </LastModified>

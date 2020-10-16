@@ -146,6 +146,14 @@
         <string>Геранна</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>Oboros</string>
+      </key>
+      <value>
+        <string>Оборос</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -290,6 +298,14 @@
       </key>
       <value>
         <dateTime>2019-12-26T13:41:32.2256795+01:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Oboros</string>
+      </key>
+      <value>
+        <dateTime>2020-09-16T16:03:01.5878533+02:00</dateTime>
       </value>
     </item>
   </LastModified>

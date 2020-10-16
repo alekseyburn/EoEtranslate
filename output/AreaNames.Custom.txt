@@ -218,6 +218,22 @@
         <string>Равнины Херельсора</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>TheScorchedHalcyon</string>
+      </key>
+      <value>
+        <string>Выжженный Гальцион</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>VarlorianPass</string>
+      </key>
+      <value>
+        <string>Варлорийский Перевал</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -434,6 +450,22 @@
       </key>
       <value>
         <dateTime>2020-08-07T16:56:16.2515204+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>TheScorchedHalcyon</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T09:17:21.077051+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>VarlorianPass</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T09:17:33.37289+02:00</dateTime>
       </value>
     </item>
   </LastModified>

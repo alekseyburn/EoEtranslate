@@ -502,6 +502,46 @@
         <string>Континент Астрэи - Элизианские Поля</string>
       </value>
     </item>
+    <item>
+        <key>
+        <string>SP_VarlorianPass</string>
+      </key>
+      <value>
+        <string>Варлорийский Перевал</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_ScorchedHalcyon_Entrance</string>
+      </key>
+      <value>
+        <string>Выжженный Гальцион - Вход</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_ScorchedHalcyon_Middle</string>
+      </key>
+      <value>
+        <string>Выжженный Гальцион - Центр</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_ScorchedHalcyon_KoraCamps</string>
+      </key>
+      <value>
+        <string>Выжженный Гальцион -  Лагерь Коры</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PRESENTATION_Scorched_Halcyon</string>
+      </key>
+      <value>
+        <string>Континент Астрэи - Выжженный Гальцион</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -998,6 +1038,46 @@
       </key>
       <value>
         <dateTime>2020-08-21T14:42:54.3382555+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_VarlorianPass</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T09:18:08.1751619+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_ScorchedHalcyon_Entrance</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T09:23:59.3487946+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_ScorchedHalcyon_Middle</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T09:24:31.0525143+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SP_ScorchedHalcyon_KoraCamps</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T09:25:33.7487746+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PRESENTATION_Scorched_Halcyon</string>
+      </key>
+      <value>
+        <dateTime>2020-10-12T13:36:16.3577855+02:00</dateTime>
       </value>
     </item>
   </LastModified>

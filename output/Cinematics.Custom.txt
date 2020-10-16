@@ -19173,7 +19173,8 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg5e3c4126-0abc-4c21-b942-73bac39ae5f0</string>
       </key>
       <value>
-        <string>Да! Да!</string>
+        <string>Ab intra ex animo, Crescit eundo
+Fortis in arduis, Fac et Spera</string>
       </value>
     </item>
     <item>
@@ -27106,6 +27107,70 @@ Fortis in arduis, Fac et Spera</string>
       <value>
         <string>Говорят, что даже дышать воздухом в этих местах опасно.
 </string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg5c53b1db-6bc6-4229-9b44-9e554d9e0f1c</string>
+      </key>
+      <value>
+        <string>Похоже, они были правы. Этот машинный гибрид, с которым она работает, “техномаг”, вместе с этим мусорщиком, является достаточной причиной для старейшин, чтобы заклеймить ее еретиком и изгнать.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg06616611-0344-4295-ad22-c90c69601b2b</string>
+      </key>
+      <value>
+        <string>Отправив ее на поиски лекарства от коррозии, архиепископы думали, что смогут избавиться от нее. Некоторые из них даже ожидали, что она оступится....</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgf11f9af9-d4ca-4fbe-a5af-e0ceca50bd6d</string>
+      </key>
+      <value>
+        <string>Хм...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgb329ec49-55a9-44a8-a2c7-86405449e62d</string>
+      </key>
+      <value>
+        <string>Кто… Ты...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg44fd08d4-773f-4447-bb8f-f9e5b9e0856e</string>
+      </key>
+      <value>
+        <string>Только не он.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlga84a4552-38ec-49b7-b43b-ef073112588e</string>
+      </key>
+      <value>
+        <string />
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg4cf47007-a8fe-4472-9daa-75131e187a84</string>
+      </key>
+      <value>
+        <string>Могу ли я драться с ним? Нет, мы оба знаем, что ты в меньшинстве. У тебя даже нет своего очень-очень большого меча.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgdfaf617d-877e-4692-8b27-c430233dd027</string>
+      </key>
+      <value>
+        <string>“А эта рана у него на груди? - Ах... ты это заметил, да? Ты никогда и близко к нему не подойдешь.</string>
       </value>
     </item>
   </Entries>

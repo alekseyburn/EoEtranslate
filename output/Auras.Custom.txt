@@ -370,6 +370,38 @@
         <string>Отравление</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>GuardianAngel</string>
+      </key>
+      <value>
+        <string>Ангел Хранитель</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>GuardienAngel_Desc</string>
+      </key>
+      <value>
+        <string>Сохранить цель живой и восстановить её здоровье, если следующая атака будет смертельной.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark</string>
+      </key>
+      <value>
+        <string>Бастион</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark_Desc</string>
+      </key>
+      <value>
+        <string>Большая защита от физических повреждений и устойчивость в находящемся Нексусе.</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -738,6 +770,38 @@
       </key>
       <value>
         <dateTime>2020-08-05T15:42:35.5317013+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>GuardianAngel</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T16:26:07.4327625+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>GuardienAngel_Desc</string>
+      </key>
+      <value>
+        <dateTime>2020-09-15T16:28:47.5724196+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:40:14.8428216+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Bulwark_Desc</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T10:40:49.0747928+02:00</dateTime>
       </value>
     </item>
   </LastModified>

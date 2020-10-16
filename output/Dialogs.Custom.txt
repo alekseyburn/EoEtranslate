@@ -3326,14 +3326,6 @@
     </item>
     <item>
       <key>
-        <string>/Quest/The_Silent_Way/Crystal Hunter/Crystal_Hunt_Dial1/9a1fe592-5cd8-4e72-9f54-345b13b741b0</string>
-      </key>
-      <value>
-        <string>Нашли кристаллы? Еще нет? Я буду ждать здесь.</string>
-      </value>
-    </item>
-    <item>
-      <key>
         <string>/Quest/Herelsor/Alpharius/Alpharius_Dial_Gavin/cd6960d8-5f31-4912-bdf2-7a4b17a841dd</string>
       </key>
       <value>
@@ -45653,7 +45645,7 @@
         <string>/Quest/Chapter_5/secondary/UnbeknowstMasters/cutscenes/Q3_Scene1.5/95597570-2598-4758-bce9-2e0a17f9e7e4</string>
       </key>
       <value>
-        <string>Откуда это взялось?
+        <string>С чего ты так решила?
 </string>
       </value>
     </item>
@@ -54740,42 +54732,6 @@ His ever-loving family&lt;/i&gt;</string>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_tb_before_fight_theia/fd208f09-1067-4071-ae63-25a3002f7da8</string>
-      </key>
-      <value>
-        <string>Anyone?
-</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_tb_before_fight_theia/1398f370-02b0-484e-bc5d-13ce96f5c5dc</string>
-      </key>
-      <value>
-        <string>Is there anyone out there?
-</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_tb_before_fight_theia/2eaf9d30-9bc0-4de4-9e41-3020499398e4</string>
-      </key>
-      <value>
-        <string>Is the silent treatment your new way of torturing me?
-</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_tb_before_fight_theia/3a91a8f3-29af-4eef-abb9-53fcdfc2b484</string>
-      </key>
-      <value>
-        <string>So, what's happening?
-</string>
-      </value>
-    </item>
-    <item>
-      <key>
         <string>/Quest/Chapter_6/main/textbox/chp_6_scn_0200_tb_before_fight_fallon/5b8c13b6-c28a-48c7-9348-8b2c196cf6a5</string>
       </key>
       <value>
@@ -60962,7 +60918,7 @@ And you will not lie.</string>
         <string>/FirecampScenes/Part2/FallonAndYsoris1/ad454e42-f26f-4c75-a96e-75b671784288</string>
       </key>
       <value>
-        <string>Ты же не можешь быть серьезной.
+        <string>Ты же не серьезно.
 </string>
       </value>
     </item>
@@ -61439,7 +61395,7 @@ And you will not lie.</string>
         <string>/FirecampScenes/Part2/FallonAndYsoris1/13d3e9c3-a740-4ce4-844b-de89ddb0b913</string>
       </key>
       <value>
-        <string>Сотни солдат, которые погибли, сражаясь с ним.
+        <string>Сотни солдат погибли, сражаясь с ним.
 </string>
       </value>
     </item>
@@ -61511,7 +61467,7 @@ And you will not lie.</string>
         <string>/FirecampScenes/Part2/FallonAndYsoris1/a14be499-fa6c-45a8-b6d0-00375e45b0b4</string>
       </key>
       <value>
-        <string>Заткнись, Юсорис, я хочу это сказать!
+        <string>Заткнись, Юсорис, я хочу это рассказать!
 </string>
       </value>
     </item>
@@ -62051,7 +62007,7 @@ And you will not lie.</string>
         <string>/FirecampScenes/Part2/TheVault/81851b06-461f-4480-8704-79e9665895df</string>
       </key>
       <value>
-        <string>Знаете, как я поняла, кто вы такие?
+        <string>Знаешь, как я поняла, кто вы такие?
 </string>
       </value>
     </item>
@@ -62087,7 +62043,7 @@ And you will not lie.</string>
         <string>/FirecampScenes/Part2/TheVault/53e53d1a-60fb-40e5-a1c3-db85757aa091</string>
       </key>
       <value>
-        <string>Откуда это взялось?
+        <string>С чего ты так решила?
 </string>
       </value>
     </item>
@@ -63439,109 +63395,56 @@ And you will not lie.</string>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /e31e8124-c703-4742-9f17-c3492529ecda</string>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/8b3fb8a6-6508-41a7-a34d-d43bc832abf1</string>
       </key>
       <value>
-        <string>The Lieutenant will give you a proper briefing.</string>
+        <string>I know.
+</string>
       </value>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /edc8244d-70ce-4775-ac89-964718a7cb0b</string>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/8ecb883b-540a-444b-91ce-a8fb797a41f1</string>
       </key>
       <value>
-        <string>You must succeed where I failed.</string>
+        <string>Well, it would be wrong to say that you are mute here. Everyone, everything here is nothing *but* you, talking.
+</string>
       </value>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /114a6c39-b7b2-4bc9-9ddb-c798b05224d9</string>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/5f158f66-7744-4861-a393-dc248cc30b2b</string>
       </key>
       <value>
-        <string>
-Find the doppelganger and destroy it.</string>
+        <string>You probably wonder why you can't talk, don't you?
+</string>
       </value>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /3e54ad39-eb63-4bd4-96b5-6f1333c8d61a</string>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/49a896ad-345d-49d4-a03b-29dc50e46c85</string>
       </key>
       <value>
-        <string>... But you're resourceful. And now you have learned more about your opponent’s strength. I trust you will come up with a plan.</string>
+        <string>It takes a little time getting used to it.
+</string>
       </value>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /1612c5f4-9437-4af0-a654-7e08e0f63305</string>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/12115fc6-e0ea-4949-9d09-572068ca7e2e</string>
       </key>
       <value>
-        <string>You're clever, Daryon. And now... you know how badly you're outmatched physically.</string>
+        <string>The Seed is putting down roots inside you, as we speak.
+</string>
       </value>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /90cf023e-e645-43b4-8f25-a99b8d4a229e</string>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/11a814be-336b-4add-bdf5-2ecae8d048d4</string>
       </key>
       <value>
-        <string>No, I don't.</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /88c96bbd-91fc-4cc0-9894-a90a7fc2457c</string>
-      </key>
-      <value>
-        <string>Now you probably understand why this situation needs someone with your ingenuity.</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /38c44ff3-ec17-4d6c-9e0d-fb1531dda406</string>
-      </key>
-      <value>
-        <string>
-And that settles it.</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /7173ed60-7bb3-4827-8cd9-762716685734</string>
-      </key>
-      <value>
-        <string>Ashballs!</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/autocutscene/KoraAfterFight/Chapter6_AfterFight_Utter_Defeat /cca3ed97-5e5d-43fb-87af-cb9fc22754b0</string>
-      </key>
-      <value>
-        <string>
-*panting*</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/KoraCamp_BeforeFight_Kora/64dcab07-d326-43df-81dd-59462e41b851/msg</string>
-      </key>
-      <value>
-        <string>Ready</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/KoraCamp_BeforeFight_Kora/64dcab07-d326-43df-81dd-59462e41b851/choice1</string>
-      </key>
-      <value>
-        <string>Yes</string>
-      </value>
-    </item>
-    <item>
-      <key>
-        <string>/Quest/Chapter_6/main/KoraCamp_BeforeFight_Kora/64dcab07-d326-43df-81dd-59462e41b851/choice2</string>
-      </key>
-      <value>
-        <string>No</string>
+        <string>My efforts were in vain. It is inevitable.
+</string>
       </value>
     </item>
     <item>
@@ -63930,14 +63833,6 @@ And that settles it.</string>
     </item>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/textbox/Tyr_Caelum/Tyr_Caelum_BeforeSplit/ChapterVI_TyrCaelum_Fight/f0a776b0-c472-45fb-8cca-0875212f4af5</string>
-      </key>
-      <value>
-        <string>We were right.</string>
-      </value>
-    </item>
-    <item>
-      <key>
         <string>/Quest/Chapter_6/main/textbox/Tyr_Caelum/Tyr_Caelum_BeforeSplit/ChapterVI_TyrCaelum_AfterFight_DoppleGolem/c075767f-b0e5-4506-b6c8-2e7af3106866</string>
       </key>
       <value>
@@ -64242,14 +64137,5069 @@ And that settles it.</string>
 </string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/ea0f9395-e53a-4000-84d6-65ee49421045</string>
+      </key>
+      <value>
+        <string>Find me.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/38c5539e-7b20-4fc3-bbbd-f0e0856e5af4</string>
+      </key>
+      <value>
+        <string>Find the tree.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/ac6e4284-5a3f-4c0f-8704-873865fe977f</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/32f2939e-3282-4df6-8340-ecd583d8e7a6</string>
+      </key>
+      <value>
+        <string>What you need to realize is that as long as you fight, as long as you resist, you will suffer. The world will suffer.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3700_tb_dream_eline/5b160670-7381-4a64-ab5b-3ba8ba10fdf2</string>
+      </key>
+      <value>
+        <string>Better to give it something you're willing to sacrifice... than nothing at all.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0400_fr_free_sil/39c33546-fca2-48c3-98dd-c4cc4d04f6e6</string>
+      </key>
+      <value>
+        <string>Yes, exactly. It is about time you released me!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0400_fr_free_sil/2358cb79-8d4f-47bd-aa22-ca29da57c9bd</string>
+      </key>
+      <value>
+        <string>Hey! Where do you think you're going?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0300_fr_it_is_time/9d26cb0d-f399-44e5-840e-94d524cdb4f2</string>
+      </key>
+      <value>
+        <string>It is time.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0500_fr_near_prisonners/d8b63360-2ffc-4448-ab57-d5173f617337</string>
+      </key>
+      <value>
+        <string>Let me go! I beg of you!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0500_fr_near_prisonners/58ea8527-498e-4e36-9efd-5a33de3314bd</string>
+      </key>
+      <value>
+        <string>I have a family! They're in Solna... And they're probably hungry, waiting for me! They need me!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0500_fr_near_prisonners/5d655a4d-64d5-41e0-bdfc-0aac00242431</string>
+      </key>
+      <value>
+        <string>You! Why did you capture us? Why are you keeping us here!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Oboros/oboros_scn_0500_fr_near_prisonners/d9ddd035-e953-4dbd-8e47-af8b3caa230f</string>
+      </key>
+      <value>
+        <string>Hey. He's coming for us.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/fbfe5c77-5023-4c3f-b926-bf5ce11750c7</string>
+      </key>
+      <value>
+        <string>Thank you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/034bc01a-cf91-4773-9e91-a1e30828d221</string>
+      </key>
+      <value>
+        <string>W-wait a sec… Nalia did tell me she s-saw something weird the other day in the j-jungle. Maybe you should ask her, she's in the city.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/2f362766-d0f5-4134-a676-e25c9ec310e3</string>
+      </key>
+      <value>
+        <string>Can't help you then.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/4fa0c6eb-73a0-4879-b398-0d370d574cd2</string>
+      </key>
+      <value>
+        <string>They don't look like Archelite war machines.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/df2c8be1-e5f5-49c2-ab3a-029e4d2797a3</string>
+      </key>
+      <value>
+        <string>Is that what you backwards simpletons call robots? Then yes, Ysoris… Are you going through one of your “phases" right now? There are plenty of machines over here.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/da527b55-a4e3-47a8-94df-5ef56cec77e9</string>
+      </key>
+      <value>
+        <string>Automatons?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/42bece70-a09c-4269-a6df-311741f33a21</string>
+      </key>
+      <value>
+        <string>Dunno. There's a lot of strange stuff in the jungle.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/eea1a1e2-7038-464e-a669-20efdef7c474</string>
+      </key>
+      <value>
+        <string>We're not here for that. Did you, or anyone here, see anything unusual in the jungle?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/46fc5661-7d32-49f1-8424-fbf056b29aca</string>
+      </key>
+      <value>
+        <string>Oh, I'm sure I can sink even lower just watch me.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/471c2e02-3eaa-4290-ae97-b7f3dd052324</string>
+      </key>
+      <value>
+        <string>Didn't expect much from you pal, but I'm still disappointed.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Sanctorium_Lapdog/7fd8af4a-a87d-48be-851c-1cac711ddf23</string>
+      </key>
+      <value>
+        <string>Huh, Ysoris? So, the rumors about you becoming a Sanctorium lapdog are true then?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SomethingInTheJungle/8dbef763-a289-4211-8610-b41d9fc72ce8</string>
+      </key>
+      <value>
+        <string>Well then, that's where we go.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SomethingInTheJungle/9a9f60bf-8171-411d-ab3d-8be3d110772e</string>
+      </key>
+      <value>
+        <string>West. Not too far from the Corroded Bridge.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SomethingInTheJungle/3b618832-318c-4242-b860-31bc24b763a4</string>
+      </key>
+      <value>
+        <string>Where did you see it?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SomethingInTheJungle/bcc60ab2-0501-47ca-9ac4-1541772c2b6b</string>
+      </key>
+      <value>
+        <string>Automatons? Well, I don't know what it was, but it wasn't like anything we got here on Tyr-Caelum. I reported it to the chiefs, but hey, they just waved their hands and made weird faces, like I was mad or somethin’.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_PlanChief/689be076-15ef-4051-ac90-2ea443c93599</string>
+      </key>
+      <value>
+        <string>Then off we go to see Taranis.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_PlanChief/b716fdf3-38ae-4514-b48c-803b0c7af88e</string>
+      </key>
+      <value>
+        <string>Go and see Taranis. She's the city's First Councilor.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_PlanChief/4b36245c-456c-4dfa-83fd-5edf743166b5</string>
+      </key>
+      <value>
+        <string>Oh… So, that’s how you think we work? What would you do in my place then?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_PlanChief/6e882578-3985-40fe-b9d4-e8ac6a0f1010</string>
+      </key>
+      <value>
+        <string>Was it now? I haven’t been with you two long, but it’s long enough to understand who really calls the shots here.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_PlanChief/4af251cb-c70c-4d08-a40f-31cd5135bf4f</string>
+      </key>
+      <value>
+        <string>That was my next question.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_PlanChief/f223132c-c11a-475c-90d0-916aa3049e8e</string>
+      </key>
+      <value>
+        <string>So, what's the plan, chief?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/6e15936b-586e-4851-963e-8a8200f12567</string>
+      </key>
+      <value>
+        <string>We can show them to you if you want.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/f27075b0-bc56-4164-a3f6-41b7bab2527b</string>
+      </key>
+      <value>
+        <string>And you say these automatons are of Vanati origin?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/fae38557-31bb-4aae-aa0f-56b3f5969ba2</string>
+      </key>
+      <value>
+        <string>It's a period in Astryan history… that the Sanctorium prefers not to discuss.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/985de91a-6637-43c0-ba79-9378bc6db948</string>
+      </key>
+      <value>
+        <string>...but when the Gods and their magic went dormant a millennium and a half-ago, most of their knowledge was lost.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/020d379c-d693-4684-ac15-d9a9f6d4c356</string>
+      </key>
+      <value>
+        <string>An ancient caste of prehistoric Astryans. They learned how to shape crystals with magic, make them grow according to their will—they could shape large buildings and machinery out of them...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/35ca74ff-3484-42db-9d47-4aa17993b5bf</string>
+      </key>
+      <value>
+        <string>Hey, wait, what's Vanatis?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/df294f27-f509-45ea-bf73-cff3546a9e52</string>
+      </key>
+      <value>
+        <string>Vanatis, hmm...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/09f29d8b-e04c-4f0f-a03a-d9759634cd6d</string>
+      </key>
+      <value>
+        <string>Too archaic to be Archelite. It's too early to say, but they could be of Vanati origin.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/071b62f7-aa32-4b67-a0ee-95feaebc2544</string>
+      </key>
+      <value>
+        <string>Automatons, you say? Not golems, right… Archelites?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/dcf2d65c-da7d-49d0-aac7-98dd2c9f6bbc</string>
+      </key>
+      <value>
+        <string>We still know very little about it, but this *entity* or whatever it is, seems to command several companies of automatons.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/c60bc194-48c0-4ad2-bddb-46da6129e085</string>
+      </key>
+      <value>
+        <string>There's a third party involved. A new player on the chessboard.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/6c2a35c5-04df-480a-9f55-4dddb9153261</string>
+      </key>
+      <value>
+        <string>Who? The Consort? They have their hands full right now. Between the war, the Corrosion, and the refugees, they have more to worry about than a bunch of techno-dabbling heretics.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/b816c20f-0a7a-4dc2-bccb-175434ec842f</string>
+      </key>
+      <value>
+        <string>Someone’s planning to attack Tyr-Caelum.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/820fb32a-2415-45c3-9052-07e1a3ff73bb</string>
+      </key>
+      <value>
+        <string>All right, if you have something to say, let's skip straight to the point.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/8ff2abf8-636a-4637-8ca3-538813ec554b</string>
+      </key>
+      <value>
+        <string>And here I was thinking that keeping your sarcasm to yourself was the best way to show your gratitude.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/a28cfda9-f9ae-453d-a800-ab52c4ac1b66</string>
+      </key>
+      <value>
+        <string>You could say I'm here to repay "my debt" to our "beloved city."
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/0e8da48f-6568-406b-8f00-c1703917a373</string>
+      </key>
+      <value>
+        <string>Back again, Ysoris? I thought we'd never see each other again.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/167f7db9-c66e-4f35-ae2c-ae9fa7d8f42e</string>
+      </key>
+      <value>
+        <string>Eh. I'd say don't fall behind, but you can walk faster than me.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/c4e23162-7bce-43c0-9c29-045e61c72d47</string>
+      </key>
+      <value>
+        <string>Then, let's go fearless leader!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/438f7570-01ed-49e7-8936-91087c658cb3</string>
+      </key>
+      <value>
+        <string>*sigh
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/302581ce-3851-4f5f-9f03-0582e9b43079</string>
+      </key>
+      <value>
+        <string>Then it wouldn't hurt to just check around, would it?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/4da81c4b-e908-4ca1-b59f-50fbd25cbd5a</string>
+      </key>
+      <value>
+        <string>Psh. The city will do just fine without my tampering!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/42003a52-237f-4c1b-a378-fc08b39799b0</string>
+      </key>
+      <value>
+        <string>Again, you're the most knowledgeable person around on both of these matters.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/583c8ca3-d2a5-49e9-b6b2-f5d0f89b9156</string>
+      </key>
+      <value>
+        <string>Yeah, I don't know what you expect me to do, but I'm simply not up to the task—to *any* task for that matter.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/6caf3f7e-40f9-4eb1-9e6c-994a82d945e8</string>
+      </key>
+      <value>
+        <string>I thought about what you said earlier and thought it was only fair to don you with the leader's mantle for a change. You're in charge now.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/c4070fdb-b181-400e-9320-5d140f8a71b7</string>
+      </key>
+      <value>
+        <string>What the hell just happened?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/76d29755-a227-46a6-a795-42cf8e155813</string>
+      </key>
+      <value>
+        <string>Then I will notify the militia. Ysoris, you will provide support wherever it's needed and help the soldiers prepare for the attack.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/afa640eb-d681-48ad-8ce5-01bf7b6327b9</string>
+      </key>
+      <value>
+        <string>Of course.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/aee31706-0b2c-4d9b-babd-6c5a9e2dd741</string>
+      </key>
+      <value>
+        <string>Can I trust Alpharius’ most trusted pupil to do it?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/4c4a79a6-0f84-47b5-aca3-ccc656218909</string>
+      </key>
+      <value>
+        <string>He-he-h... What?!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/fb8bc928-c352-4b17-aef1-31b9959574c0</string>
+      </key>
+      <value>
+        <string>Although I agree with your assessment, Priestess, I would feel more reassured if someone I trust was supporting our friend in his endeavors.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/ba6290d6-f1f3-478b-adfc-790cc599667b</string>
+      </key>
+      <value>
+        <string>Watch me.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/4a3fb724-07b5-4deb-81b5-543fd4a311a5</string>
+      </key>
+      <value>
+        <string>Now, now. You can't just take a barely sober bum and put him in position of responsibility like that!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/e366724e-7120-4cca-84dd-8314750a1e02</string>
+      </key>
+      <value>
+        <string>Hmmm...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/740f197e-1923-4e68-b605-da17382fb347</string>
+      </key>
+      <value>
+        <string>I think it would be wise to make him a "special advisor" to help us organize our defenses.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/7c4a6eb8-ff9e-47af-b64a-f220ae6afc8e</string>
+      </key>
+      <value>
+        <string>Our friend Ysoris here could be an invaluable asset. He knows both sides of the equation: Tyr-Caelum’s defense capabilities *and* the threat we're facing.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/2ca27425-9d3f-4e70-8369-aac5f23b6dc2</string>
+      </key>
+      <value>
+        <string>I have a suggestion.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/7dbc1e59-65d3-43fc-b045-dd25cdc6e3f1</string>
+      </key>
+      <value>
+        <string>So… you got this, right? Then I wish you all the best. Now, if you please, I'm going to kick back and enjoy the fireworks…</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/6da06b0a-422a-4b2f-a82c-ede082d772c9</string>
+      </key>
+      <value>
+        <string>These automatons you've dismantled, not to mention what happened in Jagholm, means we’ve reached the tipping point… this is the proof I need to justify a lockdown.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/8f3aef63-a111-4167-93da-910ed158cbd7</string>
+      </key>
+      <value>
+        <string>Until now, I suspected that someone was planning an assault on Tyr-Caelum. There have been many unidentified signals detected by our sonars, scout reports…</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/c2c347db-01ff-41ad-97e9-2261136986df</string>
+      </key>
+      <value>
+        <string>I'm the city's First Councilor. Do you really think I’m blind to what’s happening here?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/0c1bea27-a948-49ad-8f4e-a8959234b32f</string>
+      </key>
+      <value>
+        <string>So fast?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/8f957f50-d979-4f2c-9c1d-072f82dfe7db</string>
+      </key>
+      <value>
+        <string>I'll convoke the Council and order a lockdown.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakingToTaranis/c5b6867b-bbe6-4f47-ab41-b360d6031170</string>
+      </key>
+      <value>
+        <string>It seems that you two were right…</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/20acfdde-516f-4ae3-a514-747e37f76fb2</string>
+      </key>
+      <value>
+        <string>I know where we can find some. My old house, in the junkyard. Let's go.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/dced238f-3e64-474a-9021-47f9c1ceb117</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/8f6c39ca-7c24-4999-9dc3-21a16821114f</string>
+      </key>
+      <value>
+        <string>Then we're counting on you guys.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/20fc3d2b-8aa2-4163-807b-e5b83baba155</string>
+      </key>
+      <value>
+        <string>Yes, we can do it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/16542a00-c3af-4af6-970a-3c2845142361</string>
+      </key>
+      <value>
+        <string>We'll do it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/af1d0764-d303-4b54-8352-a625e2453b9f</string>
+      </key>
+      <value>
+        <string>Okay, nice solution, but if we gotta start over and fetch enough coolant, we won't have time to finish the job!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/0b346ca2-bd51-4756-817f-9227e311bb3b</string>
+      </key>
+      <value>
+        <string>The robots in the junkyard use a different kind of coolant than the one you're using on machines.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/7f80ef0e-2e7d-4a62-aa0c-ea3f5e9c727e</string>
+      </key>
+      <value>
+        <string>What special coolant, Ysoris?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/437750ab-4940-4821-a431-6cf0c818c080</string>
+      </key>
+      <value>
+        <string>Special coolant. It won't solve the problem, but the reactor will last a bit longer. Long enough to do its job without blowing up, at least.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/7ae87614-12b9-4f54-83e2-33ef16a51862</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/fe5ff24c-c19b-4a06-a8e7-2a6d85f0086e</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/a2d7f318-6578-4d8a-a21b-f59524ec8753</string>
+      </key>
+      <value>
+        <string>Damn it, he's right! What're we gonna do!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/c7dd648a-6688-46ab-bfa5-f73692053209</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/58077316-e78c-4314-a73e-0d8495921f69</string>
+      </key>
+      <value>
+        <string>Kids in the junkyard, they had a fad playing with reactors for a time. I picked up a few things watching them.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/0aee89c4-1d0e-46f9-b9f7-9653d69b91f0</string>
+      </key>
+      <value>
+        <string>How would you know that?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/56d4c474-e885-433c-913f-4617a70cacf2</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/48233d7a-f1ed-45c6-858c-56fcbb201929</string>
+      </key>
+      <value>
+        <string>This kind of reactor is designed for cruising speed at high altitude in a cold atmosphere. If you don't amp up the cooling system, the energy storage will melt in a few seconds.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/4b28b145-f374-4c56-83a6-55f23ec8d292</string>
+      </key>
+      <value>
+        <string>I don't understand...? What?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/c11ab265-f24b-47c7-b56d-b77e34126e79</string>
+      </key>
+      <value>
+        <string>...this kind of reactor is designed for cruising speed at high altitude in a cold atmosphere...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/c6f13340-450f-44e3-bdd2-a1437c89d728</string>
+      </key>
+      <value>
+        <string>Tell them what's wrong, Ysoris.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/2e55ad5d-1ea2-45fd-8e8b-4fe60326712e</string>
+      </key>
+      <value>
+        <string>Miss, you lookin’ to start something?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/3a60e007-9829-4ffc-91dc-8e6ec958b9a1</string>
+      </key>
+      <value>
+        <string>Selene!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/314cd8db-0bc9-453c-ab6b-9b7d1716b202</string>
+      </key>
+      <value>
+        <string>Your cooling system is crap.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/1ce9fef1-2091-4352-acb3-977d117577e9</string>
+      </key>
+      <value>
+        <string>Their cooling system is crap...</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/cfe58633-7b64-4370-81c2-bfe8c6c131e2</string>
+      </key>
+      <value>
+        <string>At least tell me what's wrong with the reactor.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/11968c39-36a5-4313-8787-714dcf87806d</string>
+      </key>
+      <value>
+        <string>It's a miracle a fight didn't break out when we arrived.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/5326da45-de5f-43fd-a1db-072537124985</string>
+      </key>
+      <value>
+        <string>They won't listen to me anyway. I don't have any credibility in Tyr-Caelum. Do you remember how I was when we first met? I've been like that with these folks for months before you came along!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/63bfcb60-2837-486f-8c74-c1d2113f225b</string>
+      </key>
+      <value>
+        <string>…and I've seen how complex they are too. Listen, I don't know much about machinery, but I'm sure you can come up with some ideas.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/442339be-b497-46a8-9d73-d2ffcbf34b02</string>
+      </key>
+      <value>
+        <string>What did you... in case you didn't know, the maintenance of my body parts is *private*!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/3097732d-62c5-481f-b223-34d83f3c969f</string>
+      </key>
+      <value>
+        <string>We've been on the road. I've seen you tinkering around with your own limbs and body…</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/6db7dab5-a67e-4ef9-950d-7e361dac85d8</string>
+      </key>
+      <value>
+        <string>They're professional mechanics! They know better than I do!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/868a21cc-e91c-4310-8aa7-ba0bbbb0e5a0</string>
+      </key>
+      <value>
+        <string>You need to tell him what's wrong.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/36d351c9-7435-43b5-b58c-4846fbb8ac0c</string>
+      </key>
+      <value>
+        <string>Can… can I talk to you for just five seconds?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/c896212c-97fc-4fa6-ac85-d47e2ea0b082</string>
+      </key>
+      <value>
+        <string>Selene!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/a3a10540-3aa5-46e3-84c3-d58783cf1989</string>
+      </key>
+      <value>
+        <string>Excuse me!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/7c2128ca-40e8-46b9-9347-40932bba738e</string>
+      </key>
+      <value>
+        <string>I think you’re doing it wrong.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/21d82d4c-1743-4396-b662-67ebd23e7884</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/addf46a6-506e-4c52-889e-30231f56c23d</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/a92a92d4-c68e-48f5-a074-067e807b5151</string>
+      </key>
+      <value>
+        <string>Right... Forget it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/9aab9f17-6e2e-4765-ae88-9397616b5a67</string>
+      </key>
+      <value>
+        <string>No, Ysoris. You shut up. I don't know what got into Taranis when she appointed you as our "special advisor”, but I won't listen to any of your crap. So, let us do our job and everything will be fine.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/cfe98245-4c68-460d-8676-74a7d16c8d1c</string>
+      </key>
+      <value>
+        <string>Have you considered…?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/bb28dd3d-c950-4634-b634-0f0a1793f57a</string>
+      </key>
+      <value>
+        <string>So, as you can see, we'll be getting this thing up and running in no time.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/26106585-68e3-4a68-9062-7eda54416340</string>
+      </key>
+      <value>
+        <string>It's a reactor, generally used to propel Archelite airships. These mechanics are rigging it up to use it like a giant flamethrower to repel the invaders.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/14dd1534-a9cf-4cb2-af03-ed3c02d3ac45</string>
+      </key>
+      <value>
+        <string>So…?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/c91f2960-a197-42c0-912d-55fb76a8c88d</string>
+      </key>
+      <value>
+        <string>I'm not here to give you a tour, Sancto-lady. Ask your babysitter, I bet he has nothing better to do.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/0f16c59e-1576-4ca9-be64-6960c39f0e3d</string>
+      </key>
+      <value>
+        <string>What's this?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/e138f971-ecb1-4d2c-9e2b-019468075c33</string>
+      </key>
+      <value>
+        <string>Yeah... I... guess.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/026c28b9-4909-4365-87a1-028815390784</string>
+      </key>
+      <value>
+        <string>So, you sobered up and came to see how it's done? Sure is different from tinkering with some junkyard trash, huh?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_Epidemic_Reactor/c71349fd-eed9-4cb2-99c0-4e1758c9789b</string>
+      </key>
+      <value>
+        <string>Hey, Ysoris.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/fef0cb64-2481-4ce7-98e8-8efcfaa5df95</string>
+      </key>
+      <value>
+        <string>We got what we came for, let's go back to the reactor.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/34863030-ebe6-4b4b-b01f-50a2c7234788</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/9400c813-c3a3-4380-a3a9-d5b1c72f4405</string>
+      </key>
+      <value>
+        <string>I'm still fond of that memory.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/6b1f4cd8-80cc-423d-9d46-1c249a8b7d46</string>
+      </key>
+      <value>
+        <string>A reminder of something I aspired to be, a long time ago.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/3b87261a-e1e6-4d94-a893-3fad9a418a14</string>
+      </key>
+      <value>
+        <string>What is it?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/478e0746-0cf2-4f8c-8d54-0baa934e1d55</string>
+      </key>
+      <value>
+        <string>But this pendant, somehow, helps me to quiet that voice down.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/3182ee98-c5bc-4444-84e7-900dbb4d5ddd</string>
+      </key>
+      <value>
+        <string>It's destructive, it's uglyâ€¦ but it's there.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/e7460b70-e3a9-42ff-a791-bc0d582f4069</string>
+      </key>
+      <value>
+        <string>There's still a part of me, stirring inside, telling me I have every right to make the world suffer just as much as I did.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/8de60b18-1e8d-4888-b77b-65568ab7cdc3</string>
+      </key>
+      <value>
+        <string>And... how does your red pendant fit into all of this?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/1d413bf6-9ce2-4d9e-b33c-3abe3451d5bc</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/df53d527-55fd-40b6-a202-a6c6799b5520</string>
+      </key>
+      <value>
+        <string>It's a pile of junk, all right, but I won't let this Doppelganger or whatever mess with it.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/0bdb770c-96f9-4d75-acb4-6987a35bcfe3</string>
+      </key>
+      <value>
+        <string>As much as I want to hate this city… it’s still the place where I came back to life.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/9d7d8271-0fca-4d07-821c-dfaffd377659</string>
+      </key>
+      <value>
+        <string>I've been living here. Learned to walk on these two cold, hard protuberances, I loathe to call legs… Played a few stupid games with those impossibly noisy kids.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/a1fcdd7b-80ac-4cfc-9391-987503c636cb</string>
+      </key>
+      <value>
+        <string>Somehow, yes.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/65763d33-585f-4acb-b16f-24a71e884f61</string>
+      </key>
+      <value>
+        <string>But you still want to help them now, don't you?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/97856bad-c81d-4d1c-9764-e4d15defea72</string>
+      </key>
+      <value>
+        <string>So, I became horrible to these people, to everyone in Tyr-Caelum. It was *justified*.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/1673d853-ed73-4499-915d-39dffa87961c</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/0bee859a-b159-4a27-bf2d-c7950c771b05</string>
+      </key>
+      <value>
+        <string>When their research proved fruitless, they tossed me aside. Just like… Just like my family when they learned I had the Corrosion.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/91083a56-775b-434d-9ef6-2d9c270a7a9d</string>
+      </key>
+      <value>
+        <string>But I was in a position to resent them. To resent the world itself.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/1436dbed-46f7-43f0-9202-539b4ce26ff5</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/64615df4-a011-4292-8191-e5561ee1216c</string>
+      </key>
+      <value>
+        <string>I was in no position to say no.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/5d5388b5-afb0-4f42-87d4-06a3ceb862af</string>
+      </key>
+      <value>
+        <string>Besides, the lives of thousands of people depended on those experiments.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/39254a74-eef0-4409-9068-716f06237a50</string>
+      </key>
+      <value>
+        <string>They didn't even bother to ask if I was okay with itâ€¦ And, in truth, I didn't bother to tell them that I wasn't.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/d069e787-8893-40df-b4fc-a753f49c8ee8</string>
+      </key>
+      <value>
+        <string>Would they have stopped if I did? With the promise of a cure to the Corrosion at the tips of their fingers?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/bda01d40-c740-44e2-ac04-3e3f407c8fff</string>
+      </key>
+      <value>
+        <string>Couldn't you say "no"?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/e3c3d15d-cd5a-40ce-b858-c3cb5bb779eb</string>
+      </key>
+      <value>
+        <string>Experiments. Needles, scanners, electrodes—painful stuff.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/ce1e0ea2-21da-4cee-887c-718f975d5151</string>
+      </key>
+      <value>
+        <string>What kind of things?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/b145cf4e-d26d-4afe-a14b-7330bca147be</string>
+      </key>
+      <value>
+        <string>Granted, they were horrible to me too. For a good while, I wasn't "Ysoris" to them, I was “the Corrosion survivor" and that, apparently, entitled them to do a lot of things to me for their research.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/b34e4203-cc27-4d26-8bbd-c20fd3e623a0</string>
+      </key>
+      <value>
+        <string>...Before you guys came along, I was pretty horrible to these people.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/ddd9141c-bad8-4478-a61f-08ca382f9aed</string>
+      </key>
+      <value>
+        <string>Ysoris, what's wrong? Don't you want to help the people of Tyr-Caelum?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_BarrelsOfFun/643f078b-2e22-47a1-a6ca-1bdb8d7c7651</string>
+      </key>
+      <value>
+        <string>Here are the barrels. I knew these would come in handy someday.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/9cf3f00d-6c7d-47c5-8ab1-01aa1b71d1a5</string>
+      </key>
+      <value>
+        <string>Oh, please.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/c43676c2-278f-4304-9828-98b08f31242a</string>
+      </key>
+      <value>
+        <string>There is still one "yeah" in that answer.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/ced8ad4c-e066-43bf-b1dd-92e8d7a97ea6</string>
+      </key>
+      <value>
+        <string>No, yeah, no, thank you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/65c86f7b-ab97-493c-8cd4-741838af0be0</string>
+      </key>
+      <value>
+        <string>… Or if you wanna be a trooper, go help the other guys around the city. They're busy with their stuff too.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/4a8f603f-be2d-43f8-91d7-1ee1a14e9f93</string>
+      </key>
+      <value>
+        <string>You can tell Taranis we're okay over here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/95ea3c90-d944-4d27-9abc-21ee8a1785c8</string>
+      </key>
+      <value>
+        <string>Oh, shove it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/1569931a-3a27-44b6-be3b-bbb8f669fe92</string>
+      </key>
+      <value>
+        <string>There's something different about you. You’ve got the look of someone who's finally decided to pull his face out of his butt.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/f74e3c52-a75a-4f9c-b3c6-ff76dbe4ddab</string>
+      </key>
+      <value>
+        <string>No need.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/8ff97044-23ab-48b7-81a6-43bb9d429b9a</string>
+      </key>
+      <value>
+        <string>What comes as a surprise is that you're unquestionably accepting these barrels; without even checking if I'm pulling some prank or not.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_SpeakAgainChiefMechanic/9e012bf9-50cd-488d-95c3-73e51c83aa00</string>
+      </key>
+      <value>
+        <string>Gotta admit, you got us out of a pinch, here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TaranisFightTyrCaelum/47009776-db76-4f59-9d8f-27dfc20477c2</string>
+      </key>
+      <value>
+        <string>I'd like to do one more thing before proceeding!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TaranisFightTyrCaelum/37f8c1bf-63b0-4b64-b06b-c76e150b4c1f</string>
+      </key>
+      <value>
+        <string>I’ve done everything I could. Can I kick back, now?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TaranisFightTyrCaelum/d60839fb-58f6-46ca-8900-bb52f2131c9e/choice2</string>
+      </key>
+      <value>
+        <string>No</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TaranisFightTyrCaelum/d60839fb-58f6-46ca-8900-bb52f2131c9e/choice1</string>
+      </key>
+      <value>
+        <string>Yes</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TaranisFightTyrCaelum/d60839fb-58f6-46ca-8900-bb52f2131c9e/msg</string>
+      </key>
+      <value>
+        <string>Have you made all your preparations for the assault?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/34434259-181f-4fed-ae88-1fec4d7ec8e4</string>
+      </key>
+      <value>
+        <string>So, deal with it.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/6322edd2-5c83-4c1d-a287-a8294ad0409c</string>
+      </key>
+      <value>
+        <string>But I trust you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/67f5b3b0-15f8-4ad9-86ea-edd24786f09a</string>
+      </key>
+      <value>
+        <string>And I’m sorry that I'm not kind enough to hide the painful truth from you…</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/8a591d3b-55a7-4f3e-9086-10a9ebe9f187</string>
+      </key>
+      <value>
+        <string>I’m sorry you’ve become so afraid of being cast away, that you feel the need to denigrate yourself at every occasion.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/ad7d2529-3f59-4a24-b525-2d682566b605</string>
+      </key>
+      <value>
+        <string>So, save your fancy words, I'm way past any kind of self-respect.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/d5f1bf4d-bae0-42b3-b59d-403aa40e0961</string>
+      </key>
+      <value>
+        <string>And that horrible man has been fittingly punished with a matching body.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/bbef81b0-d1b9-414f-be1b-dbec7a1c762a</string>
+      </key>
+      <value>
+        <string>I've been exploiting the goodwill of so many people like you, even *long before* I caught the Corrosion. I am not by any stretch of the word "a good person".</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/af4f7918-9b9c-4d16-9deb-b8cb97a970d4</string>
+      </key>
+      <value>
+        <string>My past is not the kind of slate you can just wipe clean. You won’t make me feel better by slapping me on the shoulder and telling me I've been a good boy.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/44ac9a0e-9b9f-4de0-868d-b141be40192a</string>
+      </key>
+      <value>
+        <string>*Sigh* I know what you've been trying to do. And it won't work—you simply have no idea how low I've stooped over the years.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/f265dc8b-fd2b-4961-a30b-33f32409bf02</string>
+      </key>
+      <value>
+        <string>*You*'ve had enough of that.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/675ed0a0-20cf-48b7-b193-04606ed0aed2</string>
+      </key>
+      <value>
+        <string>Enough self-loathing and self-pity, Ysoris. We've had enough of that.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/1dd94710-50ad-46e7-a1f4-ebbb209871c3</string>
+      </key>
+      <value>
+        <string>Oh, but I still have time to sink our little enterprise. I'm pretty sure I'll slip up at some point. Just give it time.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/948347da-6d32-42f1-888e-097e4d88aaba</string>
+      </key>
+      <value>
+        <string>You should give yourself a break, you know. Since you've joined our group, Daryon and I have done nothing but rely on you.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_HorribleMan_MatchingBody/68234260-9745-4fc0-a71f-7baf83208eac</string>
+      </key>
+      <value>
+        <string>*sigh of relief* And a round of applause to me, for not messing up everything I touched today.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_YsorisWoes/c4b20f0f-db3d-4366-bf3f-f57b668335ad</string>
+      </key>
+      <value>
+        <string>Pleaaase no.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_YsorisWoes/80ada5cb-de99-4e0d-a7fa-8992beb3bfe7</string>
+      </key>
+      <value>
+        <string>Oh, please no.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_YsorisWoes/0218efdb-3906-441e-b49d-dd6cbb5acce2</string>
+      </key>
+      <value>
+        <string>It's my heart.
+
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_YsorisWoes/ad274ce4-5fde-40d3-804d-59a1c5b9da38</string>
+      </key>
+      <value>
+        <string>It's not my battery… Is it my…?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_YsorisWoes/8fcf01e9-59dc-4e9b-8ed9-3a8d4993c3d6</string>
+      </key>
+      <value>
+        <string>Hey wait, is my battery acting up?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_YsorisWoes/593ec2c1-2632-4979-b719-eb55984aa28b</string>
+      </key>
+      <value>
+        <string>*long sigh*
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/b98f4138-f148-4fc5-aad9-457645aa00b8</string>
+      </key>
+      <value>
+        <string>Idle</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/045eb578-a387-46bb-9641-3d0dfb108a7e</string>
+      </key>
+      <value>
+        <string>Thinking</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/4574b09a-391b-4315-8b3f-439e785ff83d</string>
+      </key>
+      <value>
+        <string>Surprised</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/f5cb4ded-0343-4e03-915c-54ceb61defb1</string>
+      </key>
+      <value>
+        <string>Proud</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/96e7fb1e-28fd-4e1e-a0a9-3a8ce4ae15aa</string>
+      </key>
+      <value>
+        <string>Shy</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/fd836bc5-7476-45ab-a43c-d446c1956c9a</string>
+      </key>
+      <value>
+        <string>Sad</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/4645946d-5883-41c0-bda9-ff00fe5df01f</string>
+      </key>
+      <value>
+        <string>Scared</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/cd423ff0-428a-4cfe-a44e-4398ecc3ca87</string>
+      </key>
+      <value>
+        <string>Laugh</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/a366dbab-df1e-4c78-97a6-6a6001601492</string>
+      </key>
+      <value>
+        <string>Happy</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/aba2f5d5-0427-452e-80bb-5a0e21297244</string>
+      </key>
+      <value>
+        <string>Annoyed</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/4a6363c6-e376-4a6e-b114-b6d7707986f4</string>
+      </key>
+      <value>
+        <string>Angry</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/bac64ff8-797c-48fb-a1bf-df5e5a58b9a1</string>
+      </key>
+      <value>
+        <string>Talk</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/93147951-cb78-48c0-b87f-d3832e873e91</string>
+      </key>
+      <value>
+        <string>Idle</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/56732560-db94-4faa-af9d-2bc0245fcdbd</string>
+      </key>
+      <value>
+        <string>Idle</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/ebb83cfe-ae53-41cb-bbe2-7f707043c317</string>
+      </key>
+      <value>
+        <string>Thinking</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/bac41a39-fb0b-45e5-bd06-6e71e470a719</string>
+      </key>
+      <value>
+        <string>Surprised</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/35d3fa22-09b4-417f-8b1c-17cd56c3933c</string>
+      </key>
+      <value>
+        <string>Proud</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/470024c9-f741-49e1-afd3-b09555056633</string>
+      </key>
+      <value>
+        <string>Shy</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/874bbb5c-f59b-4259-897e-47f04b161eb7</string>
+      </key>
+      <value>
+        <string>Sad</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/f945c6ff-8ed1-4a79-94a7-f220365657fa</string>
+      </key>
+      <value>
+        <string>Scared</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/7115afdb-6c9f-45fc-a202-4155e4089900</string>
+      </key>
+      <value>
+        <string>Laugh</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/eb8ec4c9-1661-41fd-b2e3-daf1af7dbc2d</string>
+      </key>
+      <value>
+        <string>Happy</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/fb4331af-6a90-4c7a-8568-20f7e576459f</string>
+      </key>
+      <value>
+        <string>Annoyed</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/b24631c1-4a28-4611-99bb-537ec74214e0</string>
+      </key>
+      <value>
+        <string>Angry</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/8d3172c3-6325-4897-8c4c-8355d7d7b7c0</string>
+      </key>
+      <value>
+        <string>Talk</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Developers/Tests/Test_Autocut/a29c2fa7-9002-466a-87f9-3cb414511e5f</string>
+      </key>
+      <value>
+        <string>Idle</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/b93e9730-d165-419b-be44-91b555c202c9</string>
+      </key>
+      <value>
+        <string>As ever.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/ad615791-ff1f-4b67-95c7-bbc33d989d23</string>
+      </key>
+      <value>
+        <string>You're ready?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/403072d8-2924-4a81-b20f-5769cdc116a3</string>
+      </key>
+      <value>
+        <string>Heh. I know.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/396c386a-8575-4ee6-8881-9a473cedbacd</string>
+      </key>
+      <value>
+        <string>D... Don't forget, you can only use it once. Make it count.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/222c7086-1a9f-4f00-8e10-86ab814cec1c</string>
+      </key>
+      <value>
+        <string>We're entrusting you... with the reactor.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/e587bf87-ab12-407b-acd1-d07c79e5b147</string>
+      </key>
+      <value>
+        <string>Chin up, chief. Tyr-Caelum's a tough nut to crack.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/c43a5b6d-e947-4299-861a-3d472b256d0e</string>
+      </key>
+      <value>
+        <string>You and Taranis were right. They're really coming for us. They... There's too many of them to count.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/a04ccaf5-f3fc-4dae-86e0-68784fb3a9ba</string>
+      </key>
+      <value>
+        <string>I guess that's our cue.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_TheyComing/73816434-7e92-4dff-9ebb-48b5cf1a6cb8</string>
+      </key>
+      <value>
+        <string>Th... They're coming.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_IsItOver/2158528f-c436-4352-8b3a-91640900ab2e</string>
+      </key>
+      <value>
+        <string>There's a breach in the hull there! We have to hurry!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_IsItOver/a4ad7a70-0e4b-4f11-a518-ed7cfcf32702</string>
+      </key>
+      <value>
+        <string>The junkyard... Damnit, why didn't we think about it earlier!!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_IsItOver/a2947de4-da9a-4911-8a03-4033959448be</string>
+      </key>
+      <value>
+        <string>No... It's not over.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_IsItOver/cf4c4e93-83cc-4d1f-a050-4f4398a0a236</string>
+      </key>
+      <value>
+        <string>It seems like it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/autocutscene/Chapter6_IsItOver/0899a97f-61b0-440b-97f6-584246dbe9e6</string>
+      </key>
+      <value>
+        <string>We won? Is it over?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_3400_fr_daryon_rescue/5326a411-3448-485d-b931-8942df91d200</string>
+      </key>
+      <value>
+        <string>There's no time to lose, let's go!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_3400_fr_daryon_rescue/f0a6d7cb-d8d0-4556-b268-6db19b77f156</string>
+      </key>
+      <value>
+        <string>Is that... Daryon over there?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_3400_fr_daryon_rescue/c033ed14-9568-4052-b463-bc0cc8c55151</string>
+      </key>
+      <value>
+        <string>What's happening here?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/Chapter6_EndChapter/9735c66e-763f-43a9-b839-ef67a87aec75</string>
+      </key>
+      <value>
+        <string>End of Chapter 6, stay tuned for the next update!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_1800_fr_another_trap/c634d199-d1f0-4278-8f45-261832ab02d4</string>
+      </key>
+      <value>
+        <string>Then off to see Taranis.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_1800_fr_another_trap/ea59a50b-f99f-4c24-8402-f7dad4c66364</string>
+      </key>
+      <value>
+        <string>See Taranis. She's the city's First Councillor.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_1800_fr_another_trap/88fb0d6b-a999-45e5-9366-c1016b765c58</string>
+      </key>
+      <value>
+        <string>Oh... So this how you think we work? What would you do in my stead, then?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_1800_fr_another_trap/a3156349-d2bc-49f6-9beb-d389d5053d4d</string>
+      </key>
+      <value>
+        <string>Was it now? I've not been long with the both of you, but still enough to understand who is calling the shots, here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_1800_fr_another_trap/1631afa2-62a4-438e-8cc8-a02306b41a57</string>
+      </key>
+      <value>
+        <string>That was my next question.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/chp_6_scn_1800_fr_another_trap/7f2f312c-04fa-4489-9825-309153550ad5</string>
+      </key>
+      <value>
+        <string>So, what's the plan, chief?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/a8db0b76-b3e2-4f16-9650-527a18b62fb4</string>
+      </key>
+      <value>
+        <string>They're in the junkyard.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/37b37be4-2850-4268-811d-a8cefb537604</string>
+      </key>
+      <value>
+        <string>Huuuuh...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/ac141dfd-d03c-4b93-b89a-d58abdaa563a</string>
+      </key>
+      <value>
+        <string>*If* this threat is real, of course.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/e5432258-a0a6-4393-9fe1-5074b3b2fb4e</string>
+      </key>
+      <value>
+        <string>Own up to your crap, Ysoris, convince him that this threat is real. Draren and Nalia looks up to him - they'll join back if he does. And then we'd get a real shot at fighting off this threat.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/b6f8c3ad-bd22-4a89-ac9d-e86bdd31799d</string>
+      </key>
+      <value>
+        <string>Anything to trump boredom.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/28a11795-b1dd-47c5-8db1-50abfaf56677</string>
+      </key>
+      <value>
+        <string>Does it mean that you *did* at some point?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/d381c82f-dd36-4a9d-9219-b515fe8cc041</string>
+      </key>
+      <value>
+        <string>Hey, should I know!? I stopped keeping tabs of people I've wronged!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/ef0bb555-04bb-43e0-bca1-058d94c15f8d</string>
+      </key>
+      <value>
+        <string>Why?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/19f79498-567c-4961-9fd0-d444796d67b6</string>
+      </key>
+      <value>
+        <string>And he hates my guts.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/35281e23-2622-4856-ab41-1a0d39316d3f</string>
+      </key>
+      <value>
+        <string>This city's best soldier.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/0fcbee33-e599-4dc9-83f4-a23ec386d8fc</string>
+      </key>
+      <value>
+        <string>He's one of the few permanent guard post around the city - and one of the few with an actual military background.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/c97bab82-f2e0-40cb-8009-e5bc36b32f2b</string>
+      </key>
+      <value>
+        <string>What's the deal with Ozar?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/f97a05e2-c659-4fff-a871-54f9dfe745bb</string>
+      </key>
+      <value>
+        <string>Oh boy. I might take up on your offer to break my jaw, it'll be less painful if you're doing it rather than him.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/c2d3f82a-fdcd-4deb-a258-d915c4840351</string>
+      </key>
+      <value>
+        <string>Ozar?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/95262386-6173-4332-8a05-a7ecd12ac81d</string>
+      </key>
+      <value>
+        <string>Draren, Nalia and... Ozar
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/1f75cb5b-f9d3-4de4-a2f2-e07cecd4c054</string>
+      </key>
+      <value>
+        <string>Who we're talking about?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/773eebdd-2d5c-46d2-844c-af4c9cf2624d</string>
+      </key>
+      <value>
+        <string>Convince them the threat is real and bring them back here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/fae04a35-76c6-44fc-abe2-5702165c7ba6</string>
+      </key>
+      <value>
+        <string>And boy do I need it to continue infuriating people... okay, what can I do to fix it up?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/4bbe045e-b7f4-4053-bc45-49c5fb21b9f8</string>
+      </key>
+      <value>
+        <string>I'm already *this* close from breaking your jaw, buddy.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/10ea5149-4bcf-464f-a8b0-a0eb8d27f59b</string>
+      </key>
+      <value>
+        <string>Clean my mess, okay. Should I bring some kind of mop, or...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/62b7f719-ddc4-43b8-909a-d124554a1a28</string>
+      </key>
+      <value>
+        <string>So either you find a way to clean up your mess, either you stay far from here. Got it!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/0f7df204-d341-48ac-af83-c607c65544be</string>
+      </key>
+      <value>
+        <string>... Listen, buster. I already got enough trouble as it is to keep these... these &lt;i&gt;children&lt;/i&gt; in line without you botching things up.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/6f00e4fe-4d76-4ca8-9daa-825013b3f13f</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/1e7a5e86-554c-4bda-8cd8-ce9ae088bc71</string>
+      </key>
+      <value>
+        <string>What can I say, maybe your men have a discipline problem.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/64f880b1-59f9-4499-9ea0-a69befc9bb36</string>
+      </key>
+      <value>
+        <string>On top of that, three of them simply decided it was not worth their time and just went on their way.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/29e49580-c917-4e8c-8708-bf48fb533661</string>
+      </key>
+      <value>
+        <string>They stopped taking it seriously and now it has become nothing more than a drilling exercice for them.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/b3e50b12-dc74-46df-b6f5-84d5b7437ac4</string>
+      </key>
+      <value>
+        <string>But learning that &lt;i&gt;you&lt;/i&gt;'d get appointed as some kind of advisor to supervise the preparation was the final nail in the coffin.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/68fb2c0a-31a5-42ea-a4eb-c302814da2f9</string>
+      </key>
+      <value>
+        <string>It *would* make a good shenanigan, I admit, but...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/1356ae4e-aa84-4c35-8e87-bea168af4d59</string>
+      </key>
+      <value>
+        <string>But when they learned that the intelligence came from you... They began to think that this was one of your stupid shenanigans.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/430e1494-e202-4446-912d-bed69eebf5ea</string>
+      </key>
+      <value>
+        <string>They were pretty riled up, ready for everything...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/c69f8e58-b5e7-463a-9a6c-17480ebbeac8</string>
+      </key>
+      <value>
+        <string>When Taranis informed us that someone planned an attack of Tyr-Caelum, I managed to get those guys up an running quickly.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/5afdfbb6-8110-4871-9a35-40e1795309b3</string>
+      </key>
+      <value>
+        <string>I'd say, yes.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/d4cd925d-aa58-4894-9d5d-e5e77ad46e93</string>
+      </key>
+      <value>
+        <string>Oh, I know that tone, I did something wrong, didn't I?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/28b5263f-8762-4b54-80f5-dd74ef5683d9</string>
+      </key>
+      <value>
+        <string>Don't bother with the review of the troops, Ysoris - you've done enough already.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/02c118be-e789-49ed-8325-faf69cd54e9f</string>
+      </key>
+      <value>
+        <string>And greetings to our esteemed chief of security.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_autocut01/d7b81473-8267-47d6-b012-b82c82bcab41</string>
+      </key>
+      <value>
+        <string>Ozar, Naila and Draren are in the junkyard. Get them back here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/8c28585a-e0fe-4342-85f1-72b2773c1257</string>
+      </key>
+      <value>
+        <string>Tell Capellia we'll be coming soon.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/faf3fb2e-bc0e-439f-84fb-d82cfe90cc21</string>
+      </key>
+      <value>
+        <string>It's a matter of honor.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/244aebda-e42d-484c-9aae-304e4ab90aac</string>
+      </key>
+      <value>
+        <string>I would've liked it better if we won.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/368977aa-38ce-4a24-b615-fa965c827744</string>
+      </key>
+      <value>
+        <string>I know, but you will come nevertheless.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/b3ae3265-b5ab-4534-b31a-9189beb53ff1</string>
+      </key>
+      <value>
+        <string>I wouldn't!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/f5e1ed4c-e4d7-470f-ae7e-5d6257785704</string>
+      </key>
+      <value>
+        <string>Yes, I would listen to her.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/02d723a5-6927-4548-85ea-e129bf9e8565</string>
+      </key>
+      <value>
+        <string>To a Priestess, who'd put her life on the line in a brawl to convince us to do our job.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/fa82aa9f-4d8e-45ce-95cf-645e522e6fe8</string>
+      </key>
+      <value>
+        <string>Hey, now you're listening!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/a4094a2a-2d75-4a35-b7dc-dce3d3b9079b</string>
+      </key>
+      <value>
+        <string>Yes.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/2984de29-e1b2-42a1-ba56-b1e764a618ca</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/37bb5603-010a-45eb-8389-03ebe0658782</string>
+      </key>
+      <value>
+        <string>Now that we won, will you assume your duty again?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/a0589106-162f-4798-9825-1f200c3412aa</string>
+      </key>
+      <value>
+        <string>Oh dear.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/6707b0ff-9ded-4cb5-ada7-f421f735d6c0</string>
+      </key>
+      <value>
+        <string>I'm sure about *everything.*
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/b3349f55-77e2-4330-9ab6-741c679cb36f</string>
+      </key>
+      <value>
+        <string>Selene, you sure about this?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/eeda3ad6-c4ca-4602-a339-9084049fb681</string>
+      </key>
+      <value>
+        <string>Then I will take you up on your invitation.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/1f50fb9e-9f9d-4d72-9da6-3aa677d8a0bf</string>
+      </key>
+      <value>
+        <string>Hey "sister", nobody will complain if you step in and get your face beat up in the process.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/bde1be22-b8d4-49f9-beae-f89238794145</string>
+      </key>
+      <value>
+        <string>Three against one seems a bit unfair, don't you think?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/f336f0ab-2772-4d4c-b1bc-a0e5c39cb6f6</string>
+      </key>
+      <value>
+        <string>Oh yeah! Now we're talking! Let's waste him!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/05cb37c7-d3a8-4959-9400-a9a8eeae2f47</string>
+      </key>
+      <value>
+        <string>... Then we'll just have to squash it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/e517b598-4b22-43ec-a03b-d897faaa5d2e</string>
+      </key>
+      <value>
+        <string>If the fly will not go away on its own.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/3337b459-0fa5-4e13-a191-0964f73ac252</string>
+      </key>
+      <value>
+        <string>Enough!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/0ecd5b1f-9f85-4666-a88e-87c18287bdb8</string>
+      </key>
+      <value>
+        <string>...Do you have a sister named "Arishak", by any chance?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/01360f18-690d-4e66-8916-cc968f0756c4</string>
+      </key>
+      <value>
+        <string>Still not.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/f2cef906-bbf6-48b4-aee1-2c62adf5d4ba</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/34462215-f325-4496-abc5-3c228036230f</string>
+      </key>
+      <value>
+        <string>You got the big one at my "squishy razzle-dazzle", then!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/8743b4c0-2330-4b33-86f9-27dcc30f738e</string>
+      </key>
+      <value>
+        <string>No, that would've been too easy. Think Ysoris, think.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/cb67420d-6fbf-45a9-a375-6748fdffd902</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/004e0095-1db0-4b47-be98-a06012829f3b</string>
+      </key>
+      <value>
+        <string>Do any of your belongings strangely looks like an urinal, by any chance?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/14cbab90-72c7-44b0-8e83-03a67d069190</string>
+      </key>
+      <value>
+        <string>Okay, what could it have been...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/20c97b38-e826-48b4-b395-eb35db51d7ce</string>
+      </key>
+      <value>
+        <string>So you don't want to answer. Maybe... I can guess it?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/4f4b33ea-ef20-48da-b458-e20af57b40ee</string>
+      </key>
+      <value>
+        <string>You... have the gull to ask?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/292481d7-15f7-4073-8a6a-06523775c56b</string>
+      </key>
+      <value>
+        <string>... Okay, now I'm just curious. What the hell did I do to you to deserve such loathing?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/ace54893-500c-415b-9587-8af75bd67f04</string>
+      </key>
+      <value>
+        <string>... Impotent windbag?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/a841c8ce-c0b8-4db1-b17c-acc4824f13bc</string>
+      </key>
+      <value>
+        <string>No need to waste one's attention on the empty words of an impotent windbag.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/b8309eab-fca7-4294-a2e6-044536283848</string>
+      </key>
+      <value>
+        <string>Soon enough, He will crawl back from the cesspool he came from to indulge in his many, self-destructing vices.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/d96f8466-026b-4d8e-84d2-6ccbbec21087</string>
+      </key>
+      <value>
+        <string>Y-yes, Ozar.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/ef298380-3d9c-44a3-a248-71d1d9151183</string>
+      </key>
+      <value>
+        <string>No need for that, kids. Just ignore him.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/2540161f-97d5-42e3-8307-0952908c0492</string>
+      </key>
+      <value>
+        <string>I say we flatten his dirty mug.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/e7894070-79e3-417a-a988-d27e4ada6c83</string>
+      </key>
+      <value>
+        <string>Serves me right for answering your questions, now you go - parading in all Tyr-Caelum as some kind of special consultat as if you owned the place!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/bec8c466-dcdb-4ac5-abeb-84e15068b879</string>
+      </key>
+      <value>
+        <string>What the heck was that, Ysoris!? Is it another of your stupid jokes?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/ab90f9c5-bec8-440f-bcd6-37c245d7ae48</string>
+      </key>
+      <value>
+        <string>I think I did all that was humanly possible to convince you to do your job. I'll see myself out, now.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/b071f778-c6cb-4d2d-a888-6a8ed7eaac53</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/76b78325-e091-4175-a913-0bdaa8f8a5af</string>
+      </key>
+      <value>
+        <string>Forsooth, the chief wouldst request you kindly to do the needful, which is - so to say - to return to your post and insure that the morrow's invasion is properly repelled.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Fight/af463b3e-52ce-4d4f-8e30-0e522e5ac619</string>
+      </key>
+      <value>
+        <string>Hail fellow well met.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/2ca88c9a-d61a-432e-8954-3dfd229e09af</string>
+      </key>
+      <value>
+        <string>Come, take these. You'll need it for the assault.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/c0738033-7981-4256-932e-ab31f9ef353f</string>
+      </key>
+      <value>
+        <string>Anyway, I'm glad you're serious about this, both of you. Especially if this threat is as bad as Taranis says.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/25d867b7-e39e-4109-b62f-7d5b9666f207</string>
+      </key>
+      <value>
+        <string>We did it together.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/cf175f82-41ef-490e-aa65-d0582c1cb57c</string>
+      </key>
+      <value>
+        <string>*sigh* She did almost everything. I just happened to be there - she even prevented them from beating me to a pulp.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/25235bbf-291b-4347-be2a-c8d01a6a1d2a</string>
+      </key>
+      <value>
+        <string>*ahem*
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/d2c2865f-54f3-4d77-acfa-5a8c18085988</string>
+      </key>
+      <value>
+        <string>Ah, praise and worship! Truly I, alone, deserve all the credits for...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/1f1bd8c0-b19b-4616-9aa2-034ac2fa25c4</string>
+      </key>
+      <value>
+        <string>So you persuaded them to come back? I didn't think you'd succeed.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_autocut02/6eb79cb4-1554-451d-ab3e-a974268f861e</string>
+      </key>
+      <value>
+        <string>If you guys managed to beat Ozar, I'll have no qualms having you fight on the front.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Nalia/4189199d-168e-4b94-a984-3ae3f80c006a</string>
+      </key>
+      <value>
+        <string>We'll do our part! We'll defend this stupid city! Now get away!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Nalia/034010e1-8a2b-4bbc-8af0-91d3d47d39e4</string>
+      </key>
+      <value>
+        <string>SHUT UP!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Nalia/38a083bb-2b6b-42df-a6ef-5d3f3cd33ce1</string>
+      </key>
+      <value>
+        <string>Are you crying?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Nalia/264af2a9-1f5d-45c4-830a-35df69f9ced7</string>
+      </key>
+      <value>
+        <string>URRRRRHHHHHHHHHH!!!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Nalia/62da8c7f-cb15-42fc-b187-8a0df0393121</string>
+      </key>
+      <value>
+        <string>Nothing *ever* goes my way. *Never*!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Nalia/db1889ab-9050-4173-a580-812946e5a7d4</string>
+      </key>
+      <value>
+        <string>I hate this. I hate this! I hate this!!!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Draren/362ac610-b785-4a05-97f5-ca100df50616</string>
+      </key>
+      <value>
+        <string>Yeah, I'm a winner, kid. Can't you see it? Biggest winner of all.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Taint_Honor_Draren/9c9f679f-29c1-407a-99ce-07fc8ec179a7</string>
+      </key>
+      <value>
+        <string>Peh! You're cheating! With limbs like these, how could you possibly lose?!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Ozar/1ea72a3b-a45e-401e-9d47-ec5df02863b0</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Ozar/4f8b874d-b24d-426e-9562-7148f81ddd04</string>
+      </key>
+      <value>
+        <string>Still, why do you hate me?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/TaintHonor_Ozar/f0f4da53-2bb1-4fcf-bfba-7e7bbdafd84f</string>
+      </key>
+      <value>
+        <string>I will keep my word. Tell Capellia.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/9c9267ea-480c-4809-8173-ce6c241a1df8</string>
+      </key>
+      <value>
+        <string>Will do.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/9ff28e78-0af9-4b92-bc76-f88e01d7e19d</string>
+      </key>
+      <value>
+        <string>But don't hesitate to come back to me if you wish to switch to another option.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/6601e240-ee55-4534-a173-234ea7a82770</string>
+      </key>
+      <value>
+        <string>Yes.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/c82d692f-7048-4096-b0e0-16e205616950</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/c3f7c51f-a61d-4838-9e1f-fb3a0ce8d3b0</string>
+      </key>
+      <value>
+        <string>I got this feeling that you would've said the same no matter what.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/9448f9b8-1c67-463e-8087-0d5d76b611dc</string>
+      </key>
+      <value>
+        <string>Excellent choice!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/0baf512f-7b08-48d1-9ecc-72cd18487bec/choice3</string>
+      </key>
+      <value>
+        <string>The &lt;i&gt;Panier Garni&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/0baf512f-7b08-48d1-9ecc-72cd18487bec/choice2</string>
+      </key>
+      <value>
+        <string>The Chef's Sure Bet
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/0baf512f-7b08-48d1-9ecc-72cd18487bec/choice1</string>
+      </key>
+      <value>
+        <string>The Fiery Barbecue!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/0baf512f-7b08-48d1-9ecc-72cd18487bec/msg</string>
+      </key>
+      <value>
+        <string>So? What will you choose ?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/a14d9118-8342-4729-8423-c44413352597</string>
+      </key>
+      <value>
+        <string>That's where my mother came from.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/60c7807a-d3e8-4c53-822b-e42287181434</string>
+      </key>
+      <value>
+        <string>How do you know that?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/98b15717-98c2-49e6-bb93-dc6afe48af66</string>
+      </key>
+      <value>
+        <string>Also, the &lt;i&gt;Panier-Garni&lt;/i&gt; is a typical Eastfalian dish.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/e5bc6cc6-22cd-42f1-84b0-ce52c30fc2b2</string>
+      </key>
+      <value>
+        <string>She is proposing a medley of some sorts. A little bit of everything they can manage to round up, whether these are technological or magical. Some crystals in it, I suppose?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/964148ba-a2c9-4b1f-8ada-6a91659cf7da</string>
+      </key>
+      <value>
+        <string>Pana-what? Does that dish even exist?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/8bea84bc-d14e-4d38-8859-930c4c86ca26</string>
+      </key>
+      <value>
+        <string>And last, we have the &lt;i&gt;Panier Garni&lt;/i&gt;. This one is a bit of a mixed bag, a &lt;i&gt;panachÃ©&lt;/i&gt;, if you will. A bit risky ; a few surprise treats, some staples of both mystical and technological nature -- but I'm sure all of our guest will find something to their taste in it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/0de2f3b6-f6a9-4df2-8004-ab7a0f4f6d5f</string>
+      </key>
+      <value>
+        <string>Nice one!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/021ed79d-d44a-4dab-ae47-cfade7ba3b30</string>
+      </key>
+      <value>
+        <string>The defense system will be mostly taking care of itself. "first bite" still indicates we'll have to activate them beforehand.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/38809a12-ef6f-41c4-8ae7-6c4eb832a524</string>
+      </key>
+      <value>
+        <string>Take the first bite, and let the overwhelming taste wash all of your troubles away.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/d12ee1c7-8d88-4ded-a1fd-e6e2b3742aa8</string>
+      </key>
+      <value>
+        <string>Second is the "Sure Bet" - a lot of pepper in this one - truly a culinary wonder and our Chef's specialty.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/e4f30b98-ec08-4850-9277-8f834cc5a5ba</string>
+      </key>
+      <value>
+        <string>... Which will need a constant attention from us to be exploited properly.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/3b5399ba-db5a-494b-a50c-a27f869052b4</string>
+      </key>
+      <value>
+        <string>This kind of course needs someone entirely dedicated to the cooking, else you're miss your cue, and the meat will be either overcooked, or undercooked.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/70efdcd7-fc4f-4369-831e-13b627cab9c0</string>
+      </key>
+      <value>
+        <string>But the focus, here, is to make sure you wait for &lt;i&gt;the right moment&lt;/i&gt; for the meat to be &lt;i&gt;nice and crisp&lt;/i&gt;.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/c532fe47-3c3d-4bdc-a682-39a693fe22fc</string>
+      </key>
+      <value>
+        <string>Okay I got this one, it's flamethrowers.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/3f33bce5-18d7-4ddb-918d-8c3bd2539364</string>
+      </key>
+      <value>
+        <string>So, first, we may have what I call the "Fiery Barbecue" - a typical grill which will delight everyone's tastebuds. It's a sure go if you want to please a large number of our guests.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/7f56f8d6-866d-4233-be57-62ce4fa88edd</string>
+      </key>
+      <value>
+        <string>Right.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/98bba104-61df-4c79-aa07-72b26c39213e</string>
+      </key>
+      <value>
+        <string>We must help her decide which is the best defense system for "welcoming our guests."
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/8eb8b162-9e7e-4657-af25-19215a94a461</string>
+      </key>
+      <value>
+        <string>She's the chief engineer, and...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/a487498c-3b0c-4bbb-b2cd-5f7ceceb386d</string>
+      </key>
+      <value>
+        <string>Metaphors, yes! That's the word I was looking for!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/1ea56ebc-54ae-468f-9fed-5169d3f49e89</string>
+      </key>
+      <value>
+        <string>I think that what you're trying to say is that she's speaking in metaphors.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/fba7f70e-24c2-4db1-a21a-cd6b1ba1356e</string>
+      </key>
+      <value>
+        <string>So when she asks us how which course we should choose to give to our guest she, huuuh...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/2ce65f86-cef1-47f0-93f3-6156e8aa568b</string>
+      </key>
+      <value>
+        <string>Rightly so - if I may add - there is but a few things more appaling than mundane discussions about defensive machinery.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/f245578f-6e37-44f2-92a5-ad2036a03f1b</string>
+      </key>
+      <value>
+        <string>And - like most Avareen bourgeoise - they just love to obfuscate any kind of clear discourse with all kind of dubious comparisons.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/f3554f32-ddf3-4520-9b13-cae5aa7aa8c2</string>
+      </key>
+      <value>
+        <string>Selene - as you probably know already, some of the Cyphers here are former nobles from Avaris.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/924fcb15-9905-4054-b2ec-9ca1fa9ec314</string>
+      </key>
+      <value>
+        <string>By menu, do you mean...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/3e622704-dd02-4b94-abe7-dae907efc3cd</string>
+      </key>
+      <value>
+        <string>And I need your esteemed help to narrow it down.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/576d4e0a-a1f6-477e-b496-56021a0aa23a</string>
+      </key>
+      <value>
+        <string>I have several courses to suggest - all of them stellar, of course - but I fear that our &lt;i&gt;very&lt;/i&gt; limited resources will not allow us to prepare more than one.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/951f06de-5dea-439b-b310-72bac6595294</string>
+      </key>
+      <value>
+        <string>Our guests' menu, of course.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/2a6034c1-2035-43ab-882b-01d87d225bf0</string>
+      </key>
+      <value>
+        <string>The menu?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/4cba9be9-a14a-426c-baa6-bc6e2f970f65</string>
+      </key>
+      <value>
+        <string>So you're here to discuss the menu, yes?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_FirstTime/daad4cd5-42c0-414e-8864-f87e7bcace91</string>
+      </key>
+      <value>
+        <string>Ah, Sir Firebrand, the &lt;i&gt;finest palate&lt;/i&gt; in all Tyr-Caelum. I was expecting you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/8e0d9f94-bdce-462b-8678-7147a084d55a</string>
+      </key>
+      <value>
+        <string>Don't hesitate to come back to me if you wish to switch to another option.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/9cfa458a-a74f-45dc-aeeb-b0c2280c1b8a</string>
+      </key>
+      <value>
+        <string>Excellent choice!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/437d868c-a907-4a4c-b0d1-70af168198fa/choice3</string>
+      </key>
+      <value>
+        <string>The &lt;i&gt;Panier Garni&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/437d868c-a907-4a4c-b0d1-70af168198fa/choice2</string>
+      </key>
+      <value>
+        <string>The Chef's Sure Bet
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/437d868c-a907-4a4c-b0d1-70af168198fa/choice1</string>
+      </key>
+      <value>
+        <string>The Fiery Barbecue!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/437d868c-a907-4a4c-b0d1-70af168198fa/msg</string>
+      </key>
+      <value>
+        <string>We'll take the...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/658df92f-e5eb-41b6-b110-223c80813ee2</string>
+      </key>
+      <value>
+        <string>You're taking all the fun from it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/1cb90e5f-461c-4238-8c92-3f3964649e91</string>
+      </key>
+      <value>
+        <string>The big surprise. A bit of everything.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/d51471f7-08b0-46f3-9b8f-01d5d9b67e88</string>
+      </key>
+      <value>
+        <string>... And the &lt;i&gt;Panier Garni&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/39d39697-4a28-4c48-9b54-e2867017fa08</string>
+      </key>
+      <value>
+        <string>Almost self-sufficient defense system
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/07a241bc-d146-4720-9797-e73582a222f7</string>
+      </key>
+      <value>
+        <string>The Chef's Sure Bet
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/83e72a5f-a14f-434a-af47-347539d75c1d</string>
+      </key>
+      <value>
+        <string>Flamethrowers.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/b8f06af0-ce4a-4ac5-b752-2ed74d75c847</string>
+      </key>
+      <value>
+        <string>We have the Fiery Barbecue...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/d9f7996b-a49a-4f5b-a7a7-55fe6e71c01e</string>
+      </key>
+      <value>
+        <string>So, you want to change it?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/43f9567c-0121-4ae8-9ca2-2d527564b12f</string>
+      </key>
+      <value>
+        <string>Hey, I thought I was the one obnoxiously explaining things around here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/6c0d9cf5-8b8b-4db2-8a10-ff11575fa1fd</string>
+      </key>
+      <value>
+        <string>She means the defense system.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/ChoiceOfWords_SpeakAgain/69ad149c-8f53-406a-926b-af9475618af0</string>
+      </key>
+      <value>
+        <string>Having some afterthoughts about the best menu for our guests?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/3474b397-e78c-4390-a621-9d5c22887af5/msg</string>
+      </key>
+      <value>
+        <string>Oh.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/3474b397-e78c-4390-a621-9d5c22887af5/choice1</string>
+      </key>
+      <value>
+        <string>Maybe I should apologize.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/3474b397-e78c-4390-a621-9d5c22887af5/choice2</string>
+      </key>
+      <value>
+        <string>Maybe I shouldn't apologize!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/4089788c-efb2-4bff-852c-97150295262b</string>
+      </key>
+      <value>
+        <string>They came back to destroy all of my merchandise because I couldn't pay them back.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/93825f9e-85c5-4c65-b7de-351abbf08dea</string>
+      </key>
+      <value>
+        <string>They...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/a2d78027-a6c3-4601-99d6-53aca27de6f1</string>
+      </key>
+      <value>
+        <string>When they realized it wasn't good for anything?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/7a6e7ed8-1ac3-4428-bc3d-c7dcaac9e47a</string>
+      </key>
+      <value>
+        <string>And they administrated it to something or someone and...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/1099b73a-2ce9-47af-b22a-20a6551b2ab2</string>
+      </key>
+      <value>
+        <string>Yes! *And*...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/d97581d7-073b-44c1-8233-7cb56fcc3103</string>
+      </key>
+      <value>
+        <string>How bad could it be? You surely sold it to someone for a good price, telling them the high pedigree of that lone hair, floating in its glorious, musky infusion.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/f7473ffd-5cd6-4702-b8ec-66fd04151c3c</string>
+      </key>
+      <value>
+        <string>I'm sure you can piece it up yourself.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/8acc1e87-d8f0-4b63-a44a-bc2b6c75bb0a</string>
+      </key>
+      <value>
+        <string>I mean I sold you a fake medicine, but what kind of harm can a water bottle do, exactly?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/acc0584f-746a-4f31-88a4-d04dc7d31fdb</string>
+      </key>
+      <value>
+        <string>Which involves nobody but you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/26625948-756b-455f-b24d-79f9d0c52f02</string>
+      </key>
+      <value>
+        <string>I admit, I love to throw parties.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/08485db2-2159-46a8-94b0-1f54806f7430</string>
+      </key>
+      <value>
+        <string>Oh, I know the kind of living you earned, Ysoris.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/bbe5377d-5db8-43f5-93d4-9bcfe5e5b3a3</string>
+      </key>
+      <value>
+        <string>Besides, I had to earn a living.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/06adc8ae-882b-4385-9459-362aa724b570</string>
+      </key>
+      <value>
+        <string>It was worth a shot, don't you think? Who can say how miracle works? Not me.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/b6ec1a4e-8425-4e93-aab5-645a65a1a53b</string>
+      </key>
+      <value>
+        <string>You sold me half a bottle of water with one of your hair floating in it, and told me it was a cure to the Corrosion!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/bec51b4c-869e-4a32-b028-f5186587791d</string>
+      </key>
+      <value>
+        <string>A practical joke, of some kind.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/068f7f87-4bba-4168-a36c-18dac7f13f25</string>
+      </key>
+      <value>
+        <string>What happened?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/dd849545-6598-4507-9bf9-8218ef45183e</string>
+      </key>
+      <value>
+        <string>Only &lt;b&gt;now&lt;/b&gt; you remember?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/186c8891-efda-428f-9e4f-b5b8f42ad3a3</string>
+      </key>
+      <value>
+        <string>What do you...--oh!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/7835c462-424e-409a-9020-2673ec45df99</string>
+      </key>
+      <value>
+        <string>Do you have the slightest idea how hard it was for me to make ends meet that month, Ysoris!?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/cc69dc10-6c60-4325-bc50-4c9715bc4089</string>
+      </key>
+      <value>
+        <string>It's safe to assume I've wronged just about everyone in this fair city at some point.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/44e0ff5e-c1fb-46b7-b4cb-9190a0534dd9</string>
+      </key>
+      <value>
+        <string>What's the matter?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/f6d48b06-01f7-4a51-ba88-115a011e2d0e</string>
+      </key>
+      <value>
+        <string>I'm talking *about* you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/293e2c89-6c64-4785-8de3-c0e63c9ebfc2</string>
+      </key>
+      <value>
+        <string>Are you talking to me?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_BeforeChoice/fa7ff2b6-a8e2-4416-8adb-86e43a914c78</string>
+      </key>
+      <value>
+        <string>And look at this buster, parading about the city as if he was someone important.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/8926b822-f8d5-4ea0-a506-1dcf3d428d7e</string>
+      </key>
+      <value>
+        <string>Whether I say that I'm sorry now won't change what I've done.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/988be8c2-c616-45ea-bb2c-962ff1a8dc4d</string>
+      </key>
+      <value>
+        <string>I admit, I was miserable and misguided. Maybe - just *maybe* - it's no excuse for doing what I did.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/12df9eb1-1415-4bc2-9830-5ac2f5874350</string>
+      </key>
+      <value>
+        <string>Don't be so territorial, I've wronged people all around the world!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/1baaadc0-d3e5-43cc-8e3f-06f8b269e07c</string>
+      </key>
+      <value>
+        <string>You better live another day to make amends to all the people you've wronged in Tyr-Caelum.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/de257c4f-beb5-4d89-8f16-76bbf6198a54</string>
+      </key>
+      <value>
+        <string>Just take it and get going, butthead.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/5e11d826-466c-489a-8407-8fec639af358</string>
+      </key>
+      <value>
+        <string>It was a joke! Come on, can't we laugh anymore around here?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/630ef275-0aed-480a-b09c-232825744d32</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/13cfe1af-54c5-4ace-8c95-996f5154d5a8</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/3bdaafa6-a2f3-4767-9132-fbb90bfd4041</string>
+      </key>
+      <value>
+        <string>Wow, thanks! Think i can sell it for some money?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/0b93a9cc-c7cd-476c-afef-1b99780adba1</string>
+      </key>
+      <value>
+        <string>Take this, it will come in handy.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/6a2069e9-8b49-4e5a-84db-2744b8d40540</string>
+      </key>
+      <value>
+        <string>Maybe I am.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/20b14b92-f391-4fac-a7b2-432336ff8030</string>
+      </key>
+      <value>
+        <string>I heard you're working now to help us defend the city.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/4ddcb3fb-7eb5-40ca-b39d-2e5d8a851c85</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/3b12ff41-61e7-4415-bcf4-16b2959fa1d0</string>
+      </key>
+      <value>
+        <string>I can pick myself up, Ysoris. It was my fault for believing a cure to the Corrosion was so easy to come by.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/0a0c880b-e5d2-4ccc-865b-4ffd37ffe10c</string>
+      </key>
+      <value>
+        <string>...Okay, how much will it cost me?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/884beb15-4e1e-44eb-abcd-b4e7b9f3c108</string>
+      </key>
+      <value>
+        <string>I've taken note of your highly subjective opinion.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/81ed4c7e-4e0e-4eab-abdb-7cdaf2009b68</string>
+      </key>
+      <value>
+        <string>You're really bad for apologies, Ysoris.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/e54ebce9-ed25-4163-974a-fae54cc4a55f</string>
+      </key>
+      <value>
+        <string>Okay, that's out of the way. I think I did pretty good, there.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/a3060e4a-084a-4c46-885d-521a3cc4e05d</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice01/3ae5a634-bf56-4cc5-af2a-465fad93fb21</string>
+      </key>
+      <value>
+        <string>But you deserve apologies, don't you? So, here they are.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/840c095c-54dd-462f-a6a6-20c378615829</string>
+      </key>
+      <value>
+        <string>...Poor Freddie.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/60a1b7fe-f9f8-409f-a673-97352f3b74bd</string>
+      </key>
+      <value>
+        <string>Hey, at least it was a chest hair.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/38b4f939-b6c8-47bf-879c-21285c249204</string>
+      </key>
+      <value>
+        <string>I can't believe you're still doing as if you had no reponsibility in what happened.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/7f14a0cc-69d3-4a8e-bbda-9db8298498b8</string>
+      </key>
+      <value>
+        <string>And I suggest a minute of silence for Freddie.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/f4088915-4c7d-48ca-b550-bf5c38771340</string>
+      </key>
+      <value>
+        <string>I suggest you get lost, Ysoris.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/45fedfcc-3f5d-4aa5-b4e7-6c45d4faa756</string>
+      </key>
+      <value>
+        <string>I regret everything, Freddie. Had I know that this heartless woman would've sold you to a total stranger, I wouldn't have bottled you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/2a34cf6c-aca1-45be-a023-4710d8264d59</string>
+      </key>
+      <value>
+        <string>And the name of this little guy I sold to you... was Freddie.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/8a111345-9da1-4167-aaa9-3a1a892d263e</string>
+      </key>
+      <value>
+        <string>I gave a name to each of everyone of my chest hair.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/7c78b686-d6c9-4b0c-bd84-7bd2950b3321</string>
+      </key>
+      <value>
+        <string>You... Did you give him a name?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/b084f526-1c60-4a6c-805b-8c8a2a616da4</string>
+      </key>
+      <value>
+        <string>Didn't you pay attention? The hair in the bottle! Freddie!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/a4458e58-ddce-49fd-a044-b27cb84a623e</string>
+      </key>
+      <value>
+        <string>Who's Freddie?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/9dcc91f7-2219-47f1-9d2d-cd5bbc9de328</string>
+      </key>
+      <value>
+        <string>It was the day I lost Freddie, to you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/b63c4f16-72d1-4dfb-a23f-222f73a25a7d</string>
+      </key>
+      <value>
+        <string>What are you talking about?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/SideQuest_TyrCaelum/Crokscrew_Choice02/1a9d61d7-38e9-43f2-beb2-5b59039ea970</string>
+      </key>
+      <value>
+        <string>Well, what can I say? We have both lost something important that day.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/Chapter6_DayNightmaring/3a740404-34c3-48a1-af50-69d2f3f52348</string>
+      </key>
+      <value>
+        <string>S-Sorry. I was... daydreaming. We should report to Taranis.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/freeroam/Chapter6_DayNightmaring/e882b935-ed5a-4989-8035-61226ea50eb3</string>
+      </key>
+      <value>
+        <string>Hm? Any reason why you're staying behind?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_alpharius/e12280f6-d6dc-478a-abe3-ef46444016b7</string>
+      </key>
+      <value>
+        <string>Selfish, spoiled children like you are the reason why this world is doomed.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_fallon/5ebcd668-2a5f-4f00-b308-bb2c637de673</string>
+      </key>
+      <value>
+        <string>Hey, look at him! Is he going to lecture us again? After what he's done?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_khalder/c3d6d033-fb91-49d3-b07d-b8a2985c4d51</string>
+      </key>
+      <value>
+        <string>Think "saving" a handful of people, here and there, will make up for what you've done?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_kino/3de0af52-bcd8-4ca8-8453-e4e0bf3bbdfc</string>
+      </key>
+      <value>
+        <string>I've got mail for you! It reads: you're the worst.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_myrna/5032d1dd-d735-4e8f-a2fe-eacae5c7338f</string>
+      </key>
+      <value>
+        <string>At least *my* lies made other people happy, but yours... *sigh* I should've killed you back then.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_ordo/51634161-fd99-4e4e-aa10-e9e17e58f61d</string>
+      </key>
+      <value>
+        <string>That all you could do, huh? I expected better from you.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_selen/1838255c-f6f6-4bcc-a397-23d52c06c40c</string>
+      </key>
+      <value>
+        <string>Lucky, lucky Daryon. I bet you enjoyed it. I really wanted to do her in myself. Now how are you going to pay for that?</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_sil/b10929b9-c9b0-4578-b8d4-f16bd4306be4</string>
+      </key>
+      <value>
+        <string>You're such a disappointment, Daryon.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_ysoris/6aa5424d-8608-4a00-bea5-86ce703a32e6</string>
+      </key>
+      <value>
+        <string>So now, you really are the most disgusting of us all.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter_6/main/textbox/chp_6_scn_3600_tb_dream_zandra/39802c71-8a07-4130-bfd7-3d77488cfad4</string>
+      </key>
+      <value>
+        <string>Fled the Front, like a dog with its tail between its legs.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/9e6801bb-9590-4bae-af9d-bbfcb876a1fe</string>
+      </key>
+      <value>
+        <string>Wanna take a Nekaroo for a ride?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/4cef940c-9c9d-4f4a-8c2d-19769a5b90b1</string>
+      </key>
+      <value>
+        <string>I won't let the Nekaroos out until that blob-thing has been taken care of.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/53bc4e31-212e-4885-ba6d-b08c51dad1af</string>
+      </key>
+      <value>
+        <string>You said it, not me.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/e4479e10-f56a-443a-b158-f3db5fefe9d5</string>
+      </key>
+      <value>
+        <string>So you're saying that I'll be able to borrow you a Nekaroo if I get you rid of that creature?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/c128e189-3df1-460a-b385-bcbaf0c23fc3</string>
+      </key>
+      <value>
+        <string>I'm not asking anything - I'm just saying I won't let my Nekaroos out as long as this flabby sack of phlegm's in the way.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/84ed9258-9558-4884-8e84-d9a93cf2a62d</string>
+      </key>
+      <value>
+        <string>You're asking me to kill the blob.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/9e433c0c-ecb8-42cd-b463-6cd99b83393b</string>
+      </key>
+      <value>
+        <string>So there you have it. As long as this creature's out there, I'm not letting my babies out.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/45c1dfb7-b431-4190-b7e1-c96f51c586ef</string>
+      </key>
+      <value>
+        <string>And the guards tell me they won't do anything, that the blob's not a direct threat to anyone.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/c889d6f5-f360-499f-b88e-76c5558de905</string>
+      </key>
+      <value>
+        <string>Tough life, Nekaroo breeder.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/44e22468-f025-4c5e-b059-83ae9cd1ab1c</string>
+      </key>
+      <value>
+        <string>So it's not that I'm afraid that blob-critter would bite them, I'm afraid that the Nekaroos will bite *it*.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/0da88caf-957d-46a3-9636-e3e4bb37e5a9</string>
+      </key>
+      <value>
+        <string>*Including* blob gel... Problem is, even it's rather harmless to us, it's highly poisonous to Nekaroos. They die if they eat that kind of stuff, y'know?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/953f4cc3-11b3-4e31-9276-295b481201fb</string>
+      </key>
+      <value>
+        <string>You don't much know Nekaroo's don't cha? They chew pretty much everything they can put their paws on.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/09d327ce-12c4-4ea7-9d88-38b5113e1ded</string>
+      </key>
+      <value>
+        <string>And? Aren't Nekaroos fast enough to shake it off?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/0225806b-0d94-4ac5-b8cf-89b5dc63f2e7</string>
+      </key>
+      <value>
+        <string>There's one of those gelatinous blob lurking around.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/95257630-c4de-49ba-ab24-73b01de0b61b</string>
+      </key>
+      <value>
+        <string>Why's that?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/674e4821-1735-492b-8fef-ed18d053e3a3</string>
+      </key>
+      <value>
+        <string>And to be completely honest with you, I'm not really comfortable with letting them out.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/9380680a-78a5-4534-bc8f-cf1a34ca12ac</string>
+      </key>
+      <value>
+        <string>They're not completely weaned yet - so don't expect to take them too far.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/Purple_Whiskers_NekarooBreeder_StartQuest/74f4a7fb-b0fd-482f-9617-9a6e48aeab5a</string>
+      </key>
+      <value>
+        <string>Maybe.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/2bde1dfe-53f0-4128-90b0-d3aaeafbb61e</string>
+      </key>
+      <value>
+        <string>A true champion...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/8d4b5e1c-0e85-4140-bcc8-8364c90d943d</string>
+      </key>
+      <value>
+        <string>"Keep'em safe"? Yeah, don't worry. I'm really good with that.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/a9e64efb-736c-4adf-abfd-754aa699e857</string>
+      </key>
+      <value>
+        <string>And please, you keep 'em safe, okay?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/b8eae35f-89ab-4d25-a533-923d7e6e092f</string>
+      </key>
+      <value>
+        <string>No problem.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/341c6119-b348-4bf3-84a1-f206ee41e26a</string>
+      </key>
+      <value>
+        <string>But don't forget they're still young. They'll come back here on their own if you stray too far.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/16062fb1-5227-4d7d-9517-0f18420ebfc8</string>
+      </key>
+      <value>
+        <string>You can borrow whichever you want.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/b75eb309-dcd7-47a1-8e8e-6ede471ac84a</string>
+      </key>
+      <value>
+        <string>So... the Nekaroo?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/63d42b66-535f-48fe-b2f8-b2ce42eae4b4</string>
+      </key>
+      <value>
+        <string>I'm okay, thank you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/4acc9fea-2e94-4f86-b7fb-83c7251b867b</string>
+      </key>
+      <value>
+        <string>Why the long face, though? You look even worse than last time. You sick or somethin'?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/9c0027db-0a55-497f-b8b2-c69fc6b05931</string>
+      </key>
+      <value>
+        <string>You did it? Thanks.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/b86b48f3-0ec8-4c66-b916-1ab4b84d1ecd</string>
+      </key>
+      <value>
+        <string>Done. Your Nekaroos have nothing to fear anymore.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/PurpleWhiskers_NekarooBreeder_EndQuest/11f4a928-e068-4dbd-a62f-ae5063b12771</string>
+      </key>
+      <value>
+        <string>I know, I'm a worrywart. But Nekaroos are all I have, now.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SwordsToPlowshare/dab589f6-25bc-4011-9ac6-c3f70ca6baaa</string>
+      </key>
+      <value>
+        <string>I hope... I'm not too late.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SwordsToPlowshare/b8e868d1-1fe7-4f2a-a8d3-dfa8650a37f5</string>
+      </key>
+      <value>
+        <string>A day and a half from home.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_SwordsToPlowshare/98b05e5d-5ac5-4167-8d2b-e14fe7b80bd7</string>
+      </key>
+      <value>
+        <string>Inel.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/8b3cba87-5c83-4c16-912e-eb03b97845a0</string>
+      </key>
+      <value>
+        <string>What I'm going home. Next time, you don't be late, huh! Especially when you got someone waiting for you!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/16839d57-e9a6-4da6-b85f-e71c1ca4eed1</string>
+      </key>
+      <value>
+        <string>A Priestess... Is she the one who told you to set me up like that?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/daa5281f-4b63-4eb1-ad1f-9443b7e5cc21</string>
+      </key>
+      <value>
+        <string>Along with this letter.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/e5f2748f-0b82-4373-aee7-3f355bbc899d</string>
+      </key>
+      <value>
+        <string>I have been tasked by a Sanctorium Priestess to give you this sealed bag.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/5b2eb8b9-a489-4db8-bfd7-5b0236089759</string>
+      </key>
+      <value>
+        <string>But why...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/cc0bc17d-a42a-452c-b9ef-317e9871c659</string>
+      </key>
+      <value>
+        <string>You could've arrived sooner, you know? I've been waiting for you for weeks.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/f45ad1ff-923b-4820-9e07-d7c605efc8c8</string>
+      </key>
+      <value>
+        <string>Hey... how do you know that?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/48b7b8a4-4703-488c-b4fa-df5326df3351</string>
+      </key>
+      <value>
+        <string>So, you're Daryon.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/ceb95897-6d6f-4ce5-bc2b-3477cb7e85dc</string>
+      </key>
+      <value>
+        <string>Are you kidding?! By all the hells, *no*! That's my *least* favorite meal!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/16de21af-a610-4dcf-9c8a-6d4fbed55c75</string>
+      </key>
+      <value>
+        <string>Is it the Oyster Pie?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/1ccc026d-f3b5-471d-8600-726bc0125d9d</string>
+      </key>
+      <value>
+        <string>What's this about? No one cares about my favorite meal.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/c8e52e1e-c313-4ffa-bdd6-fc39418eb1dd</string>
+      </key>
+      <value>
+        <string>Your favorite dish.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/0aed8311-4b52-4054-95e1-fe87ae3587a1</string>
+      </key>
+      <value>
+        <string>What're you talking about?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/97209cd5-4037-46fe-b33f-b00cf8220440</string>
+      </key>
+      <value>
+        <string>You're not from around here. What's your favorite meal?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/bddcfd13-8ca4-4b3a-8b4a-884097a08ea9</string>
+      </key>
+      <value>
+        <string>Yes?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/03c4c06e-cb9b-48eb-aa22-b4042587e71a</string>
+      </key>
+      <value>
+        <string>You, there.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/aee2311f-bf53-4067-95fb-a3d03a5a2c9a</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;We're waiting for you.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/cdb76a85-86c2-4f2f-954f-ef74992f59d7</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;Take especially good care of the crystal. I don't know if you can't use them, but I figured it wouldn't hurt for you to have one or two of them.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/96353af9-d45d-4cc2-a11c-8e4aea93526f</string>
+      </key>
+      <value>
+        <string>...Way to ruin perfectly picked sesbanias, sister.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/5c15c4dd-c7b1-4206-833b-261f7129d72f</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;And because I was afraid that you'd grow bored on the way home, I've hidden a different "surprise ingredients" in each of them. Will you be able to guess them all? I think not.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/4a8cf070-0853-486c-90b4-452a4622aadd</string>
+      </key>
+      <value>
+        <string>Nice call!
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/7594753d-6a96-4760-8bdb-14aa6834e2eb</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;And also, because I suspected you were starving, I put in a jar of pickled sesbanias.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/3b6080a0-b870-4dff-b8cf-9ed75db65565</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;That's why I've left you this stash of goodies, under the care of Miss Alliana.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/f6807de3-df48-4938-bd1d-a8aafc8ad236</string>
+      </key>
+      <value>
+        <string>Yes, I'm a bright guy - but I'm also out of luck. I pawned almost everything I had to come here.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/3a5c452a-5a32-44d9-9ecc-6ee43bde8184</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;Being the bright guy that you are, I bet you're out of money, food and crystals.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/e9681f36-9ec5-440d-b906-65b4f43379c3</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;So I've left you a few things for you in there.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/c56c523a-1ed7-4f94-b098-181837f6f438</string>
+      </key>
+      <value>
+        <string>Yes I know, sister. You always have everything figured out, don't you?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/93cb656f-3213-4b55-8db3-c911fc5abe25</string>
+      </key>
+      <value>
+        <string>&lt;i&gt;Hey Daryon. I figured you'd try to get back home by going through Inel. Call it a hunch, call it prescience : I just *knew*.&lt;/i&gt;
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_OysterPie/7494bddd-829d-4713-93ac-a5adc75169c7</string>
+      </key>
+      <value>
+        <string>It's... from Selene.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_fr_GoHome/f0f5b0a2-4b89-4423-8ded-473eb283ec62</string>
+      </key>
+      <value>
+        <string>No time to lose. Let's go home.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/f856e0ce-53f3-46e1-b4f5-1c938d33e9bc</string>
+      </key>
+      <value>
+        <string>Down the creek.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/ade3d4d1-79fb-45bb-ab4a-4202229c7d2d</string>
+      </key>
+      <value>
+        <string>Where's your guy?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/988a3410-c55b-4ed1-894e-da3330fc78d4</string>
+      </key>
+      <value>
+        <string>"Maybe?" You got a death wish or something?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/58ce8b21-7594-43e5-a78b-60c2687fbadb</string>
+      </key>
+      <value>
+        <string>Ah... Maybe I'll think about it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/042a2267-90a1-4290-a22a-5184a67ea8a5</string>
+      </key>
+      <value>
+        <string>And by the way, you gotta do something about your cover if you don't want a Consort's blade to be your end, buddy. It's a good thing you're in the ash-end of Astrya, let me tell you that.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/53b4c92b-e5a1-45b9-81a0-f05da266a5bc</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/0c35cebc-90bd-42b8-b5e7-adc0ef4a0131</string>
+      </key>
+      <value>
+        <string>I just hope he got to it, and have enough to give you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/bc47f4cd-2980-4ddf-b9c2-a26bb69d3b7c</string>
+      </key>
+      <value>
+        <string>One of my men is gathering them. He's in the clearing, near the creek.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/4314ae97-624b-4734-8707-315fe330dce6</string>
+      </key>
+      <value>
+        <string>Where will I find those?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1407220f-a0d1-4e90-b4f8-49a6a6bbcc1f</string>
+      </key>
+      <value>
+        <string>It's weak to it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/5346d246-0c9e-4cac-8a03-9af0651e15cb</string>
+      </key>
+      <value>
+        <string>Why?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/16bc326c-461d-45d9-b841-2c6abf91d8ca</string>
+      </key>
+      <value>
+        <string>You'll first have to get some [NAME OF THE BATTLE ITEMS]
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/da896bb5-8fd6-4709-92d3-3d33b6a3e671</string>
+      </key>
+      <value>
+        <string>Hold your Nekaroos there, pal. You'll get slaughtered if I let you go there like that.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1e71adb0-cd2e-4ea5-a287-8817c52e7a39</string>
+      </key>
+      <value>
+        <string>So let me go, and I'll get to it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/f8ae7ddf-97f1-4fd7-82c0-bbb5f2e7642e</string>
+      </key>
+      <value>
+        <string>I don't mind, I must go through there anyway.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/343dced3-3df9-4fe0-9c5f-ddaf20076800</string>
+      </key>
+      <value>
+        <string>It's staying put for now, but it shows no desire of moving away soon. It's only a matter of time before someone gets their head bitten off - and I can't afford to have one of my men wounded.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/5d4efe93-bde3-45a0-8a62-638512c4352e</string>
+      </key>
+      <value>
+        <string>Further up the path behind me, there's a [NAME OF THE CREATURE]
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/e984aeea-dec6-46a9-b3c9-788728042417</string>
+      </key>
+      <value>
+        <string>I hear you.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/928f1b63-dd98-45cf-be6c-2e623a55cb86</string>
+      </key>
+      <value>
+        <string>So yeah, I'll do whatever it takes to make the region safe.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/b928c523-518f-4b89-b399-3d365ebd374d</string>
+      </key>
+      <value>
+        <string>We're just a handful of tired soldiers scattered around to secure the entire region. If monsters decides to overrun VILLAGE here, it won't be on the Consort. It will be on *us*.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/ed7c4436-2fc0-49d5-9bf6-647b7e189355</string>
+      </key>
+      <value>
+        <string>Call it however you want. Most of our men are gone to the frontlines, and we're barely getting a third of the supplies we're due for.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/83c8417b-5633-4605-8bc6-89454728d809</string>
+      </key>
+      <value>
+        <string>Blackmail?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/f8a30802-956b-4c4b-98d0-16a29e78fd8c</string>
+      </key>
+      <value>
+        <string>But that doesn't mean I'm letting you walk free. You're going to do something for me.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/c9dba585-bde4-4f06-a364-aa860478ebc2</string>
+      </key>
+      <value>
+        <string>No, I'm not going to arrest you. I'm not here to do the Consort's dirty work.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/3c5d5050-9bbe-4fb4-8df9-6a0e4910dcb3</string>
+      </key>
+      <value>
+        <string>*sigh*
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/c33168f1-140c-472b-903d-d4eba5415b15</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/a33115b9-d76a-43b1-beb6-8afc50465ebb</string>
+      </key>
+      <value>
+        <string>Are you going to arrest me?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/1c315003-2463-4b72-95a9-c83b6e6add7f</string>
+      </key>
+      <value>
+        <string>...
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/a11c33ac-b49b-4b4f-8f23-5b16dbdb6593</string>
+      </key>
+      <value>
+        <string>Lost it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/fcddbb92-3629-44bb-8340-914f7387ad7a</string>
+      </key>
+      <value>
+        <string>If you're a messenger then where's your emblem?
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/00bbf4ae-69a4-4f95-97c2-b5ebe8b97d3b</string>
+      </key>
+      <value>
+        <string>I'm a messenger for the Red Falchion company.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/25efb376-3ce7-4864-b020-9d32f94dcf8d</string>
+      </key>
+      <value>
+        <string>Don't see many lone mercenaries around these parts.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/c895e84c-6eda-4045-a9fc-0008bd07a57a</string>
+      </key>
+      <value>
+        <string>I just want to be on my way as fast as possible.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/6057d7f3-b331-49aa-a88e-e2e52679257f</string>
+      </key>
+      <value>
+        <string>You'll get killed with that kind of attitude.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/9c2d3daf-3b47-4b69-a81f-47a627120a42</string>
+      </key>
+      <value>
+        <string>I don't need any [NAME OF THE BATTLE ITEMS] to deal with it.
+</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Quest/Chapter0.5/MainQuest/Chapter0.5_GreyMail/2fe38636-b87d-44f2-b3de-9808180f3344</string>
+      </key>
+      <value>
+        <string>Get yourself some [NAME OF THE BATTLE ITEMS], only after I'll let you have a go at that thing.
+</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
       <key>
-        <string>/Quest/Chapter_6/main/textbox/Tyr_Caelum/Tyr_Caelum_BeforeSplit/ChapterVI_TyrCaelum_Fight/f0a776b0-c472-45fb-8cca-0875212f4af5</string>
+        <string>/Seasonal/Halloween/Quests/Ghosts/Ghost3/be6592f3-1248-49c4-9a3a-e571b3fe45f2</string>
       </key>
       <value>
-        <dateTime>2020-09-07T15:59:09.4359053+02:00</dateTime>
+        <dateTime>2020-10-14T13:46:41.2718017+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/47ac1695-b8a9-4a24-a12d-dc0e7293ebd2</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ba5fcca5-8bc7-4430-843d-ae53ea5ca326</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/ac7e6e5b-616f-415f-93da-57bab457b356</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/62e425ea-de8d-4e34-a658-87865ba2956c</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/52ba2768-b81d-477e-816b-885bf7b8fa10</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3488045+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/878c509f-6186-4f23-9a49-6e7afb5b2408</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3498047+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/c84f55b2-d7bc-4bc9-8576-668671f26101</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3498047+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>/Seasonal/Halloween/Quests/Ghosts/GhostQuest_SceneCompletion/462e9252-d160-4b90-96b4-924c6a1a343e</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T13:48:09.3498047+02:00</dateTime>
       </value>
     </item>
   </LastModified>

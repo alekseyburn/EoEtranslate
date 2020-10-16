@@ -450,6 +450,30 @@
         <string>Винтовка Гаусса</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>SpiralLens</string>
+      </key>
+      <value>
+        <string>Спиральная Линза</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>OrganicLens</string>
+      </key>
+      <value>
+        <string>Органическая Линза</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PrismaticLens</string>
+      </key>
+      <value>
+        <string>Призматическая Линза</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -874,6 +898,30 @@
       </key>
       <value>
         <dateTime>2020-07-10T14:48:47.3003903+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>SpiralLens</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T14:13:44.2398099+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>OrganicLens</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T14:13:55.1966173+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>PrismaticLens</string>
+      </key>
+      <value>
+        <dateTime>2020-10-14T14:14:09.4624899+02:00</dateTime>
       </value>
     </item>
   </LastModified>
