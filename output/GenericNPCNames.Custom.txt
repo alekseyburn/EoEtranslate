@@ -191,7 +191,7 @@
         <string>Derek</string>
       </key>
       <value>
-        <string>Дэрек</string>
+        <string>Дерек</string>
       </value>
     </item>
     <item>
@@ -199,7 +199,7 @@
         <string>Gavin</string>
       </key>
       <value>
-        <string>Гайвин</string>
+        <string>Гэвин</string>
       </value>
     </item>
     <item>

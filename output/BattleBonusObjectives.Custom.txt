@@ -95,7 +95,7 @@
         <string>FinishWithoutSkillTwice</string>
       </key>
       <value>
-        <string>Закончить битву не используя способности дважды</string>
+        <string>Закончить битву не используя одни и те же способности дважды</string>
       </value>
     </item>
     <item>

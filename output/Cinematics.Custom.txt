@@ -5960,7 +5960,7 @@
         <string>CutDlg4bd6c0ba-a942-4b2f-8a00-0a795b2261f7</string>
       </key>
       <value>
-        <string>Похоже на то. Я знал, что она что-то скрывает от нас. Знал это! Никогда не доверяй никому, Гайвин. Все лгуны и предатели.</string>
+        <string>Похоже на то. Я знал, что она что-то скрывает от нас. Знал это! Никогда не доверяй никому, Гэвин. Все лгуны и предатели.</string>
       </value>
     </item>
     <item>
@@ -5968,7 +5968,7 @@
         <string>CutDlge51c3387-db10-4c35-8bb1-46c61a024b07</string>
       </key>
       <value>
-        <string>Включая тебя, Дэрек?</string>
+        <string>Включая тебя, Дерек?</string>
       </value>
     </item>
     <item>
@@ -5976,7 +5976,7 @@
         <string>CutDlg53b48bd2-9a7e-4666-95d7-2ca989f6a99d</string>
       </key>
       <value>
-        <string>Особенно я, Гайвин! Я с нетерпением жду момента, когда предам тебя и брошу твой безжизненный труп в канаву.</string>
+        <string>Особенно я, Гэвин! Я с нетерпением жду момента, когда предам тебя и брошу твой безжизненный труп в канаву.</string>
       </value>
     </item>
     <item>
@@ -6032,7 +6032,7 @@
         <string>CutDlg901a12a3-2a24-4c27-a4af-beb17d7e6abc</string>
       </key>
       <value>
-        <string>Не будь таким нервным, Дэрек. Я ел: ты знаешь, я не могу сосредоточиться на двух вещах одновременно.</string>
+        <string>Не будь таким нервным, Дерек. Я ел: ты знаешь, я не могу сосредоточиться на двух вещах одновременно.</string>
       </value>
     </item>
     <item>
@@ -6048,7 +6048,7 @@
         <string>CutDlg0f5ffe67-faf1-4f31-aa35-967976d99b7f</string>
       </key>
       <value>
-        <string>Эй, Дэрек ... они сказали "Альфариус" ... не так ли…</string>
+        <string>Эй, Дерек ... они сказали "Альфариус" ... не так ли…</string>
       </value>
     </item>
     <item>
@@ -6056,7 +6056,7 @@
         <string>CutDlg4f1edbd8-405c-4f85-8161-6193e29d2ad4</string>
       </key>
       <value>
-        <string>Да, ты что-то выяснил, Гайвин. Я вижу это. Пожалуйста, продолжай.</string>
+        <string>Да, ты что-то выяснил, Гэвин. Я вижу это. Пожалуйста, продолжай.</string>
       </value>
     </item>
     <item>
@@ -6072,7 +6072,7 @@
         <string>CutDlg67e4b849-295a-4106-9d66-d64da5eac356</string>
       </key>
       <value>
-        <string>Клянусь, Гайвин, каждый раз, когда ты пытаешься собраться с мыслями в этой неразберихе, которую ты называешь своей головой, из-за усилий кажется, что она вот-вот взорвется.</string>
+        <string>Клянусь, Гэвин, каждый раз, когда ты пытаешься собраться с мыслями в этой неразберихе, которую ты называешь своей головой, из-за усилий кажется, что она вот-вот взорвется.</string>
       </value>
     </item>
     <item>
@@ -8049,7 +8049,7 @@
         <string>CutDlgf7a7b32e-9efb-4e85-8cc2-b2bfe3f02ec9</string>
       </key>
       <value>
-        <string>Ну, *спасибо* Гайвин за объяснение *очевидных вещей*.</string>
+        <string>Ну, *спасибо* Гэвин за объяснение *очевидных вещей*.</string>
       </value>
     </item>
     <item>
@@ -8081,7 +8081,7 @@
         <string>CutDlgdd250d4e-0c6b-4077-aa79-666eba31bb04</string>
       </key>
       <value>
-        <string>Но не волнуйся, Гайвин, Я…</string>
+        <string>Но не волнуйся, Гэвин, Я…</string>
       </value>
     </item>
     <item>
@@ -12217,7 +12217,7 @@
         <string>CutDlg3a7f96b4-b2ff-46b2-8f95-46f5369b4144</string>
       </key>
       <value>
-        <string>Не вините себя за то, что не обнаружили нас раньше, Дэрек и я очень хороши в том, что мы делаем.</string>
+        <string>Не вините себя за то, что не обнаружили нас раньше, Дерек и я очень хороши в том, что мы делаем.</string>
       </value>
     </item>
     <item>
@@ -12281,7 +12281,7 @@
         <string>CutDlg8943d5e1-9219-4924-946c-622fcda76f59</string>
       </key>
       <value>
-        <string>Мы не монстры, Гайвин. Мы не убиваем людей за такие ничтожные деньги.</string>
+        <string>Мы не монстры, Гэвин. Мы не убиваем людей за такие ничтожные деньги.</string>
       </value>
     </item>
     <item>
@@ -12329,7 +12329,7 @@
         <string>CutDlg2ffbe5e7-b9fb-49a1-8b6f-dc8ee104d5ae</string>
       </key>
       <value>
-        <string>Эта бесконечная болтовня становится скучной. Давай, Гайвин, делай свое дело!</string>
+        <string>Эта бесконечная болтовня становится скучной. Давай, Гэвин, делай свое дело!</string>
       </value>
     </item>
     <item>
@@ -12361,7 +12361,7 @@
         <string>CutDlge364092c-8206-462f-8c11-3655dba5a7cd</string>
       </key>
       <value>
-        <string>Мы в меньшинстве, отступаем, Дэрек!</string>
+        <string>Мы в меньшинстве, отступаем, Дерек!</string>
       </value>
     </item>
     <item>
@@ -12369,7 +12369,7 @@
         <string>CutDlgba08e691-a77c-467f-8907-6ae1a22c54ff</string>
       </key>
       <value>
-        <string>Я считаю тебя ответственным за это фиаско, Гайвин!</string>
+        <string>Я считаю тебя ответственным за это фиаско, Гэвин!</string>
       </value>
     </item>
     <item>
@@ -22264,7 +22264,7 @@ Fortis in arduis, Fac et Spera</string>
         <string>CutDlg5d0512c3-b758-4aa5-852b-58226bfe2c1e</string>
       </key>
       <value>
-        <string>[Визг]</string>
+        <string>[Шум]</string>
       </value>
     </item>
     <item>
@@ -27171,6 +27171,23 @@ Fortis in arduis, Fac et Spera</string>
       </key>
       <value>
         <string>“А эта рана у него на груди? - Ах... ты это заметил, да? Ты никогда и близко к нему не подойдешь.</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg0b5a8e49-fc3f-41ed-ba2f-bd93d39685d1</string>
+      </key>
+      <value>
+        <string>WHY DID YOU HAVE TO DISAPPOINT US? AGAIN, AND AGAIN, AND AGAIN!?
+  AND AGAIN! AND AGAIN!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg43d11acd-b36e-435c-aab7-6031ccef39df</string>
+      </key>
+      <value>
+        <string>Nooo! Stop it! Please!</string>
       </value>
     </item>
   </Entries>
@@ -52997,6 +53014,86 @@ Fortis in arduis, Fac et Spera</string>
       </key>
       <value>
         <dateTime>2020-08-20T13:10:53.756962+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg5c53b1db-6bc6-4229-9b44-9e554d9e0f1c</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T10:37:18.7715791+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg06616611-0344-4295-ad22-c90c69601b2b</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T10:36:43.6888829+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgf11f9af9-d4ca-4fbe-a5af-e0ceca50bd6d</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T17:06:10.0057419+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgb329ec49-55a9-44a8-a2c7-86405449e62d</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T17:06:04.0764091+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg44fd08d4-773f-4447-bb8f-f9e5b9e0856e</string>
+      </key>
+      <value>
+        <dateTime>2020-09-29T17:05:40.1038946+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlga84a4552-38ec-49b7-b43b-ef073112588e</string>
+      </key>
+      <value>
+        <dateTime>2020-09-30T10:12:34.1690763+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg4cf47007-a8fe-4472-9daa-75131e187a84</string>
+      </key>
+      <value>
+        <dateTime>2020-09-30T10:17:13.4519867+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlgdfaf617d-877e-4692-8b27-c430233dd027</string>
+      </key>
+      <value>
+        <dateTime>2020-09-30T10:17:29.4732978+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg0b5a8e49-fc3f-41ed-ba2f-bd93d39685d1</string>
+      </key>
+      <value>
+        <dateTime>2020-10-20T13:18:40.831389+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg43d11acd-b36e-435c-aab7-6031ccef39df</string>
+      </key>
+      <value>
+        <dateTime>2020-10-20T13:25:38.1590539+02:00</dateTime>
       </value>
     </item>
   </LastModified>

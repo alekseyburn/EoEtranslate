@@ -570,6 +570,14 @@
         <string>Ноэти</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>Klaysha</string>
+      </key>
+      <value>
+        <string>Клайша</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -1138,6 +1146,14 @@
       </key>
       <value>
         <dateTime>2020-10-14T10:31:30.6673603+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>Klaysha</string>
+      </key>
+      <value>
+        <dateTime>2020-10-20T09:51:10.9267065+02:00</dateTime>
       </value>
     </item>
   </LastModified>

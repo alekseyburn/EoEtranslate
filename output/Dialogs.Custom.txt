@@ -3433,7 +3433,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/6b914b03-c576-43e1-a620-47c4b54c71c7</string>
       </key>
       <value>
-        <string>Не вините себя за то, что не обнаружили нас раньше, Дэрек и я очень хороши в своем деле.</string>
+        <string>Не вините себя за то, что не обнаружили нас раньше, Дерек и я очень хороши в своем деле.</string>
       </value>
     </item>
     <item>
@@ -3473,7 +3473,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/ae74af6f-fd78-4eec-a520-8fad190ae5cc</string>
       </key>
       <value>
-        <string>Давай, Гайвин, делай свое дело!</string>
+        <string>Давай, Гэвин, делай свое дело!</string>
       </value>
     </item>
     <item>
@@ -3521,7 +3521,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/f2b5f35f-b51e-4c7f-8c6d-930a0a162e2e</string>
       </key>
       <value>
-        <string>Я не чудовище, Гайвин. У меня просто есть здравый смысл, и мне нужно, чтобы у тебя были свободные руки, чтобы сражаться с монстрами на пути.</string>
+        <string>Я не чудовище, Гэвин. У меня просто есть здравый смысл, и мне нужно, чтобы у тебя были свободные руки, чтобы сражаться с монстрами на пути.</string>
       </value>
     </item>
     <item>
@@ -3529,7 +3529,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/d8a1a96a-b345-4613-8525-5bc7f6e4f41f</string>
       </key>
       <value>
-        <string>Это очень тактично с твоей стороны, Дэрек.</string>
+        <string>Это очень тактично с твоей стороны, Дерек.</string>
       </value>
     </item>
     <item>
@@ -3537,7 +3537,7 @@
         <string>/Quest/Herelsor/Alpharius/Alph_Cut7_TSW/9dfaef78-9537-4b87-b5f6-46ab9afb3331</string>
       </key>
       <value>
-        <string>Мы продолжим избивать вас до такой степени, что вы не сможете доползти до бедного Гайвина, которому больше не придется носить вас на своих плечах.</string>
+        <string>Мы продолжим избивать вас до такой степени, что вы не сможете доползти до бедного Гэвина, которому больше не придется носить вас на своих плечах.</string>
       </value>
     </item>
     <item>
@@ -10930,7 +10930,7 @@
         <string>/Quest/Refugee_Camp/Doppel_dial1/d53fc64d-3e3d-47f9-a32d-1bb390d17dca</string>
       </key>
       <value>
-        <string>And your friend's risky choice in prosthetics.</string>
+        <string>И на выбор рискованного протезирования твоего друга.</string>
       </value>
     </item>
     <item>
@@ -10962,7 +10962,7 @@
         <string>/Quest/Refugee_Camp/Doppel_dial1/eeeaca13-e22f-4663-8753-a064d2da7725</string>
       </key>
       <value>
-        <string>Я покончил с вашей войной, "командир". Сделано.</string>
+        <string>Я покончил с вашей войной, "командир". Покончил.</string>
       </value>
     </item>
     <item>
@@ -13858,7 +13858,7 @@
         <string>/Quest/Refugee_Camp/DplDial10_free/ca620a21-0cb2-442c-8c17-aa5b4e211e46</string>
       </key>
       <value>
-        <string>роме того, даже если мы снова столкнемся с ним, у меня есть основания думать, что Доппельгангер боится тебя.</string>
+        <string>Кроме того, даже если мы снова столкнемся с ним, у меня есть основания думать, что Доппельгангер боится тебя.</string>
       </value>
     </item>
     <item>
@@ -40498,7 +40498,7 @@
         <string>/Quest/Chapter0/ElonCave/18_Old_Pal_Aftermatch/4c1635da-af97-400c-a447-915cb12bab44</string>
       </key>
       <value>
-        <string>Нет, нет, нет. Простиы, но ты все еще в моей власти, брат.
+        <string>Нет, нет, нет. Прости, но ты все еще в моей власти, брат.
 </string>
       </value>
     </item>
@@ -43369,7 +43369,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/0ed7f202-52ea-4df6-9ade-1b928f470906</string>
       </key>
       <value>
-        <string>Да, хватит, Дэрек. Им не нужно знать, что мы ищем.
+        <string>Да, хватит, Дерек. Им не нужно знать, что мы ищем.
 </string>
       </value>
     </item>
@@ -43387,7 +43387,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/e08ded00-745e-49c7-814f-79d18f226bf4</string>
       </key>
       <value>
-        <string>Мой разум постоянно борется с ужасно сложными концепциями, Гайвин, он полон ужасных формул и запрещенных ключевых слов, которые развязывают хаос и разрушение.
+        <string>Мой разум постоянно борется с ужасно сложными концепциями, Гэвин, он полон ужасных формул и запрещенных ключевых слов, которые развязывают хаос и разрушение.
 </string>
       </value>
     </item>
@@ -43441,7 +43441,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/15ea44d9-c975-45fe-b03f-ae78c16284f0</string>
       </key>
       <value>
-        <string>С тобой это всегда как &lt;i&gt;*работа*&lt;/i&gt;, Гайвин. А как же удовольствие?
+        <string>С тобой это всегда как &lt;i&gt;*работа*&lt;/i&gt;, Гэвин. А как же удовольствие?
 </string>
       </value>
     </item>
@@ -43450,7 +43450,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/69891f6c-65c4-4493-83c1-7aa4ca64d3d3</string>
       </key>
       <value>
-        <string>Дэрек. Мы профессионалы, мы не ищем ссоры, если мы не можем выставить счет кому-то за это.
+        <string>Дерек. Мы профессионалы, мы не ищем ссоры, если мы не можем выставить счет кому-то за это.
 </string>
       </value>
     </item>
@@ -43549,7 +43549,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/0f6d6af4-e8f0-4be7-9b74-a94a10970bd9</string>
       </key>
       <value>
-        <string>Такие, как ты, Гайвин.
+        <string>Такие, как ты, Гэвин.
 </string>
       </value>
     </item>
@@ -43576,7 +43576,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/09743346-d782-4a07-86bd-5a72e85a303e</string>
       </key>
       <value>
-        <string>Нет, нет, нет Гайвин. Видишь ли, в мире есть два типа людей. Те, кто обладает огромной магической силой и кто ближе всего к живым богам...
+        <string>Нет, нет, нет Гэвин. Видишь ли, в мире есть два типа людей. Те, кто обладает огромной магической силой и кто ближе всего к живым богам...
 </string>
       </value>
     </item>
@@ -43585,7 +43585,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/306b78d3-ea95-4bea-a8ae-eaea6fed05ad</string>
       </key>
       <value>
-        <string>Думаю, теперь твоя очередь, Дэрек.
+        <string>Думаю, теперь твоя очередь, Дерек.
 </string>
       </value>
     </item>
@@ -43594,7 +43594,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene1/658835c0-d09d-4a17-b8f0-548cba87e323</string>
       </key>
       <value>
-        <string>Это было здесь, Гайвин! Я в этом уверен! Это то самое место! Продолжай копать!
+        <string>Это было здесь, Гэвин! Я в этом уверен! Это то самое место! Продолжай копать!
 </string>
       </value>
     </item>
@@ -43603,7 +43603,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/ec54d085-d4cc-4b4c-9393-891384bbf9a7</string>
       </key>
       <value>
-        <string>Хорошо, Дэрек. Показывай дорогу. Снова.
+        <string>Хорошо, Дерек. Показывай дорогу. Снова.
 </string>
       </value>
     </item>
@@ -43629,7 +43629,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/75adebb5-9b53-4f6c-ba8b-d355a556bf57</string>
       </key>
       <value>
-        <string>Гайвин.
+        <string>Гэвин.
 </string>
       </value>
     </item>
@@ -43674,7 +43674,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/fc05e589-4045-4102-8a21-77c3eb54d565</string>
       </key>
       <value>
-        <string>(Понял, Гайвин? Вот как надо лгать дуракам. Смотри им прямо в глаза, не вздрагивай и ...)
+        <string>(Понял, Гэвин? Вот как надо лгать дуракам. Смотри им прямо в глаза, не вздрагивай и ...)
 </string>
       </value>
     </item>
@@ -43683,7 +43683,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/aa27c643-efa6-493c-bb95-9e3d3373d5de</string>
       </key>
       <value>
-        <string>Гайвин сказал мне, что он собирается посадить что-то как в “Монастыре Каранду”, что-то ностальгическое. Но я думаю, что мы должны заняться более сложной планировкой. Например, как насчет воссоздания подвесных садов Олимпии?
+        <string>Гэвин сказал мне, что он собирается посадить что-то как в “Монастыре Каранду”, что-то ностальгическое. Но я думаю, что мы должны заняться более сложной планировкой. Например, как насчет воссоздания подвесных садов Олимпии?
 </string>
       </value>
     </item>
@@ -43791,7 +43791,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2/64fc5c1c-3ecb-4b28-b944-19a9540a26f5</string>
       </key>
       <value>
-        <string>Прошло много времени с тех пор, как я похоронил его, Гайвин. Большая часть запаха уже исчезла. Он может почуять что-то только в нескольких шагах от него.
+        <string>Прошло много времени с тех пор, как я похоронил его, Гэвин. Большая часть запаха уже исчезла. Он может почуять что-то только в нескольких шагах от него.
 </string>
       </value>
     </item>
@@ -43863,7 +43863,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene2.5/75e74395-bc74-4c6f-8157-8251ce869b3f</string>
       </key>
       <value>
-        <string>Ты говоришь это только потому, что Дэрек назвал тебя бродягой.
+        <string>Ты говоришь это только потому, что Дерек назвал тебя бродягой.
 </string>
       </value>
     </item>
@@ -43998,7 +43998,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/578f528d-79db-404b-9d74-d375c2a8a7da</string>
       </key>
       <value>
-        <string>Если честно, Дэрек. Я стал охотником за головами, потому что меня тошнило от всей этой нечестности.
+        <string>Если честно, Дерек. Я стал охотником за головами, потому что меня тошнило от всей этой нечестности.
 </string>
       </value>
     </item>
@@ -44007,7 +44007,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/b62573da-1931-4dbf-ae9a-e1d02a24049a</string>
       </key>
       <value>
-        <string>Я не понимаю тебя, Гайвин. Я просто не знаю... Просто не понимаю... Почему?... ?
+        <string>Я не понимаю тебя, Гэвин. Я просто не знаю... Просто не понимаю... Почему?... ?
 </string>
       </value>
     </item>
@@ -44070,7 +44070,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/389ffb99-932e-4e5c-9f5f-33d4a600f27e</string>
       </key>
       <value>
-        <string>Мы должны быть честными, Дэрек. Это ты сказал, что мы можем победить их.
+        <string>Мы должны быть честными, Дерек. Это ты сказал, что мы можем победить их.
 </string>
       </value>
     </item>
@@ -44079,7 +44079,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/b217ade0-82f1-4619-bb2b-0e3997039e06</string>
       </key>
       <value>
-        <string>Гайвин! Почему....! С чего ты..!? Конечно, они не отдадут оружие, если ты им это скажешь!
+        <string>Гэвин! Почему....! С чего ты..!? Конечно, они не отдадут оружие, если ты им это скажешь!
 </string>
       </value>
     </item>
@@ -44151,7 +44151,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3/c7f725ca-05ec-4472-b9ee-e5063e408459</string>
       </key>
       <value>
-        <string>*пуррррр*
+        <string>*мурчит*
 </string>
       </value>
     </item>
@@ -44214,7 +44214,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3.5/8269fc5b-7356-47e1-8714-65c0d3733810</string>
       </key>
       <value>
-        <string>Ты имеешь в виду Гайвина. Дэрек явно переоценивает свое чувство неполноценности.
+        <string>Ты имеешь в виду Гэвина. Дерек явно переоценивает свое чувство неполноценности.
 </string>
       </value>
     </item>
@@ -44223,7 +44223,7 @@
         <string>/Quest/Chapter_5/secondary/QuietDominance/cutscenes/Scene3.5/400ab3c8-b5e8-4941-8f75-2da24bc99988</string>
       </key>
       <value>
-        <string>Дэрек, очевидно.
+        <string>Дерек, очевидно.
 </string>
       </value>
     </item>
@@ -47060,7 +47060,7 @@ His ever-loving family&lt;/i&gt;</string>
         <string>/NPC_Dialogs/Herelsor_Chp5_NPC_Dial/Nekaroo_01/de383b5a-6ed3-48ce-b314-fee1e7901475</string>
       </key>
       <value>
-        <string>*Пуррр*</string>
+        <string>*Мурчит*</string>
       </value>
     </item>
     <item>

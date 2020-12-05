@@ -27173,6 +27173,23 @@ one that might stand a chance against them.</string>
         <string>“And that wound on his chest?" Ah... you noticed that, didn't you? You'll never get anywhere near it.</string>
       </value>
     </item>
+    <item>
+      <key>
+        <string>CutDlg0b5a8e49-fc3f-41ed-ba2f-bd93d39685d1</string>
+      </key>
+      <value>
+        <string>WHY DID YOU HAVE TO DISAPPOINT US? AGAIN, AND AGAIN, AND AGAIN!?
+ AND AGAIN! AND AGAIN!</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg43d11acd-b36e-435c-aab7-6031ccef39df</string>
+      </key>
+      <value>
+        <string>Nooo! Stop it! Please!</string>
+      </value>
+    </item>
   </Entries>
   <LastModified>
     <item>
@@ -53061,6 +53078,22 @@ one that might stand a chance against them.</string>
       </key>
       <value>
         <dateTime>2020-09-30T10:17:29.4732978+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg0b5a8e49-fc3f-41ed-ba2f-bd93d39685d1</string>
+      </key>
+      <value>
+        <dateTime>2020-10-20T13:18:40.831389+02:00</dateTime>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>CutDlg43d11acd-b36e-435c-aab7-6031ccef39df</string>
+      </key>
+      <value>
+        <dateTime>2020-10-20T13:25:38.1590539+02:00</dateTime>
       </value>
     </item>
   </LastModified>
